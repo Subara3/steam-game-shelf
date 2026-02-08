@@ -48,6 +48,6 @@ Google などの第三者配信事業者は、Cookie を使用して、当サイ
 
 ## キャラクター作成ツール
 
-> scala: ちなみに、このサイトのキャラクターは EmoteLab で作成したものだ。
+> scala: ちなみに、このサイトのキャラクターは [EmoteLab](https://store.steampowered.com/app/4301100/) で作成したものだ。
 
 !steam[4301100](EmoteLab)
