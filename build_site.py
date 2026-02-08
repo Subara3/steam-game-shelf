@@ -69,50 +69,78 @@ def parse_markdown_frontmatter(text: str) -> tuple[dict, str]:
     return meta, body
 
 
+DIALOGUE_CHARS = {
+    "dr": {"name": "Dr.", "img": "img/dr.png", "side": "left"},
+    "joshu": {"name": "助手", "img": "img/joshu.png", "side": "right"},
+}
+
+
+def inline_markdown(text: str) -> str:
+    """インラインMarkdown変換"""
+    text = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', text)
+    text = re.sub(r'\*(.+?)\*', r'<em>\1</em>', text)
+    text = re.sub(r'\[(.+?)\]\((.+?)\)', r'<a href="\2">\1</a>', text)
+    return text
+
+
 def simple_markdown_to_html(md: str) -> str:
-    """最低限のMarkdown→HTML変換"""
+    """最低限のMarkdown→HTML変換（対話記法対応）
+
+    対話記法: > キャラID: セリフ
+    例: > dr: やあ、今日のセール情報だよ
+        > joshu: わー、安くなってますね！
+    """
     lines = md.split("\n")
     html_lines = []
     in_paragraph = False
 
+    def close_paragraph():
+        nonlocal in_paragraph
+        if in_paragraph:
+            html_lines.append("</p>")
+            in_paragraph = False
+
     for line in lines:
         stripped = line.strip()
 
+        # 対話記法: > dr: セリフ  / > joshu: セリフ
+        dialogue_match = re.match(r'^>\s*(dr|joshu)\s*:\s*(.+)', stripped)
+        if dialogue_match:
+            close_paragraph()
+            char_id = dialogue_match.group(1)
+            text = inline_markdown(dialogue_match.group(2).strip())
+            char = DIALOGUE_CHARS[char_id]
+            side = char["side"]
+            html_lines.append(
+                f'<div class="dialogue dialogue-{side}">'
+                f'<img src="../{char["img"]}" alt="{char["name"]}" class="dialogue-avatar">'
+                f'<div class="dialogue-bubble">'
+                f'<span class="dialogue-name">{char["name"]}</span>'
+                f'{text}'
+                f'</div></div>'
+            )
+            continue
+
         # 見出し
         if stripped.startswith("### "):
-            if in_paragraph:
-                html_lines.append("</p>")
-                in_paragraph = False
-            html_lines.append(f"<h3>{stripped[4:]}</h3>")
+            close_paragraph()
+            html_lines.append(f"<h3>{inline_markdown(stripped[4:])}</h3>")
         elif stripped.startswith("## "):
-            if in_paragraph:
-                html_lines.append("</p>")
-                in_paragraph = False
-            html_lines.append(f"<h2>{stripped[3:]}</h2>")
+            close_paragraph()
+            html_lines.append(f"<h2>{inline_markdown(stripped[3:])}</h2>")
         elif stripped.startswith("# "):
-            if in_paragraph:
-                html_lines.append("</p>")
-                in_paragraph = False
-            html_lines.append(f"<h1>{stripped[2:]}</h1>")
+            close_paragraph()
+            html_lines.append(f"<h1>{inline_markdown(stripped[2:])}</h1>")
         elif stripped == "":
-            if in_paragraph:
-                html_lines.append("</p>")
-                in_paragraph = False
+            close_paragraph()
         else:
-            # インラインマークダウン
-            processed = stripped
-            processed = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', processed)
-            processed = re.sub(r'\*(.+?)\*', r'<em>\1</em>', processed)
-            processed = re.sub(r'\[(.+?)\]\((.+?)\)', r'<a href="\2">\1</a>', processed)
-
+            processed = inline_markdown(stripped)
             if not in_paragraph:
                 html_lines.append("<p>")
                 in_paragraph = True
             html_lines.append(processed)
 
-    if in_paragraph:
-        html_lines.append("</p>")
-
+    close_paragraph()
     return "\n".join(html_lines)
 
 
@@ -187,6 +215,8 @@ def build_article_pages(articles: dict):
 <title>{title} | すばらしきSteamゲームの本棚</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
+     crossorigin="anonymous"></script>
 </head>
 <body>
 <main class="container">
@@ -200,9 +230,20 @@ def build_article_pages(articles: dict):
     </header>
     {art["html"]}
   </article>
+
+  <!-- 記事下広告 -->
+  <div style="text-align: center; margin: 20px auto; max-width: 800px;">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7086371722392050"
+         data-ad-slot="4953305789" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
+  </div>
+
+  <div class="emotelab-credit">
+    <p>この記事のキャラクターは <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a> で作成しました。</p>
+  </div>
 </main>
 <footer class="container">
-  <p>すばらしきSteamゲームの本棚</p>
+  <p><a href="../">すばらしきSteamゲームの本棚</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
 </footer>
 </body>
 </html>"""
@@ -239,6 +280,11 @@ def main():
             for f in src.iterdir():
                 if f.is_file():
                     shutil.copy2(f, SITE_DIR / f.name)
+                elif f.is_dir():
+                    dest = SITE_DIR / f.name
+                    if dest.exists():
+                        shutil.rmtree(dest)
+                    shutil.copytree(f, dest)
 
     print(f"\nビルド完了: {SITE_DIR}")
 
