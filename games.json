@@ -2,6 +2,7 @@
   "games": [
     {"appid": 2379780, "slug": "balatro", "comment": "ローグライクデッキビルダー", "recommend": "all"},
     {"appid": 413150, "slug": "stardew-valley", "comment": "牧場シミュレーション", "recommend": "multi"},
-    {"appid": 2135150, "slug": "elin", "comment": "Elona後継オープンワールドRPG", "recommend": "niche"}
+    {"appid": 2135150, "slug": "elin", "comment": "Elona後継オープンワールドRPG", "recommend": "niche"},
+    {"appid": 391540, "slug": "undertale", "comment": "弾幕RPG", "recommend": "niche"}
   ]
 }
