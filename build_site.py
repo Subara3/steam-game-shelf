@@ -84,7 +84,21 @@ def inline_markdown(text: str) -> str:
     return text
 
 
-def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") -> str:
+PET_SAFETY_LABELS = {
+    "ja": {
+        "none": "犬猫の無事度：そもそも登場しない",
+        "mild": "犬猫の無事度：無事ではない（軽度）",
+        "severe": "犬猫の無事度：無事ではない（深刻）",
+    },
+    "en": {
+        "none": "Pet Safety: Not applicable",
+        "mild": "Pet Safety: Some concern (mild)",
+        "severe": "Pet Safety: Some concern (severe)",
+    },
+}
+
+
+def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", pet_safety: str = "") -> str:
     """最低限のMarkdown→HTML変換（対話記法・プロフィール記法対応）
 
     対話記法: > キャラID: セリフ
@@ -220,9 +234,11 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
             heading_text = stripped[3:]
             if "犬猫" in heading_text:
                 close_pet_safety()
-                pet_label = "Pet Safety" if lang == "en" else "犬猫の無事度"
+                labels = PET_SAFETY_LABELS.get(lang, PET_SAFETY_LABELS["ja"])
+                pet_label = labels.get(pet_safety, labels.get("mild", ""))
+                level_class = f"pet-safety-{pet_safety}" if pet_safety else "pet-safety-mild"
                 html_lines.append(
-                    f'<div class="pet-safety-section">'
+                    f'<div class="pet-safety-section {level_class}">'
                     f'<div class="pet-safety-header">'
                     f'<span class="pet-safety-label">{pet_label}</span>'
                     f'</div>'
@@ -258,7 +274,7 @@ def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix:
         slug = md_file.stem
         text = md_file.read_text(encoding="utf-8")
         meta, body = parse_markdown_frontmatter(text)
-        html = simple_markdown_to_html(body, lang=lang, img_prefix=img_prefix)
+        html = simple_markdown_to_html(body, lang=lang, img_prefix=img_prefix, pet_safety=meta.get("pet_safety", ""))
         articles[slug] = {"meta": meta, "html": html, "slug": slug}
     return articles
 
