@@ -85,15 +85,23 @@ def inline_markdown(text: str) -> str:
 
 
 def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") -> str:
-    """最低限のMarkdown→HTML変換（対話記法対応）
+    """最低限のMarkdown→HTML変換（対話記法・プロフィール記法対応）
 
     対話記法: > キャラID: セリフ
     例: > scala: やあ、今日のセール情報だよ
         > kotori: わー、安くなってますね！
+
+    プロフィール記法: >> キャラID 〜 <<
+    例: >> scala
+        プロフィール本文
+        <<
     """
     lines = md.split("\n")
     html_lines = []
     in_paragraph = False
+    in_profile = False
+    profile_char = None
+    profile_lines = []
 
     def close_paragraph():
         nonlocal in_paragraph
@@ -103,6 +111,49 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
 
     for line in lines:
         stripped = line.strip()
+
+        # プロフィール開始: >> scala / >> kotori
+        profile_start = re.match(r'^>>\s*(scala|kotori)\s*$', stripped)
+        if profile_start:
+            close_paragraph()
+            in_profile = True
+            profile_char = profile_start.group(1)
+            profile_lines = []
+            continue
+
+        # プロフィール終了: <<
+        if stripped == "<<" and in_profile:
+            char = DIALOGUE_CHARS[profile_char]
+            name = char[f"name_{lang}"]
+            full_img = char["img"].replace(".png", "-full.png")
+            paras = []
+            buf = []
+            for pl in profile_lines:
+                if pl.strip() == "":
+                    if buf:
+                        paras.append(" ".join(buf))
+                        buf = []
+                else:
+                    buf.append(inline_markdown(pl.strip()))
+            if buf:
+                paras.append(" ".join(buf))
+            body_html = "".join(f"<p>{p}</p>" for p in paras)
+            html_lines.append(
+                f'<div class="profile-card">'
+                f'<img src="{img_prefix}{full_img}" alt="{name}" class="profile-img">'
+                f'<div class="profile-info">'
+                f'<div class="profile-name">{name}</div>'
+                f'<div class="profile-text">{body_html}</div>'
+                f'</div></div>'
+            )
+            in_profile = False
+            profile_char = None
+            profile_lines = []
+            continue
+
+        if in_profile:
+            profile_lines.append(line)
+            continue
 
         # 対話記法: > scala: セリフ  / > kotori: セリフ
         dialogue_match = re.match(r'^>\s*(scala|kotori)\s*:\s*(.+)', stripped)
