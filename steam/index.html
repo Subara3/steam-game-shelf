@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>すばらしきSteamゲームの本棚</title>
-<meta name="description" content="おすすめSteamゲームのセール情報と紹介記事。価格推移をチェックしてお得にゲームを手に入れよう。">
+<meta name="description" content="おすすめSteamゲームのおすすめ情報">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="style.css">
 <!-- Google AdSense -->
@@ -183,11 +183,9 @@
                 </template>
                 <!-- 通常表示 -->
                 <template x-if="!isR18(g) || isAgeConfirmed(g)">
-                  <div>
+                  <a :href="g.has_article ? `articles/${g.slug}.html` : `https://store.steampowered.com/app/${g.appid}/`" :target="g.has_article ? '_self' : '_blank'" class="game-card-link">
                     <div class="game-img-wrap">
-                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
-                        <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
-                      </a>
+                      <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
                       <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
                     </div>
                     <div class="game-body">
@@ -211,13 +209,8 @@
                         </template>
                         <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
                       </div>
-                      <div class="game-links">
-                        <template x-if="g.has_article">
-                          <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
-                        </template>
-                      </div>
                     </div>
-                  </div>
+                  </a>
                 </template>
               </article>
             </div>
@@ -237,13 +230,10 @@
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
-      <section class="articles-section">
+      <section class="articles-section" x-show="siteArticles.length > 0">
         <h2 x-text="t('articles')"></h2>
-        <template x-if="articles.length === 0">
-          <p class="no-articles" x-text="t('articlesWip')"></p>
-        </template>
         <div class="article-grid">
-          <template x-for="a in articles" :key="a.slug">
+          <template x-for="a in siteArticles" :key="a.slug">
             <a :href="`articles/${a.slug}.html`" class="article-card">
               <h3 x-text="a.title"></h3>
               <div class="article-tags">

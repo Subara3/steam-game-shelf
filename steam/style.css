@@ -395,6 +395,12 @@ body {
   border-color: var(--steam-blue);
 }
 
+.game-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
 .game-header-img {
   width: 100%;
   display: block;
@@ -766,6 +772,43 @@ body {
 
 .dialogue-right .dialogue-name {
   text-align: right;
+}
+
+/* ===== 犬猫の無事度セクション ===== */
+.pet-safety-section {
+  margin: 2rem 0;
+  padding: 1.2rem 1.5rem;
+  background: linear-gradient(135deg, rgba(164, 208, 7, 0.06), rgba(102, 192, 244, 0.06));
+  border: 1px solid rgba(164, 208, 7, 0.25);
+  border-left: 4px solid var(--steam-green-bright);
+  border-radius: 8px;
+}
+
+.pet-safety-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(164, 208, 7, 0.15);
+}
+
+.pet-safety-icon {
+  font-size: 1.3rem;
+}
+
+.pet-safety-label {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--steam-green-bright);
+}
+
+.pet-safety-section .dialogue {
+  margin-bottom: 0.6rem;
+}
+
+.pet-safety-section .dialogue:last-child {
+  margin-bottom: 0;
 }
 
 /* ===== 記事内画像 ===== */
