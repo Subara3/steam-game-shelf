@@ -5,8 +5,8 @@ function dashboard() {
     lastUpdate: '',
     error: '',
     lang: localStorage.getItem('lang') || 'ja',
-    i18nData: {},
-    reviewScoreJa: {},
+    i18nData: window.__i18n || {},
+    reviewScoreJa: (window.__i18n || {}).reviewScoreJa || {},
 
     searchQuery: '',
     selectedGenres: [],
@@ -163,17 +163,10 @@ function dashboard() {
 
     async init() {
       try {
-        const [gamesResp, articlesResp, i18nResp] = await Promise.all([
+        const [gamesResp, articlesResp] = await Promise.all([
           fetch('data/games.json'),
           fetch('data/articles.json'),
-          fetch('i18n.json'),
         ]);
-
-        if (i18nResp.ok) {
-          const data = await i18nResp.json();
-          this.i18nData = data;
-          this.reviewScoreJa = data.reviewScoreJa || {};
-        }
 
         if (gamesResp.ok) {
           const data = await gamesResp.json();
