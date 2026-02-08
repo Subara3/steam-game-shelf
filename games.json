@@ -14,6 +14,8 @@
     {"appid": 1222140, "slug": "detroit-become-human", "comment": "選択型アドベンチャー", "recommend": "all"},
     {"appid": 1054490, "slug": "wingspan", "comment": "鳥類テーマのボードゲーム", "recommend": "all"},
     {"appid": 1599600, "slug": "plateup", "comment": "レストラン経営ローグライク", "recommend": "multi"},
-    {"appid": 913740, "slug": "world-of-horror", "comment": "伊藤潤二風ホラーRPG", "recommend": "niche"}
+    {"appid": 913740, "slug": "world-of-horror", "comment": "伊藤潤二風ホラーRPG", "recommend": "niche"},
+    {"appid": 4045680, "slug": "kanmuri", "comment": "育成シミュレーションADV", "name_ja": "冠を持つ神の手", "recommend": "niche", "coming_soon": true},
+    {"appid": 4371880, "slug": "cyan-project", "comment": "脱出パズルADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true}
   ]
 }

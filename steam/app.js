@@ -64,7 +64,11 @@ function dashboard() {
     },
 
     get onSaleGames() {
-      return this.games.filter(g => g.discount_percent > 0);
+      return this.games.filter(g => g.discount_percent > 0 && !g.coming_soon);
+    },
+
+    get comingSoonGames() {
+      return this.games.filter(g => g.coming_soon);
     },
 
     get siteArticles() {
@@ -73,7 +77,7 @@ function dashboard() {
 
     get allGenres() {
       const counts = {};
-      this.games.forEach(g => {
+      this.games.filter(g => !g.coming_soon).forEach(g => {
         this.gameGenres(g).forEach(genre => {
           counts[genre] = (counts[genre] || 0) + 1;
         });
@@ -89,7 +93,7 @@ function dashboard() {
     },
 
     get filteredGames() {
-      let result = this.games;
+      let result = this.games.filter(g => !g.coming_soon);
 
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();
