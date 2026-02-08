@@ -1,0 +1,93 @@
+{
+  "appid": 1599600,
+  "required_age": 0,
+  "name_ja": "プレートアップ！",
+  "name_en": "PlateUp!",
+  "name": "PlateUp!",
+  "short_description_ja": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
+  "short_description_en": "Cook and serve your dishes, design and decorate your restaurants, and expand your culinary kingdom with new unlocks, abilities and dishes in procedurally-generated locations. Classic cooking action with permanent roguelite progression. Hire your friends - or do it all yourself!",
+  "short_description": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/eb8fa3ad44fb5b4e4de4ef402101a55063797958/header.jpg?t=1769169409",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/504aa360f0c23754a2ea3bc3adb6b3f880f1eb70/capsule_231x87.jpg?t=1769169409",
+  "developers": [
+    "It's happening"
+  ],
+  "publishers": [
+    "Yogscast Games",
+    "Gamersky Games"
+  ],
+  "genres_ja": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "genres": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamワークショップ",
+    "Steamクラウド",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年8月4日",
+  "release_date_en": "4 Aug, 2022",
+  "release_date": "2022年8月4日",
+  "is_free": false,
+  "price_initial": 230000,
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, トルコ語",
+  "website": "https://www.plateupgame.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_8c944c593113598b6446b6b5d07962a10fe79ec6.1920x1080.jpg?t=1769169409",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_2fb45e66d1b4e8c3d8fe6743fad278bcc082c2d5.1920x1080.jpg?t=1769169409",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_833de2e09f19972bb9e7db021c793da6afdab8a0.1920x1080.jpg?t=1769169409",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_5cdb7d8147767fece03a9a69a10af64a2e0c5e47.1920x1080.jpg?t=1769169409",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_ac60173eb6d72af743d65c118b3e9df7453dcb61.1920x1080.jpg?t=1769169409"
+  ],
+  "movies": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256899319/movie.293x165.jpg?t=1659620731",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1755940,
+  "recommendations_total": 17368,
+  "total_reviews": 25528,
+  "total_positive": 24198,
+  "total_negative": 1330,
+  "review_score_desc": "Very Positive",
+  "slug": "plateup",
+  "recommend": "multi",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

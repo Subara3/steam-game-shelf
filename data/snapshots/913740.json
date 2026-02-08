@@ -1,0 +1,82 @@
+{
+  "appid": 913740,
+  "required_age": 0,
+  "name_ja": "恐怖の世界",
+  "name_en": "WORLD OF HORROR",
+  "name": "WORLD OF HORROR",
+  "short_description_ja": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
+  "short_description_en": "Experience the quiet terror of this 1-bit love letter to Junji Ito and H.P. Lovecraft. Navigate a hellish roguelite reality with turn-based combat and unforgiving choices. Experiment with your deck of event cards to discover new forms of cosmic horror in every playthrough. The inevitable awaits...",
+  "short_description": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/header.jpg?t=1730740660",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/capsule_231x87.jpg?t=1730740660",
+  "developers": [
+    "panstasz"
+  ],
+  "publishers": [
+    "Ysbryd Games",
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG"
+  ],
+  "genres": [
+    "インディー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年10月19日",
+  "release_date_en": "19 Oct, 2023",
+  "release_date": "2023年10月19日",
+  "is_free": false,
+  "price_initial": 242000,
+  "price_final": 242000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,420",
+  "currency": "JPY",
+  "metacritic_score": 77,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, 日本語, 韓国語, 中国語（簡体字）, 中国語（繁体字）",
+  "website": "http://www.wohgame.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_50eac0c3847c1271b26ef7ea0eff5058f7039e92.1920x1080.jpg?t=1730740660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_6fa2df4be267b3745a5c7c28982f915990005761.1920x1080.jpg?t=1730740660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_ac817793b1dcd26fd00c7c480c64ca367bef9748.1920x1080.jpg?t=1730740660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_31e90f36d34e70bf624afa71f5e4b9097a97db56.1920x1080.jpg?t=1730740660",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_b9c83048db4c11667849f28ba940d43c9b5a100c.1920x1080.jpg?t=1730740660"
+  ],
+  "movies": [
+    {
+      "name": "v1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976685/movie.293x165.jpg?t=1697736379",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "V1.0 Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965893/movie.293x165.jpg?t=1694779794",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 8843,
+  "total_reviews": 9687,
+  "total_positive": 8695,
+  "total_negative": 992,
+  "review_score_desc": "Very Positive",
+  "slug": "world-of-horror",
+  "recommend": "niche",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

@@ -1,0 +1,79 @@
+{
+  "appid": 1222140,
+  "required_age": 0,
+  "name_ja": "Detroit: Become Human",
+  "name_en": "Detroit: Become Human",
+  "name": "Detroit: Become Human",
+  "short_description_ja": "機械が人間よりも知的な存在となってしまった近未来の世界が舞台となる『Detroit: Become Human』では、人類とアンドロイド双方の未来があなたの手に託されることになります。あなたが下す決断の1つ1つが、他に類を見ないほど複雑に分岐するゲームストーリーの結末を左右します。",
+  "short_description_en": "Detroit: Become Human puts the destiny of both mankind and androids in your hands, taking you to a near future where machines have become more intelligent than humans. Every choice you make affects the outcome of the game, with one of the most intricately branching narratives ever created.",
+  "short_description": "機械が人間よりも知的な存在となってしまった近未来の世界が舞台となる『Detroit: Become Human』では、人類とアンドロイド双方の未来があなたの手に託されることになります。あなたが下す決断の1つ1つが、他に類を見ないほど複雑に分岐するゲームストーリーの結末を左右します。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg?t=1667468479",
+  "developers": [
+    "Quantic Dream"
+  ],
+  "publishers": [
+    "Quantic Dream"
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2020年6月18日",
+  "release_date_en": "18 Jun, 2020",
+  "release_date": "2020年6月18日",
+  "is_free": false,
+  "price_initial": 450000,
+  "price_final": 450000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,500",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, アラビア語<strong>*</strong>, チェコ語, デンマーク語, フィンランド語, ギリシャ語, ハンガリー語, 日本語<strong>*</strong>, 韓国語, ノルウェー語, ポーランド語<strong>*</strong>, ポルトガル語－ポルトガル<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, スペイン語－ラテンアメリカ<strong>*</strong>, スウェーデン語, トルコ語, オランダ語, ロシア語<strong>*</strong>, 中国語（繁体字）, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "https://www.quanticdream.com/detroit-become-human",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_9c900def2b1d9a003b7d3e202ea2a7556a36e081.1920x1080.jpg?t=1667468479",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_3011c05e404043e3bfed1f6de7fe12ffd58ddc9b.1920x1080.jpg?t=1667468479",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_9e6c271b6d11b1d0f35da336fb57b35fed0079d1.1920x1080.jpg?t=1667468479",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_b1e2a185bea13cccfc662e1286912bcd6f4ee798.1920x1080.jpg?t=1667468479",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_fbc13a0d5b5b784c053042eb4ea09a30de069b3a.1920x1080.jpg?t=1667468479"
+  ],
+  "movies": [
+    {
+      "name": "Detroit: Become Human - Steam Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784014/movie.293x165.jpg?t=1590429401",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1224230,
+  "recommendations_total": 193402,
+  "total_reviews": 224196,
+  "total_positive": 215636,
+  "total_negative": 8560,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "detroit-become-human",
+  "recommend": "all",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

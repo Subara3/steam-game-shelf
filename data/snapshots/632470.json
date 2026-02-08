@@ -1,0 +1,89 @@
+{
+  "appid": 632470,
+  "required_age": 0,
+  "name_ja": "Disco Elysium - The Final Cut",
+  "name_en": "Disco Elysium - The Final Cut",
+  "name": "Disco Elysium - The Final Cut",
+  "short_description_ja": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
+  "short_description_en": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
+  "short_description": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1766855203",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/capsule_231x87.jpg?t=1766855203",
+  "developers": [
+    "ZA/UM"
+  ],
+  "publishers": [
+    "ZA/UM"
+  ],
+  "genres_ja": [
+    "RPG"
+  ],
+  "genres_en": [
+    "RPG"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年10月15日",
+  "release_date_en": "15 Oct, 2019",
+  "release_date": "2019年10月15日",
+  "is_free": false,
+  "price_initial": 410000,
+  "price_final": 410000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,100",
+  "currency": "JPY",
+  "metacritic_score": 97,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）, スペイン語 - スペイン, 韓国語, ポルトガル語－ブラジル, フランス語, ドイツ語, 中国語（繁体字）, ロシア語, ポーランド語, 日本語, トルコ語, アラビア語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.zaumstudio.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b3694e99ffdb686d1bbbbe16a540d3d2ccd509c4.1920x1080.jpg?t=1766855203",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_9125a718ee9ba85386ae5d4eb820f3266073fc97.1920x1080.jpg?t=1766855203",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_4f5fdc3cf42feca8dafb1f7d2910ef96e62708a2.1920x1080.jpg?t=1766855203",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fc6969799ebf19fd2a2c8a986c9419e053606a17.1920x1080.jpg?t=1766855203",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_dec29c440fab2f7817d68c1380c019290eb1755e.1920x1080.jpg?t=1766855203"
+  ],
+  "movies": [
+    {
+      "name": "Disco Elysium - The Final Cut - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827872/movie.293x165.jpg?t=1617123094",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Disco Elysium - Date Announce and Features Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762286/movie.293x165.jpg?t=1585912666",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Disco Elysium - Hardcore and Ultrawide Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776131/movie.293x165.jpg?t=1585912659",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 111403,
+  "total_reviews": 123127,
+  "total_positive": 114201,
+  "total_negative": 8926,
+  "review_score_desc": "Very Positive",
+  "slug": "disco-elysium",
+  "recommend": "niche",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

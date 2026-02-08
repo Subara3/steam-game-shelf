@@ -1,0 +1,89 @@
+{
+  "appid": 294100,
+  "required_age": 0,
+  "name_ja": "RimWorld",
+  "name_en": "RimWorld",
+  "name": "RimWorld",
+  "short_description_ja": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
+  "short_description_en": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+  "short_description": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1770059921",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg?t=1770059921",
+  "developers": [
+    "Ludeon Studios"
+  ],
+  "publishers": [
+    "Ludeon Studios"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steamワークショップ",
+    "テキストサイズの調整",
+    "カメラの快適性",
+    "カスタム音量調整",
+    "難易度の調整",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2018年10月17日",
+  "release_date_en": "17 Oct, 2018",
+  "release_date": "2018年10月17日",
+  "is_free": false,
+  "price_initial": 390000,
+  "price_final": 390000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,900",
+  "currency": "JPY",
+  "metacritic_score": 87,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, ポーランド語, ロシア語, イタリア語, スペイン語 - スペイン, チェコ語, デンマーク語, オランダ語, ハンガリー語, 日本語, ノルウェー語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, ウクライナ語, フィンランド語, 韓国語, ルーマニア語, スペイン語－ラテンアメリカ",
+  "website": "https://ludeon.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1770059921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1770059921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.1920x1080.jpg?t=1770059921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.1920x1080.jpg?t=1770059921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.1920x1080.jpg?t=1770059921"
+  ],
+  "movies": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731486/movie.293x165.jpg?t=1539788136",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 197434,
+  "total_reviews": 232954,
+  "total_positive": 228054,
+  "total_negative": 4900,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "rimworld",
+  "recommend": "all",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

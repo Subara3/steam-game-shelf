@@ -1,0 +1,89 @@
+{
+  "appid": 1256670,
+  "required_age": 0,
+  "name_ja": "Library Of Ruina",
+  "name_en": "Library Of Ruina",
+  "name": "Library Of Ruina",
+  "short_description_ja": "「どうかあなたの本がここで見つかりますように。」 図書館の主人になってゲストを迎えしましょう。 司書は図書館のために戦います。 ゲストと司書の戦いが幕を開けます。 敗北したゲストは本になり、図書館は成長を遂げます。 良い本はもっと多くの秘密を握るゲストを招待します。 本を集めながら、都市の秘密を明かしましょう。 そして手に入れるのです。 たった1つの完璧な本を。",
+  "short_description_en": "&quot;May you find your book in this place.&quot; Combat between the guests and the librarians breaks out as if it were on a stage. Defeated guests turn into books, and the Library grows onward. And eventually, get your hands on… The one singular, perfect book.",
+  "short_description": "「どうかあなたの本がここで見つかりますように。」 図書館の主人になってゲストを迎えしましょう。 司書は図書館のために戦います。 ゲストと司書の戦いが幕を開けます。 敗北したゲストは本になり、図書館は成長を遂げます。 良い本はもっと多くの秘密を握るゲストを招待します。 本を集めながら、都市の秘密を明かしましょう。 そして手に入れるのです。 たった1つの完璧な本を。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg?t=1670980516",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/capsule_231x87.jpg?t=1670980516",
+  "developers": [
+    "ProjectMoon"
+  ],
+  "publishers": [
+    "ProjectMoon"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamワークショップ",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2021年8月10日",
+  "release_date_en": "10 Aug, 2021",
+  "release_date": "2021年8月10日",
+  "is_free": false,
+  "price_initial": 309000,
+  "price_final": 309000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,090",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）, 韓国語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "https://twitter.com/ProjMoonStudio",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_43f3c74028922a9e0a80be23b52e90c9cb727417.1920x1080.jpg?t=1670980516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_707fb2b0bbceecc4d4ea8517ebc709b69cca35fc.1920x1080.jpg?t=1670980516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_338843763e782212597ec2979c2ff496d5dc61d4.1920x1080.jpg?t=1670980516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_31224734740c90faf7e9d9986962c1133e0dd2c3.1920x1080.jpg?t=1670980516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_21d9365859cac3056a64424ea468ad1f577096a9.1920x1080.jpg?t=1670980516"
+  ],
+  "movies": [
+    {
+      "name": "LOR OP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785550/movie.293x165.jpg?t=1589550542",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846241/movie.293x165.jpg?t=1628622202",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 35867,
+  "total_reviews": 39868,
+  "total_positive": 37626,
+  "total_negative": 2242,
+  "review_score_desc": "Very Positive",
+  "slug": "library-of-ruina",
+  "recommend": "niche",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}

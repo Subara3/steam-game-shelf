@@ -1,0 +1,79 @@
+{
+  "appid": 266210,
+  "required_age": 0,
+  "name_ja": "片道勇者",
+  "name_en": "One Way Heroics",
+  "name": "One Way Heroics",
+  "short_description_ja": "片道勇者はローグライクに横スクロールという概念を持ち込むことで新しいゲーム性を完成させたとともに、クラス解放や装備の持ち越しといった周回プレイの要素などのやり込み要素もあるゲームです。",
+  "short_description_en": "Across all dimensions, the only constant is Darkness! A procedurally generated RPG-roguelike journey across the multiverse! In One Way Heroics, you take on the role of an intrepid adventurer who must travel across the land and face the Demon Lord before a mysterious darkness engulfs everything.",
+  "short_description": "片道勇者はローグライクに横スクロールという概念を持ち込むことで新しいゲーム性を完成させたとともに、クラス解放や装備の持ち越しといった周回プレイの要素などのやり込み要素もあるゲームです。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/header_japanese.jpg?t=1728470787",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/capsule_231x87_japanese.jpg?t=1728470787",
+  "developers": [
+    "Smoking WOLF"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG"
+  ],
+  "genres": [
+    "インディー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2014年2月28日",
+  "release_date_en": "28 Feb, 2014",
+  "release_date": "2014年2月28日",
+  "is_free": false,
+  "price_initial": 35000,
+  "price_final": 35000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 350",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_dff9ffa1e5cf989bbbd53041ee674a8bb6a0da0f.1920x1080.jpg?t=1728470787",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_c46d49b1e91166139e26865a78b4a73b95dbfa2e.1920x1080.jpg?t=1728470787",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_f34e2342065bf2d9240bf0251773593365daf439.1920x1080.jpg?t=1728470787",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_1e761694d32a94f7905f67c1967f5da2a8e94489.1920x1080.jpg?t=1728470787",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_6e2235a9c8df377514472f4e2659365132eb41bc.1920x1080.jpg?t=1728470787"
+  ],
+  "movies": [
+    {
+      "name": "One Way Heroics / 片道勇者  - Trailer -",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031022/movie.293x165.jpg?t=1447360504",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 3461,
+  "total_reviews": 4101,
+  "total_positive": 3857,
+  "total_negative": 244,
+  "review_score_desc": "Very Positive",
+  "slug": "one-way-heroics",
+  "recommend": "niche",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}
