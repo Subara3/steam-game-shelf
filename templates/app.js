@@ -1,96 +1,5 @@
-const i18n = {
-  ja: {
-    siteTitle: 'すばらしきSteamゲームの本棚',
-    siteDesc: 'おすすめSteamゲームのセール・価格情報をお届け。気になるゲームをウィッシュリストに入れる前にチェック！',
-    lastUpdate: '最終更新',
-    titles: 'タイトル',
-    loading: '読み込み中...',
-    onSale: 'セール中！',
-    gameList: 'ゲーム一覧',
-    articles: '記事',
-    articlesWip: '記事は準備中です。',
-    search: '検索',
-    searchPlaceholder: 'ゲーム名で検索...',
-    genre: 'ジャンル',
-    genreAll: 'すべて',
-    display: '表示',
-    onlySale: 'セール中のみ',
-    onlyArticle: '記事ありのみ',
-    sort: '並び替え',
-    sortName: 'タイトル順',
-    sortPriceAsc: '価格が安い順',
-    sortPriceDesc: '価格が高い順',
-    sortReview: 'レビュー順',
-    sortDiscount: '割引率順',
-    showing: '件表示',
-    clearFilter: 'フィルター解除',
-    noResults: '条件に一致するゲームがありません。',
-    viewOnSteam: 'Steamで見る',
-    readArticle: '記事を読む',
-    free: '無料',
-    playDemo: 'デモあり',
-    trailer: 'トレーラー',
-    languages: '対応言語',
-    hideR18: 'R18を非表示',
-    ageRestricted: '年齢制限コンテンツ',
-    ageConfirm: 'このゲームは年齢制限があります。表示しますか？',
-    ageYes: 'はい、表示する',
-    ageNo: 'いいえ',
-    ageBadge: 'R18',
-  },
-  en: {
-    siteTitle: 'The Wonderful Steam Game Shelf',
-    siteDesc: 'Track sales and prices for our favorite Steam games. Check before you wishlist!',
-    lastUpdate: 'Last updated',
-    titles: 'titles',
-    loading: 'Loading...',
-    onSale: 'On Sale!',
-    gameList: 'Game List',
-    articles: 'Articles',
-    articlesWip: 'Articles coming soon.',
-    search: 'Search',
-    searchPlaceholder: 'Search by title...',
-    genre: 'Genre',
-    genreAll: 'All',
-    display: 'Filter',
-    onlySale: 'On sale only',
-    onlyArticle: 'With article only',
-    sort: 'Sort',
-    sortName: 'By title',
-    sortPriceAsc: 'Price: low to high',
-    sortPriceDesc: 'Price: high to low',
-    sortReview: 'By review score',
-    sortDiscount: 'By discount',
-    showing: ' shown',
-    clearFilter: 'Clear filters',
-    noResults: 'No games match the current filters.',
-    viewOnSteam: 'View on Steam',
-    readArticle: 'Read article',
-    free: 'Free',
-    playDemo: 'Demo available',
-    trailer: 'Trailer',
-    languages: 'Languages',
-    hideR18: 'Hide R18',
-    ageRestricted: 'Age-restricted content',
-    ageConfirm: 'This game has age-restricted content. Do you want to view it?',
-    ageYes: 'Yes, show me',
-    ageNo: 'No',
-    ageBadge: 'R18',
-  },
-};
-
-// Steam レビュースコア EN→JP 翻訳
-const reviewScoreJa = {
-  'Overwhelmingly Positive': '圧倒的に好評',
-  'Very Positive': '非常に好評',
-  'Positive': '好評',
-  'Mostly Positive': 'やや好評',
-  'Mixed': '賛否両論',
-  'Mostly Negative': 'やや不評',
-  'Negative': '不評',
-  'Very Negative': '非常に不評',
-  'Overwhelmingly Negative': '圧倒的に不評',
-};
+let i18n = {};
+let reviewScoreJa = {};
 
 function dashboard() {
   return {
@@ -102,14 +11,14 @@ function dashboard() {
 
     searchQuery: '',
     selectedGenres: [],
-    showOnlySale: false,
+    saleFilter: 'off',
     showOnlyWithArticle: false,
     hideR18: false,
     sortKey: 'name',
     confirmedAgeApps: {},
 
     t(key) {
-      return (i18n[this.lang] || i18n.ja)[key] || key;
+      return (i18n[this.lang] || i18n.ja || {})[key] || key;
     },
 
     switchLang(l) {
@@ -117,7 +26,6 @@ function dashboard() {
       localStorage.setItem('lang', l);
     },
 
-    // 言語に応じたフィールドを返す
     gameName(g) {
       return (this.lang === 'en' ? g.name_en : g.name_ja) || g.name || '';
     },
@@ -167,6 +75,11 @@ function dashboard() {
         .sort((a, b) => b.count - a.count);
     },
 
+    get isFiltering() {
+      return this.searchQuery || this.selectedGenres.length > 0
+        || this.saleFilter !== 'off' || this.showOnlyWithArticle || this.hideR18;
+    },
+
     get filteredGames() {
       let result = this.games;
 
@@ -185,8 +98,9 @@ function dashboard() {
         );
       }
 
-      if (this.showOnlySale) {
-        result = result.filter(g => g.discount_percent > 0);
+      if (this.saleFilter !== 'off') {
+        const minDiscount = { all: 1, sale50: 50, sale30: 30, sale10: 10 }[this.saleFilter] || 1;
+        result = result.filter(g => (g.discount_percent || 0) >= minDiscount);
       }
 
       if (this.showOnlyWithArticle) {
@@ -231,7 +145,7 @@ function dashboard() {
     clearFilters() {
       this.searchQuery = '';
       this.selectedGenres = [];
-      this.showOnlySale = false;
+      this.saleFilter = 'off';
       this.showOnlyWithArticle = false;
       this.hideR18 = false;
     },
@@ -244,10 +158,17 @@ function dashboard() {
 
     async init() {
       try {
-        const [gamesResp, articlesResp] = await Promise.all([
+        const [gamesResp, articlesResp, i18nResp] = await Promise.all([
           fetch('data/games.json'),
           fetch('data/articles.json'),
+          fetch('i18n.json'),
         ]);
+
+        if (i18nResp.ok) {
+          const data = await i18nResp.json();
+          i18n = data;
+          reviewScoreJa = data.reviewScoreJa || {};
+        }
 
         if (gamesResp.ok) {
           const data = await gamesResp.json();

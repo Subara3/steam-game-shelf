@@ -80,11 +80,33 @@
       </div>
 
       <div class="sidebar-section">
+        <h3 x-text="t('sale')"></h3>
+        <div class="sale-filter-list">
+          <label class="filter-radio">
+            <input type="radio" value="off" x-model="saleFilter">
+            <span x-text="t('genreAll')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="all" x-model="saleFilter">
+            <span x-text="t('saleAll')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale50" x-model="saleFilter">
+            <span x-text="t('sale50')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale30" x-model="saleFilter">
+            <span x-text="t('sale30')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale10" x-model="saleFilter">
+            <span x-text="t('sale10')"></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
         <h3 x-text="t('display')"></h3>
-        <label class="filter-check">
-          <input type="checkbox" x-model="showOnlySale">
-          <span x-text="t('onlySale')"></span>
-        </label>
         <label class="filter-check">
           <input type="checkbox" x-model="showOnlyWithArticle">
           <span x-text="t('onlyArticle')"></span>
@@ -110,7 +132,7 @@
     <!-- メインコンテンツ -->
     <main class="main-content">
 
-      <div class="filter-status" x-show="searchQuery || selectedGenres.length > 0 || showOnlySale || showOnlyWithArticle || hideR18">
+      <div class="filter-status" x-show="isFiltering">
         <span x-text="`${filteredGames.length}${t('showing')}`"></span>
         <button class="clear-filter" @click="clearFilters()" x-text="t('clearFilter')"></button>
       </div>
@@ -134,7 +156,7 @@
                   </div>
                 </div>
               </template>
-              <!-- 通常表示（R18未確認時は非表示） -->
+              <!-- 通常表示 -->
               <template x-if="!isR18(g) || isAgeConfirmed(g)">
                 <div>
                   <div class="game-img-wrap">
@@ -161,10 +183,6 @@
                     </div>
                     <div class="game-review-text" x-show="g.review_score_desc">
                       <span class="review-label" x-text="reviewText(g)"></span>
-                    </div>
-                    <div class="game-extras">
-                      <span class="extra-badge extra-demo" x-show="g.demo_appid" x-text="t('playDemo')"></span>
-                      <span class="extra-badge extra-trailer" x-show="g.movies && g.movies.length > 0" x-text="t('trailer')"></span>
                     </div>
                     <div class="game-links">
                       <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
