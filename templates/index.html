@@ -7,8 +7,8 @@
 <meta name="description" content="おすすめSteamゲームのセール情報と紹介記事。価格推移をチェックしてお得にゲームを手に入れよう。">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="style.css">
-<!-- Google AdSense（承認後にdata-ad-clientを設定） -->
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+<!-- Google AdSense: ca-pub-ID を設定して有効化 -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 </head>
 <body>
@@ -139,65 +139,88 @@
 
       <section class="game-list">
         <h2 x-text="t('gameList')"></h2>
-        <div class="game-grid">
-          <template x-for="g in filteredGames" :key="g.appid">
-            <article class="game-card" :class="isR18(g) ? 'game-card-r18' : ''">
-              <!-- R18 年齢ゲート -->
-              <template x-if="isR18(g) && !isAgeConfirmed(g)">
-                <div class="age-gate">
-                  <div class="age-gate-inner">
-                    <span class="age-gate-badge" x-text="t('ageBadge')"></span>
-                    <h3 class="game-name" x-text="gameName(g)"></h3>
-                    <p class="age-gate-msg" x-text="t('ageConfirm')"></p>
-                    <div class="age-gate-buttons">
-                      <button class="btn-age-yes" @click="confirmAge(g.appid)" x-text="t('ageYes')"></button>
-                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-age-no" x-text="t('viewOnSteam')"></a>
-                    </div>
-                  </div>
+        <div class="game-grid-wrap">
+          <template x-for="(g, idx) in filteredGames" :key="g.appid">
+            <div>
+              <!-- 6件ごとに広告を挿入 -->
+              <template x-if="idx > 0 && idx % 6 === 0">
+                <div class="ad-slot ad-slot-inline">
+                  <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                    data-ad-slot="XXXXXXXXXX"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
                 </div>
               </template>
-              <!-- 通常表示 -->
-              <template x-if="!isR18(g) || isAgeConfirmed(g)">
-                <div>
-                  <div class="game-img-wrap">
-                    <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
-                      <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
-                    </a>
-                    <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
-                  </div>
-                  <div class="game-body">
-                    <h3 class="game-name" x-text="gameName(g)"></h3>
-                    <p class="game-desc" x-text="gameDesc(g)"></p>
-                    <div class="game-meta">
-                      <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
-                      <span class="game-release" x-text="gameRelease(g)"></span>
-                    </div>
-                    <div class="game-price-row">
-                      <template x-if="g.discount_percent > 0">
-                        <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
-                      </template>
-                      <template x-if="g.discount_percent > 0">
-                        <span class="price-original" x-text="formatYen(g.price_initial)"></span>
-                      </template>
-                      <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
-                    </div>
-                    <div class="game-review-text" x-show="g.review_score_desc">
-                      <span class="review-label" x-text="reviewText(g)"></span>
-                    </div>
-                    <div class="game-links">
-                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
-                      <template x-if="g.has_article">
-                        <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
-                      </template>
+              <article class="game-card" :class="isR18(g) ? 'game-card-r18' : ''">
+                <!-- R18 年齢ゲート -->
+                <template x-if="isR18(g) && !isAgeConfirmed(g)">
+                  <div class="age-gate">
+                    <div class="age-gate-inner">
+                      <span class="age-gate-badge" x-text="t('ageBadge')"></span>
+                      <h3 class="game-name" x-text="gameName(g)"></h3>
+                      <p class="age-gate-msg" x-text="t('ageConfirm')"></p>
+                      <div class="age-gate-buttons">
+                        <button class="btn-age-yes" @click="confirmAge(g.appid)" x-text="t('ageYes')"></button>
+                        <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-age-no" x-text="t('viewOnSteam')"></a>
+                      </div>
                     </div>
                   </div>
-                </div>
-              </template>
-            </article>
+                </template>
+                <!-- 通常表示 -->
+                <template x-if="!isR18(g) || isAgeConfirmed(g)">
+                  <div>
+                    <div class="game-img-wrap">
+                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
+                        <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
+                      </a>
+                      <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
+                    </div>
+                    <div class="game-body">
+                      <h3 class="game-name" x-text="gameName(g)"></h3>
+                      <p class="game-desc" x-text="gameDesc(g)"></p>
+                      <div class="game-meta">
+                        <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
+                        <span class="game-release" x-text="gameRelease(g)"></span>
+                      </div>
+                      <div class="game-price-row">
+                        <template x-if="g.discount_percent > 0">
+                          <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
+                        </template>
+                        <template x-if="g.discount_percent > 0">
+                          <span class="price-original" x-text="formatYen(g.price_initial)"></span>
+                        </template>
+                        <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                      </div>
+                      <div class="game-review-text" x-show="g.review_score_desc">
+                        <span class="review-label" x-text="reviewText(g)"></span>
+                      </div>
+                      <div class="game-links">
+                        <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
+                        <template x-if="g.has_article">
+                          <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
+                        </template>
+                      </div>
+                    </div>
+                  </div>
+                </template>
+              </article>
+            </div>
           </template>
         </div>
         <p class="no-results" x-show="filteredGames.length === 0" x-text="t('noResults')"></p>
       </section>
+
+      <!-- セクション間広告 -->
+      <div class="ad-slot ad-slot-between">
+        <ins class="adsbygoogle"
+          style="display:block"
+          data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+          data-ad-slot="XXXXXXXXXX"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      </div>
 
       <section class="articles-section">
         <h2 x-text="t('articles')"></h2>
