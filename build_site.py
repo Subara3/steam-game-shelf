@@ -327,6 +327,16 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         title = meta.get("title", slug)
         appid = meta.get("appid", "")
 
+        if appid:
+            ogp_card = (
+                f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-ogp-card">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg" alt="{title}" class="steam-ogp-img">'
+                f'<span class="steam-ogp-name">{store_label}</span>'
+                f'</a>'
+            )
+        else:
+            ogp_card = ""
+
         html = f"""<!DOCTYPE html>
 <html lang="{html_lang}" data-theme="dark">
 <head>
@@ -346,7 +356,7 @@ def build_article_pages(articles: dict, lang: str = "ja"):
   <article class="article-content">
     <header>
       <h1>{title}</h1>
-      {f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-link">{store_label}</a>' if appid else ''}
+      {ogp_card}
     </header>
     {art["html"]}
   </article>
