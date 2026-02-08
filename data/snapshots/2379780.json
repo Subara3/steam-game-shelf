@@ -15,6 +15,16 @@
   "publishers": [
     "Playstack"
   ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
   "genres": [
     "カジュアル",
     "インディー",
@@ -66,11 +76,11 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 147324,
+  "recommendations_total": 147325,
   "total_reviews": 182600,
   "total_positive": 178822,
   "total_negative": 3778,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
-  "fetched_at": "2026-02-08T12:10:13.251109"
+  "fetched_at": "2026-02-08T12:30:07.951157"
 }

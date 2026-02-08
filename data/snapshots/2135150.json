@@ -15,6 +15,20 @@
   "publishers": [
     "Lafrontier"
   ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー",
+    "早期アクセス"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy",
+    "Early Access"
+  ],
   "genres": [
     "インディー",
     "RPG",
@@ -80,5 +94,5 @@
   "total_negative": 526,
   "review_score_desc": "Very Positive",
   "slug": "elin",
-  "fetched_at": "2026-02-08T12:10:13.251109"
+  "fetched_at": "2026-02-08T12:30:07.951157"
 }

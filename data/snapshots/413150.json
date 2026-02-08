@@ -15,6 +15,16 @@
   "publishers": [
     "ConcernedApe"
   ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
   "genres": [
     "インディー",
     "RPG",
@@ -71,10 +81,10 @@
   ],
   "demo_appid": null,
   "recommendations_total": 836807,
-  "total_reviews": 975015,
-  "total_positive": 960084,
+  "total_reviews": 975031,
+  "total_positive": 960100,
   "total_negative": 14931,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
-  "fetched_at": "2026-02-08T12:10:13.251109"
+  "fetched_at": "2026-02-08T12:30:07.951157"
 }
