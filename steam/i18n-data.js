@@ -40,7 +40,8 @@ window.__i18n={
     "ageNo": "いいえ",
     "ageBadge": "R18",
     "recommendAll": "みんなにおすすめ",
-    "recommendNiche": "同好の士におすすめ"
+    "recommendNiche": "同好の士におすすめ",
+    "recommendMulti": "マルチ推奨"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -83,7 +84,8 @@ window.__i18n={
     "ageNo": "No",
     "ageBadge": "R18",
     "recommendAll": "Recommended for everyone",
-    "recommendNiche": "For fellow enthusiasts"
+    "recommendNiche": "For fellow enthusiasts",
+    "recommendMulti": "Best with friends"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",

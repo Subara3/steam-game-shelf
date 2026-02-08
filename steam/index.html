@@ -4,7 +4,16 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>すばらしきSteamゲームの本棚</title>
-<meta name="description" content="おすすめSteamゲームのおすすめ情報">
+<meta name="description" content="おすすめSteamゲームのおすすめ情報 - セール・価格情報と紹介記事">
+<link rel="canonical" href="https://steam.subara3.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="すばらしきSteamゲームの本棚">
+<meta property="og:description" content="おすすめSteamゲームのおすすめ情報 - セール・価格情報と紹介記事">
+<meta property="og:url" content="https://steam.subara3.com/">
+<meta property="og:site_name" content="すばらしきSteamゲームの本棚">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="すばらしきSteamゲームの本棚">
+<meta name="twitter:description" content="おすすめSteamゲームのおすすめ情報 - セール・価格情報と紹介記事">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="style.css">
 <!-- Google AdSense -->
@@ -190,7 +199,7 @@
                     </div>
                     <div class="game-body">
                       <h3 class="game-name" x-text="gameName(g)"></h3>
-                      <span class="recommend-badge" :class="g.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="g.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
+                      <span class="recommend-badge" :class="{'recommend-niche': g.recommend === 'niche', 'recommend-multi': g.recommend === 'multi', 'recommend-all': g.recommend !== 'niche' && g.recommend !== 'multi'}" x-text="g.recommend === 'niche' ? t('recommendNiche') : g.recommend === 'multi' ? t('recommendMulti') : t('recommendAll')"></span>
                       <p class="game-desc" x-text="gameDesc(g)"></p>
                       <div class="game-genres-row">
                         <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
