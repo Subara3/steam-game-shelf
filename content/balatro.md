@@ -29,7 +29,7 @@ pet_safety: none
 
 > scala: ゲームを進むにつれていろいろなジョーカーが解禁されていくし、さまざまなデッキや、チャレンジが楽しめる。
 
-> scala: この手のゲームが好きなら、Slay the Spireとか、あるいは……。幸運の大家様とか、CloverPitとかもいいな。
+> scala: この手のゲームが好きなら、[Slay the Spire](https://store.steampowered.com/app/646570/)とか、あるいは……。[幸運の大家様](https://store.steampowered.com/app/1404850/)とか、[CloverPit](https://store.steampowered.com/app/3314790/)とかもいいな。
 
 > scala: ちなみに、ポーカーということで「賭博」とみなされてレーティングがあがり、だいぶ苦労したらしい。
 
