@@ -194,9 +194,13 @@
                       <h3 class="game-name" x-text="gameName(g)"></h3>
                       <span class="recommend-badge" :class="g.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="g.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
                       <p class="game-desc" x-text="gameDesc(g)"></p>
-                      <div class="game-meta">
+                      <div class="game-genres-row">
                         <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
+                      </div>
+                      <div class="game-detail-row">
                         <span class="game-release" x-text="gameRelease(g)"></span>
+                        <span class="game-detail-sep" x-show="g.review_score_desc">|</span>
+                        <span class="review-label" x-show="g.review_score_desc" x-text="reviewText(g)"></span>
                       </div>
                       <div class="game-price-row">
                         <template x-if="g.discount_percent > 0">
@@ -206,9 +210,6 @@
                           <span class="price-original" x-text="formatYen(g.price_initial)"></span>
                         </template>
                         <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
-                      </div>
-                      <div class="game-review-text" x-show="g.review_score_desc">
-                        <span class="review-label" x-text="reviewText(g)"></span>
                       </div>
                       <div class="game-links">
                         <template x-if="g.has_article">
