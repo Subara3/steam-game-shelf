@@ -1,0 +1,56 @@
+{
+  "appid": 2379780,
+  "name": "Balatro",
+  "short_description": "ポーカーとローグライクが融合されたBalatroは、満足度いっぱいのデッキビルダーゲームです。違法ポーカー・ハンドを出して、ゲームチェンジャーのジョーカーを発見して、アドレナリン全開の強烈コンボを繰り出しましょう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1762516142",
+  "developers": [
+    "LocalThunk"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "色のオプション",
+    "カスタム音量調整",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "タッチのみのオプション",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date": "2024年2月20日",
+  "is_free": false,
+  "price_initial": 170000,
+  "price_final": 170000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,700",
+  "currency": "JPY",
+  "metacritic_score": 90,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1762516142",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_4862112e5030f74a5818cd4c31347d699ac5adf3.1920x1080.jpg?t=1762516142",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_3be65a7dd3be072d567e11883d208861a7e959fa.1920x1080.jpg?t=1762516142",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e32ac94d7d1d6be7dd015d78f2b52aeb4cc282ed.1920x1080.jpg?t=1762516142",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_b8455573ec1fd2c9412f22bd8df05f2d8027a95b.1920x1080.jpg?t=1762516142"
+  ],
+  "total_reviews": 182598,
+  "total_positive": 178821,
+  "total_negative": 3777,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "balatro",
+  "fetched_at": "2026-02-08T19:14:22.987892"
+}

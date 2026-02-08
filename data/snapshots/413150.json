@@ -1,0 +1,60 @@
+{
+  "appid": 413150,
+  "name": "Stardew Valley",
+  "short_description": "「スターデュー バレー」で、プレイヤーは祖父から古い農場を受け継ぎます。使い古された道具と少しのお金を手に、新たな生活を始めましょう。自給自足の生活で生き抜く術を学び、草木の生い茂る土地を繁栄させることができるか、腕の見せ所です。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+  "developers": [
+    "ConcernedApe"
+  ],
+  "publishers": [
+    "ConcernedApe"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "LAN協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date": "2016年2月26日",
+  "is_free": false,
+  "price_initial": 148000,
+  "price_final": 148000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,480",
+  "currency": "JPY",
+  "metacritic_score": 89,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1754692865",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.1920x1080.jpg?t=1754692865",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.1920x1080.jpg?t=1754692865",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.1920x1080.jpg?t=1754692865",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_f6b70d132b3d6a1231a745b5c2e45eb7410263cf.1920x1080.jpg?t=1754692865"
+  ],
+  "total_reviews": 974995,
+  "total_positive": 960067,
+  "total_negative": 14928,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "stardew-valley",
+  "fetched_at": "2026-02-08T19:14:22.987892"
+}

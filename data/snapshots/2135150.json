@@ -1,0 +1,52 @@
+{
+  "appid": 2135150,
+  "name": "Elin",
+  "short_description": "ローグライクRPG「Elona」の後継作。冒険、生活、クラフト、ホーム建設、語り継がれる神話、そして、人間とエレアの物語。あなたはイルヴァの大地に如何な傷跡を残すのだろうか？",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/header.jpg?t=1769103421",
+  "developers": [
+    "Lafrontier"
+  ],
+  "publishers": [
+    "Lafrontier"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー",
+    "早期アクセス"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "Steamワークショップ",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date": "2024年11月1日",
+  "is_free": false,
+  "price_initial": 298000,
+  "price_final": 298000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,980",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_dbfb7e384cafef288b77f4bee744ae9451a65cd4.1920x1080.jpg?t=1769103421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_c96111f7fea74f43c58a976123f907147bbb747b.1920x1080.jpg?t=1769103421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_8ca392709aa1cb6a45fc5a30f8266058219615c9.1920x1080.jpg?t=1769103421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_17b7ed2d623a3a97469f5768d65bb78a492b4c76.1920x1080.jpg?t=1769103421",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_f6a8935fd05c00dfc0d38cf67c7b99c0197ac1e6.1920x1080.jpg?t=1769103421"
+  ],
+  "total_reviews": 8353,
+  "total_positive": 7827,
+  "total_negative": 526,
+  "review_score_desc": "Very Positive",
+  "slug": "elin",
+  "fetched_at": "2026-02-08T19:14:22.987892"
+}
