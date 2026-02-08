@@ -41,9 +41,6 @@ jobs:
             git push
           fi
 
-      - name: List deploy directory
-        run: find ./steam/ -type f | head -30
-
       - name: Deploy to Lolipop via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
