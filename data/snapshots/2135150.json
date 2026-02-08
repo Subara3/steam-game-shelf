@@ -1,8 +1,13 @@
 {
   "appid": 2135150,
+  "name_ja": "Elin",
+  "name_en": "Elin",
   "name": "Elin",
+  "short_description_ja": "ローグライクRPG「Elona」の後継作。冒険、生活、クラフト、ホーム建設、語り継がれる神話、そして、人間とエレアの物語。あなたはイルヴァの大地に如何な傷跡を残すのだろうか？",
+  "short_description_en": "Successor to the roguelike RPG &quot;Elona&quot;. Adventure, survival, crafting, home-building, myths passed down, and stories of humans and Elea spun. What scars will you leave on the land of Ylva?",
   "short_description": "ローグライクRPG「Elona」の後継作。冒険、生活、クラフト、ホーム建設、語り継がれる神話、そして、人間とエレアの物語。あなたはイルヴァの大地に如何な傷跡を残すのだろうか？",
   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/header.jpg?t=1769103421",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/capsule_231x87.jpg?t=1769103421",
   "developers": [
     "Lafrontier"
   ],
@@ -23,6 +28,8 @@
     "Steamクラウド",
     "ファミリーシェアリング"
   ],
+  "release_date_ja": "2024年11月1日",
+  "release_date_en": "1 Nov, 2024",
   "release_date": "2024年11月1日",
   "is_free": false,
   "price_initial": 298000,
@@ -36,6 +43,8 @@
     "mac": false,
     "linux": false
   },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）",
+  "website": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_dbfb7e384cafef288b77f4bee744ae9451a65cd4.1920x1080.jpg?t=1769103421",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_c96111f7fea74f43c58a976123f907147bbb747b.1920x1080.jpg?t=1769103421",
@@ -43,10 +52,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_17b7ed2d623a3a97469f5768d65bb78a492b4c76.1920x1080.jpg?t=1769103421",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2135150/ss_f6a8935fd05c00dfc0d38cf67c7b99c0197ac1e6.1920x1080.jpg?t=1769103421"
   ],
+  "movies": [
+    {
+      "name": "Elin PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049048/movie.293x165.jpg?t=1724910123",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Elin Introduction",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257082844/cb19945af05aaf368a2afec0f4954630ae2e3922/movie_600x337.jpg?t=1734443449",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Elin In game Vid",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903047/movie.293x165.jpg?t=1724568162",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 3288620,
+  "recommendations_total": 7618,
   "total_reviews": 8353,
   "total_positive": 7827,
   "total_negative": 526,
   "review_score_desc": "Very Positive",
   "slug": "elin",
-  "fetched_at": "2026-02-08T11:28:27.492048"
+  "fetched_at": "2026-02-08T11:49:58.423684"
 }
