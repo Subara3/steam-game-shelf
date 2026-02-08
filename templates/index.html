@@ -210,7 +210,6 @@
                         <span class="review-label" x-text="reviewText(g)"></span>
                       </div>
                       <div class="game-links">
-                        <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
                         <template x-if="g.has_article">
                           <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
                         </template>
