@@ -100,7 +100,9 @@ def extract_game_info(raw_ja: dict, raw_en: dict | None, reviews: dict) -> dict:
         "capsule_image": raw_ja.get("capsule_image", ""),
         "developers": raw_ja.get("developers", []),
         "publishers": raw_ja.get("publishers", []),
-        "genres": [g["description"] for g in raw_ja.get("genres", [])],
+        "genres_ja": [g["description"] for g in raw_ja.get("genres", [])],
+        "genres_en": [g["description"] for g in en.get("genres", raw_ja.get("genres", []))],
+        "genres": [g["description"] for g in raw_ja.get("genres", [])],  # 後方互換
         "categories": [c["description"] for c in raw_ja.get("categories", [])],
         "release_date_ja": release_ja.get("date", ""),
         "release_date_en": release_en.get("date", release_ja.get("date", "")),
