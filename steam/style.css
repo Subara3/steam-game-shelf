@@ -501,6 +501,12 @@ body {
   border: 1px solid rgba(164, 208, 7, 0.3);
 }
 
+.recommend-multi {
+  background: rgba(180, 130, 230, 0.15);
+  color: #b482e6;
+  border: 1px solid rgba(180, 130, 230, 0.3);
+}
+
 .review-label {
   color: var(--steam-blue);
 }

@@ -375,12 +375,45 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         else:
             ogp_card = ""
 
+        # SEO: description を最初の対話行から抽出
+        desc_text = ""
+        for dline in art["html"].split("\n"):
+            if "dialogue-bubble" in dline:
+                # dialogue-name タグを除去してからテキスト抽出
+                text = re.sub(r'<span class="dialogue-name">.*?</span>', '', dline)
+                text = re.sub(r'<[^>]+>', '', text).strip()
+                if text:
+                    desc_text = text
+                    if len(desc_text) > 120:
+                        desc_text = desc_text[:117] + "..."
+                    break
+        if not desc_text:
+            desc_text = f"{title} - {site_name}"
+
+        # OG image: ゲーム記事ならSteamヘッダー画像
+        og_image = ""
+        if appid:
+            og_image = f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg"
+
+        canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
+        og_image_tag = f'<meta property="og:image" content="{og_image}">' if og_image else ""
+
         html = f"""<!DOCTYPE html>
 <html lang="{html_lang}" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} | {site_name}</title>
+<meta name="description" content="{desc_text}">
+<link rel="canonical" href="{canonical_url}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{title}">
+<meta property="og:description" content="{desc_text}">
+<meta property="og:url" content="{canonical_url}">
+<meta property="og:site_name" content="{site_name}">
+{og_image_tag}<meta name="twitter:card" content="{"summary_large_image" if og_image else "summary"}">
+<meta name="twitter:title" content="{title}">
+<meta name="twitter:description" content="{desc_text}">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="{prefix}style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
@@ -452,6 +485,38 @@ def main():
         with open(SITE_DIR / "i18n-data.js", "w", encoding="utf-8") as f:
             f.write(f"window.__i18n={i18n_data};")
         print("i18nインラインJS生成完了")
+
+    # sitemap.xml 生成
+    base_url = "https://steam.subara3.com"
+    today = datetime.now().strftime("%Y-%m-%d")
+    sitemap_urls = [
+        {"loc": f"{base_url}/", "priority": "1.0", "changefreq": "daily"},
+    ]
+    for slug in articles:
+        sitemap_urls.append({
+            "loc": f"{base_url}/articles/{slug}.html",
+            "priority": "0.8",
+            "changefreq": "weekly",
+        })
+    sitemap_xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    sitemap_xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    for u in sitemap_urls:
+        sitemap_xml += f'  <url>\n'
+        sitemap_xml += f'    <loc>{u["loc"]}</loc>\n'
+        sitemap_xml += f'    <lastmod>{today}</lastmod>\n'
+        sitemap_xml += f'    <changefreq>{u["changefreq"]}</changefreq>\n'
+        sitemap_xml += f'    <priority>{u["priority"]}</priority>\n'
+        sitemap_xml += f'  </url>\n'
+    sitemap_xml += '</urlset>\n'
+    with open(SITE_DIR / "sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(sitemap_xml)
+    print("sitemap.xml 生成完了")
+
+    # robots.txt 生成
+    robots_txt = f"User-agent: *\nAllow: /\n\nSitemap: {base_url}/sitemap.xml\n"
+    with open(SITE_DIR / "robots.txt", "w", encoding="utf-8") as f:
+        f.write(robots_txt)
+    print("robots.txt 生成完了")
 
     # 静的ファイルコピー (templates/ → site/)
     for src in (TEMPLATE_DIR,):
