@@ -18,7 +18,3 @@ Thumbs.db
 # Claude Code
 .claude/
 
-# Build output (generated, not tracked)
-steam/data/
-steam/articles/
-steam/img/
