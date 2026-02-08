@@ -1,0 +1,70 @@
+{
+  "appid": 4371880,
+  "required_age": 0,
+  "name_ja": "CYAN PROJECT：今日、人魚を拐う事にした",
+  "name_en": "CYAN PROJECT: Today, I Decided to Kidnap a Mermaid",
+  "name": "CYAN PROJECT: Today, I Decided to Kidnap a Mermaid",
+  "short_description_ja": "近未来の研究所を舞台とした謎解きアドベンチャー。戦闘はなくパズルを解きながら物語を進めます。",
+  "short_description_en": "An exploration adventure set in a near-future research facility. Progress through the story by solving puzzles with no combat.",
+  "short_description": "近未来の研究所を舞台とした謎解きアドベンチャー。戦闘はなくパズルを解きながら物語を進めます。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/d524a0f746f688a20ff49a2f6f34ece480c40d9c/header.jpg?t=1770104385",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/d00bda4bc18a757243b5b46c4f62d96e0cc8413c/capsule_231x87.jpg?t=1770104385",
+  "developers": [
+    "HOME or AWAY"
+  ],
+  "publishers": [
+    "HOME or AWAY"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "近日登場",
+  "release_date_en": "Coming soon",
+  "release_date": "近日登場",
+  "is_free": false,
+  "price_initial": 0,
+  "price_final": 0,
+  "discount_percent": 0,
+  "price_formatted": "",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語",
+  "website": "https://home-or-away.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/0916979d525899a60a272441961de71ba1ece0c5/ss_0916979d525899a60a272441961de71ba1ece0c5.1920x1080.jpg?t=1770104385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/237958ce2b250c5b141e0ae39f9522554d223bd3/ss_237958ce2b250c5b141e0ae39f9522554d223bd3.1920x1080.jpg?t=1770104385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/e35d9cf1548c1377f130064895eb81bc24d8684f/ss_e35d9cf1548c1377f130064895eb81bc24d8684f.1920x1080.jpg?t=1770104385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/ec66bfab6311d037197f3c959128373f853c70dc/ss_ec66bfab6311d037197f3c959128373f853c70dc.1920x1080.jpg?t=1770104385",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4371880/e1e4b6c8dcdcdbed5cb7a79d0cd8c57052ce3f68/ss_e1e4b6c8dcdcdbed5cb7a79d0cd8c57052ce3f68.1920x1080.jpg?t=1770104385"
+  ],
+  "movies": [],
+  "demo_appid": null,
+  "recommendations_total": 0,
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "No user reviews",
+  "slug": "cyan-project",
+  "recommend": "niche",
+  "coming_soon": true,
+  "fetched_at": "2026-02-08T18:13:17.666007"
+}
