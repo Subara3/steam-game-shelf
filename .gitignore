@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
+
+# Build output (generated, not tracked)
+steam/data/
+steam/articles/
+
+# Local dev
+*.png
