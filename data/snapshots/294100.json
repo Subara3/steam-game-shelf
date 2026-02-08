@@ -78,12 +78,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 197447,
+  "recommendations_total": 197450,
   "total_reviews": 232971,
   "total_positive": 228070,
   "total_negative": 4901,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "all",
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "コロニーシミュレーション",
+    "基地建設",
+    "サバイバル",
+    "ストラテジー",
+    "管理",
+    "サンドボックス",
+    "シングルプレイヤー",
+    "MOD導入可能"
+  ],
+  "tags_en": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Management",
+    "Sandbox",
+    "Singleplayer",
+    "Moddable"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }

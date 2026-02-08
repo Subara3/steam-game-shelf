@@ -39,6 +39,8 @@ function dashboard() {
     },
 
     gameGenres(g) {
+      const tags = this.lang === 'en' ? g.tags_en : g.tags_ja;
+      if (tags && tags.length > 0) return tags;
       return (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
     },
 

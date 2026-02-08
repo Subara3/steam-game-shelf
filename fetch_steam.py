@@ -5,6 +5,7 @@ EN/JP 両方をフェッチして1レコードにまとめる。
 """
 
 import json
+import re
 import time
 import urllib.request
 import urllib.error
@@ -17,6 +18,7 @@ SNAPSHOTS_DIR = BASE_DIR / "data" / "snapshots"
 
 STORE_API = "https://store.steampowered.com/api/appdetails"
 REVIEW_API = "https://store.steampowered.com/appreviews"
+TAG_LOOKUP_API = "https://store.steampowered.com/tagdata/populartags"
 
 
 def load_games() -> list[dict]:
@@ -55,6 +57,39 @@ def fetch_reviews(appid: int) -> dict:
         }
     except Exception:
         return {}
+
+
+def fetch_tag_lookup(lang: str = "japanese") -> dict[int, str]:
+    """Steam タグID→名前のマッピングを取得"""
+    url = f"{TAG_LOOKUP_API}/{lang}"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "SteamGameShelf/1.0"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read().decode())
+        return {t["tagid"]: t["name"] for t in data}
+    except Exception as e:
+        print(f"  タグ辞書取得エラー ({lang}): {e}")
+        return {}
+
+
+def fetch_user_tags(appid: int) -> list[dict]:
+    """Steam ストアページからユーザータグ（人気タグ）を取得"""
+    url = f"https://store.steampowered.com/app/{appid}"
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Cookie": "birthtime=0; wants_mature_content=1; lastagecheckage=1-0-1990",
+        })
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode("utf-8")
+        match = re.search(r'InitAppTagModal\(\s*\d+,\s*(\[.*?\])', html, re.DOTALL)
+        if not match:
+            return []
+        return json.loads(match.group(1))
+    except Exception as e:
+        print(f"  タグ取得エラー (appid={appid}): {e}")
+        return []
 
 
 def extract_game_info(raw_ja: dict, raw_en: dict | None, reviews: dict) -> dict:
@@ -142,6 +177,14 @@ def main():
 
     results = []
 
+    # タグ辞書を取得（JP/EN）
+    print("タグ辞書を取得中...")
+    tag_names_ja = fetch_tag_lookup("japanese")
+    time.sleep(1)
+    tag_names_en = fetch_tag_lookup("english")
+    time.sleep(1)
+    print(f"  タグ辞書: {len(tag_names_ja)}件 (ja), {len(tag_names_en)}件 (en)")
+
     print(f"Steam ゲーム情報取得 ({len(games)}本)")
     for i, game in enumerate(games, 1):
         appid = game["appid"]
@@ -164,6 +207,16 @@ def main():
         info["recommend"] = game.get("recommend", "all")
         if game.get("coming_soon"):
             info["coming_soon"] = True
+
+        # ユーザータグ取得（上位8件）
+        user_tags = fetch_user_tags(appid)
+        top_tags = user_tags[:8]
+        info["tags_ja"] = [tag_names_ja.get(t["tagid"], t["name"]) for t in top_tags]
+        info["tags_en"] = [tag_names_en.get(t["tagid"], t["name"]) for t in top_tags]
+        if top_tags:
+            print(f"    タグ: {', '.join(info['tags_en'][:5])}")
+        time.sleep(1)
+
         info["fetched_at"] = timestamp
         results.append(info)
 

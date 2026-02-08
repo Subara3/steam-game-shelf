@@ -187,10 +187,10 @@
         <h2 x-text="t('gameList')"></h2>
         <div class="game-grid-wrap">
           <template x-for="(g, idx) in filteredGames" :key="g.appid">
-            <div>
+            <div style="display: contents">
               <!-- 6件ごとに広告を挿入 -->
               <template x-if="idx > 0 && idx % 6 === 0">
-                <div class="ad-slot ad-slot-inline">
+                <div class="ad-slot-inline">
                   <ins class="adsbygoogle"
                     style="display:block"
                     data-ad-client="ca-pub-7086371722392050"
@@ -216,34 +216,43 @@
                 </template>
                 <!-- 通常表示 -->
                 <template x-if="!isR18(g) || isAgeConfirmed(g)">
-                  <a :href="g.has_article ? `articles/${g.slug}.html` : `https://store.steampowered.com/app/${g.appid}/`" :target="g.has_article ? '_self' : '_blank'" class="game-card-link">
-                    <div class="game-img-wrap">
-                      <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
-                      <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
-                    </div>
-                    <div class="game-body">
-                      <h3 class="game-name" x-text="gameName(g)"></h3>
-                      <span class="recommend-badge" :class="{'recommend-niche': g.recommend === 'niche', 'recommend-multi': g.recommend === 'multi', 'recommend-all': g.recommend !== 'niche' && g.recommend !== 'multi'}" x-text="g.recommend === 'niche' ? t('recommendNiche') : g.recommend === 'multi' ? t('recommendMulti') : t('recommendAll')"></span>
-                      <p class="game-desc" x-text="gameDesc(g)"></p>
-                      <div class="game-genres-row">
-                        <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
+                  <div>
+                    <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="game-card-link">
+                      <div class="game-img-wrap">
+                        <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
+                        <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
                       </div>
-                      <div class="game-detail-row">
-                        <span class="game-release" x-text="gameRelease(g)"></span>
-                        <span class="game-detail-sep" x-show="g.review_score_desc">|</span>
-                        <span class="review-label" x-show="g.review_score_desc" x-text="reviewText(g)"></span>
+                      <div class="game-body">
+                        <h3 class="game-name" x-text="gameName(g)"></h3>
+                        <span class="recommend-badge" :class="{'recommend-niche': g.recommend === 'niche', 'recommend-multi': g.recommend === 'multi', 'recommend-all': g.recommend !== 'niche' && g.recommend !== 'multi'}" x-text="g.recommend === 'niche' ? t('recommendNiche') : g.recommend === 'multi' ? t('recommendMulti') : t('recommendAll')"></span>
+                        <p class="game-desc" x-text="gameDesc(g)"></p>
+                        <div class="game-genres-row">
+                          <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
+                        </div>
+                        <div class="game-detail-row">
+                          <span class="game-release" x-text="gameRelease(g)"></span>
+                          <span class="game-detail-sep" x-show="g.review_score_desc">|</span>
+                          <span class="review-label" x-show="g.review_score_desc" x-text="reviewText(g)"></span>
+                        </div>
+                        <div class="game-price-row">
+                          <template x-if="g.discount_percent > 0">
+                            <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
+                          </template>
+                          <template x-if="g.discount_percent > 0">
+                            <span class="price-original" x-text="formatYen(g.price_initial)"></span>
+                          </template>
+                          <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                        </div>
                       </div>
-                      <div class="game-price-row">
-                        <template x-if="g.discount_percent > 0">
-                          <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
-                        </template>
-                        <template x-if="g.discount_percent > 0">
-                          <span class="price-original" x-text="formatYen(g.price_initial)"></span>
-                        </template>
-                        <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
-                      </div>
-                    </div>
-                  </a>
+                    </a>
+                    <template x-if="g.has_article">
+                      <a :href="`articles/${g.slug}.html`" class="article-link-bar">
+                        <img src="img/scala.png" alt="" class="article-link-avatar">
+                        <img src="img/kotori.png" alt="" class="article-link-avatar">
+                        <span x-text="t('readArticle')"></span>
+                      </a>
+                    </template>
+                  </div>
                 </template>
               </article>
             </div>

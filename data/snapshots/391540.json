@@ -67,12 +67,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 281639,
+  "recommendations_total": 281642,
   "total_reviews": 313586,
   "total_positive": 303468,
   "total_negative": 10118,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "undertale",
   "recommend": "niche",
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "良質サントラ",
+    "物語性",
+    "選択型進行",
+    "マルチエンディング",
+    "ドット絵",
+    "笑える",
+    "RPG",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Great Soundtrack",
+    "Story Rich",
+    "Choices Matter",
+    "Multiple Endings",
+    "Pixel Graphics",
+    "Funny",
+    "RPG",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }

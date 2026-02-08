@@ -85,5 +85,25 @@
   "review_score_desc": "Very Positive",
   "slug": "library-of-ruina",
   "recommend": "niche",
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "物語性",
+    "カードゲーム",
+    "高難易度",
+    "ストラテジー",
+    "デッキ構築",
+    "ターン制コンバット",
+    "良質サントラ",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Story Rich",
+    "Card Game",
+    "Difficult",
+    "Strategy",
+    "Deckbuilding",
+    "Turn-Based Combat",
+    "Great Soundtrack",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }

@@ -363,12 +363,21 @@ body {
   margin-bottom: 2rem;
 }
 
-/* 広告スロット（グリッド内：全幅） */
+/* 広告スロット（グリッド内：カード1枠に収まる） */
 .ad-slot-inline {
-  grid-column: 1 / -1;
   text-align: center;
-  padding: 0.5rem 0;
-  margin: 0.5rem 0;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 250px;
+}
+
+.ad-slot-inline .adsbygoogle {
+  width: 100%;
 }
 
 /* 広告スロット（セクション間） */
@@ -633,6 +642,34 @@ body {
 .btn-steam:hover,
 .btn-article:hover {
   opacity: 0.8;
+}
+
+/* ===== 記事リンクバー（ゲームカード下） ===== */
+.article-link-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--steam-darker);
+  border-top: 1px solid var(--card-border);
+  border-radius: 0 0 10px 10px;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--steam-blue);
+  transition: background 0.2s;
+}
+
+.article-link-bar:hover {
+  background: rgba(102, 192, 244, 0.1);
+}
+
+.article-link-avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  object-fit: contain;
+  border: 1px solid var(--card-border);
 }
 
 /* ===== 記事セクション ===== */

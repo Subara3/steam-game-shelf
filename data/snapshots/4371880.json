@@ -66,5 +66,25 @@
   "slug": "cyan-project",
   "recommend": "niche",
   "coming_soon": true,
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "アドベンチャー",
+    "探検",
+    "見下ろし型",
+    "雰囲気",
+    "マルチエンディング",
+    "パズル",
+    "伝承豊か",
+    "物語性"
+  ],
+  "tags_en": [
+    "Adventure",
+    "Exploration",
+    "Top-Down",
+    "Atmospheric",
+    "Multiple Endings",
+    "Puzzle",
+    "Lore-Rich",
+    "Story Rich"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }

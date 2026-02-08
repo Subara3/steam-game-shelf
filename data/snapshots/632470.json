@@ -79,11 +79,31 @@
   ],
   "demo_appid": null,
   "recommendations_total": 111420,
-  "total_reviews": 123144,
-  "total_positive": 114216,
+  "total_reviews": 123147,
+  "total_positive": 114219,
   "total_negative": 8928,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "RPG",
+    "物語性",
+    "選択型進行",
+    "探偵",
+    "アイソメトリック",
+    "雰囲気",
+    "シングルプレイヤー",
+    "ポイント＆クリック"
+  ],
+  "tags_en": [
+    "RPG",
+    "Story Rich",
+    "Choices Matter",
+    "Detective",
+    "Isometric",
+    "Atmospheric",
+    "Singleplayer",
+    "Point & Click"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }
