@@ -12,6 +12,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 SNAPSHOTS_DIR = BASE_DIR / "data" / "snapshots"
 CONTENT_DIR = BASE_DIR / "content"
+CONTENT_EN_DIR = BASE_DIR / "content" / "en"
 SITE_DIR = BASE_DIR / "steam"
 GAMES_PATH = BASE_DIR / "games.json"
 TEMPLATE_DIR = BASE_DIR / "templates"
@@ -70,8 +71,8 @@ def parse_markdown_frontmatter(text: str) -> tuple[dict, str]:
 
 
 DIALOGUE_CHARS = {
-    "scala": {"name": "Dr.スカラ", "img": "img/scala.png", "side": "left"},
-    "kotori": {"name": "ことり", "img": "img/kotori.png", "side": "right"},
+    "scala": {"name_ja": "Dr.スカラ", "name_en": "Dr. Scala", "img": "img/scala.png", "side": "left"},
+    "kotori": {"name_ja": "ことり", "name_en": "Kotori", "img": "img/kotori.png", "side": "right"},
 }
 
 
@@ -83,7 +84,7 @@ def inline_markdown(text: str) -> str:
     return text
 
 
-def simple_markdown_to_html(md: str) -> str:
+def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") -> str:
     """最低限のMarkdown→HTML変換（対話記法対応）
 
     対話記法: > キャラID: セリフ
@@ -110,12 +111,13 @@ def simple_markdown_to_html(md: str) -> str:
             char_id = dialogue_match.group(1)
             text = inline_markdown(dialogue_match.group(2).strip())
             char = DIALOGUE_CHARS[char_id]
+            name = char[f"name_{lang}"]
             side = char["side"]
             html_lines.append(
                 f'<div class="dialogue dialogue-{side}">'
-                f'<img src="../{char["img"]}" alt="{char["name"]}" class="dialogue-avatar">'
+                f'<img src="{img_prefix}{char["img"]}" alt="{name}" class="dialogue-avatar">'
                 f'<div class="dialogue-bubble">'
-                f'<span class="dialogue-name">{char["name"]}</span>'
+                f'<span class="dialogue-name">{name}</span>'
                 f'{text}'
                 f'</div></div>'
             )
@@ -144,21 +146,21 @@ def simple_markdown_to_html(md: str) -> str:
     return "\n".join(html_lines)
 
 
-def load_articles() -> dict:
-    """content/*.md を読み込み、slug → {meta, html} のマップを返す"""
+def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix: str = "../") -> dict:
+    """指定ディレクトリの *.md を読み込み、slug → {meta, html} のマップを返す"""
     articles = {}
-    if not CONTENT_DIR.exists():
+    if not content_dir.exists():
         return articles
-    for md_file in sorted(CONTENT_DIR.glob("*.md")):
+    for md_file in sorted(content_dir.glob("*.md")):
         slug = md_file.stem
         text = md_file.read_text(encoding="utf-8")
         meta, body = parse_markdown_frontmatter(text)
-        html = simple_markdown_to_html(body)
+        html = simple_markdown_to_html(body, lang=lang, img_prefix=img_prefix)
         articles[slug] = {"meta": meta, "html": html, "slug": slug}
     return articles
 
 
-def build_data_json(snapshot: dict, history: dict, articles: dict):
+def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: dict = None):
     """site/data/ にダッシュボード用JSONを出力"""
     data_dir = SITE_DIR / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
@@ -192,14 +194,40 @@ def build_data_json(snapshot: dict, history: dict, articles: dict):
             "title": art["meta"].get("title", slug),
             "appid": art["meta"].get("appid", ""),
             "tags": art["meta"].get("tags", []),
+            "lang": "ja",
         })
+    if articles_en:
+        for slug, art in articles_en.items():
+            article_list.append({
+                "slug": slug,
+                "title": art["meta"].get("title", slug),
+                "appid": art["meta"].get("appid", ""),
+                "tags": art["meta"].get("tags", []),
+                "lang": "en",
+            })
     with open(data_dir / "articles.json", "w", encoding="utf-8") as f:
         json.dump(article_list, f, ensure_ascii=False, indent=2)
 
 
-def build_article_pages(articles: dict):
+def build_article_pages(articles: dict, lang: str = "ja"):
     """Markdown記事をHTMLページとして出力"""
-    articles_dir = SITE_DIR / "articles"
+    if lang == "en":
+        articles_dir = SITE_DIR / "articles" / "en"
+        prefix = "../../"
+        html_lang = "en"
+        top_label = "Top"
+        store_label = "Steam Store Page"
+        site_name = "The Wonderful Steam Game Shelf"
+        emotelab_credit = 'Characters in this article were created with <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a>.'
+    else:
+        articles_dir = SITE_DIR / "articles"
+        prefix = "../"
+        html_lang = "ja"
+        top_label = "トップ"
+        store_label = "Steam ストアページ"
+        site_name = "すばらしきSteamゲームの本棚"
+        emotelab_credit = 'この記事のキャラクターは <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a> で作成しました。'
+
     articles_dir.mkdir(parents=True, exist_ok=True)
 
     for slug, art in articles.items():
@@ -208,30 +236,29 @@ def build_article_pages(articles: dict):
         appid = meta.get("appid", "")
 
         html = f"""<!DOCTYPE html>
-<html lang="ja" data-theme="dark">
+<html lang="{html_lang}" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} | すばらしきSteamゲームの本棚</title>
+<title>{title} | {site_name}</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="{prefix}style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
      crossorigin="anonymous"></script>
 </head>
 <body>
 <main class="container">
   <nav class="breadcrumb">
-    <a href="../">トップ</a> &gt; <span>{title}</span>
+    <a href="{prefix}">{top_label}</a> &gt; <span>{title}</span>
   </nav>
   <article class="article-content">
     <header>
       <h1>{title}</h1>
-      {f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-link">Steam ストアページ</a>' if appid else ''}
+      {f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-link">{store_label}</a>' if appid else ''}
     </header>
     {art["html"]}
   </article>
 
-  <!-- 記事下広告 -->
   <div style="text-align: center; margin: 20px auto; max-width: 800px;">
     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7086371722392050"
          data-ad-slot="4953305789" data-ad-format="auto" data-full-width-responsive="true"></ins>
@@ -239,18 +266,18 @@ def build_article_pages(articles: dict):
   </div>
 
   <div class="emotelab-credit">
-    <p>この記事のキャラクターは <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a> で作成しました。</p>
+    <p>{emotelab_credit}</p>
   </div>
 </main>
 <footer class="container">
-  <p><a href="../">すばらしきSteamゲームの本棚</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
+  <p><a href="{prefix}">{site_name}</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
 </footer>
 </body>
 </html>"""
         out_path = articles_dir / f"{slug}.html"
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(html)
-        print(f"  記事生成: {out_path.name}")
+        print(f"  記事生成 ({lang}): {out_path.name}")
 
 
 def main():
@@ -263,16 +290,19 @@ def main():
 
     history = load_price_history()
     articles = load_articles()
+    articles_en = load_articles(CONTENT_EN_DIR, lang="en", img_prefix="../../")
     print(f"スナップショット: {snapshot['date']} ({len(snapshot['games'])}本)")
-    print(f"記事: {len(articles)}本")
+    print(f"記事: {len(articles)}本 (ja), {len(articles_en)}本 (en)")
 
     # data JSON 出力
-    build_data_json(snapshot, history, articles)
+    build_data_json(snapshot, history, articles, articles_en)
     print(f"データJSON出力完了")
 
     # 記事ページ生成
     if articles:
-        build_article_pages(articles)
+        build_article_pages(articles, lang="ja")
+    if articles_en:
+        build_article_pages(articles_en, lang="en")
 
     # 静的ファイルコピー (templates/ → site/)
     for src in (TEMPLATE_DIR,):
