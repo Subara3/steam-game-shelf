@@ -28,11 +28,7 @@ Steamのゲームを愛する助手。
 二次創作はしないが、ファンアートをシェアしたり、急に**RTA**をしたり、また違ったタイプのオタク。
 <<
 
-## 広告ポリシー
-
-### Steamリンクについて
-
-> scala: 当サイトではSteamストアへのリンクを掲載しているけど、アフィリエイトプログラムは利用していないよ。純粋にゲームを紹介したいだけだから、安心してね。
+## ポリシー
 
 ### Google AdSense について
 
@@ -43,8 +39,6 @@ Google などの第三者配信事業者は、Cookie を使用して、当サイ
 ユーザーは [Google 広告設定](https://adssettings.google.com/authenticated) で、パーソナライズ広告を無効にすることができます。また、[www.aboutads.info](http://www.aboutads.info/choices/) にアクセスすれば、パーソナライズ広告に使われる第三者配信事業者の Cookie を無効にすることができます。
 
 詳しくは [Google ポリシーと規約](https://policies.google.com/technologies/ads?hl=ja) をご参照ください。
-
-> kotori: 広告が表示されますが、サイト運営のためですのでご理解いただけるとうれしいです！
 
 ### 免責事項
 
