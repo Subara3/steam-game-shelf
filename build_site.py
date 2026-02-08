@@ -70,8 +70,8 @@ def parse_markdown_frontmatter(text: str) -> tuple[dict, str]:
 
 
 DIALOGUE_CHARS = {
-    "dr": {"name": "Dr.", "img": "img/dr.png", "side": "left"},
-    "joshu": {"name": "助手", "img": "img/joshu.png", "side": "right"},
+    "scala": {"name": "Dr.スカラ", "img": "img/scala.png", "side": "left"},
+    "kotori": {"name": "ことり", "img": "img/kotori.png", "side": "right"},
 }
 
 
@@ -87,8 +87,8 @@ def simple_markdown_to_html(md: str) -> str:
     """最低限のMarkdown→HTML変換（対話記法対応）
 
     対話記法: > キャラID: セリフ
-    例: > dr: やあ、今日のセール情報だよ
-        > joshu: わー、安くなってますね！
+    例: > scala: やあ、今日のセール情報だよ
+        > kotori: わー、安くなってますね！
     """
     lines = md.split("\n")
     html_lines = []
@@ -103,8 +103,8 @@ def simple_markdown_to_html(md: str) -> str:
     for line in lines:
         stripped = line.strip()
 
-        # 対話記法: > dr: セリフ  / > joshu: セリフ
-        dialogue_match = re.match(r'^>\s*(dr|joshu)\s*:\s*(.+)', stripped)
+        # 対話記法: > scala: セリフ  / > kotori: セリフ
+        dialogue_match = re.match(r'^>\s*(scala|kotori)\s*:\s*(.+)', stripped)
         if dialogue_match:
             close_paragraph()
             char_id = dialogue_match.group(1)
