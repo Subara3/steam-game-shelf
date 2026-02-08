@@ -216,13 +216,24 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
     data_dir = SITE_DIR / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
 
-    # ゲーム一覧（記事有無フラグ付き）
+    # games.json マスターからメタ情報を読み込み
+    game_master = {}
+    if GAMES_PATH.exists():
+        with open(GAMES_PATH, encoding="utf-8") as f:
+            for entry in json.load(f).get("games", []):
+                game_master[entry["appid"]] = entry
+
+    # ゲーム一覧（記事有無フラグ + recommend 付き）
     games = []
     for g in snapshot.get("games", []):
         slug = g.get("slug", "")
         g["has_article"] = slug in articles
         if slug in articles:
             g["article_title"] = articles[slug]["meta"].get("title", "")
+        # recommend をマスターから補完
+        if "recommend" not in g:
+            master = game_master.get(g.get("appid"), {})
+            g["recommend"] = master.get("recommend", "all")
         games.append(g)
 
     games_data = {
