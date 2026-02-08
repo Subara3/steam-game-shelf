@@ -422,12 +422,23 @@ body {
   overflow: hidden;
 }
 
-.game-meta {
-  display: flex;
-  justify-content: space-between;
+.game-genres-row {
   font-size: 0.75rem;
   color: var(--steam-blue);
+  margin-bottom: 0.4rem;
+}
+
+.game-detail-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.78rem;
+  color: #8f98a0;
   margin-bottom: 0.6rem;
+}
+
+.game-detail-sep {
+  color: #555;
 }
 
 .game-price-row {
@@ -484,13 +495,7 @@ body {
   border: 1px solid rgba(164, 208, 7, 0.3);
 }
 
-/* レビューテキスト */
-.game-review-text {
-  margin-bottom: 0.6rem;
-}
-
 .review-label {
-  font-size: 0.8rem;
   color: var(--steam-blue);
 }
 
