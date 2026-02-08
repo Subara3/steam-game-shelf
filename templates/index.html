@@ -117,14 +117,14 @@
           <template x-for="g in filteredGames" :key="g.appid">
             <article class="game-card">
               <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
-                <img :src="g.header_image" :alt="g.name" class="game-header-img" loading="lazy">
+                <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
               </a>
               <div class="game-body">
-                <h3 class="game-name" x-text="g.name"></h3>
-                <p class="game-desc" x-text="g.short_description"></p>
+                <h3 class="game-name" x-text="gameName(g)"></h3>
+                <p class="game-desc" x-text="gameDesc(g)"></p>
                 <div class="game-meta">
                   <span class="game-genres" x-text="g.genres ? g.genres.slice(0, 3).join(' / ') : ''"></span>
-                  <span class="game-release" x-text="g.release_date || ''"></span>
+                  <span class="game-release" x-text="gameRelease(g)"></span>
                 </div>
                 <div class="game-price-row">
                   <template x-if="g.discount_percent > 0">
@@ -135,11 +135,12 @@
                   </template>
                   <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
                 </div>
-                <div class="game-review" x-show="g.total_reviews > 0">
-                  <div class="review-bar">
-                    <div class="review-positive" :style="`width: ${g.total_reviews ? (g.total_positive / g.total_reviews * 100) : 0}%`"></div>
-                  </div>
-                  <span class="review-text" x-text="`${g.review_score_desc} (${g.total_positive.toLocaleString()}/${g.total_reviews.toLocaleString()})`"></span>
+                <div class="game-review-text" x-show="g.review_score_desc">
+                  <span class="review-label" x-text="reviewText(g)"></span>
+                </div>
+                <div class="game-extras">
+                  <span class="extra-badge extra-demo" x-show="g.demo_appid" x-text="t('playDemo')"></span>
+                  <span class="extra-badge extra-trailer" x-show="g.movies && g.movies.length > 0" x-text="t('trailer')"></span>
                 </div>
                 <div class="game-links">
                   <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>

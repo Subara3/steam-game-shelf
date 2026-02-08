@@ -1,5 +1,6 @@
 """
 Steam Store API からゲーム情報を取得し、data/snapshots/ に保存する。
+EN/JP 両方をフェッチして1レコードにまとめる。
 外部依存: なし（stdlib のみ）
 """
 
@@ -34,7 +35,7 @@ def fetch_app_details(appid: int, lang: str = "japanese") -> dict | None:
         if entry.get("success"):
             return entry["data"]
     except (urllib.error.URLError, json.JSONDecodeError, KeyError) as e:
-        print(f"  API エラー (appid={appid}): {e}")
+        print(f"  API エラー (appid={appid}, lang={lang}): {e}")
     return None
 
 
@@ -56,24 +57,54 @@ def fetch_reviews(appid: int) -> dict:
         return {}
 
 
-def extract_game_info(raw: dict, reviews: dict) -> dict:
-    """API レスポンスから必要なフィールドを抽出"""
-    price = raw.get("price_overview", {})
-    metacritic = raw.get("metacritic", {})
-    release = raw.get("release_date", {})
-    platforms = raw.get("platforms", {})
+def extract_game_info(raw_ja: dict, raw_en: dict | None, reviews: dict) -> dict:
+    """JP/EN の API レスポンスから必要なフィールドを抽出・統合"""
+    price = raw_ja.get("price_overview", {})
+    metacritic = raw_ja.get("metacritic", {})
+    release_ja = raw_ja.get("release_date", {})
+    platforms = raw_ja.get("platforms", {})
+    en = raw_en or {}
+
+    # デモ
+    demos = raw_ja.get("demos", [])
+    demo_appid = demos[0]["appid"] if demos else None
+
+    # トレーラー
+    movies = []
+    for m in raw_ja.get("movies", []):
+        mp4 = m.get("mp4", {})
+        movies.append({
+            "name": m.get("name", ""),
+            "thumbnail": m.get("thumbnail", ""),
+            "url_480": mp4.get("480", ""),
+            "url_max": mp4.get("max", ""),
+        })
+
+    # EN/JP 名前・説明文
+    name_ja = raw_ja.get("name", "")
+    name_en = en.get("name", name_ja)
+    desc_ja = raw_ja.get("short_description", "")
+    desc_en = en.get("short_description", desc_ja)
+    release_en = en.get("release_date", {})
 
     return {
-        "appid": raw.get("steam_appid"),
-        "name": raw.get("name", ""),
-        "short_description": raw.get("short_description", ""),
-        "header_image": raw.get("header_image", ""),
-        "developers": raw.get("developers", []),
-        "publishers": raw.get("publishers", []),
-        "genres": [g["description"] for g in raw.get("genres", [])],
-        "categories": [c["description"] for c in raw.get("categories", [])],
-        "release_date": release.get("date", ""),
-        "is_free": raw.get("is_free", False),
+        "appid": raw_ja.get("steam_appid"),
+        "name_ja": name_ja,
+        "name_en": name_en,
+        "name": name_en,  # 後方互換
+        "short_description_ja": desc_ja,
+        "short_description_en": desc_en,
+        "short_description": desc_ja,  # 後方互換
+        "header_image": raw_ja.get("header_image", ""),
+        "capsule_image": raw_ja.get("capsule_image", ""),
+        "developers": raw_ja.get("developers", []),
+        "publishers": raw_ja.get("publishers", []),
+        "genres": [g["description"] for g in raw_ja.get("genres", [])],
+        "categories": [c["description"] for c in raw_ja.get("categories", [])],
+        "release_date_ja": release_ja.get("date", ""),
+        "release_date_en": release_en.get("date", release_ja.get("date", "")),
+        "release_date": release_ja.get("date", ""),  # 後方互換
+        "is_free": raw_ja.get("is_free", False),
         "price_initial": price.get("initial", 0),
         "price_final": price.get("final", 0),
         "discount_percent": price.get("discount_percent", 0),
@@ -85,7 +116,12 @@ def extract_game_info(raw: dict, reviews: dict) -> dict:
             "mac": platforms.get("mac", False),
             "linux": platforms.get("linux", False),
         },
-        "screenshots": [s["path_full"] for s in raw.get("screenshots", [])[:5]],
+        "supported_languages": raw_ja.get("supported_languages", ""),
+        "website": raw_ja.get("website", ""),
+        "screenshots": [s["path_full"] for s in raw_ja.get("screenshots", [])[:5]],
+        "movies": movies,
+        "demo_appid": demo_appid,
+        "recommendations_total": raw_ja.get("recommendations", {}).get("total", 0),
         "total_reviews": reviews.get("total_reviews", 0),
         "total_positive": reviews.get("total_positive", 0),
         "total_negative": reviews.get("total_negative", 0),
@@ -109,13 +145,18 @@ def main():
         slug = game["slug"]
         print(f"  [{i}/{len(games)}] {slug} (appid={appid})")
 
-        raw = fetch_app_details(appid)
-        if not raw:
-            print(f"    スキップ: データ取得失敗")
+        raw_ja = fetch_app_details(appid, "japanese")
+        if not raw_ja:
+            print(f"    スキップ: JP データ取得失敗")
             continue
+        time.sleep(1)
+
+        raw_en = fetch_app_details(appid, "english")
+        time.sleep(1)
 
         reviews = fetch_reviews(appid)
-        info = extract_game_info(raw, reviews)
+
+        info = extract_game_info(raw_ja, raw_en, reviews)
         info["slug"] = slug
         info["fetched_at"] = timestamp
         results.append(info)
@@ -125,7 +166,7 @@ def main():
         with open(detail_path, "w", encoding="utf-8") as f:
             json.dump(info, f, ensure_ascii=False, indent=2)
 
-        time.sleep(1.5)  # レートリミット対策
+        time.sleep(1)
 
     # 日次スナップショット
     snapshot = {
