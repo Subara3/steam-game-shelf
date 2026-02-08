@@ -190,6 +190,12 @@ body {
   padding: 1.5rem 2rem;
 }
 
+.header-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .site-title {
   font-size: 1.6rem;
   margin-bottom: 0.3rem;
@@ -197,6 +203,36 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+/* 言語切り替え */
+.lang-switch {
+  display: flex;
+  gap: 0;
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.lang-switch button {
+  padding: 0.25rem 0.6rem;
+  background: transparent;
+  border: none;
+  color: #8f98a0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.lang-switch button + button {
+  border-left: 1px solid var(--card-border);
+}
+
+.lang-active {
+  background: var(--steam-blue) !important;
+  color: var(--steam-darker) !important;
 }
 
 .site-description {

@@ -18,12 +18,18 @@
   <!-- ヘッダー -->
   <header class="site-header">
     <div class="header-card">
-      <h1 class="site-title">すばらしきSteamゲームの本棚</h1>
-      <p class="site-description">おすすめSteamゲームのセール・価格情報をお届け。気になるゲームをウィッシュリストに入れる前にチェック！</p>
+      <div class="header-top-row">
+        <h1 class="site-title" x-text="t('siteTitle')"></h1>
+        <div class="lang-switch">
+          <button :class="lang === 'ja' ? 'lang-active' : ''" @click="switchLang('ja')">JP</button>
+          <button :class="lang === 'en' ? 'lang-active' : ''" @click="switchLang('en')">EN</button>
+        </div>
+      </div>
+      <p class="site-description" x-text="t('siteDesc')"></p>
       <div class="header-meta">
-        <span class="header-date" x-text="lastUpdate ? `最終更新: ${lastUpdate}` : '読み込み中...'"></span>
+        <span class="header-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
         <span class="header-divider"></span>
-        <span class="header-count" x-text="`${games.length}タイトル`"></span>
+        <span class="header-count" x-text="`${games.length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
@@ -31,7 +37,7 @@
   <!-- セール中バナー -->
   <template x-if="onSaleGames.length > 0">
     <section class="sale-banner">
-      <h2>セール中！</h2>
+      <h2 x-text="t('onSale')"></h2>
       <div class="sale-cards">
         <template x-for="g in onSaleGames" :key="g.appid">
           <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="sale-card">
@@ -47,23 +53,21 @@
     </section>
   </template>
 
-  <!-- 2カラムレイアウト: サイドバー + メイン -->
+  <!-- 2カラムレイアウト -->
   <div class="layout">
 
     <!-- サイドバー -->
     <aside class="sidebar">
-      <!-- テキスト検索 -->
       <div class="sidebar-section">
-        <h3>検索</h3>
-        <input type="search" x-model="searchQuery" placeholder="ゲーム名で検索..." class="search-input">
+        <h3 x-text="t('search')"></h3>
+        <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input">
       </div>
 
-      <!-- ジャンルフィルター -->
       <div class="sidebar-section">
-        <h3>ジャンル</h3>
+        <h3 x-text="t('genre')"></h3>
         <div class="genre-list">
           <button class="genre-chip" :class="selectedGenres.length === 0 ? 'genre-active' : ''" @click="selectedGenres = []">
-            すべて
+            <span x-text="t('genreAll')"></span>
             <span class="genre-count" x-text="games.length"></span>
           </button>
           <template x-for="g in allGenres" :key="g.name">
@@ -75,47 +79,40 @@
         </div>
       </div>
 
-      <!-- 表示フィルター -->
       <div class="sidebar-section">
-        <h3>表示</h3>
+        <h3 x-text="t('display')"></h3>
         <label class="filter-check">
           <input type="checkbox" x-model="showOnlySale">
-          セール中のみ
+          <span x-text="t('onlySale')"></span>
         </label>
         <label class="filter-check">
           <input type="checkbox" x-model="showOnlyWithArticle">
-          記事ありのみ
+          <span x-text="t('onlyArticle')"></span>
         </label>
       </div>
 
-      <!-- ソート -->
       <div class="sidebar-section">
-        <h3>並び替え</h3>
+        <h3 x-text="t('sort')"></h3>
         <select x-model="sortKey" class="sort-select">
-          <option value="name">タイトル順</option>
-          <option value="price_asc">価格が安い順</option>
-          <option value="price_desc">価格が高い順</option>
-          <option value="review">レビュー順</option>
-          <option value="discount">割引率順</option>
+          <option value="name" x-text="t('sortName')"></option>
+          <option value="price_asc" x-text="t('sortPriceAsc')"></option>
+          <option value="price_desc" x-text="t('sortPriceDesc')"></option>
+          <option value="review" x-text="t('sortReview')"></option>
+          <option value="discount" x-text="t('sortDiscount')"></option>
         </select>
       </div>
-
-      <!-- AdSense サイドバー広告 -->
-      <!-- <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins> -->
     </aside>
 
     <!-- メインコンテンツ -->
     <main class="main-content">
 
-      <!-- フィルター結果 -->
       <div class="filter-status" x-show="searchQuery || selectedGenres.length > 0 || showOnlySale || showOnlyWithArticle">
-        <span x-text="`${filteredGames.length}件表示`"></span>
-        <button class="clear-filter" @click="clearFilters()">フィルター解除</button>
+        <span x-text="`${filteredGames.length}${t('showing')}`"></span>
+        <button class="clear-filter" @click="clearFilters()" x-text="t('clearFilter')"></button>
       </div>
 
-      <!-- ゲーム一覧 -->
       <section class="game-list">
-        <h2>ゲーム一覧</h2>
+        <h2 x-text="t('gameList')"></h2>
         <div class="game-grid">
           <template x-for="g in filteredGames" :key="g.appid">
             <article class="game-card">
@@ -136,7 +133,7 @@
                   <template x-if="g.discount_percent > 0">
                     <span class="price-original" x-text="formatYen(g.price_initial)"></span>
                   </template>
-                  <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? '無料' : formatYen(g.price_final)"></span>
+                  <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
                 </div>
                 <div class="game-review" x-show="g.total_reviews > 0">
                   <div class="review-bar">
@@ -145,23 +142,22 @@
                   <span class="review-text" x-text="`${g.review_score_desc} (${g.total_positive.toLocaleString()}/${g.total_reviews.toLocaleString()})`"></span>
                 </div>
                 <div class="game-links">
-                  <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam">Steamで見る</a>
+                  <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
                   <template x-if="g.has_article">
-                    <a :href="`articles/${g.slug}.html`" class="btn-article">記事を読む</a>
+                    <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
                   </template>
                 </div>
               </div>
             </article>
           </template>
         </div>
-        <p class="no-results" x-show="filteredGames.length === 0">条件に一致するゲームがありません。</p>
+        <p class="no-results" x-show="filteredGames.length === 0" x-text="t('noResults')"></p>
       </section>
 
-      <!-- 記事一覧 -->
       <section class="articles-section">
-        <h2>記事</h2>
+        <h2 x-text="t('articles')"></h2>
         <template x-if="articles.length === 0">
-          <p class="no-articles">記事は準備中です。</p>
+          <p class="no-articles" x-text="t('articlesWip')"></p>
         </template>
         <div class="article-grid">
           <template x-for="a in articles" :key="a.slug">
@@ -182,7 +178,7 @@
 </div>
 
 <footer class="container">
-  <p>すばらしきSteamゲームの本棚 | Steam のデータは <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a> に帰属します</p>
+  <p><span x-data="{ t: (localStorage.getItem('lang') || 'ja') === 'en' ? 'The Wonderful Steam Game Shelf' : 'すばらしきSteamゲームの本棚' }" x-text="t"></span> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
 </footer>
 
 <script src="app.js"></script>

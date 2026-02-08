@@ -1,9 +1,77 @@
+const i18n = {
+  ja: {
+    siteTitle: 'すばらしきSteamゲームの本棚',
+    siteDesc: 'おすすめSteamゲームのセール・価格情報をお届け。気になるゲームをウィッシュリストに入れる前にチェック！',
+    lastUpdate: '最終更新',
+    titles: 'タイトル',
+    loading: '読み込み中...',
+    onSale: 'セール中！',
+    gameList: 'ゲーム一覧',
+    articles: '記事',
+    articlesWip: '記事は準備中です。',
+    search: '検索',
+    searchPlaceholder: 'ゲーム名で検索...',
+    genre: 'ジャンル',
+    genreAll: 'すべて',
+    display: '表示',
+    onlySale: 'セール中のみ',
+    onlyArticle: '記事ありのみ',
+    sort: '並び替え',
+    sortName: 'タイトル順',
+    sortPriceAsc: '価格が安い順',
+    sortPriceDesc: '価格が高い順',
+    sortReview: 'レビュー順',
+    sortDiscount: '割引率順',
+    showing: '件表示',
+    clearFilter: 'フィルター解除',
+    noResults: '条件に一致するゲームがありません。',
+    viewOnSteam: 'Steamで見る',
+    readArticle: '記事を読む',
+    free: '無料',
+    footer: 'Steam のデータは',
+    footerAttrib: 'に帰属します',
+  },
+  en: {
+    siteTitle: 'The Wonderful Steam Game Shelf',
+    siteDesc: 'Track sales and prices for our favorite Steam games. Check before you wishlist!',
+    lastUpdate: 'Last updated',
+    titles: 'titles',
+    loading: 'Loading...',
+    onSale: 'On Sale!',
+    gameList: 'Game List',
+    articles: 'Articles',
+    articlesWip: 'Articles coming soon.',
+    search: 'Search',
+    searchPlaceholder: 'Search by title...',
+    genre: 'Genre',
+    genreAll: 'All',
+    display: 'Filter',
+    onlySale: 'On sale only',
+    onlyArticle: 'With article only',
+    sort: 'Sort',
+    sortName: 'By title',
+    sortPriceAsc: 'Price: low to high',
+    sortPriceDesc: 'Price: high to low',
+    sortReview: 'By review score',
+    sortDiscount: 'By discount',
+    showing: ' shown',
+    clearFilter: 'Clear filters',
+    noResults: 'No games match the current filters.',
+    viewOnSteam: 'View on Steam',
+    readArticle: 'Read article',
+    free: 'Free',
+    footer: 'Steam data belongs to',
+    footerAttrib: '',
+  },
+};
+
 function dashboard() {
   return {
     games: [],
     articles: [],
     lastUpdate: '',
     error: '',
+    lang: localStorage.getItem('lang') || 'ja',
 
     // フィルター状態
     searchQuery: '',
@@ -11,6 +79,15 @@ function dashboard() {
     showOnlySale: false,
     showOnlyWithArticle: false,
     sortKey: 'name',
+
+    t(key) {
+      return (i18n[this.lang] || i18n.ja)[key] || key;
+    },
+
+    switchLang(l) {
+      this.lang = l;
+      localStorage.setItem('lang', l);
+    },
 
     get onSaleGames() {
       return this.games.filter(g => g.discount_percent > 0);
@@ -31,7 +108,6 @@ function dashboard() {
     get filteredGames() {
       let result = this.games;
 
-      // テキスト検索
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();
         result = result.filter(g =>
@@ -40,24 +116,20 @@ function dashboard() {
         );
       }
 
-      // ジャンルフィルター
       if (this.selectedGenres.length > 0) {
         result = result.filter(g =>
           g.genres && this.selectedGenres.some(genre => g.genres.includes(genre))
         );
       }
 
-      // セール中のみ
       if (this.showOnlySale) {
         result = result.filter(g => g.discount_percent > 0);
       }
 
-      // 記事ありのみ
       if (this.showOnlyWithArticle) {
         result = result.filter(g => g.has_article);
       }
 
-      // ソート
       result = [...result].sort((a, b) => {
         switch (this.sortKey) {
           case 'name':
