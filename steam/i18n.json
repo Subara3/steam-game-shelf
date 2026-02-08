@@ -41,7 +41,10 @@
     "ageBadge": "R18",
     "recommendAll": "みんなにおすすめ",
     "recommendNiche": "同好の士におすすめ",
-    "recommendMulti": "マルチ推奨"
+    "recommendMulti": "マルチ推奨",
+    "comingSoon": "ウィッシュリスト",
+    "comingSoonBadge": "未リリース",
+    "wishlist": "ウィッシュリストに入れる"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -85,7 +88,10 @@
     "ageBadge": "R18",
     "recommendAll": "Recommended for everyone",
     "recommendNiche": "For fellow enthusiasts",
-    "recommendMulti": "Best with friends"
+    "recommendMulti": "Best with friends",
+    "comingSoon": "On Our Radar",
+    "comingSoonBadge": "Coming Soon",
+    "wishlist": "Add to Wishlist"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",

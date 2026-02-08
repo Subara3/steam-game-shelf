@@ -162,6 +162,8 @@ def main():
         info = extract_game_info(raw_ja, raw_en, reviews)
         info["slug"] = slug
         info["recommend"] = game.get("recommend", "all")
+        if game.get("coming_soon"):
+            info["coming_soon"] = True
         info["fetched_at"] = timestamp
         results.append(info)
 

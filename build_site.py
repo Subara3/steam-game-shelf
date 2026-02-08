@@ -298,11 +298,33 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
         g["has_article"] = slug in articles
         if slug in articles:
             g["article_title"] = articles[slug]["meta"].get("title", "")
-        # recommend をマスターから補完
+        # recommend / coming_soon をマスターから補完
+        master = game_master.get(g.get("appid"), {})
         if "recommend" not in g:
-            master = game_master.get(g.get("appid"), {})
             g["recommend"] = master.get("recommend", "all")
+        if master.get("coming_soon"):
+            g["coming_soon"] = True
         games.append(g)
+
+    # coming_soon ゲームがスナップショットに無い場合、マスターから補完
+    snapshot_appids = {g["appid"] for g in games}
+    for appid, master in game_master.items():
+        if master.get("coming_soon") and appid not in snapshot_appids:
+            name = master.get("name_ja", master.get("comment", ""))
+            games.append({
+                "appid": appid,
+                "slug": master.get("slug", ""),
+                "name_ja": name,
+                "name_en": master.get("name_en", name),
+                "name": name,
+                "short_description_ja": master.get("comment", ""),
+                "short_description_en": master.get("comment", ""),
+                "short_description": master.get("comment", ""),
+                "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
+                "coming_soon": True,
+                "recommend": master.get("recommend", "all"),
+                "has_article": master.get("slug", "") in articles,
+            })
 
     games_data = {
         "date": snapshot.get("date", ""),

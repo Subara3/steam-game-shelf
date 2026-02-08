@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T17:56:52.693334",
+  "timestamp": "2026-02-08T18:03:05.081407",
   "games": [
     {
       "appid": 2379780,
@@ -87,7 +87,7 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
-      "fetched_at": "2026-02-08T17:56:52.693334",
+      "fetched_at": "2026-02-08T18:03:05.081407",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -173,14 +173,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 836866,
+      "recommendations_total": 836881,
       "total_reviews": 975099,
       "total_positive": 960165,
       "total_negative": 14934,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
-      "fetched_at": "2026-02-08T17:56:52.693334",
+      "fetched_at": "2026-02-08T18:03:05.081407",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -281,7 +281,7 @@
       "review_score_desc": "Very Positive",
       "slug": "elin",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T17:56:52.693334",
+      "fetched_at": "2026-02-08T18:03:05.081407",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
     },
@@ -361,9 +361,1010 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T17:56:52.693334",
+      "fetched_at": "2026-02-08T18:03:05.081407",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG"
+    },
+    {
+      "appid": 568220,
+      "required_age": 0,
+      "name_ja": "Lobotomy Corporation | Monster Management Simulation",
+      "name_en": "Lobotomy Corporation | Monster Management Simulation",
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "short_description_ja": "予測不能の怪物たち。プレイヤーはモンスターを収容しているロボトミー社の管理人となり、様々な種類のモンスターを管理していきます。プレイヤーは職員たちに命令し、その結果を観察していきます。怪物からのエネルギーを集めて設備を拡張し、より多くの怪物を管理します。",
+      "short_description_en": "A roguelite monster-management simulation inspired by the likes of the SCP Foundation, Cabin in the Woods, and Warehouse 13. Order your employees to perform work with the creatures and watch as it unfolds; harness greater energy, and expand the facility",
+      "short_description": "予測不能の怪物たち。プレイヤーはモンスターを収容しているロボトミー社の管理人となり、様々な種類のモンスターを管理していきます。プレイヤーは職員たちに命令し、その結果を観察していきます。怪物からのエネルギーを集めて設備を拡張し、より多くの怪物を管理します。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg?t=1636694188",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/capsule_231x87.jpg?t=1636694188",
+      "developers": [
+        "ProjectMoon"
+      ],
+      "publishers": [
+        "ProjectMoon"
+      ],
+      "genres_ja": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Indie",
+        "Simulation"
+      ],
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2018年4月9日",
+      "release_date_en": "9 Apr, 2018",
+      "release_date": "2018年4月9日",
+      "is_free": false,
+      "price_initial": 257000,
+      "price_final": 257000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,570",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 韓国語, 日本語, 中国語（簡体字）, 中国語（繁体字）, ロシア語, ブルガリア語, スペイン語－ラテンアメリカ, フランス語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル",
+      "website": "http://www.lobotomycorp.kr/en/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_7f8118a7b224505b397f481e8187fb647a3a42c6.1920x1080.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_71db0d954dcec5585f201a781db6dac2df041b85.1920x1080.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_1ca2f5995f459084b023233f2fa47e315185ce4f.1920x1080.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_d295f58d94c133fc702af1f12bacae8e7bd9383b.1920x1080.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_54183ee9d7dc3d125df090c2fb69bc32c8bc50bc.1920x1080.jpg?t=1636694188"
+      ],
+      "movies": [
+        {
+          "name": "Official Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704588/movie.293x165.jpg?t=1523285123",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 46892,
+      "total_reviews": 50995,
+      "total_positive": 47990,
+      "total_negative": 3005,
+      "review_score_desc": "Very Positive",
+      "slug": "lobotomy-corporation",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 266210,
+      "required_age": 0,
+      "name_ja": "片道勇者",
+      "name_en": "One Way Heroics",
+      "name": "One Way Heroics",
+      "short_description_ja": "片道勇者はローグライクに横スクロールという概念を持ち込むことで新しいゲーム性を完成させたとともに、クラス解放や装備の持ち越しといった周回プレイの要素などのやり込み要素もあるゲームです。",
+      "short_description_en": "Across all dimensions, the only constant is Darkness! A procedurally generated RPG-roguelike journey across the multiverse! In One Way Heroics, you take on the role of an intrepid adventurer who must travel across the land and face the Demon Lord before a mysterious darkness engulfs everything.",
+      "short_description": "片道勇者はローグライクに横スクロールという概念を持ち込むことで新しいゲーム性を完成させたとともに、クラス解放や装備の持ち越しといった周回プレイの要素などのやり込み要素もあるゲームです。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/header_japanese.jpg?t=1728470787",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/capsule_231x87_japanese.jpg?t=1728470787",
+      "developers": [
+        "Smoking WOLF"
+      ],
+      "publishers": [
+        "PLAYISM"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG"
+      ],
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2014年2月28日",
+      "release_date_en": "28 Feb, 2014",
+      "release_date": "2014年2月28日",
+      "is_free": false,
+      "price_initial": 35000,
+      "price_final": 35000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 350",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_dff9ffa1e5cf989bbbd53041ee674a8bb6a0da0f.1920x1080.jpg?t=1728470787",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_c46d49b1e91166139e26865a78b4a73b95dbfa2e.1920x1080.jpg?t=1728470787",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_f34e2342065bf2d9240bf0251773593365daf439.1920x1080.jpg?t=1728470787",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_1e761694d32a94f7905f67c1967f5da2a8e94489.1920x1080.jpg?t=1728470787",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_6e2235a9c8df377514472f4e2659365132eb41bc.1920x1080.jpg?t=1728470787"
+      ],
+      "movies": [
+        {
+          "name": "One Way Heroics / 片道勇者  - Trailer -",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031022/movie.293x165.jpg?t=1447360504",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 3461,
+      "total_reviews": 4101,
+      "total_positive": 3857,
+      "total_negative": 244,
+      "review_score_desc": "Very Positive",
+      "slug": "one-way-heroics",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 1256670,
+      "required_age": 0,
+      "name_ja": "Library Of Ruina",
+      "name_en": "Library Of Ruina",
+      "name": "Library Of Ruina",
+      "short_description_ja": "「どうかあなたの本がここで見つかりますように。」 図書館の主人になってゲストを迎えしましょう。 司書は図書館のために戦います。 ゲストと司書の戦いが幕を開けます。 敗北したゲストは本になり、図書館は成長を遂げます。 良い本はもっと多くの秘密を握るゲストを招待します。 本を集めながら、都市の秘密を明かしましょう。 そして手に入れるのです。 たった1つの完璧な本を。",
+      "short_description_en": "&quot;May you find your book in this place.&quot; Combat between the guests and the librarians breaks out as if it were on a stage. Defeated guests turn into books, and the Library grows onward. And eventually, get your hands on… The one singular, perfect book.",
+      "short_description": "「どうかあなたの本がここで見つかりますように。」 図書館の主人になってゲストを迎えしましょう。 司書は図書館のために戦います。 ゲストと司書の戦いが幕を開けます。 敗北したゲストは本になり、図書館は成長を遂げます。 良い本はもっと多くの秘密を握るゲストを招待します。 本を集めながら、都市の秘密を明かしましょう。 そして手に入れるのです。 たった1つの完璧な本を。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg?t=1670980516",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/capsule_231x87.jpg?t=1670980516",
+      "developers": [
+        "ProjectMoon"
+      ],
+      "publishers": [
+        "ProjectMoon"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "genres": [
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamワークショップ",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2021年8月10日",
+      "release_date_en": "10 Aug, 2021",
+      "release_date": "2021年8月10日",
+      "is_free": false,
+      "price_initial": 309000,
+      "price_final": 309000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 3,090",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）, 韓国語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+      "website": "https://twitter.com/ProjMoonStudio",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_43f3c74028922a9e0a80be23b52e90c9cb727417.1920x1080.jpg?t=1670980516",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_707fb2b0bbceecc4d4ea8517ebc709b69cca35fc.1920x1080.jpg?t=1670980516",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_338843763e782212597ec2979c2ff496d5dc61d4.1920x1080.jpg?t=1670980516",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_31224734740c90faf7e9d9986962c1133e0dd2c3.1920x1080.jpg?t=1670980516",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_21d9365859cac3056a64424ea468ad1f577096a9.1920x1080.jpg?t=1670980516"
+      ],
+      "movies": [
+        {
+          "name": "LOR OP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785550/movie.293x165.jpg?t=1589550542",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846241/movie.293x165.jpg?t=1628622202",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 35867,
+      "total_reviews": 39868,
+      "total_positive": 37626,
+      "total_negative": 2242,
+      "review_score_desc": "Very Positive",
+      "slug": "library-of-ruina",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 1404850,
+      "required_age": 0,
+      "name_ja": "幸運の大家様",
+      "name_en": "Luck be a Landlord",
+      "name": "Luck be a Landlord",
+      "short_description_ja": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
+      "short_description_en": "Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
+      "short_description": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header_japanese.jpg?t=1769555096",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/capsule_231x87_japanese.jpg?t=1769555096",
+      "developers": [
+        "TrampolineTales"
+      ],
+      "publishers": [
+        "TrampolineTales"
+      ],
+      "genres_ja": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamワークショップ",
+        "テキストサイズの調整",
+        "色のオプション",
+        "カスタム音量調整",
+        "難易度の調整",
+        "キーボードのみのオプション",
+        "マウスのみのオプション",
+        "ナレーション付きゲームメニュー",
+        "時間制限付き入力なしでプレイ可能",
+        "タッチのみのオプション",
+        "Steamクラウド",
+        "テレビでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年1月6日",
+      "release_date_en": "6 Jan, 2023",
+      "release_date": "2023年1月6日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 90000,
+      "discount_percent": 25,
+      "price_formatted": "¥ 900",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, デンマーク語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 日本語, 韓国語, ポーランド語, スペイン語－ラテンアメリカ, 中国語（繁体字）, ポルトガル語－ポルトガル, トルコ語, ベトナム語, タイ語, ブルガリア語, アラビア語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_d5349e415e602b326b80f40ebec7820211ff2ada.1920x1080.jpg?t=1769555096",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_c61a98b8fb52a54a2c077b748b4a590af189d4d6.1920x1080.jpg?t=1769555096",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_fb6f63e7c77968309f36b6aabc049447f9558a60.1920x1080.jpg?t=1769555096",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_7b7ca8304f96ce34096043cb6e542c354f9bd2e2.1920x1080.jpg?t=1769555096",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_34cc478727c6dc69a1732c1e68b672addb301dba.1920x1080.jpg?t=1769555096"
+      ],
+      "movies": [
+        {
+          "name": "Luck be a Landlord - v1.0 Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256916543/movie.293x165.jpg?t=1685154224",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 1439770,
+      "recommendations_total": 9992,
+      "total_reviews": 11275,
+      "total_positive": 10516,
+      "total_negative": 759,
+      "review_score_desc": "Very Positive",
+      "slug": "luck-be-a-landlord",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 3314790,
+      "required_age": 0,
+      "name_ja": "CloverPit",
+      "name_en": "CloverPit",
+      "name": "CloverPit",
+      "short_description_ja": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
+      "short_description_en": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
+      "short_description": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg?t=1769727011",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/708aa35adb8f17727284204955531d3ca237b6a4/capsule_231x87.jpg?t=1769727011",
+      "developers": [
+        "Panik Arcade"
+      ],
+      "publishers": [
+        "Future Friends Games"
+      ],
+      "genres_ja": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2025年9月26日",
+      "release_date_en": "26 Sep, 2025",
+      "release_date": "2025年9月26日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 120000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,200",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
+      "website": "https://www.panikarcade.games/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1769727011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1769727011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1769727011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1769727011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1769727011"
+      ],
+      "movies": [
+        {
+          "name": "Launch trailer JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206235/e473083f1d5b612256698de125923e5eee44bf14/movie_600x337.jpg?t=1758954704",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 3347820,
+      "recommendations_total": 19807,
+      "total_reviews": 20754,
+      "total_positive": 18733,
+      "total_negative": 2021,
+      "review_score_desc": "Very Positive",
+      "slug": "cloverpit",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 294100,
+      "required_age": 0,
+      "name_ja": "RimWorld",
+      "name_en": "RimWorld",
+      "name": "RimWorld",
+      "short_description_ja": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
+      "short_description_en": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+      "short_description": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1770059921",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg?t=1770059921",
+      "developers": [
+        "Ludeon Studios"
+      ],
+      "publishers": [
+        "Ludeon Studios"
+      ],
+      "genres_ja": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steamワークショップ",
+        "テキストサイズの調整",
+        "カメラの快適性",
+        "カスタム音量調整",
+        "難易度の調整",
+        "マウスのみのオプション",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2018年10月17日",
+      "release_date_en": "17 Oct, 2018",
+      "release_date": "2018年10月17日",
+      "is_free": false,
+      "price_initial": 390000,
+      "price_final": 390000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 3,900",
+      "currency": "JPY",
+      "metacritic_score": 87,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, ポーランド語, ロシア語, イタリア語, スペイン語 - スペイン, チェコ語, デンマーク語, オランダ語, ハンガリー語, 日本語, ノルウェー語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, ウクライナ語, フィンランド語, 韓国語, ルーマニア語, スペイン語－ラテンアメリカ",
+      "website": "https://ludeon.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1770059921",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1770059921",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.1920x1080.jpg?t=1770059921",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.1920x1080.jpg?t=1770059921",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.1920x1080.jpg?t=1770059921"
+      ],
+      "movies": [
+        {
+          "name": "Launch trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731486/movie.293x165.jpg?t=1539788136",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 197434,
+      "total_reviews": 232954,
+      "total_positive": 228054,
+      "total_negative": 4900,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "rimworld",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 632470,
+      "required_age": 0,
+      "name_ja": "Disco Elysium - The Final Cut",
+      "name_en": "Disco Elysium - The Final Cut",
+      "name": "Disco Elysium - The Final Cut",
+      "short_description_ja": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
+      "short_description_en": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
+      "short_description": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1766855203",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/capsule_231x87.jpg?t=1766855203",
+      "developers": [
+        "ZA/UM"
+      ],
+      "publishers": [
+        "ZA/UM"
+      ],
+      "genres_ja": [
+        "RPG"
+      ],
+      "genres_en": [
+        "RPG"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2019年10月15日",
+      "release_date_en": "15 Oct, 2019",
+      "release_date": "2019年10月15日",
+      "is_free": false,
+      "price_initial": 410000,
+      "price_final": 410000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 4,100",
+      "currency": "JPY",
+      "metacritic_score": 97,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）, スペイン語 - スペイン, 韓国語, ポルトガル語－ブラジル, フランス語, ドイツ語, 中国語（繁体字）, ロシア語, ポーランド語, 日本語, トルコ語, アラビア語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.zaumstudio.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b3694e99ffdb686d1bbbbe16a540d3d2ccd509c4.1920x1080.jpg?t=1766855203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_9125a718ee9ba85386ae5d4eb820f3266073fc97.1920x1080.jpg?t=1766855203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_4f5fdc3cf42feca8dafb1f7d2910ef96e62708a2.1920x1080.jpg?t=1766855203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fc6969799ebf19fd2a2c8a986c9419e053606a17.1920x1080.jpg?t=1766855203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_dec29c440fab2f7817d68c1380c019290eb1755e.1920x1080.jpg?t=1766855203"
+      ],
+      "movies": [
+        {
+          "name": "Disco Elysium - The Final Cut - Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827872/movie.293x165.jpg?t=1617123094",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Disco Elysium - Date Announce and Features Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762286/movie.293x165.jpg?t=1585912666",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Disco Elysium - Hardcore and Ultrawide Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776131/movie.293x165.jpg?t=1585912659",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 111403,
+      "total_reviews": 123127,
+      "total_positive": 114201,
+      "total_negative": 8926,
+      "review_score_desc": "Very Positive",
+      "slug": "disco-elysium",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 1222140,
+      "required_age": 0,
+      "name_ja": "Detroit: Become Human",
+      "name_en": "Detroit: Become Human",
+      "name": "Detroit: Become Human",
+      "short_description_ja": "機械が人間よりも知的な存在となってしまった近未来の世界が舞台となる『Detroit: Become Human』では、人類とアンドロイド双方の未来があなたの手に託されることになります。あなたが下す決断の1つ1つが、他に類を見ないほど複雑に分岐するゲームストーリーの結末を左右します。",
+      "short_description_en": "Detroit: Become Human puts the destiny of both mankind and androids in your hands, taking you to a near future where machines have become more intelligent than humans. Every choice you make affects the outcome of the game, with one of the most intricately branching narratives ever created.",
+      "short_description": "機械が人間よりも知的な存在となってしまった近未来の世界が舞台となる『Detroit: Become Human』では、人類とアンドロイド双方の未来があなたの手に託されることになります。あなたが下す決断の1つ1つが、他に類を見ないほど複雑に分岐するゲームストーリーの結末を左右します。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87.jpg?t=1667468479",
+      "developers": [
+        "Quantic Dream"
+      ],
+      "publishers": [
+        "Quantic Dream"
+      ],
+      "genres_ja": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure"
+      ],
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "テレビでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年6月18日",
+      "release_date_en": "18 Jun, 2020",
+      "release_date": "2020年6月18日",
+      "is_free": false,
+      "price_initial": 450000,
+      "price_final": 450000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 4,500",
+      "currency": "JPY",
+      "metacritic_score": 80,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, アラビア語<strong>*</strong>, チェコ語, デンマーク語, フィンランド語, ギリシャ語, ハンガリー語, 日本語<strong>*</strong>, 韓国語, ノルウェー語, ポーランド語<strong>*</strong>, ポルトガル語－ポルトガル<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, スペイン語－ラテンアメリカ<strong>*</strong>, スウェーデン語, トルコ語, オランダ語, ロシア語<strong>*</strong>, 中国語（繁体字）, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
+      "website": "https://www.quanticdream.com/detroit-become-human",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_9c900def2b1d9a003b7d3e202ea2a7556a36e081.1920x1080.jpg?t=1667468479",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_3011c05e404043e3bfed1f6de7fe12ffd58ddc9b.1920x1080.jpg?t=1667468479",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_9e6c271b6d11b1d0f35da336fb57b35fed0079d1.1920x1080.jpg?t=1667468479",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_b1e2a185bea13cccfc662e1286912bcd6f4ee798.1920x1080.jpg?t=1667468479",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/ss_fbc13a0d5b5b784c053042eb4ea09a30de069b3a.1920x1080.jpg?t=1667468479"
+      ],
+      "movies": [
+        {
+          "name": "Detroit: Become Human - Steam Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784014/movie.293x165.jpg?t=1590429401",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 1224230,
+      "recommendations_total": 193402,
+      "total_reviews": 224196,
+      "total_positive": 215636,
+      "total_negative": 8560,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "detroit-become-human",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 1054490,
+      "required_age": 0,
+      "name_ja": "WINGSPAN (ウイングスパン)",
+      "name_en": "Wingspan",
+      "name": "Wingspan",
+      "short_description_ja": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
+      "short_description_en": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
+      "short_description": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header_japanese.jpg?t=1765445802",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg?t=1765445802",
+      "developers": [
+        "Monster Couch"
+      ],
+      "publishers": [
+        "Monster Couch",
+        "Stonemaier Games",
+        "indienova"
+      ],
+      "genres_ja": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Indie",
+        "Strategy"
+      ],
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "共有／分割画面での協力プレイ",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "Steamランキング",
+        "Steamターン通知",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年9月17日",
+      "release_date_en": "17 Sep, 2020",
+      "release_date": "2020年9月17日",
+      "is_free": false,
+      "price_initial": 220000,
+      "price_final": 220000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,200",
+      "currency": "JPY",
+      "metacritic_score": 84,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語<strong>*</strong>, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）<strong>*</strong>, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+      "website": "https://www.monstercouch.com/wingspan/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_429a47fc72580783b66277617cbc38ca8cce0264.1920x1080.jpg?t=1765445802",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_966a797c75c4d91814a8f784b80092d8e8da958b.1920x1080.jpg?t=1765445802",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_4447e3d314ed12ee2768ba5cabf060abb75d71e2.1920x1080.jpg?t=1765445802",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_5c0346c526ee4d26e594e44068eba36b17d18e9d.1920x1080.jpg?t=1765445802",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a33eee7e8738ae5727a5824669f6cc47de58d3db.1920x1080.jpg?t=1765445802"
+      ],
+      "movies": [
+        {
+          "name": "Wingspan: Asia Expansion Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157360/8252ac17c646df692bde43c38da122c8581785d6/movie_600x337.jpg?t=1750075214",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "ReworkedTrailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903769/movie.293x165.jpg?t=1662037615",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Launch trailer oceania",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989894/movie.293x165.jpg?t=1702989010",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 9299,
+      "total_reviews": 11382,
+      "total_positive": 10733,
+      "total_negative": 649,
+      "review_score_desc": "Very Positive",
+      "slug": "wingspan",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 1599600,
+      "required_age": 0,
+      "name_ja": "プレートアップ！",
+      "name_en": "PlateUp!",
+      "name": "PlateUp!",
+      "short_description_ja": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
+      "short_description_en": "Cook and serve your dishes, design and decorate your restaurants, and expand your culinary kingdom with new unlocks, abilities and dishes in procedurally-generated locations. Classic cooking action with permanent roguelite progression. Hire your friends - or do it all yourself!",
+      "short_description": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/eb8fa3ad44fb5b4e4de4ef402101a55063797958/header.jpg?t=1769169409",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/504aa360f0c23754a2ea3bc3adb6b3f880f1eb70/capsule_231x87.jpg?t=1769169409",
+      "developers": [
+        "It's happening"
+      ],
+      "publishers": [
+        "Yogscast Games",
+        "Gamersky Games"
+      ],
+      "genres_ja": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+      ],
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "共有／分割画面での協力プレイ",
+        "共有／分割画面",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamワークショップ",
+        "Steamクラウド",
+        "テレビでRemote Play",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2022年8月4日",
+      "release_date_en": "4 Aug, 2022",
+      "release_date": "2022年8月4日",
+      "is_free": false,
+      "price_initial": 230000,
+      "price_final": 230000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,300",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, トルコ語",
+      "website": "https://www.plateupgame.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_8c944c593113598b6446b6b5d07962a10fe79ec6.1920x1080.jpg?t=1769169409",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_2fb45e66d1b4e8c3d8fe6743fad278bcc082c2d5.1920x1080.jpg?t=1769169409",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_833de2e09f19972bb9e7db021c793da6afdab8a0.1920x1080.jpg?t=1769169409",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_5cdb7d8147767fece03a9a69a10af64a2e0c5e47.1920x1080.jpg?t=1769169409",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_ac60173eb6d72af743d65c118b3e9df7453dcb61.1920x1080.jpg?t=1769169409"
+      ],
+      "movies": [
+        {
+          "name": "Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256899319/movie.293x165.jpg?t=1659620731",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 1755940,
+      "recommendations_total": 17368,
+      "total_reviews": 25528,
+      "total_positive": 24198,
+      "total_negative": 1330,
+      "review_score_desc": "Very Positive",
+      "slug": "plateup",
+      "recommend": "multi",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 913740,
+      "required_age": 0,
+      "name_ja": "恐怖の世界",
+      "name_en": "WORLD OF HORROR",
+      "name": "WORLD OF HORROR",
+      "short_description_ja": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
+      "short_description_en": "Experience the quiet terror of this 1-bit love letter to Junji Ito and H.P. Lovecraft. Navigate a hellish roguelite reality with turn-based combat and unforgiving choices. Experiment with your deck of event cards to discover new forms of cosmic horror in every playthrough. The inevitable awaits...",
+      "short_description": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/header.jpg?t=1730740660",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/capsule_231x87.jpg?t=1730740660",
+      "developers": [
+        "panstasz"
+      ],
+      "publishers": [
+        "Ysbryd Games",
+        "PLAYISM"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG"
+      ],
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年10月19日",
+      "release_date_en": "19 Oct, 2023",
+      "release_date": "2023年10月19日",
+      "is_free": false,
+      "price_initial": 242000,
+      "price_final": 242000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,420",
+      "currency": "JPY",
+      "metacritic_score": 77,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, 日本語, 韓国語, 中国語（簡体字）, 中国語（繁体字）",
+      "website": "http://www.wohgame.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_50eac0c3847c1271b26ef7ea0eff5058f7039e92.1920x1080.jpg?t=1730740660",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_6fa2df4be267b3745a5c7c28982f915990005761.1920x1080.jpg?t=1730740660",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_ac817793b1dcd26fd00c7c480c64ca367bef9748.1920x1080.jpg?t=1730740660",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_31e90f36d34e70bf624afa71f5e4b9097a97db56.1920x1080.jpg?t=1730740660",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_b9c83048db4c11667849f28ba940d43c9b5a100c.1920x1080.jpg?t=1730740660"
+      ],
+      "movies": [
+        {
+          "name": "v1.0 Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976685/movie.293x165.jpg?t=1697736379",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "V1.0 Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965893/movie.293x165.jpg?t=1694779794",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 8843,
+      "total_reviews": 9687,
+      "total_positive": 8695,
+      "total_negative": 992,
+      "review_score_desc": "Very Positive",
+      "slug": "world-of-horror",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T18:03:05.081407",
+      "has_article": false
+    },
+    {
+      "appid": 4045680,
+      "slug": "kanmuri",
+      "name_ja": "冠を持つ神の手",
+      "name_en": "冠を持つ神の手",
+      "name": "冠を持つ神の手",
+      "short_description_ja": "育成シミュレーションADV",
+      "short_description_en": "育成シミュレーションADV",
+      "short_description": "育成シミュレーションADV",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4045680/header.jpg",
+      "coming_soon": true,
+      "recommend": "niche",
+      "has_article": false
+    },
+    {
+      "appid": 4371880,
+      "slug": "cyan-project",
+      "name_ja": "CYAN PROJECT",
+      "name_en": "CYAN PROJECT",
+      "name": "CYAN PROJECT",
+      "short_description_ja": "脱出パズルADV",
+      "short_description_en": "脱出パズルADV",
+      "short_description": "脱出パズルADV",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4371880/header.jpg",
+      "coming_soon": true,
+      "recommend": "niche",
+      "has_article": false
     }
   ]
 }

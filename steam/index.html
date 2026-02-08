@@ -64,7 +64,7 @@
       <div class="header-meta">
         <span class="header-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
         <span class="header-divider"></span>
-        <span class="header-count" x-text="`${games.length} ${t('titles')}`"></span>
+        <span class="header-count" x-text="`${games.filter(g => !g.coming_soon).length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
@@ -273,6 +273,22 @@
                 <template x-for="tag in (a.tags || [])" :key="tag">
                   <span class="tag" x-text="tag"></span>
                 </template>
+              </div>
+            </a>
+          </template>
+        </div>
+      </section>
+
+      <section class="wishlist-section" x-show="comingSoonGames.length > 0">
+        <h2 x-text="t('comingSoon')"></h2>
+        <div class="wishlist-grid">
+          <template x-for="g in comingSoonGames" :key="g.appid">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+              <div class="wishlist-body">
+                <span class="coming-soon-badge" x-text="t('comingSoonBadge')"></span>
+                <h3 class="wishlist-name" x-text="gameName(g)"></h3>
+                <p class="wishlist-desc" x-text="gameDesc(g)"></p>
               </div>
             </a>
           </template>
