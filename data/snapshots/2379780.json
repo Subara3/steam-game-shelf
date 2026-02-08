@@ -1,5 +1,6 @@
 {
   "appid": 2379780,
+  "required_age": 0,
   "name_ja": "Balatro",
   "name_en": "Balatro",
   "name": "Balatro",
@@ -65,11 +66,11 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 147325,
+  "recommendations_total": 147324,
   "total_reviews": 182599,
   "total_positive": 178821,
   "total_negative": 3778,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
-  "fetched_at": "2026-02-08T11:49:58.423684"
+  "fetched_at": "2026-02-08T12:04:03.484739"
 }
