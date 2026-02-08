@@ -1,8 +1,13 @@
 {
   "appid": 413150,
+  "name_ja": "Stardew Valley",
+  "name_en": "Stardew Valley",
   "name": "Stardew Valley",
+  "short_description_ja": "「スターデュー バレー」で、プレイヤーは祖父から古い農場を受け継ぎます。使い古された道具と少しのお金を手に、新たな生活を始めましょう。自給自足の生活で生き抜く術を学び、草木の生い茂る土地を繁栄させることができるか、腕の見せ所です。",
+  "short_description_en": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
   "short_description": "「スターデュー バレー」で、プレイヤーは祖父から古い農場を受け継ぎます。使い古された道具と少しのお金を手に、新たな生活を始めましょう。自給自足の生活で生き抜く術を学び、草木の生い茂る土地を繁栄させることができるか、腕の見せ所です。",
   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_231x87.jpg?t=1754692865",
   "developers": [
     "ConcernedApe"
   ],
@@ -31,6 +36,8 @@
     "Remote Play Together",
     "ファミリーシェアリング"
   ],
+  "release_date_ja": "2016年2月26日",
+  "release_date_en": "26 Feb, 2016",
   "release_date": "2016年2月26日",
   "is_free": false,
   "price_initial": 148000,
@@ -44,6 +51,8 @@
     "mac": true,
     "linux": true
   },
+  "supported_languages": "英語, ドイツ語, スペイン語 - スペイン, 日本語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, フランス語, イタリア語, ハンガリー語, 韓国語, トルコ語",
+  "website": "http://www.stardewvalley.net",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1754692865",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.1920x1080.jpg?t=1754692865",
@@ -51,10 +60,20 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.1920x1080.jpg?t=1754692865",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_f6b70d132b3d6a1231a745b5c2e45eb7410263cf.1920x1080.jpg?t=1754692865"
   ],
+  "movies": [
+    {
+      "name": "Stardew Valley Trailer 1080p",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256815967/movie.293x165.jpg?t=1754692862",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 836796,
   "total_reviews": 975015,
   "total_positive": 960084,
   "total_negative": 14931,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
-  "fetched_at": "2026-02-08T11:28:27.492048"
+  "fetched_at": "2026-02-08T11:49:58.423684"
 }
