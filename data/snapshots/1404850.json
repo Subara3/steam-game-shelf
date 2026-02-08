@@ -1,0 +1,93 @@
+{
+  "appid": 1404850,
+  "required_age": 0,
+  "name_ja": "幸運の大家様",
+  "name_en": "Luck be a Landlord",
+  "name": "Luck be a Landlord",
+  "short_description_ja": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
+  "short_description_en": "Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
+  "short_description": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header_japanese.jpg?t=1769555096",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/capsule_231x87_japanese.jpg?t=1769555096",
+  "developers": [
+    "TrampolineTales"
+  ],
+  "publishers": [
+    "TrampolineTales"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamワークショップ",
+    "テキストサイズの調整",
+    "色のオプション",
+    "カスタム音量調整",
+    "難易度の調整",
+    "キーボードのみのオプション",
+    "マウスのみのオプション",
+    "ナレーション付きゲームメニュー",
+    "時間制限付き入力なしでプレイ可能",
+    "タッチのみのオプション",
+    "Steamクラウド",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年1月6日",
+  "release_date_en": "6 Jan, 2023",
+  "release_date": "2023年1月6日",
+  "is_free": false,
+  "price_initial": 120000,
+  "price_final": 90000,
+  "discount_percent": 25,
+  "price_formatted": "¥ 900",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, デンマーク語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 日本語, 韓国語, ポーランド語, スペイン語－ラテンアメリカ, 中国語（繁体字）, ポルトガル語－ポルトガル, トルコ語, ベトナム語, タイ語, ブルガリア語, アラビア語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_d5349e415e602b326b80f40ebec7820211ff2ada.1920x1080.jpg?t=1769555096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_c61a98b8fb52a54a2c077b748b4a590af189d4d6.1920x1080.jpg?t=1769555096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_fb6f63e7c77968309f36b6aabc049447f9558a60.1920x1080.jpg?t=1769555096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_7b7ca8304f96ce34096043cb6e542c354f9bd2e2.1920x1080.jpg?t=1769555096",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_34cc478727c6dc69a1732c1e68b672addb301dba.1920x1080.jpg?t=1769555096"
+  ],
+  "movies": [
+    {
+      "name": "Luck be a Landlord - v1.0 Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256916543/movie.293x165.jpg?t=1685154224",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1439770,
+  "recommendations_total": 9992,
+  "total_reviews": 11275,
+  "total_positive": 10516,
+  "total_negative": 759,
+  "review_score_desc": "Very Positive",
+  "slug": "luck-be-a-landlord",
+  "recommend": "all",
+  "fetched_at": "2026-02-08T18:03:05.081407"
+}
