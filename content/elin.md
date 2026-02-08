@@ -35,15 +35,13 @@ pet_safety: mild
 
 > scala: たとえば、RimWorld。惑星を脱出する、というミッションがなくたって、面白いだろ？
 
-!steam[294100](RimWorld)
+[RimWorld](https://store.steampowered.com/app/294100/)
 
 > kotori: んー。まあ、そうなのかも？
 
 > scala: いいか、ことり君。Elonaは……Elinは……恐ろしいローグライクゲームだ。なんたって、果てがないんだ。
 
 > kotori: またまた、大げさな。
-
-## レベルの概念が違う
 
 > scala: 違う、本当なんだ。「レベルマックス」という概念がない。
 
