@@ -28,8 +28,9 @@ const i18n = {
     viewOnSteam: 'Steamで見る',
     readArticle: '記事を読む',
     free: '無料',
-    footer: 'Steam のデータは',
-    footerAttrib: 'に帰属します',
+    playDemo: 'デモあり',
+    trailer: 'トレーラー',
+    languages: '対応言語',
   },
   en: {
     siteTitle: 'The Wonderful Steam Game Shelf',
@@ -60,9 +61,23 @@ const i18n = {
     viewOnSteam: 'View on Steam',
     readArticle: 'Read article',
     free: 'Free',
-    footer: 'Steam data belongs to',
-    footerAttrib: '',
+    playDemo: 'Demo available',
+    trailer: 'Trailer',
+    languages: 'Languages',
   },
+};
+
+// Steam レビュースコア EN→JP 翻訳
+const reviewScoreJa = {
+  'Overwhelmingly Positive': '圧倒的に好評',
+  'Very Positive': '非常に好評',
+  'Positive': '好評',
+  'Mostly Positive': 'やや好評',
+  'Mixed': '賛否両論',
+  'Mostly Negative': 'やや不評',
+  'Negative': '不評',
+  'Very Negative': '非常に不評',
+  'Overwhelmingly Negative': '圧倒的に不評',
 };
 
 function dashboard() {
@@ -73,7 +88,6 @@ function dashboard() {
     error: '',
     lang: localStorage.getItem('lang') || 'ja',
 
-    // フィルター状態
     searchQuery: '',
     selectedGenres: [],
     showOnlySale: false,
@@ -87,6 +101,28 @@ function dashboard() {
     switchLang(l) {
       this.lang = l;
       localStorage.setItem('lang', l);
+    },
+
+    // 言語に応じたフィールドを返す
+    gameName(g) {
+      return (this.lang === 'en' ? g.name_en : g.name_ja) || g.name || '';
+    },
+
+    gameDesc(g) {
+      return (this.lang === 'en' ? g.short_description_en : g.short_description_ja) || g.short_description || '';
+    },
+
+    gameRelease(g) {
+      return (this.lang === 'en' ? g.release_date_en : g.release_date_ja) || g.release_date || '';
+    },
+
+    reviewText(g) {
+      const desc = g.review_score_desc || '';
+      if (!desc) return '';
+      if (this.lang === 'ja') {
+        return reviewScoreJa[desc] || desc;
+      }
+      return desc;
     },
 
     get onSaleGames() {
@@ -111,7 +147,8 @@ function dashboard() {
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();
         result = result.filter(g =>
-          g.name.toLowerCase().includes(q) ||
+          (g.name_en || g.name || '').toLowerCase().includes(q) ||
+          (g.name_ja || '').toLowerCase().includes(q) ||
           (g.short_description || '').toLowerCase().includes(q)
         );
       }
@@ -133,7 +170,7 @@ function dashboard() {
       result = [...result].sort((a, b) => {
         switch (this.sortKey) {
           case 'name':
-            return a.name.localeCompare(b.name);
+            return (this.gameName(a)).localeCompare(this.gameName(b));
           case 'price_asc':
             return (a.price_final || 0) - (b.price_final || 0);
           case 'price_desc':
