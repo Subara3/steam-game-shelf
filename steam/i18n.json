@@ -38,7 +38,9 @@
     "ageConfirm": "このゲームは年齢制限があります。表示しますか？",
     "ageYes": "はい、表示する",
     "ageNo": "いいえ",
-    "ageBadge": "R18"
+    "ageBadge": "R18",
+    "recommendAll": "みんなにおすすめ",
+    "recommendNiche": "同好の士におすすめ"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -79,7 +81,9 @@
     "ageConfirm": "This game has age-restricted content. Do you want to view it?",
     "ageYes": "Yes, show me",
     "ageNo": "No",
-    "ageBadge": "R18"
+    "ageBadge": "R18",
+    "recommendAll": "Recommended for everyone",
+    "recommendNiche": "For fellow enthusiasts"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",

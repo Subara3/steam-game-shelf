@@ -191,6 +191,7 @@
                     </div>
                     <div class="game-body">
                       <h3 class="game-name" x-text="gameName(g)"></h3>
+                      <span class="recommend-badge" :class="g.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="g.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
                       <p class="game-desc" x-text="gameDesc(g)"></p>
                       <div class="game-meta">
                         <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>

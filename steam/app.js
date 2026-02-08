@@ -1,6 +1,3 @@
-let i18n = {};
-let reviewScoreJa = {};
-
 function dashboard() {
   return {
     games: [],
@@ -8,6 +5,8 @@ function dashboard() {
     lastUpdate: '',
     error: '',
     lang: localStorage.getItem('lang') || 'ja',
+    i18nData: {},
+    reviewScoreJa: {},
 
     searchQuery: '',
     selectedGenres: [],
@@ -18,7 +17,7 @@ function dashboard() {
     confirmedAgeApps: {},
 
     t(key) {
-      return (i18n[this.lang] || i18n.ja || {})[key] || key;
+      return (this.i18nData[this.lang] || this.i18nData.ja || {})[key] || key;
     },
 
     switchLang(l) {
@@ -59,7 +58,7 @@ function dashboard() {
       const desc = g.review_score_desc || '';
       if (!desc) return '';
       if (this.lang === 'ja') {
-        return reviewScoreJa[desc] || desc;
+        return this.reviewScoreJa[desc] || desc;
       }
       return desc;
     },
@@ -172,8 +171,8 @@ function dashboard() {
 
         if (i18nResp.ok) {
           const data = await i18nResp.json();
-          i18n = data;
-          reviewScoreJa = data.reviewScoreJa || {};
+          this.i18nData = data;
+          this.reviewScoreJa = data.reviewScoreJa || {};
         }
 
         if (gamesResp.ok) {
