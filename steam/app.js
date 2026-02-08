@@ -67,6 +67,10 @@ function dashboard() {
       return this.games.filter(g => g.discount_percent > 0);
     },
 
+    get siteArticles() {
+      return this.articles.filter(a => !a.appid);
+    },
+
     get allGenres() {
       const counts = {};
       this.games.forEach(g => {

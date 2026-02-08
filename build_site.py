@@ -100,6 +100,7 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
     html_lines = []
     in_paragraph = False
     in_profile = False
+    in_pet_safety = False
     profile_char = None
     profile_lines = []
 
@@ -108,6 +109,12 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
         if in_paragraph:
             html_lines.append("</p>")
             in_paragraph = False
+
+    def close_pet_safety():
+        nonlocal in_pet_safety
+        if in_pet_safety:
+            html_lines.append("</div>")
+            in_pet_safety = False
 
     for line in lines:
         stripped = line.strip()
@@ -210,9 +217,24 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
             html_lines.append(f"<h3>{inline_markdown(stripped[4:])}</h3>")
         elif stripped.startswith("## "):
             close_paragraph()
-            html_lines.append(f"<h2>{inline_markdown(stripped[3:])}</h2>")
+            heading_text = stripped[3:]
+            if "犬猫" in heading_text:
+                close_pet_safety()
+                pet_label = "Pet Safety" if lang == "en" else "犬猫の無事度"
+                html_lines.append(
+                    f'<div class="pet-safety-section">'
+                    f'<div class="pet-safety-header">'
+                    f'<span class="pet-safety-icon">🐾</span>'
+                    f'<span class="pet-safety-label">{pet_label}</span>'
+                    f'</div>'
+                )
+                in_pet_safety = True
+            else:
+                close_pet_safety()
+                html_lines.append(f"<h2>{inline_markdown(heading_text)}</h2>")
         elif stripped.startswith("# "):
             close_paragraph()
+            close_pet_safety()
             html_lines.append(f"<h1>{inline_markdown(stripped[2:])}</h1>")
         elif stripped == "":
             close_paragraph()
@@ -224,6 +246,7 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
             html_lines.append(processed)
 
     close_paragraph()
+    close_pet_safety()
     return "\n".join(html_lines)
 
 

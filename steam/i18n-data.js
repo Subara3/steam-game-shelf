@@ -1,7 +1,7 @@
 window.__i18n={
   "ja": {
     "siteTitle": "すばらしきSteamゲームの本棚",
-    "siteDesc": "おすすめSteamゲームのセール・価格情報をお届け。気になるゲームをウィッシュリストに入れる前にチェック！",
+    "siteDesc": "おすすめSteamゲームのおすすめ情報",
     "lastUpdate": "最終更新",
     "titles": "タイトル",
     "loading": "読み込み中...",
