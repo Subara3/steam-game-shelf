@@ -394,7 +394,45 @@ def build_article_pages(articles: dict, lang: str = "ja"):
             og_image = f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg"
 
         canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
-        og_image_tag = f'<meta property="og:image" content="{og_image}">' if og_image else ""
+        og_image_tag = f'\n<meta property="og:image" content="{og_image}">' if og_image else ""
+        og_locale = "ja_JP" if lang == "ja" else "en_US"
+        twitter_card = "summary_large_image" if og_image else "summary"
+
+        # メタキーワード
+        tags = meta.get("tags", [])
+        keywords_tag = ""
+        if tags:
+            keywords_str = ",".join(tags) if isinstance(tags, list) else tags
+            keywords_tag = f'\n<meta name="keywords" content="{keywords_str}">'
+
+        # JSON-LD: Article + BreadcrumbList
+        json_ld_image = f'"image": "{og_image}",' if og_image else ""
+        desc_escaped = desc_text.replace('"', '\\"')
+        title_escaped = title.replace('"', '\\"')
+        json_ld = f'''<script type="application/ld+json">
+[{{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{title_escaped}",
+  "description": "{desc_escaped}",
+  {json_ld_image}
+  "url": "{canonical_url}",
+  "publisher": {{
+    "@type": "Organization",
+    "name": "すばらしきSteamゲームの本棚",
+    "url": "https://steam.subara3.com/"
+  }},
+  "mainEntityOfPage": "{canonical_url}"
+}},
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{"@type": "ListItem", "position": 1, "name": "{site_name}", "item": "https://steam.subara3.com/"}},
+    {{"@type": "ListItem", "position": 2, "name": "{title_escaped}", "item": "{canonical_url}"}}
+  ]
+}}]
+</script>'''
 
         html = f"""<!DOCTYPE html>
 <html lang="{html_lang}" data-theme="dark">
@@ -402,18 +440,24 @@ def build_article_pages(articles: dict, lang: str = "ja"):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} | {site_name}</title>
-<meta name="description" content="{desc_text}">
+<meta name="description" content="{desc_text}">{keywords_tag}
 <link rel="canonical" href="{canonical_url}">
+<link rel="sitemap" type="application/xml" href="https://steam.subara3.com/sitemap.xml">
+<meta name="theme-color" content="#1b2838">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc_text}">
 <meta property="og:url" content="{canonical_url}">
 <meta property="og:site_name" content="{site_name}">
-{og_image_tag}<meta name="twitter:card" content="{"summary_large_image" if og_image else "summary"}">
+<meta property="og:locale" content="{og_locale}">{og_image_tag}
+<meta name="twitter:card" content="{twitter_card}">
 <meta name="twitter:title" content="{title}">
 <meta name="twitter:description" content="{desc_text}">
+<link rel="dns-prefetch" href="https://cdn.akamai.steamstatic.com">
+<link rel="preconnect" href="https://cdn.akamai.steamstatic.com" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="{prefix}style.css">
+{json_ld}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
      crossorigin="anonymous"></script>
 </head>
@@ -439,6 +483,7 @@ def build_article_pages(articles: dict, lang: str = "ja"):
 </main>
 <footer class="container">
   <p><a href="{prefix}">{site_name}</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
+  <p style="margin-top: 0.5rem;"><a href="{prefix}articles/about.html">{"About" if lang == "en" else "このサイトについて"}</a></p>
 </footer>
 </body>
 </html>"""
