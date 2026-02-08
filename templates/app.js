@@ -24,6 +24,7 @@ function dashboard() {
     switchLang(l) {
       this.lang = l;
       localStorage.setItem('lang', l);
+      this.selectedGenres = [];
     },
 
     gameName(g) {
@@ -36,6 +37,10 @@ function dashboard() {
 
     gameRelease(g) {
       return (this.lang === 'en' ? g.release_date_en : g.release_date_ja) || g.release_date || '';
+    },
+
+    gameGenres(g) {
+      return (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
     },
 
     isR18(g) {
@@ -66,7 +71,7 @@ function dashboard() {
     get allGenres() {
       const counts = {};
       this.games.forEach(g => {
-        (g.genres || []).forEach(genre => {
+        this.gameGenres(g).forEach(genre => {
           counts[genre] = (counts[genre] || 0) + 1;
         });
       });
@@ -93,9 +98,10 @@ function dashboard() {
       }
 
       if (this.selectedGenres.length > 0) {
-        result = result.filter(g =>
-          g.genres && this.selectedGenres.some(genre => g.genres.includes(genre))
-        );
+        result = result.filter(g => {
+          const genres = this.gameGenres(g);
+          return genres.length > 0 && this.selectedGenres.some(genre => genres.includes(genre));
+        });
       }
 
       if (this.saleFilter !== 'off') {

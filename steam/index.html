@@ -169,7 +169,7 @@
                     <h3 class="game-name" x-text="gameName(g)"></h3>
                     <p class="game-desc" x-text="gameDesc(g)"></p>
                     <div class="game-meta">
-                      <span class="game-genres" x-text="g.genres ? g.genres.slice(0, 3).join(' / ') : ''"></span>
+                      <span class="game-genres" x-text="gameGenres(g).slice(0, 3).join(' / ')"></span>
                       <span class="game-release" x-text="gameRelease(g)"></span>
                     </div>
                     <div class="game-price-row">
