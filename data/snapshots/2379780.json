@@ -76,12 +76,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 147353,
-  "total_reviews": 182632,
-  "total_positive": 178853,
+  "recommendations_total": 147357,
+  "total_reviews": 182636,
+  "total_positive": 178857,
   "total_negative": 3779,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
-  "fetched_at": "2026-02-08T22:32:31.183582"
+  "tags_ja": [
+    "カードゲーム",
+    "ローグライク",
+    "ローグライクデッキ構築",
+    "デッキ構築",
+    "シングルプレイヤー",
+    "ストラテジー",
+    "ドット絵",
+    "リプレイ性"
+  ],
+  "tags_en": [
+    "Card Game",
+    "Roguelike",
+    "Roguelike Deckbuilder",
+    "Deckbuilding",
+    "Singleplayer",
+    "Strategy",
+    "Pixel Graphics",
+    "Replay Value"
+  ],
+  "fetched_at": "2026-02-09T08:09:22.478125"
 }
