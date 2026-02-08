@@ -80,11 +80,12 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 836856,
+  "recommendations_total": 836844,
   "total_reviews": 975074,
   "total_positive": 960141,
   "total_negative": 14933,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
-  "fetched_at": "2026-02-08T15:43:10.547630"
+  "recommend": "all",
+  "fetched_at": "2026-02-08T15:45:57.363499"
 }
