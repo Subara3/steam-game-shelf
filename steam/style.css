@@ -456,6 +456,97 @@ body {
   border: 1px solid var(--steam-green-bright);
 }
 
+/* ===== R18 年齢ゲート ===== */
+.game-card-r18 {
+  border-color: #8b0000;
+}
+
+.game-img-wrap {
+  position: relative;
+}
+
+.r18-badge {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: #c62828;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+}
+
+.age-gate {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 280px;
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  padding: 2rem;
+}
+
+.age-gate-inner {
+  text-align: center;
+  max-width: 260px;
+}
+
+.age-gate-badge {
+  display: inline-block;
+  background: #c62828;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+  margin-bottom: 0.8rem;
+}
+
+.age-gate-msg {
+  font-size: 0.85rem;
+  color: #8f98a0;
+  margin-bottom: 1rem;
+}
+
+.age-gate-buttons {
+  display: flex;
+  gap: 0.6rem;
+  justify-content: center;
+}
+
+.btn-age-yes {
+  padding: 0.4rem 1rem;
+  background: #c62828;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-age-yes:hover {
+  background: #e53935;
+}
+
+.btn-age-no {
+  padding: 0.4rem 1rem;
+  background: transparent;
+  color: #8f98a0;
+  border: 1px solid #8f98a0;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.btn-age-no:hover {
+  color: #fff;
+  border-color: #fff;
+}
+
 /* ゲームリンク */
 .game-links {
   display: flex;

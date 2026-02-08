@@ -31,6 +31,12 @@ const i18n = {
     playDemo: 'デモあり',
     trailer: 'トレーラー',
     languages: '対応言語',
+    hideR18: 'R18を非表示',
+    ageRestricted: '年齢制限コンテンツ',
+    ageConfirm: 'このゲームは年齢制限があります。表示しますか？',
+    ageYes: 'はい、表示する',
+    ageNo: 'いいえ',
+    ageBadge: 'R18',
   },
   en: {
     siteTitle: 'The Wonderful Steam Game Shelf',
@@ -64,6 +70,12 @@ const i18n = {
     playDemo: 'Demo available',
     trailer: 'Trailer',
     languages: 'Languages',
+    hideR18: 'Hide R18',
+    ageRestricted: 'Age-restricted content',
+    ageConfirm: 'This game has age-restricted content. Do you want to view it?',
+    ageYes: 'Yes, show me',
+    ageNo: 'No',
+    ageBadge: 'R18',
   },
 };
 
@@ -92,7 +104,9 @@ function dashboard() {
     selectedGenres: [],
     showOnlySale: false,
     showOnlyWithArticle: false,
+    hideR18: false,
     sortKey: 'name',
+    confirmedAgeApps: {},
 
     t(key) {
       return (i18n[this.lang] || i18n.ja)[key] || key;
@@ -114,6 +128,18 @@ function dashboard() {
 
     gameRelease(g) {
       return (this.lang === 'en' ? g.release_date_en : g.release_date_ja) || g.release_date || '';
+    },
+
+    isR18(g) {
+      return (g.required_age || 0) >= 18;
+    },
+
+    isAgeConfirmed(g) {
+      return !!this.confirmedAgeApps[g.appid];
+    },
+
+    confirmAge(appid) {
+      this.confirmedAgeApps[appid] = true;
     },
 
     reviewText(g) {
@@ -167,6 +193,10 @@ function dashboard() {
         result = result.filter(g => g.has_article);
       }
 
+      if (this.hideR18) {
+        result = result.filter(g => !this.isR18(g));
+      }
+
       result = [...result].sort((a, b) => {
         switch (this.sortKey) {
           case 'name':
@@ -203,6 +233,7 @@ function dashboard() {
       this.selectedGenres = [];
       this.showOnlySale = false;
       this.showOnlyWithArticle = false;
+      this.hideR18 = false;
     },
 
     formatYen(amount) {
