@@ -763,6 +763,57 @@ body {
   text-align: right;
 }
 
+/* ===== 記事内画像 ===== */
+.article-figure {
+  margin: 1.2rem 0;
+  text-align: center;
+}
+
+.article-img {
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+}
+
+.article-figure figcaption {
+  font-size: 0.8rem;
+  color: var(--pico-muted-color);
+  margin-top: 0.4rem;
+}
+
+/* ===== Steam OGP カード ===== */
+.steam-ogp-card {
+  display: block;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  margin: 1rem 0;
+  max-width: 460px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.steam-ogp-card:hover {
+  border-color: var(--steam-blue);
+  box-shadow: 0 2px 8px rgba(102, 192, 244, 0.15);
+}
+
+.steam-ogp-img {
+  width: 100%;
+  display: block;
+  aspect-ratio: 460 / 215;
+  object-fit: cover;
+}
+
+.steam-ogp-name {
+  display: block;
+  padding: 0.5rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #c7d5e0;
+}
+
 /* ===== プロフィールカード ===== */
 .profile-card {
   display: flex;

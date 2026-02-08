@@ -174,6 +174,36 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
             )
             continue
 
+        # Steam OGP カード: !steam[appid](ゲーム名)
+        steam_match = re.match(r'^!steam\[(\d+)\]\((.+?)\)\s*$', stripped)
+        if steam_match:
+            close_paragraph()
+            s_appid = steam_match.group(1)
+            s_name = steam_match.group(2)
+            html_lines.append(
+                f'<a href="https://store.steampowered.com/app/{s_appid}/" target="_blank" class="steam-ogp-card">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
+                f'<span class="steam-ogp-name">{s_name}</span>'
+                f'</a>'
+            )
+            continue
+
+        # 画像: ![alt](src)
+        img_match = re.match(r'^!\[(.+?)\]\((.+?)\)\s*$', stripped)
+        if img_match:
+            close_paragraph()
+            alt = img_match.group(1)
+            src = img_match.group(2)
+            if src.startswith("img/"):
+                src = img_prefix + src
+            html_lines.append(
+                f'<figure class="article-figure">'
+                f'<img src="{src}" alt="{alt}" class="article-img">'
+                f'<figcaption>{alt}</figcaption>'
+                f'</figure>'
+            )
+            continue
+
         # 見出し
         if stripped.startswith("### "):
             close_paragraph()
