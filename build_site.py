@@ -224,7 +224,6 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../") 
                 html_lines.append(
                     f'<div class="pet-safety-section">'
                     f'<div class="pet-safety-header">'
-                    f'<span class="pet-safety-icon">🐾</span>'
                     f'<span class="pet-safety-label">{pet_label}</span>'
                     f'</div>'
                 )
