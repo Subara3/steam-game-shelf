@@ -21,6 +21,4 @@ Thumbs.db
 # Build output (generated, not tracked)
 steam/data/
 steam/articles/
-
-# Local dev
-*.png
+steam/img/

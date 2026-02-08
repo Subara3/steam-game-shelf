@@ -687,6 +687,76 @@ body {
   color: var(--steam-blue);
 }
 
+/* ===== 対話スタイル ===== */
+.dialogue {
+  display: flex;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+  align-items: flex-start;
+}
+
+.dialogue-right {
+  flex-direction: row-reverse;
+}
+
+.dialogue-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--steam-darker);
+  border: 2px solid var(--card-border);
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.dialogue-bubble {
+  background: var(--steam-darker);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 0.6rem 1rem;
+  max-width: 75%;
+  position: relative;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #c7d5e0;
+}
+
+.dialogue-left .dialogue-bubble {
+  border-top-left-radius: 4px;
+}
+
+.dialogue-right .dialogue-bubble {
+  border-top-right-radius: 4px;
+}
+
+.dialogue-name {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--steam-blue);
+  margin-bottom: 0.2rem;
+}
+
+.dialogue-right .dialogue-name {
+  text-align: right;
+}
+
+/* EmoteLab クレジット */
+.emotelab-credit {
+  text-align: center;
+  margin: 1.5rem 0;
+  padding: 0.8rem;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  font-size: 0.8rem;
+  color: var(--pico-muted-color);
+}
+
+.emotelab-credit a {
+  color: var(--steam-blue);
+}
+
 /* フッター */
 footer {
   margin-top: 3rem;
