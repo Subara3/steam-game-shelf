@@ -33,9 +33,7 @@ pet_safety: mild
 
 > kotori: 面白いですね。
 
-> scala: たとえば、RimWorld。惑星を脱出する、というミッションがなくたって、面白いだろ？
-
-[RimWorld](https://store.steampowered.com/app/294100/)
+> scala: たとえば、[RimWorld](https://store.steampowered.com/app/294100/)。惑星を脱出する、というミッションがなくたって、面白いだろ？
 
 > kotori: んー。まあ、そうなのかも？
 
