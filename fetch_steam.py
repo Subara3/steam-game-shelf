@@ -89,6 +89,7 @@ def extract_game_info(raw_ja: dict, raw_en: dict | None, reviews: dict) -> dict:
 
     return {
         "appid": raw_ja.get("steam_appid"),
+        "required_age": int(raw_ja.get("required_age", 0) or 0),
         "name_ja": name_ja,
         "name_en": name_en,
         "name": name_en,  # 後方互換

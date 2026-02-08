@@ -89,6 +89,10 @@
           <input type="checkbox" x-model="showOnlyWithArticle">
           <span x-text="t('onlyArticle')"></span>
         </label>
+        <label class="filter-check">
+          <input type="checkbox" x-model="hideR18">
+          <span x-text="t('hideR18')"></span>
+        </label>
       </div>
 
       <div class="sidebar-section">
@@ -106,7 +110,7 @@
     <!-- メインコンテンツ -->
     <main class="main-content">
 
-      <div class="filter-status" x-show="searchQuery || selectedGenres.length > 0 || showOnlySale || showOnlyWithArticle">
+      <div class="filter-status" x-show="searchQuery || selectedGenres.length > 0 || showOnlySale || showOnlyWithArticle || hideR18">
         <span x-text="`${filteredGames.length}${t('showing')}`"></span>
         <button class="clear-filter" @click="clearFilters()" x-text="t('clearFilter')"></button>
       </div>
@@ -115,40 +119,62 @@
         <h2 x-text="t('gameList')"></h2>
         <div class="game-grid">
           <template x-for="g in filteredGames" :key="g.appid">
-            <article class="game-card">
-              <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
-                <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
-              </a>
-              <div class="game-body">
-                <h3 class="game-name" x-text="gameName(g)"></h3>
-                <p class="game-desc" x-text="gameDesc(g)"></p>
-                <div class="game-meta">
-                  <span class="game-genres" x-text="g.genres ? g.genres.slice(0, 3).join(' / ') : ''"></span>
-                  <span class="game-release" x-text="gameRelease(g)"></span>
+            <article class="game-card" :class="isR18(g) ? 'game-card-r18' : ''">
+              <!-- R18 年齢ゲート -->
+              <template x-if="isR18(g) && !isAgeConfirmed(g)">
+                <div class="age-gate">
+                  <div class="age-gate-inner">
+                    <span class="age-gate-badge" x-text="t('ageBadge')"></span>
+                    <h3 class="game-name" x-text="gameName(g)"></h3>
+                    <p class="age-gate-msg" x-text="t('ageConfirm')"></p>
+                    <div class="age-gate-buttons">
+                      <button class="btn-age-yes" @click="confirmAge(g.appid)" x-text="t('ageYes')"></button>
+                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-age-no" x-text="t('viewOnSteam')"></a>
+                    </div>
+                  </div>
                 </div>
-                <div class="game-price-row">
-                  <template x-if="g.discount_percent > 0">
-                    <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
-                  </template>
-                  <template x-if="g.discount_percent > 0">
-                    <span class="price-original" x-text="formatYen(g.price_initial)"></span>
-                  </template>
-                  <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+              </template>
+              <!-- 通常表示（R18未確認時は非表示） -->
+              <template x-if="!isR18(g) || isAgeConfirmed(g)">
+                <div>
+                  <div class="game-img-wrap">
+                    <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank">
+                      <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
+                    </a>
+                    <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
+                  </div>
+                  <div class="game-body">
+                    <h3 class="game-name" x-text="gameName(g)"></h3>
+                    <p class="game-desc" x-text="gameDesc(g)"></p>
+                    <div class="game-meta">
+                      <span class="game-genres" x-text="g.genres ? g.genres.slice(0, 3).join(' / ') : ''"></span>
+                      <span class="game-release" x-text="gameRelease(g)"></span>
+                    </div>
+                    <div class="game-price-row">
+                      <template x-if="g.discount_percent > 0">
+                        <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
+                      </template>
+                      <template x-if="g.discount_percent > 0">
+                        <span class="price-original" x-text="formatYen(g.price_initial)"></span>
+                      </template>
+                      <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                    </div>
+                    <div class="game-review-text" x-show="g.review_score_desc">
+                      <span class="review-label" x-text="reviewText(g)"></span>
+                    </div>
+                    <div class="game-extras">
+                      <span class="extra-badge extra-demo" x-show="g.demo_appid" x-text="t('playDemo')"></span>
+                      <span class="extra-badge extra-trailer" x-show="g.movies && g.movies.length > 0" x-text="t('trailer')"></span>
+                    </div>
+                    <div class="game-links">
+                      <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
+                      <template x-if="g.has_article">
+                        <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
+                      </template>
+                    </div>
+                  </div>
                 </div>
-                <div class="game-review-text" x-show="g.review_score_desc">
-                  <span class="review-label" x-text="reviewText(g)"></span>
-                </div>
-                <div class="game-extras">
-                  <span class="extra-badge extra-demo" x-show="g.demo_appid" x-text="t('playDemo')"></span>
-                  <span class="extra-badge extra-trailer" x-show="g.movies && g.movies.length > 0" x-text="t('trailer')"></span>
-                </div>
-                <div class="game-links">
-                  <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-steam" x-text="t('viewOnSteam')"></a>
-                  <template x-if="g.has_article">
-                    <a :href="`articles/${g.slug}.html`" class="btn-article" x-text="t('readArticle')"></a>
-                  </template>
-                </div>
-              </div>
+              </template>
             </article>
           </template>
         </div>
