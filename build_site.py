@@ -406,6 +406,15 @@ def main():
     if articles_en:
         build_article_pages(articles_en, lang="en")
 
+    # i18n インライン JS 生成
+    i18n_path = TEMPLATE_DIR / "i18n.json"
+    if i18n_path.exists():
+        with open(i18n_path, encoding="utf-8") as f:
+            i18n_data = f.read().strip()
+        with open(SITE_DIR / "i18n-data.js", "w", encoding="utf-8") as f:
+            f.write(f"window.__i18n={i18n_data};")
+        print("i18nインラインJS生成完了")
+
     # 静的ファイルコピー (templates/ → site/)
     for src in (TEMPLATE_DIR,):
         if src.exists():

@@ -1,5 +1,5 @@
 ---
-title: Stardew Valley - 時間が溶ける名作コージーゲーム
+title: Stardew Valley - 定番ぼくもの系列のゲーム
 appid: 413150
 tags: [シミュレーション, 牧場, インディー, マルチプレイ]
 ---
