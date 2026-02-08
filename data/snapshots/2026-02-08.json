@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T12:04:03.484739",
+  "timestamp": "2026-02-08T12:10:13.251109",
   "games": [
     {
       "appid": 2379780,
@@ -71,12 +71,12 @@
       ],
       "demo_appid": null,
       "recommendations_total": 147324,
-      "total_reviews": 182599,
-      "total_positive": 178821,
+      "total_reviews": 182600,
+      "total_positive": 178822,
       "total_negative": 3778,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
-      "fetched_at": "2026-02-08T12:04:03.484739"
+      "fetched_at": "2026-02-08T12:10:13.251109"
     },
     {
       "appid": 413150,
@@ -150,13 +150,13 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 836796,
+      "recommendations_total": 836807,
       "total_reviews": 975015,
       "total_positive": 960084,
       "total_negative": 14931,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
-      "fetched_at": "2026-02-08T12:04:03.484739"
+      "fetched_at": "2026-02-08T12:10:13.251109"
     },
     {
       "appid": 2135150,
@@ -240,7 +240,7 @@
       "total_negative": 526,
       "review_score_desc": "Very Positive",
       "slug": "elin",
-      "fetched_at": "2026-02-08T12:04:03.484739"
+      "fetched_at": "2026-02-08T12:10:13.251109"
     }
   ]
 }
