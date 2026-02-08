@@ -1,5 +1,6 @@
 {
   "appid": 413150,
+  "required_age": 0,
   "name_ja": "Stardew Valley",
   "name_en": "Stardew Valley",
   "name": "Stardew Valley",
@@ -75,5 +76,5 @@
   "total_negative": 14931,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
-  "fetched_at": "2026-02-08T11:49:58.423684"
+  "fetched_at": "2026-02-08T12:04:03.484739"
 }
