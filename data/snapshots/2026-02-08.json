@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T12:10:13.251109",
+  "timestamp": "2026-02-08T12:30:07.951157",
   "games": [
     {
       "appid": 2379780,
@@ -18,6 +18,16 @@
       ],
       "publishers": [
         "Playstack"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Strategy"
       ],
       "genres": [
         "カジュアル",
@@ -70,13 +80,13 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147324,
+      "recommendations_total": 147325,
       "total_reviews": 182600,
       "total_positive": 178822,
       "total_negative": 3778,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
-      "fetched_at": "2026-02-08T12:10:13.251109"
+      "fetched_at": "2026-02-08T12:30:07.951157"
     },
     {
       "appid": 413150,
@@ -94,6 +104,16 @@
       ],
       "publishers": [
         "ConcernedApe"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Simulation"
       ],
       "genres": [
         "インディー",
@@ -151,12 +171,12 @@
       ],
       "demo_appid": null,
       "recommendations_total": 836807,
-      "total_reviews": 975015,
-      "total_positive": 960084,
+      "total_reviews": 975031,
+      "total_positive": 960100,
       "total_negative": 14931,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
-      "fetched_at": "2026-02-08T12:10:13.251109"
+      "fetched_at": "2026-02-08T12:30:07.951157"
     },
     {
       "appid": 2135150,
@@ -174,6 +194,20 @@
       ],
       "publishers": [
         "Lafrontier"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー",
+        "早期アクセス"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy",
+        "Early Access"
       ],
       "genres": [
         "インディー",
@@ -240,7 +274,7 @@
       "total_negative": 526,
       "review_score_desc": "Very Positive",
       "slug": "elin",
-      "fetched_at": "2026-02-08T12:10:13.251109"
+      "fetched_at": "2026-02-08T12:30:07.951157"
     }
   ]
 }
