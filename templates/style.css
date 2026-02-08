@@ -131,6 +131,29 @@ body {
   height: 1rem;
 }
 
+/* セールフィルターラジオ */
+.sale-filter-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.filter-radio {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  color: #8f98a0;
+  cursor: pointer;
+  margin-bottom: 0.1rem;
+}
+
+.filter-radio input[type="radio"] {
+  margin: 0;
+  width: 0.9rem;
+  height: 0.9rem;
+}
+
 /* ソート */
 .sort-select {
   font-size: 0.8rem;
@@ -427,33 +450,6 @@ body {
 .review-label {
   font-size: 0.8rem;
   color: var(--steam-blue);
-}
-
-/* デモ・トレーラーバッジ */
-.game-extras {
-  display: flex;
-  gap: 0.4rem;
-  margin-bottom: 0.6rem;
-}
-
-.extra-badge {
-  display: inline-block;
-  padding: 0.15rem 0.5rem;
-  border-radius: 4px;
-  font-size: 0.7rem;
-  font-weight: 600;
-}
-
-.extra-demo {
-  background: rgba(102, 192, 244, 0.15);
-  color: var(--steam-blue);
-  border: 1px solid var(--steam-blue);
-}
-
-.extra-trailer {
-  background: rgba(164, 208, 7, 0.15);
-  color: var(--steam-green-bright);
-  border: 1px solid var(--steam-green-bright);
 }
 
 /* ===== R18 年齢ゲート ===== */
