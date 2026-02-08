@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T18:03:05.081407",
+  "timestamp": "2026-02-08T18:06:20.019801",
   "games": [
     {
       "appid": 2379780,
@@ -80,14 +80,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147343,
+      "recommendations_total": 147334,
       "total_reviews": 182620,
       "total_positive": 178841,
       "total_negative": 3779,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 413150,
@@ -178,7 +178,7 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 2135150,
@@ -277,7 +277,7 @@
       "review_score_desc": "Very Positive",
       "slug": "elin",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 391540,
@@ -355,7 +355,7 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 568220,
@@ -430,7 +430,7 @@
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 266210,
@@ -509,7 +509,7 @@
       "review_score_desc": "Very Positive",
       "slug": "one-way-heroics",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 1256670,
@@ -598,7 +598,7 @@
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 1404850,
@@ -691,7 +691,7 @@
       "review_score_desc": "Very Positive",
       "slug": "luck-be-a-landlord",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 3314790,
@@ -781,7 +781,7 @@
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 294100,
@@ -870,7 +870,7 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 632470,
@@ -959,7 +959,7 @@
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 1222140,
@@ -1038,7 +1038,7 @@
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 1054490,
@@ -1142,7 +1142,7 @@
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 1599600,
@@ -1235,7 +1235,7 @@
       "review_score_desc": "Very Positive",
       "slug": "plateup",
       "recommend": "multi",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     },
     {
       "appid": 913740,
@@ -1317,7 +1317,7 @@
       "review_score_desc": "Very Positive",
       "slug": "world-of-horror",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:03:05.081407"
+      "fetched_at": "2026-02-08T18:06:20.019801"
     }
   ]
 }
