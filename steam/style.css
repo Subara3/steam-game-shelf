@@ -366,28 +366,21 @@ body {
 /* 広告スロット（グリッド内：全幅） */
 .ad-slot-inline {
   grid-column: 1 / -1;
-  min-height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--steam-darker);
-  border: 1px dashed var(--card-border);
-  border-radius: 8px;
-  padding: 0.5rem;
+  text-align: center;
+  padding: 0.5rem 0;
   margin: 0.5rem 0;
 }
 
 /* 広告スロット（セクション間） */
 .ad-slot-between {
-  min-height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--steam-darker);
-  border: 1px dashed var(--card-border);
-  border-radius: 8px;
-  padding: 0.5rem;
+  text-align: center;
+  padding: 0.5rem 0;
   margin: 1.5rem 0;
+}
+
+/* サイドバー広告 */
+.ad-sidebar {
+  padding: 0;
 }
 
 .game-card {

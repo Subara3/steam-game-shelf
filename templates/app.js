@@ -185,6 +185,17 @@ function dashboard() {
         if (articlesResp.ok) {
           this.articles = await articlesResp.json();
         }
+        // Alpine動的テンプレート内の広告をpush
+        this.$nextTick(() => {
+          document.querySelectorAll('.ad-slot-inline .adsbygoogle').forEach(ins => {
+            if (!ins.dataset.adsbygooglePushed) {
+              try {
+                (window.adsbygoogle = window.adsbygoogle || []).push({});
+                ins.dataset.adsbygooglePushed = '1';
+              } catch (e) { /* ignore */ }
+            }
+          });
+        });
       } catch (e) {
         this.error = 'データの読み込みに失敗しました';
         console.error(e);

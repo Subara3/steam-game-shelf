@@ -7,8 +7,9 @@
 <meta name="description" content="おすすめSteamゲームのセール情報と紹介記事。価格推移をチェックしてお得にゲームを手に入れよう。">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="style.css">
-<!-- Google AdSense: ca-pub-ID を設定して有効化 -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
+     crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 </head>
 <body>
@@ -105,6 +106,17 @@
         </div>
       </div>
 
+      <!-- サイドバー広告 -->
+      <div class="sidebar-section ad-sidebar">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7086371722392050"
+             data-ad-slot="2327142442"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+
       <div class="sidebar-section">
         <h3 x-text="t('display')"></h3>
         <label class="filter-check">
@@ -147,8 +159,8 @@
                 <div class="ad-slot ad-slot-inline">
                   <ins class="adsbygoogle"
                     style="display:block"
-                    data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-                    data-ad-slot="XXXXXXXXXX"
+                    data-ad-client="ca-pub-7086371722392050"
+                    data-ad-slot="4953305789"
                     data-ad-format="auto"
                     data-full-width-responsive="true"></ins>
                 </div>
@@ -212,14 +224,15 @@
         <p class="no-results" x-show="filteredGames.length === 0" x-text="t('noResults')"></p>
       </section>
 
-      <!-- セクション間広告 -->
+      <!-- ゲーム一覧〜記事間の広告 -->
       <div class="ad-slot ad-slot-between">
         <ins class="adsbygoogle"
           style="display:block"
-          data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-          data-ad-slot="XXXXXXXXXX"
+          data-ad-client="ca-pub-7086371722392050"
+          data-ad-slot="4953305789"
           data-ad-format="auto"
           data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
       <section class="articles-section">
@@ -245,8 +258,22 @@
   </div>
 </div>
 
+<!-- フッター広告 -->
+<div style="text-align: center; margin: 20px auto; width: 100%; max-width: 1200px;">
+    <ins class="adsbygoogle"
+         style="display:block; margin: 0 auto;"
+         data-ad-client="ca-pub-7086371722392050"
+         data-ad-slot="4953305789"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
 <footer class="container">
   <p><span x-data="{ t: (localStorage.getItem('lang') || 'ja') === 'en' ? 'The Wonderful Steam Game Shelf' : 'すばらしきSteamゲームの本棚' }" x-text="t"></span> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
+  <p style="margin-top: 0.5rem;">
+    <a href="https://subara3.com/" style="margin: 0 0.5rem;">栖王ヴァルハラ３丁目</a>
+  </p>
 </footer>
 
 <script src="app.js"></script>
