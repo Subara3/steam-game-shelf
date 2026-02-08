@@ -778,10 +778,28 @@ body {
 .pet-safety-section {
   margin: 2rem 0;
   padding: 1.2rem 1.5rem;
-  background: linear-gradient(135deg, rgba(164, 208, 7, 0.06), rgba(102, 192, 244, 0.06));
-  border: 1px solid rgba(164, 208, 7, 0.25);
-  border-left: 4px solid var(--steam-green-bright);
+  border: 1px solid rgba(136, 136, 136, 0.25);
+  border-left: 4px solid #888;
   border-radius: 8px;
+  background: rgba(136, 136, 136, 0.04);
+}
+
+.pet-safety-none {
+  border-color: rgba(102, 192, 244, 0.25);
+  border-left-color: var(--steam-blue);
+  background: rgba(102, 192, 244, 0.04);
+}
+
+.pet-safety-mild {
+  border-color: rgba(230, 180, 50, 0.25);
+  border-left-color: #e6b432;
+  background: rgba(230, 180, 50, 0.04);
+}
+
+.pet-safety-severe {
+  border-color: rgba(200, 60, 60, 0.25);
+  border-left-color: #c83c3c;
+  background: rgba(200, 60, 60, 0.04);
 }
 
 .pet-safety-header {
@@ -790,18 +808,22 @@ body {
   gap: 0.5rem;
   margin-bottom: 1rem;
   padding-bottom: 0.6rem;
-  border-bottom: 1px solid rgba(164, 208, 7, 0.15);
+  border-bottom: 1px solid rgba(136, 136, 136, 0.15);
 }
 
-.pet-safety-icon {
-  font-size: 1.3rem;
-}
+.pet-safety-none .pet-safety-header { border-bottom-color: rgba(102, 192, 244, 0.15); }
+.pet-safety-mild .pet-safety-header { border-bottom-color: rgba(230, 180, 50, 0.15); }
+.pet-safety-severe .pet-safety-header { border-bottom-color: rgba(200, 60, 60, 0.15); }
 
 .pet-safety-label {
   font-size: 1rem;
   font-weight: 700;
-  color: var(--steam-green-bright);
+  color: #888;
 }
+
+.pet-safety-none .pet-safety-label { color: var(--steam-blue); }
+.pet-safety-mild .pet-safety-label { color: #e6b432; }
+.pet-safety-severe .pet-safety-label { color: #c83c3c; }
 
 .pet-safety-section .dialogue {
   margin-bottom: 0.6rem;
