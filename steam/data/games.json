@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T17:38:02.976423",
+  "timestamp": "2026-02-08T17:56:52.693334",
   "games": [
     {
       "appid": 2379780,
@@ -80,14 +80,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147334,
+      "recommendations_total": 147343,
       "total_reviews": 182620,
       "total_positive": 178841,
       "total_negative": 3779,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
-      "fetched_at": "2026-02-08T17:38:02.976423",
+      "fetched_at": "2026-02-08T17:56:52.693334",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -174,13 +174,13 @@
       ],
       "demo_appid": null,
       "recommendations_total": 836866,
-      "total_reviews": 975082,
-      "total_positive": 960148,
+      "total_reviews": 975099,
+      "total_positive": 960165,
       "total_negative": 14934,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
-      "recommend": "multi",
-      "fetched_at": "2026-02-08T17:38:02.976423",
+      "recommend": "all",
+      "fetched_at": "2026-02-08T17:56:52.693334",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -281,9 +281,89 @@
       "review_score_desc": "Very Positive",
       "slug": "elin",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T17:38:02.976423",
+      "fetched_at": "2026-02-08T17:56:52.693334",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
+    },
+    {
+      "appid": 391540,
+      "required_age": 0,
+      "name_ja": "Undertale",
+      "name_en": "Undertale",
+      "name": "Undertale",
+      "short_description_ja": "誰も倒さなくていいRPG、UNDERTALE！",
+      "short_description_en": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+      "short_description": "誰も倒さなくていいRPG、UNDERTALE！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg?t=1757349115",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/capsule_231x87.jpg?t=1757349115",
+      "developers": [
+        "tobyfox"
+      ],
+      "publishers": [
+        "tobyfox"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG"
+      ],
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steamトレーディングカード",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2015年9月15日",
+      "release_date_en": "15 Sep, 2015",
+      "release_date": "2015年9月15日",
+      "is_free": false,
+      "price_initial": 98000,
+      "price_final": 98000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 980",
+      "currency": "JPY",
+      "metacritic_score": 92,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, 日本語",
+      "website": "http://undertale.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_a3aa8c49dea2ad2a04eca2b55b92fcdce6531ffa.1920x1080.jpg?t=1757349115",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_f0a8e94f44b3bfd74cf3c7b520b741d2c042cab6.1920x1080.jpg?t=1757349115",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_8a69234c7f8af184b0f93bdfe224b97fe785ba22.1920x1080.jpg?t=1757349115",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_4cd732b64163ebe58fb4b1ab371cc619b77326e1.1920x1080.jpg?t=1757349115",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_cdefe7a3503905a511f44161061241f5247e2a3e.1920x1080.jpg?t=1757349115"
+      ],
+      "movies": [
+        {
+          "name": "UNDERTALE Japanese Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693582/movie.293x165.jpg?t=1503525481",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 281598,
+      "total_reviews": 313545,
+      "total_positive": 303429,
+      "total_negative": 10116,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "undertale",
+      "recommend": "niche",
+      "fetched_at": "2026-02-08T17:56:52.693334",
+      "has_article": true,
+      "article_title": "Undertale - こっちを見てくるRPG"
     }
   ]
 }

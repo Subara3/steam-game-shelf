@@ -348,7 +348,6 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         top_label = "Top"
         store_label = "Steam Store Page"
         site_name = "The Wonderful Steam Game Shelf"
-        emotelab_credit = 'Characters in this article were created with <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a>.'
     else:
         articles_dir = SITE_DIR / "articles"
         prefix = "../"
@@ -356,7 +355,6 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         top_label = "トップ"
         store_label = "Steam ストアページ"
         site_name = "すばらしきSteamゲームの本棚"
-        emotelab_credit = 'この記事のキャラクターは <a href="https://store.steampowered.com/app/4301100/EmoteLab/" target="_blank">EmoteLab</a> で作成しました。'
 
     articles_dir.mkdir(parents=True, exist_ok=True)
 
@@ -438,9 +436,6 @@ def build_article_pages(articles: dict, lang: str = "ja"):
     <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
   </div>
 
-  <div class="emotelab-credit">
-    <p>{emotelab_credit}</p>
-  </div>
 </main>
 <footer class="container">
   <p><a href="{prefix}">{site_name}</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
