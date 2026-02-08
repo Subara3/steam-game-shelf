@@ -741,6 +741,57 @@ body {
   text-align: right;
 }
 
+/* ===== プロフィールカード ===== */
+.profile-card {
+  display: flex;
+  gap: 1.5rem;
+  background: var(--steam-darker);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  align-items: flex-start;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  background: var(--card-bg);
+  border: 2px solid var(--card-border);
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.profile-name {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--steam-blue);
+  margin-bottom: 0.5rem;
+}
+
+.profile-text {
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: #c7d5e0;
+}
+
+.profile-text p {
+  margin-bottom: 0.4rem;
+}
+
+.profile-text p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .profile-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
 /* EmoteLab クレジット */
 .emotelab-credit {
   text-align: center;
