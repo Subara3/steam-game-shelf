@@ -1,6 +1,6 @@
 {
   "date": "2026-02-08",
-  "timestamp": "2026-02-08T18:13:17.666007",
+  "timestamp": "2026-02-08T22:32:31.183582",
   "games": [
     {
       "appid": 2379780,
@@ -80,14 +80,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147343,
-      "total_reviews": 182620,
-      "total_positive": 178841,
+      "recommendations_total": 147353,
+      "total_reviews": 182632,
+      "total_positive": 178853,
       "total_negative": 3779,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 413150,
@@ -171,14 +171,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 836866,
-      "total_reviews": 975099,
-      "total_positive": 960165,
+      "recommendations_total": 836939,
+      "total_reviews": 975170,
+      "total_positive": 960236,
       "total_negative": 14934,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 2135150,
@@ -277,7 +277,7 @@
       "review_score_desc": "Very Positive",
       "slug": "elin",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 391540,
@@ -348,14 +348,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 281598,
-      "total_reviews": 313557,
-      "total_positive": 303441,
-      "total_negative": 10116,
+      "recommendations_total": 281639,
+      "total_reviews": 313586,
+      "total_positive": 303468,
+      "total_negative": 10118,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 568220,
@@ -423,14 +423,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 46892,
-      "total_reviews": 50995,
-      "total_positive": 47990,
-      "total_negative": 3005,
+      "recommendations_total": 46896,
+      "total_reviews": 51001,
+      "total_positive": 47995,
+      "total_negative": 3006,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 266210,
@@ -503,13 +503,13 @@
       ],
       "demo_appid": null,
       "recommendations_total": 3461,
-      "total_reviews": 4101,
-      "total_positive": 3857,
+      "total_reviews": 4102,
+      "total_positive": 3858,
       "total_negative": 244,
       "review_score_desc": "Very Positive",
       "slug": "one-way-heroics",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 1256670,
@@ -591,14 +591,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 35867,
-      "total_reviews": 39868,
-      "total_positive": 37626,
+      "recommendations_total": 35870,
+      "total_reviews": 39871,
+      "total_positive": 37629,
       "total_negative": 2242,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 1404850,
@@ -684,14 +684,14 @@
         }
       ],
       "demo_appid": 1439770,
-      "recommendations_total": 9992,
-      "total_reviews": 11275,
-      "total_positive": 10516,
+      "recommendations_total": 9993,
+      "total_reviews": 11276,
+      "total_positive": 10517,
       "total_negative": 759,
       "review_score_desc": "Very Positive",
       "slug": "luck-be-a-landlord",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 3314790,
@@ -774,14 +774,14 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 19807,
-      "total_reviews": 20754,
-      "total_positive": 18733,
+      "recommendations_total": 19812,
+      "total_reviews": 20760,
+      "total_positive": 18739,
       "total_negative": 2021,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 294100,
@@ -863,14 +863,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 197434,
-      "total_reviews": 232954,
-      "total_positive": 228054,
-      "total_negative": 4900,
+      "recommendations_total": 197447,
+      "total_reviews": 232971,
+      "total_positive": 228070,
+      "total_negative": 4901,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 632470,
@@ -952,14 +952,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111403,
-      "total_reviews": 123127,
-      "total_positive": 114201,
-      "total_negative": 8926,
+      "recommendations_total": 111420,
+      "total_reviews": 123144,
+      "total_positive": 114216,
+      "total_negative": 8928,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 1222140,
@@ -1031,14 +1031,14 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 193402,
-      "total_reviews": 224216,
-      "total_positive": 215655,
-      "total_negative": 8561,
+      "recommendations_total": 193442,
+      "total_reviews": 224259,
+      "total_positive": 215699,
+      "total_negative": 8560,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 1054490,
@@ -1135,14 +1135,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9299,
-      "total_reviews": 11382,
-      "total_positive": 10733,
+      "recommendations_total": 9301,
+      "total_reviews": 11385,
+      "total_positive": 10736,
       "total_negative": 649,
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
       "recommend": "all",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 1599600,
@@ -1228,14 +1228,14 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 17368,
-      "total_reviews": 25528,
-      "total_positive": 24198,
+      "recommendations_total": 17371,
+      "total_reviews": 25532,
+      "total_positive": 24202,
       "total_negative": 1330,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
       "recommend": "multi",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 913740,
@@ -1310,14 +1310,14 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 8843,
+      "recommendations_total": 8844,
       "total_reviews": 9687,
       "total_positive": 8695,
       "total_negative": 992,
       "review_score_desc": "Very Positive",
       "slug": "world-of-horror",
       "recommend": "niche",
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 4045680,
@@ -1389,7 +1389,7 @@
       "slug": "kanmuri",
       "recommend": "niche",
       "coming_soon": true,
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     },
     {
       "appid": 4371880,
@@ -1459,7 +1459,7 @@
       "slug": "cyan-project",
       "recommend": "niche",
       "coming_soon": true,
-      "fetched_at": "2026-02-08T18:13:17.666007"
+      "fetched_at": "2026-02-08T22:32:31.183582"
     }
   ]
 }
