@@ -34,9 +34,9 @@
   "release_date": "2024年2月22日",
   "is_free": false,
   "price_initial": 47000,
-  "price_final": 47000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 470",
+  "price_final": 42300,
+  "discount_percent": 10,
+  "price_formatted": "¥ 423",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -90,5 +90,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-02-09T14:18:38.076654"
+  "fetched_at": "2026-02-09T19:54:05.472583"
 }
