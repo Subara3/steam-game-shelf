@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T10:24:15.699783",
+  "timestamp": "2026-02-09T10:32:05.886640",
   "games": [
     {
       "appid": 2379780,
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 413150,
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 2135150,
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 391540,
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 568220,
@@ -503,7 +503,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 46904,
+      "recommendations_total": 46905,
       "total_reviews": 51013,
       "total_positive": 48008,
       "total_negative": 3005,
@@ -530,7 +530,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1256670,
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1404850,
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 3314790,
@@ -935,8 +935,8 @@
       ],
       "demo_appid": 3347820,
       "recommendations_total": 19823,
-      "total_reviews": 20771,
-      "total_positive": 18747,
+      "total_reviews": 20770,
+      "total_positive": 18746,
       "total_negative": 2024,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -961,7 +961,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 294100,
@@ -1049,7 +1049,7 @@
       "total_negative": 4902,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
-      "recommend": "all",
+      "recommend": "niche",
       "tags_ja": [
         "コロニーシミュレーション",
         "基地建設",
@@ -1070,7 +1070,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 632470,
@@ -1179,7 +1179,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1222140,
@@ -1278,7 +1278,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1054490,
@@ -1402,7 +1402,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1599600,
@@ -1494,7 +1494,8 @@
       "total_negative": 1330,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
-      "recommend": "multi",
+      "recommend": "all",
+      "multi": true,
       "tags_ja": [
         "協力プレイ",
         "管理",
@@ -1515,7 +1516,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 913740,
@@ -1617,7 +1618,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1092790,
@@ -1697,7 +1698,7 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129041,
+      "recommendations_total": 129040,
       "total_reviews": 141712,
       "total_positive": 137275,
       "total_negative": 4437,
@@ -1724,7 +1725,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 239030,
@@ -1826,7 +1827,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1669980,
@@ -1939,7 +1940,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 2676840,
@@ -2015,7 +2016,7 @@
       "total_negative": 322,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
-      "recommend": "niche",
+      "recommend": "all",
       "tags_ja": [
         "インタラクティブフィクション",
         "パズル",
@@ -2036,7 +2037,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 3117820,
@@ -2175,7 +2176,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1794680,
@@ -2296,7 +2297,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 447530,
@@ -2400,7 +2401,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 1515210,
@@ -2497,7 +2498,8 @@
       "total_negative": 847,
       "review_score_desc": "Very Positive",
       "slug": "the-past-within",
-      "recommend": "multi",
+      "recommend": "all",
+      "multi": true,
       "tags_ja": [
         "協力プレイ",
         "パズル",
@@ -2518,7 +2520,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 4045680,
@@ -2610,7 +2612,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 4371880,
@@ -2700,7 +2702,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 2263010,
@@ -2800,7 +2802,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     },
     {
       "appid": 2973410,
@@ -2895,7 +2897,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-09T10:24:15.699783"
+      "fetched_at": "2026-02-09T10:32:05.886640"
     }
   ]
 }
