@@ -380,8 +380,13 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
         json.dump(article_list, f, ensure_ascii=False, indent=2)
 
 
-def build_article_pages(articles: dict, lang: str = "ja"):
+def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None = None):
     """Markdown記事をHTMLページとして出力"""
+    # appid → header_image マップ構築
+    header_images = {}
+    if snapshot:
+        for g in snapshot.get("games", []):
+            header_images[str(g.get("appid", ""))] = g.get("header_image", "")
     if lang == "en":
         articles_dir = SITE_DIR / "articles" / "en"
         prefix = "../../"
@@ -405,9 +410,10 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         appid = meta.get("appid", "")
 
         if appid:
+            header_img = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
             ogp_card = (
                 f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg" alt="{title}" class="steam-ogp-img">'
+                f'<img src="{header_img}" alt="{title}" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">{store_label}</span>'
                 f'</a>'
             )
@@ -448,7 +454,7 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         # OG image: ゲーム記事ならSteamヘッダー画像
         og_image = ""
         if appid:
-            og_image = f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg"
+            og_image = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
 
         canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
         og_image_tag = f'\n<meta property="og:image" content="{og_image}">' if og_image else ""
@@ -574,9 +580,9 @@ def main():
 
     # 記事ページ生成
     if articles:
-        build_article_pages(articles, lang="ja")
+        build_article_pages(articles, lang="ja", snapshot=snapshot)
     if articles_en:
-        build_article_pages(articles_en, lang="en")
+        build_article_pages(articles_en, lang="en", snapshot=snapshot)
 
     # i18n インライン JS 生成
     i18n_path = TEMPLATE_DIR / "i18n.json"
