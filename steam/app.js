@@ -45,6 +45,13 @@ function dashboard() {
       return (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
     },
 
+    gameMainGenres(g) {
+      const genres = (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
+      if (genres.length > 0) return genres;
+      const tags = this.lang === 'en' ? g.tags_en : g.tags_ja;
+      return (tags || []).slice(0, 3);
+    },
+
     isR18(g) {
       return (g.required_age || 0) >= 18;
     },
