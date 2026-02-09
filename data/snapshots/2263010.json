@@ -1,0 +1,100 @@
+{
+  "appid": 2263010,
+  "required_age": 0,
+  "name_ja": "Pineapple on pizza",
+  "name_en": "Pineapple on pizza",
+  "name": "Pineapple on pizza",
+  "short_description_ja": "Can a video game convey a flavor?",
+  "short_description_en": "Can a video game convey a flavor?",
+  "short_description": "Can a video game convey a flavor?",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/header.jpg?t=1726861073",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/capsule_231x87.jpg?t=1726861073",
+  "developers": [
+    "Majorariatto"
+  ],
+  "publishers": [
+    "Majorariatto"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "無料プレイ"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Free To Play"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "無料プレイ"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート"
+  ],
+  "release_date_ja": "2023年3月28日",
+  "release_date_en": "28 Mar, 2023",
+  "release_date": "2023年3月28日",
+  "is_free": true,
+  "price_initial": 0,
+  "price_final": 0,
+  "discount_percent": 0,
+  "price_formatted": "",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, スペイン語 - スペイン",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_06a10f257421987bc5892df859ea87fee63a5d1c.1920x1080.jpg?t=1726861073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_9911f8b25803b1a9495a746dc66094ec22739acd.1920x1080.jpg?t=1726861073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8b7868bd8a032c7b4247ab5a0cadf7a950e837d5.1920x1080.jpg?t=1726861073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_d8a3562250354b17600616b579c96592b8a51410.1920x1080.jpg?t=1726861073",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8a08644f012904a031b126c772aa5f82a1a7d47a.1920x1080.jpg?t=1726861073"
+  ],
+  "movies": [
+    {
+      "name": "Pineapple on Pizza launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935012/movie.293x165.jpg?t=1679503481",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 0,
+  "total_reviews": 25289,
+  "total_positive": 24719,
+  "total_negative": 570,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "pineapple-on-pizza",
+  "recommend": "all",
+  "free_section": true,
+  "tags_ja": [
+    "無料プレイ",
+    "短時間",
+    "探検",
+    "ダークコメディ",
+    "シングルプレイヤー",
+    "ファーストパーソン",
+    "ウォーキングシミュレーター",
+    "毒のあるユーモア"
+  ],
+  "tags_en": [
+    "Free to Play",
+    "Short",
+    "Exploration",
+    "Dark Comedy",
+    "Singleplayer",
+    "First-Person",
+    "Walking Simulator",
+    "Dark Humor"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

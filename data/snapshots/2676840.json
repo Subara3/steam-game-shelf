@@ -1,0 +1,97 @@
+{
+  "appid": 2676840,
+  "required_age": 0,
+  "name_ja": "未解決事件は終わらせないといけないから",
+  "name_en": "No Case Should Remain Unsolved",
+  "name": "No Case Should Remain Unsolved",
+  "short_description_ja": "清崎蒼警部の退職から12年後、ある日訪ねてきた若い警官。彼女は「犀華ちゃん行方不明事件」を終わらせるよう協力を要請してきた。清崎はバラバラになった記憶のかけらを思い出して再構成するが、明らかとなったのは犀華の周りの全員が嘘つきだったということだけ。",
+  "short_description_en": "Twelve years after Senior Inspector Jeon Gyeong's retirement, she is visited by a young police officer: a woman who pleads with her to reexamine Seowon's case. But with each uncovered memory, only one thing becomes clear: everyone in Seowon's vicinity was lying.",
+  "short_description": "清崎蒼警部の退職から12年後、ある日訪ねてきた若い警官。彼女は「犀華ちゃん行方不明事件」を終わらせるよう協力を要請してきた。清崎はバラバラになった記憶のかけらを思い出して再構成するが、明らかとなったのは犀華の周りの全員が嘘つきだったということだけ。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/header_japanese.jpg?t=1747299882",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/capsule_231x87_japanese.jpg?t=1747299882",
+  "developers": [
+    "Somi"
+  ],
+  "publishers": [
+    "Somi"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年1月17日",
+  "release_date_en": "17 Jan, 2024",
+  "release_date": "2024年1月17日",
+  "is_free": false,
+  "price_initial": 80000,
+  "price_final": 80000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 800",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "韓国語, 英語, 日本語, 中国語（簡体字）, ロシア語, 中国語（繁体字）, ポルトガル語－ブラジル, フランス語, インドネシア語, ドイツ語, スペイン語 - スペイン, イタリア語, ベトナム語",
+  "website": "https://somigames.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_29f0727972a5d6ab740e0d04431dafd7a73dee02.1920x1080.jpg?t=1747299882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_9ae7af8c30272c730018e8155bef42184af93c2b.1920x1080.jpg?t=1747299882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_0bf0b5a8368b6cd427108b2850d8715c44783a71.1920x1080.jpg?t=1747299882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_057c2864885b7c81f38a15d5d36d005e4ffb293e.1920x1080.jpg?t=1747299882",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_b4ba18b1b088550b0b2176366f96595b039fced7.1920x1080.jpg?t=1747299882"
+  ],
+  "movies": [
+    {
+      "name": "No Case Should Remain Unsolved Official Trailer Japanese",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989527/movie.293x165.jpg?t=1702803852",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 9105,
+  "total_reviews": 9419,
+  "total_positive": 9097,
+  "total_negative": 322,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "no-case-should-remain-unsolved",
+  "recommend": "niche",
+  "tags_ja": [
+    "インタラクティブフィクション",
+    "パズル",
+    "調査",
+    "ビジュアルノベル",
+    "ポイント＆クリック",
+    "物語性",
+    "アドベンチャー",
+    "女性主人公"
+  ],
+  "tags_en": [
+    "Interactive Fiction",
+    "Puzzle",
+    "Investigation",
+    "Visual Novel",
+    "Point & Click",
+    "Story Rich",
+    "Adventure",
+    "Female Protagonist"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

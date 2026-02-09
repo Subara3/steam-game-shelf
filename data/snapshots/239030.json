@@ -1,0 +1,102 @@
+{
+  "appid": 239030,
+  "required_age": 0,
+  "name_ja": "Papers, Please",
+  "name_en": "Papers, Please",
+  "name": "Papers, Please",
+  "short_description_ja": "おめでとう。10月度勤労抽選により貴方を入国審査官に命ずる。即座配属のため、至急グレスティン国境検問所の入国管理省に赴くように。貴方とその家族には、東グレスティンの８等級の住居が割り当てられる。アルストツカに栄光あれ。ここは、共産主義国アルストツカ。隣国コレチアとの6年間の戦争がついに終わり、国境の町グレスティンの半分を正当に取り戻し、晴れて国交を再開することに。あなたの仕事は入国審査官としてアルストツカへの入国者を審査することです。仕事を探している移民や観光客の中に潜む密輸業者、スパイ、テロリストたちを見極める必要があります。入国希望者のパスポートをはじめとする数々の書類をもとに、入国を認めるか、拒否するかを判断しなければなりません。",
+  "short_description_en": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
+  "short_description": "おめでとう。10月度勤労抽選により貴方を入国審査官に命ずる。即座配属のため、至急グレスティン国境検問所の入国管理省に赴くように。貴方とその家族には、東グレスティンの８等級の住居が割り当てられる。アルストツカに栄光あれ。ここは、共産主義国アルストツカ。隣国コレチアとの6年間の戦争がついに終わり、国境の町グレスティンの半分を正当に取り戻し、晴れて国交を再開することに。あなたの仕事は入国審査官としてアルストツカへの入国者を審査することです。仕事を探している移民や観光客の中に潜む密輸業者、スパイ、テロリストたちを見極める必要があります。入国希望者のパスポートをはじめとする数々の書類をもとに、入国を認めるか、拒否するかを判断しなければなりません。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/capsule_231x87.jpg?t=1678266428",
+  "developers": [
+    "Lucas Pope"
+  ],
+  "publishers": [
+    "3909"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "データ",
+    "Steamランキング",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2013年8月8日",
+  "release_date_en": "8 Aug, 2013",
+  "release_date": "2013年8月8日",
+  "is_free": false,
+  "price_initial": 120000,
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
+  "currency": "JPY",
+  "metacritic_score": 85,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, イタリア語, 日本語, ポーランド語, ウクライナ語, チェコ語, 中国語（簡体字）, トルコ語, バスク語, 韓国語",
+  "website": "http://papersplea.se",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4cd77e3ef5b147b011a5cf8f96b8bcbcd79b3e15.1920x1080.jpg?t=1678266428",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_a1d08145ac2d3e85e8db440ccfeb7f7ad3c8247a.1920x1080.jpg?t=1678266428",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4b50458fbc4afe2917803b59a35afb3e5d61c960.1920x1080.jpg?t=1678266428",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_958285f31774906eb4def9d98a83e7926ceb3be2.1920x1080.jpg?t=1678266428",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_d24155eecb65aaff7367b791bc7d4910fe59b303.1920x1080.jpg?t=1678266428"
+  ],
+  "movies": [
+    {
+      "name": "Papers, Please Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028977/movie.293x165.jpg?t=1447358378",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 71071,
+  "total_reviews": 78028,
+  "total_positive": 75914,
+  "total_negative": 2114,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "papers-please",
+  "recommend": "all",
+  "tags_ja": [
+    "インディー",
+    "政治的",
+    "シミュレーション",
+    "ポイント＆クリック",
+    "シングルプレイヤー",
+    "ドット絵",
+    "ディストピア",
+    "マルチエンディング"
+  ],
+  "tags_en": [
+    "Indie",
+    "Political",
+    "Simulation",
+    "Point & Click",
+    "Singleplayer",
+    "Pixel Graphics",
+    "Dystopian ",
+    "Multiple Endings"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

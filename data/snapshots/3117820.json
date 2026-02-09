@@ -1,0 +1,139 @@
+{
+  "appid": 3117820,
+  "required_age": 0,
+  "name_ja": "スルタンのゲーム",
+  "name_en": "Sultan's Game",
+  "name": "Sultan's Game",
+  "short_description_ja": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
+  "short_description_en": "Survive a mad Sultan's reign in this brutal resource management RPG. Draw a card every seven days and complete its challenge. Make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement?",
+  "short_description": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/header_japanese.jpg?t=1769683666",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/f2719fdcb3d4a3ad36d6e5c635e7a1f6a563c639/capsule_231x87_japanese.jpg?t=1769683666",
+  "developers": [
+    "Double Cross"
+  ],
+  "publishers": [
+    "2P Games"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamワークショップ",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2025年3月30日",
+  "release_date_en": "30 Mar, 2025",
+  "release_date": "2025年3月30日",
+  "is_free": false,
+  "price_initial": 280000,
+  "price_final": 280000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,800",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/25def93936d3d502a3c34ae58a5455aabefeee74/ss_25def93936d3d502a3c34ae58a5455aabefeee74.1920x1080.jpg?t=1769683666",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/5345af0a4b29b70f492693ff06dece09ec177bdf/ss_5345af0a4b29b70f492693ff06dece09ec177bdf.1920x1080.jpg?t=1769683666",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/81493bc183e1d137cdbdf166de5d36037f67d9c9/ss_81493bc183e1d137cdbdf166de5d36037f67d9c9.1920x1080.jpg?t=1769683666",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/6a2df2a2db981cba4c71a9905b185a7776b2cbc2/ss_6a2df2a2db981cba4c71a9905b185a7776b2cbc2.1920x1080.jpg?t=1769683666",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/24ef00fa73a2c712344d14367bf482c38abd562b/ss_24ef00fa73a2c712344d14367bf482c38abd562b.1920x1080.jpg?t=1769683666"
+  ],
+  "movies": [
+    {
+      "name": "Story Trailer JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229465/11fc1415c73e11fa87208109789eacc2d7b81981/movie_600x337.jpg?t=1762850819",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "鏡の中のもの",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190483/38c5b51d9e0c0e573e70e8c804cb201eff3d5256/movie_600x337.jpg?t=1756440238",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Sultan's Game | Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120108/1a767352511ea22624510eaffa19e6ed56f3d41f/movie_600x337.jpg?t=1743390027",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Summer Sale Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257162215/2863c728aac064e86dc73968593601c95bfb9440/movie_600x337.jpg?t=1750999774",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Creating the Sultan's Game - The Musician ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120140/81d931c7b9010364094d1141d66c8aed629acc21/movie_600x337.jpg?t=1743390030",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057798/movie.293x165.jpg?t=1727144160",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 22697,
+  "total_reviews": 31853,
+  "total_positive": 30318,
+  "total_negative": 1535,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "sultans-game",
+  "recommend": "niche",
+  "tags_ja": [
+    "シングルプレイヤー",
+    "物語性",
+    "RPG",
+    "カードゲーム",
+    "ストラテジー",
+    "シミュレーション",
+    "アドベンチャー",
+    "精神的恐怖"
+  ],
+  "tags_en": [
+    "Singleplayer",
+    "Story Rich",
+    "RPG",
+    "Card Game",
+    "Strategy",
+    "Simulation",
+    "Adventure",
+    "Psychological Horror"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

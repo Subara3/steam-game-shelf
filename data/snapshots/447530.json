@@ -1,0 +1,104 @@
+{
+  "appid": 447530,
+  "required_age": 0,
+  "name_ja": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "name_en": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "short_description_ja": "美しくも儚い芸術的な世界観、独特のゲームシステムが融合したゲーム性、他のゲームに例を見ない、まったく新しいサイバーパンク・ストーリーを体験しよう！",
+  "short_description_en": "VA-11 HALL-A: Cyberpunk Bartender Action is a booze em' up about waifus, technology, and post-dystopia life.",
+  "short_description": "美しくも儚い芸術的な世界観、独特のゲームシステムが融合したゲーム性、他のゲームに例を見ない、まったく新しいサイバーパンク・ストーリーを体験しよう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/header.jpg?t=1730740610",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/capsule_231x87.jpg?t=1730740610",
+  "developers": [
+    "Sukeban Games"
+  ],
+  "publishers": [
+    "Ysbryd Games",
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年6月21日",
+  "release_date_en": "21 Jun, 2016",
+  "release_date": "2016年6月21日",
+  "is_free": false,
+  "price_initial": 150000,
+  "price_final": 150000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,500",
+  "currency": "JPY",
+  "metacritic_score": 77,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）",
+  "website": "http://waifubartending.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_03baa586b9192052a13f4987ec4b60ef46e943ed.1920x1080.jpg?t=1730740610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_04a29c4e2bfef458f6089b911289a01175421795.1920x1080.jpg?t=1730740610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_d42ddc2311eda61cb0f16fba13d188ddf4506457.1920x1080.jpg?t=1730740610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_a8b14392148f7a65532b808f29bc54c33a8cc50b.1920x1080.jpg?t=1730740610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_7493c9d9b1f0adf931224437cdee00642d710a8f.1920x1080.jpg?t=1730740610"
+  ],
+  "movies": [
+    {
+      "name": "Japanese Final Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701288/movie.293x165.jpg?t=1510845637",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 32925,
+  "total_reviews": 37728,
+  "total_positive": 36731,
+  "total_negative": 997,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "va11halla",
+  "recommend": "niche",
+  "tags_ja": [
+    "サイバーパンク",
+    "ビジュアルノベル",
+    "ドット絵",
+    "物語性",
+    "女性主人公",
+    "ディストピア",
+    "LGBTQ+",
+    "選択型進行"
+  ],
+  "tags_en": [
+    "Cyberpunk",
+    "Visual Novel",
+    "Pixel Graphics",
+    "Story Rich",
+    "Female Protagonist",
+    "Dystopian ",
+    "LGBTQ+",
+    "Choices Matter"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

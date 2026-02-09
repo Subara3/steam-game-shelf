@@ -74,13 +74,17 @@ function dashboard() {
       return this.games.filter(g => g.coming_soon);
     },
 
+    get freeGames() {
+      return this.games.filter(g => g.free_section);
+    },
+
     get siteArticles() {
       return this.articles.filter(a => !a.appid);
     },
 
     get allGenres() {
       const counts = {};
-      this.games.filter(g => !g.coming_soon).forEach(g => {
+      this.games.filter(g => !g.coming_soon && !g.free_section).forEach(g => {
         this.gameGenres(g).forEach(genre => {
           counts[genre] = (counts[genre] || 0) + 1;
         });
@@ -96,7 +100,7 @@ function dashboard() {
     },
 
     get filteredGames() {
-      let result = this.games.filter(g => !g.coming_soon);
+      let result = this.games.filter(g => !g.coming_soon && !g.free_section);
 
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();

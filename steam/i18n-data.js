@@ -44,7 +44,9 @@ window.__i18n={
     "recommendMulti": "マルチ推奨",
     "comingSoon": "ウィッシュリスト",
     "comingSoonBadge": "未リリース",
-    "wishlist": "ウィッシュリストに入れる"
+    "wishlist": "ウィッシュリストに入れる",
+    "freeGames": "フリーゲーム",
+    "freeGamesBadge": "無料"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -91,7 +93,9 @@ window.__i18n={
     "recommendMulti": "Best with friends",
     "comingSoon": "On Our Radar",
     "comingSoonBadge": "Coming Soon",
-    "wishlist": "Add to Wishlist"
+    "wishlist": "Add to Wishlist",
+    "freeGames": "Free Games",
+    "freeGamesBadge": "Free"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",

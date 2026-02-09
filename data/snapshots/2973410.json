@@ -1,0 +1,95 @@
+{
+  "appid": 2973410,
+  "required_age": 0,
+  "name_ja": "就労！！わんわんヒューマン",
+  "name_en": "就労！！わんわんヒューマン",
+  "name": "就労！！わんわんヒューマン",
+  "short_description_ja": "就労！！わんわんヒューマンは罪人を教育し、可愛いらしい犬に変える【人間ガチ犬化ADVノベルゲーム】です。人間、悪魔、天使が混在する混沌の街で矯正官となり、仕事をこなしましょう。個性豊かな同僚と罪人たちがアナタとの出会いを待っています。",
+  "short_description_en": "Work! Wan Wan Human is an [ADV Novel Game of Human Gachi-Inukenka] that educates sinners and turns them into adorable dogs. Become a correctional officer in a city of chaos where humans, demons, and angels are all mixed together and get the job done.",
+  "short_description": "就労！！わんわんヒューマンは罪人を教育し、可愛いらしい犬に変える【人間ガチ犬化ADVノベルゲーム】です。人間、悪魔、天使が混在する混沌の街で矯正官となり、仕事をこなしましょう。個性豊かな同僚と罪人たちがアナタとの出会いを待っています。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/header_japanese.jpg?t=1741878023",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/capsule_231x87_japanese.jpg?t=1741878023",
+  "developers": [
+    "samezakistudio"
+  ],
+  "publishers": [
+    "samezakistudio"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "無料プレイ"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Free To Play"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "無料プレイ"
+  ],
+  "categories": [
+    "シングルプレイヤー"
+  ],
+  "release_date_ja": "2025年3月13日",
+  "release_date_en": "13 Mar, 2025",
+  "release_date": "2025年3月13日",
+  "is_free": true,
+  "price_initial": 0,
+  "price_final": 0,
+  "discount_percent": 0,
+  "price_formatted": "",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "日本語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_748250a6cf8e11f24b7ead619f95761e88506d48.1920x1080.jpg?t=1741878023",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_d81b1cb3a042a23d232b8c72add656e90d295ada.1920x1080.jpg?t=1741878023",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_6e463fe303dbfa2ef03315affb70da9e3ce48cb7.1920x1080.jpg?t=1741878023",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_21349eec8236997cd9308bee1ee791e93cdaa608.1920x1080.jpg?t=1741878023",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_ed219d2203488b11c8eac5a364d88b4d8a483027.1920x1080.jpg?t=1741878023"
+  ],
+  "movies": [
+    {
+      "name": "基本動画",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092504/665a6bbbaedaa47a40ccb756708b5c405022b84d/movie_600x337.jpg?t=1738015885",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 3005800,
+  "recommendations_total": 0,
+  "total_reviews": 63,
+  "total_positive": 63,
+  "total_negative": 0,
+  "review_score_desc": "Very Positive",
+  "slug": "wanwan-human",
+  "recommend": "all",
+  "free_section": true,
+  "tags_ja": [
+    "ビジュアルノベル",
+    "シミュレーション",
+    "選択方式アドベンチャー",
+    "2D",
+    "SF",
+    "コメディ",
+    "ダークコメディ",
+    "ディストピア"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Simulation",
+    "Choose Your Own Adventure",
+    "2D",
+    "Sci-fi",
+    "Comedy",
+    "Dark Comedy",
+    "Dystopian "
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

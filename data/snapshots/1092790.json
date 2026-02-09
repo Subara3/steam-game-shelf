@@ -1,0 +1,107 @@
+{
+  "appid": 1092790,
+  "required_age": 0,
+  "name_ja": "Inscryption",
+  "name_en": "Inscryption",
+  "name": "Inscryption",
+  "short_description_ja": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
+  "short_description_en": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
+  "short_description": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1768517864",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1768517864",
+  "developers": [
+    "Daniel Mullins Games"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Strategy"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2021年10月19日",
+  "release_date_en": "19 Oct, 2021",
+  "release_date": "2021年10月19日",
+  "is_free": false,
+  "price_initial": 205000,
+  "price_final": 82000,
+  "discount_percent": 60,
+  "price_formatted": "¥ 820",
+  "currency": "JPY",
+  "metacritic_score": 85,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ロシア語, 中国語（簡体字）, イタリア語, ポルトガル語－ブラジル, 中国語（繁体字）, トルコ語",
+  "website": "https://www.inscryption-game.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_0191a69b0e94a9a7784f5b81e27f06379910645a.1920x1080.jpg?t=1768517864",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_3b714682e9e0a214df1630a234e9f6764528eece.1920x1080.jpg?t=1768517864",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_7bfe728822807d232398df1cb1a5d64addd3d8fb.1920x1080.jpg?t=1768517864",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_79a146c36a3f0b728a8e0085327cec8c7fba82d6.1920x1080.jpg?t=1768517864",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_738220c84b63522c4ca8c77fbff1ddb252ea0fe9.1920x1080.jpg?t=1768517864"
+  ],
+  "movies": [
+    {
+      "name": "Inscryption - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795106/movie.293x165.jpg?t=1597161792",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852985/movie.293x165.jpg?t=1711536013",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1753260,
+  "recommendations_total": 129041,
+  "total_reviews": 141712,
+  "total_positive": 137275,
+  "total_negative": 4437,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "inscryption",
+  "recommend": "all",
+  "tags_ja": [
+    "カードバトル",
+    "カードゲーム",
+    "物語性",
+    "デッキ構築",
+    "ホラー",
+    "ダーク",
+    "パズル",
+    "ローグライク"
+  ],
+  "tags_en": [
+    "Card Battler",
+    "Card Game",
+    "Story Rich",
+    "Deckbuilding",
+    "Horror",
+    "Dark",
+    "Puzzle",
+    "Roguelike"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

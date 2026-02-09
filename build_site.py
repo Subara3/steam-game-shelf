@@ -304,14 +304,16 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["recommend"] = master.get("recommend", "all")
         if master.get("coming_soon"):
             g["coming_soon"] = True
+        if master.get("free_section"):
+            g["free_section"] = True
         games.append(g)
 
-    # coming_soon ゲームがスナップショットに無い場合、マスターから補完
+    # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
     snapshot_appids = {g["appid"] for g in games}
     for appid, master in game_master.items():
-        if master.get("coming_soon") and appid not in snapshot_appids:
+        if (master.get("coming_soon") or master.get("free_section")) and appid not in snapshot_appids:
             name = master.get("name_ja", master.get("comment", ""))
-            games.append({
+            entry = {
                 "appid": appid,
                 "slug": master.get("slug", ""),
                 "name_ja": name,
@@ -321,10 +323,14 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 "short_description_en": master.get("comment", ""),
                 "short_description": master.get("comment", ""),
                 "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
-                "coming_soon": True,
                 "recommend": master.get("recommend", "all"),
                 "has_article": master.get("slug", "") in articles,
-            })
+            }
+            if master.get("coming_soon"):
+                entry["coming_soon"] = True
+            if master.get("free_section"):
+                entry["free_section"] = True
+            games.append(entry)
 
     games_data = {
         "date": snapshot.get("date", ""),
