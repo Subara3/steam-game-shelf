@@ -1080,16 +1080,20 @@ h1, h2, h3, h4, h5, h6,
 .emotelab-credit {
   text-align: center;
   margin: 1.5rem 0;
-  padding: 0.8rem;
+  padding: 1.2rem;
   background: var(--card-bg);
   border: 1px solid var(--card-border);
-  border-radius: 8px;
-  font-size: 0.8rem;
-  color: var(--pico-muted-color);
+  border-radius: 10px;
+  font-size: 0.85rem;
+  color: #8f98a0;
 }
 
-.emotelab-credit a {
-  color: var(--steam-blue);
+.emotelab-credit p {
+  margin-bottom: 0.8rem;
+}
+
+.emotelab-credit .steam-ogp-card {
+  margin: 0 auto;
 }
 
 /* フッター */

@@ -414,6 +414,22 @@ def build_article_pages(articles: dict, lang: str = "ja"):
         else:
             ogp_card = ""
 
+        # EmoteLab クレジット（記事外に配置）
+        emotelab_appid = meta.get("emotelab", "")
+        if emotelab_appid:
+            credit_label = "このサイトのキャラクターは EmoteLab で作成しました" if lang == "ja" else "Characters on this site were created with EmoteLab"
+            emotelab_html = (
+                f'<div class="emotelab-credit">'
+                f'<p>{credit_label}</p>'
+                f'<a href="https://store.steampowered.com/app/{emotelab_appid}/" target="_blank" class="steam-ogp-card">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{emotelab_appid}/header.jpg" alt="EmoteLab" class="steam-ogp-img">'
+                f'<span class="steam-ogp-name">EmoteLab</span>'
+                f'</a>'
+                f'</div>'
+            )
+        else:
+            emotelab_html = ""
+
         # SEO: description を最初の対話行から抽出
         desc_text = ""
         for dline in art["html"].split("\n"):
@@ -516,6 +532,8 @@ def build_article_pages(articles: dict, lang: str = "ja"):
   </article>
 
   {art.get("pet_html", "")}
+
+  {emotelab_html}
 
   <div style="text-align: center; margin: 20px auto; max-width: 800px;">
     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7086371722392050"
