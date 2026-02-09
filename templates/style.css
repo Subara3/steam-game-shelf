@@ -1,20 +1,40 @@
-/* すばらしきSteamゲームの本棚 — ダークテーマ Steam風 */
+/* すばらしきSteamゲームの本棚 — モダンダークテーマ */
 
 :root {
   --steam-dark: #1b2838;
-  --steam-darker: #171a21;
+  --steam-darker: #0d1117;
   --steam-blue: #66c0f4;
   --steam-blue-dark: #1a9fff;
   --steam-green: #4c6b22;
   --steam-green-bright: #a4d007;
   --sale-red: #ff4444;
   --sale-bg: #4c6b22;
-  --card-bg: #16202d;
-  --card-border: #2a3f5f;
+  --card-bg: rgba(22, 32, 45, 0.65);
+  --card-border: rgba(102, 192, 244, 0.12);
+  --card-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
+  --card-hover-shadow: 0 8px 32px rgba(102, 192, 244, 0.12), 0 2px 12px rgba(0, 0, 0, 0.4);
+  --glass-blur: 16px;
+  --font-heading: 'Sora', 'Zen Kaku Gothic New', sans-serif;
+  --font-body: 'DM Sans', 'Zen Kaku Gothic New', sans-serif;
 }
 
 body {
+  font-family: var(--font-body);
   background: var(--steam-darker);
+  background-image: radial-gradient(rgba(102, 192, 244, 0.04) 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title, .game-name, .wishlist-name {
+  font-family: var(--font-heading);
+}
+
+/* タイトルシマーアニメーション */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
 }
 
 [x-cloak] {
@@ -34,9 +54,12 @@ body {
   position: sticky;
   top: 1rem;
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 10px;
-  padding: 1rem;
+  border-radius: 14px;
+  padding: 1.2rem;
+  box-shadow: var(--card-shadow);
 }
 
 .sidebar-section {
@@ -59,16 +82,18 @@ body {
 
 .search-input {
   font-size: 0.85rem;
-  padding: 0.4rem 0.6rem;
+  padding: 0.5rem 0.7rem;
   margin-bottom: 0;
-  background: var(--steam-darker);
+  background: rgba(0, 0, 0, 0.25);
   border: 1px solid var(--card-border);
-  border-radius: 6px;
+  border-radius: 8px;
   color: #c7d5e0;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .search-input:focus {
-  border-color: var(--steam-blue);
+  border-color: rgba(102, 192, 244, 0.5);
+  box-shadow: 0 0 12px rgba(102, 192, 244, 0.1);
   outline: none;
 }
 
@@ -86,23 +111,24 @@ body {
   padding: 0.3rem 0.6rem;
   background: transparent;
   border: 1px solid transparent;
-  border-radius: 6px;
+  border-radius: 8px;
   color: #8f98a0;
   font-size: 0.8rem;
   cursor: pointer;
-  transition: all 0.15s;
+  transition: all 0.2s ease-out;
   text-align: left;
 }
 
 .genre-chip:hover {
-  background: rgba(102, 192, 244, 0.1);
+  background: rgba(102, 192, 244, 0.08);
   color: var(--steam-blue);
 }
 
 .genre-active {
-  background: rgba(102, 192, 244, 0.15);
-  border-color: var(--steam-blue);
+  background: rgba(102, 192, 244, 0.12);
+  border-color: rgba(102, 192, 244, 0.4);
   color: var(--steam-blue);
+  box-shadow: 0 0 8px rgba(102, 192, 244, 0.1);
 }
 
 .genre-count {
@@ -157,12 +183,13 @@ body {
 /* ソート */
 .sort-select {
   font-size: 0.8rem;
-  padding: 0.3rem 0.5rem;
+  padding: 0.4rem 0.5rem;
   margin-bottom: 0;
-  background: var(--steam-darker);
+  background: rgba(0, 0, 0, 0.25);
   border: 1px solid var(--card-border);
-  border-radius: 6px;
+  border-radius: 8px;
   color: #c7d5e0;
+  transition: border-color 0.2s ease;
 }
 
 /* フィルター結果バー */
@@ -170,10 +197,12 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 0.8rem;
-  background: rgba(102, 192, 244, 0.1);
-  border: 1px solid var(--steam-blue);
-  border-radius: 8px;
+  padding: 0.6rem 1rem;
+  background: rgba(102, 192, 244, 0.06);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(102, 192, 244, 0.25);
+  border-radius: 10px;
   margin-bottom: 1rem;
   font-size: 0.85rem;
   color: var(--steam-blue);
@@ -207,10 +236,13 @@ body {
 }
 
 .header-card {
-  background: linear-gradient(135deg, var(--steam-dark), var(--card-bg));
+  background: linear-gradient(135deg, rgba(27, 40, 56, 0.8), rgba(22, 32, 45, 0.6));
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 12px;
-  padding: 1.5rem 2rem;
+  border-radius: 16px;
+  padding: 1.8rem 2rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
 }
 
 .header-top-row {
@@ -221,11 +253,14 @@ body {
 
 .site-title {
   font-size: 1.6rem;
+  font-weight: 700;
   margin-bottom: 0.3rem;
-  background: linear-gradient(90deg, var(--steam-blue), #fff);
+  background: linear-gradient(90deg, var(--steam-blue) 0%, #fff 40%, var(--steam-blue) 80%);
+  background-size: 200% auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  animation: shimmer 6s ease-in-out infinite;
 }
 
 /* 言語切り替え */
@@ -233,9 +268,10 @@ body {
   display: flex;
   gap: 0;
   border: 1px solid var(--card-border);
-  border-radius: 6px;
+  border-radius: 8px;
   overflow: hidden;
   flex-shrink: 0;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .lang-switch button {
@@ -301,17 +337,20 @@ body {
 .sale-card {
   flex-shrink: 0;
   width: 280px;
-  border-radius: 8px;
+  border-radius: 12px;
   overflow: hidden;
   background: var(--card-bg);
-  border: 1px solid var(--sale-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid rgba(164, 208, 7, 0.2);
   text-decoration: none;
-  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .sale-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(164, 208, 7, 0.2);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(164, 208, 7, 0.2), 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 .sale-card img {
@@ -366,12 +405,15 @@ body {
 /* 広告スロット（グリッド内：カード1枠に収まる） */
 .ad-slot-inline {
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 10px;
+  border-radius: 14px;
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow: var(--card-shadow);
 }
 
 .ad-slot-inline .adsbygoogle {
@@ -392,14 +434,19 @@ body {
 
 .game-card {
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 10px;
+  border-radius: 14px;
   overflow: hidden;
-  transition: border-color 0.2s;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .game-card:hover {
-  border-color: var(--steam-blue);
+  border-color: rgba(102, 192, 244, 0.3);
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-3px);
 }
 
 .game-card-link {
@@ -654,18 +701,18 @@ body {
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 1rem;
-  background: var(--steam-darker);
+  background: rgba(0, 0, 0, 0.2);
   border-top: 1px solid var(--card-border);
-  border-radius: 0 0 10px 10px;
+  border-radius: 0 0 14px 14px;
   text-decoration: none;
   font-size: 0.8rem;
   font-weight: 600;
   color: var(--steam-blue);
-  transition: background 0.2s;
+  transition: background 0.25s ease;
 }
 
 .article-link-bar:hover {
-  background: rgba(102, 192, 244, 0.1);
+  background: rgba(102, 192, 244, 0.08);
 }
 
 .article-link-avatar {
@@ -700,15 +747,20 @@ body {
 .article-card {
   display: block;
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 8px;
+  border-radius: 12px;
   padding: 1rem 1.2rem;
   text-decoration: none;
-  transition: border-color 0.2s;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .article-card:hover {
-  border-color: var(--steam-blue);
+  border-color: rgba(102, 192, 244, 0.3);
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-2px);
 }
 
 .article-card h3 {
@@ -902,18 +954,22 @@ body {
 .steam-ogp-card {
   display: block;
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 8px;
+  border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
   margin: 1rem 0;
   max-width: 460px;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .steam-ogp-card:hover {
-  border-color: var(--steam-blue);
-  box-shadow: 0 2px 8px rgba(102, 192, 244, 0.15);
+  border-color: rgba(102, 192, 244, 0.3);
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-2px);
 }
 
 .steam-ogp-img {
@@ -1169,16 +1225,20 @@ footer a {
 .wishlist-card {
   display: flex;
   background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
   border: 1px solid var(--card-border);
-  border-radius: 8px;
+  border-radius: 12px;
   overflow: hidden;
   text-decoration: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .wishlist-card:hover {
-  border-color: var(--steam-blue);
-  box-shadow: 0 0 12px rgba(102, 192, 244, 0.15);
+  border-color: rgba(102, 192, 244, 0.3);
+  box-shadow: var(--card-hover-shadow);
+  transform: translateY(-2px);
 }
 
 .wishlist-img {
