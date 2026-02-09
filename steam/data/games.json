@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T12:43:06.535052",
+  "timestamp": "2026-02-09T12:51:52.358217",
   "games": [
     {
       "appid": 2379780,
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -220,7 +220,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -314,7 +314,7 @@
         }
       ],
       "demo_appid": 3288620,
-      "recommendations_total": 7619,
+      "recommendations_total": 7618,
       "total_reviews": 8354,
       "total_positive": 7828,
       "total_negative": 526,
@@ -341,7 +341,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
     },
@@ -441,7 +441,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG"
     },
@@ -538,7 +538,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -638,7 +638,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -748,7 +748,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -862,7 +862,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -973,7 +973,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1083,7 +1083,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1193,7 +1193,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1293,7 +1293,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1418,7 +1418,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1533,7 +1533,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1636,7 +1636,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1717,13 +1717,13 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129043,
+      "recommendations_total": 129044,
       "total_reviews": 141717,
       "total_positive": 137280,
       "total_negative": 4437,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "inscryption",
-      "recommend": "all",
+      "recommend": "niche",
       "tags_ja": [
         "カードバトル",
         "カードゲーム",
@@ -1744,7 +1744,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1847,7 +1847,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -1961,7 +1961,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2059,7 +2059,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2199,7 +2199,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2321,7 +2321,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2426,7 +2426,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2546,7 +2546,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2619,8 +2619,8 @@
       ],
       "demo_appid": 4334900,
       "recommendations_total": 180,
-      "total_reviews": 176,
-      "total_positive": 171,
+      "total_reviews": 180,
+      "total_positive": 175,
       "total_negative": 5,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2645,7 +2645,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2754,7 +2754,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2862,7 +2862,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -2955,7 +2955,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -3046,7 +3046,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -3147,7 +3147,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -3243,7 +3243,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     },
     {
@@ -3361,7 +3361,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-09T12:43:06.535052",
+      "fetched_at": "2026-02-09T12:51:52.358217",
       "has_article": false
     }
   ]
