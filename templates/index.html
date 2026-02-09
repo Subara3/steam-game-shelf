@@ -212,12 +212,13 @@
             <div style="display: contents">
               <!-- 6件ごとに広告を挿入 -->
               <template x-if="idx > 0 && idx % 6 === 0">
-                <div class="ad-slot-inline">
+                <div class="ad-slot-inline" x-init="$nextTick(() => { try { (adsbygoogle = window.adsbygoogle || []).push({}) } catch(e) {} })">
                   <ins class="adsbygoogle"
                     style="display:block"
                     data-ad-client="ca-pub-7086371722392050"
                     data-ad-slot="4953305789"
-                    data-ad-format="auto"></ins>
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
                 </div>
               </template>
               <article class="game-card" :class="isR18(g) ? 'game-card-r18' : ''">
