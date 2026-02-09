@@ -1,0 +1,104 @@
+{
+  "appid": 1617030,
+  "required_age": 0,
+  "name_ja": "tERRORbane",
+  "name_en": "tERRORbane",
+  "name": "tERRORbane",
+  "short_description_ja": "tERRORbaneは、バグがあなたの友達になるコメディタッチのアドベンチャーです。ユニークで風変わりなキャラクターやビデオゲームの歴史へのオマージュに満ちた、クレイジーで突飛な世界の探検を楽しみ、あなたの創造力で開発者に挑戦し、エラーのベイン（退治屋）になりましょう！",
+  "short_description_en": "tERRORbane is a comedic adventure where bugs are your FRIENDS! Enjoy exploring a crazy and outlandish world, full of unique, quirky characters and homages to the history of videogaming, challenge the Developer with your creativity and be the Bane of Errors!",
+  "short_description": "tERRORbaneは、バグがあなたの友達になるコメディタッチのアドベンチャーです。ユニークで風変わりなキャラクターやビデオゲームの歴史へのオマージュに満ちた、クレイジーで突飛な世界の探検を楽しみ、あなたの創造力で開発者に挑戦し、エラーのベイン（退治屋）になりましょう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/header.jpg?t=1744038257",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/capsule_231x87.jpg?t=1744038257",
+  "developers": [
+    "BitNine Studio"
+  ],
+  "publishers": [
+    "WhisperGames"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年4月1日",
+  "release_date_en": "1 Apr, 2022",
+  "release_date": "2022年4月1日",
+  "is_free": false,
+  "price_initial": 164000,
+  "price_final": 164000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,640",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, イタリア語<strong>*</strong>, フランス語, ドイツ語, 中国語（簡体字）<strong>*</strong>, 日本語<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, ロシア語, ポルトガル語－ブラジル<br><strong>*</strong>フル音声対応言語",
+  "website": "https://www.terrorbane.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/ss_cb9094f3e66073f870ff154abcb6851ee4eccbc9.1920x1080.jpg?t=1744038257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/ss_b832c61f3e06393df0a2738b88cb9fe284936f45.1920x1080.jpg?t=1744038257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/ss_fe1f87d13c0c478e1e1f8291b47cc6ad16441628.1920x1080.jpg?t=1744038257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/ss_3f7ebb72accd5609f8e01d1ff8f6bc13346d9a0a.1920x1080.jpg?t=1744038257",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617030/ss_ba84450d5ee9992fc582981cc5fb65a823a1bb02.1920x1080.jpg?t=1744038257"
+  ],
+  "movies": [
+    {
+      "name": "Release Date Trailer JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880236/movie.293x165.jpg?t=1663054047",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Teaser Trailer JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880235/movie.293x165.jpg?t=1744038251",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 329,
+  "total_reviews": 371,
+  "total_positive": 329,
+  "total_negative": 42,
+  "review_score_desc": "Very Positive",
+  "slug": "terrorbane",
+  "recommend": "all",
+  "by": "kotori",
+  "tags_ja": [
+    "マルチエンディング",
+    "アドベンチャー",
+    "シングルプレイヤー",
+    "選択方式アドベンチャー",
+    "選択型進行",
+    "アクションアドベンチャー",
+    "探検",
+    "コメディ"
+  ],
+  "tags_en": [
+    "Multiple Endings",
+    "Adventure",
+    "Singleplayer",
+    "Choose Your Own Adventure",
+    "Choices Matter",
+    "Action-Adventure",
+    "Exploration",
+    "Comedy"
+  ],
+  "fetched_at": "2026-02-09T14:11:27.125565"
+}
