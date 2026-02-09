@@ -1,0 +1,113 @@
+{
+  "appid": 3101040,
+  "required_age": 0,
+  "name_ja": "魔法少女ノ魔女裁判",
+  "name_en": "Magical Girl Witch Trials",
+  "name": "Magical Girl Witch Trials",
+  "short_description_ja": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
+  "short_description_en": "Thirteen girls awaken, only to find themselves in a prison. What awaits them: a Witch Trial. Help them prepare for the trial by exploring the prison in order to find the witch hidden amongst them. Find the witch, learn what kind of magic she holds, dispel the lies, and prepare for the execution.",
+  "short_description": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1766600472",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/90253fb4502d30d4987d8663013a910d44e32609/capsule_231x87.jpg?t=1766600472",
+  "developers": [
+    "Acacia",
+    "Re,AER"
+  ],
+  "publishers": [
+    "Re,AER",
+    "CIRCLE LINE GAMES"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "カスタム音量調整",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "タッチのみのオプション",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2025年7月18日",
+  "release_date_en": "18 Jul, 2025",
+  "release_date": "2025年7月18日",
+  "is_free": false,
+  "price_initial": 350000,
+  "price_final": 350000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,500",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "日本語<strong>*</strong>, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "https://manosaba.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/6b66a3dc43a2f99d365ce94dc0a28ff23e742b53/ss_6b66a3dc43a2f99d365ce94dc0a28ff23e742b53.1920x1080.jpg?t=1766600472",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/5e02b3b022f7dc55abe50259ee6cca01b80d7b9b/ss_5e02b3b022f7dc55abe50259ee6cca01b80d7b9b.1920x1080.jpg?t=1766600472",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/64ce6ae5d1d9c88307373f4a9429843659fe497d/ss_64ce6ae5d1d9c88307373f4a9429843659fe497d.1920x1080.jpg?t=1766600472",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/1a87f87f29d6d001b034d9a1f7e465d0501996e6/ss_1a87f87f29d6d001b034d9a1f7e465d0501996e6.1920x1080.jpg?t=1766600472",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/69bfa5ae839318e49cca20cd991ce9250127722f/ss_69bfa5ae839318e49cca20cd991ce9250127722f.1920x1080.jpg?t=1766600472"
+  ],
+  "movies": [
+    {
+      "name": "オープニングムービー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121928/9e44aa6d4eb780772d3749d6e0e59e118a7c31b9/movie_600x337.jpg?t=1743953134",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Teaser PV1「みんな死ねばいい編」",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076828/383c1df33528fa53fb969104e1c10d008076dd65/movie_600x337.jpg?t=1734629158",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 24046,
+  "total_reviews": 26868,
+  "total_positive": 26016,
+  "total_negative": 852,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "magical-girl-witch-trials",
+  "recommend": "niche",
+  "by": "both",
+  "tags_ja": [
+    "ビジュアルノベル",
+    "女性主人公",
+    "かわいい",
+    "探偵",
+    "ミステリー",
+    "LGBTQ+",
+    "物語性",
+    "性的表現"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Female Protagonist",
+    "Cute",
+    "Detective",
+    "Mystery",
+    "LGBTQ+",
+    "Story Rich",
+    "Sexual Content"
+  ],
+  "fetched_at": "2026-02-09T14:18:38.076654"
+}
