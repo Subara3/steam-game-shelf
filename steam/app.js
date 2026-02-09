@@ -15,6 +15,7 @@ function dashboard() {
     hideR18: false,
     sortKey: 'name',
     confirmedAgeApps: {},
+    sidebarOpen: false,
 
     t(key) {
       return (this.i18nData[this.lang] || this.i18nData.ja || {})[key] || key;
