@@ -15,9 +15,9 @@ pet_safety: none
 
 > kotori: どういうゲームなんですか？
 
-> scala: TypeHelpとか、リターンオブザオブラディンとか……DeFanastasisとか、そういう系統だ。
+> scala: [Type Help](https://william-rous.itch.io/type-help)とか、[Return of the Obra Dinn](https://store.steampowered.com/app/653530/)とか……[DE:Fanastasis](https://store.steampowered.com/app/2882080/)とか、そういう系統だ。
 
-> kotori: DeFanastasisはRPGだから、ちょっと違うような気がしますけど。
+> kotori: [DE:Fanastasis](https://store.steampowered.com/app/2882080/)はRPGだから、ちょっと違うような気がしますけど。
 
 ## ギルドの記録を読み解く
 
@@ -37,7 +37,7 @@ pet_safety: none
 
 ## ありがたいキャラクター
 
-> kotori: あのう、博士。リターンオブザオブラディンとかもなんですけど……。
+> kotori: あのう、博士。[Return of the Obra Dinn](https://store.steampowered.com/app/653530/)とかもなんですけど……。
 
 > scala: なんだ？
 
