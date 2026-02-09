@@ -1,0 +1,108 @@
+{
+  "appid": 1240210,
+  "required_age": 0,
+  "name_ja": "There Is No Game: Wrong Dimension",
+  "name_en": "There Is No Game: Wrong Dimension",
+  "name": "There Is No Game: Wrong Dimension",
+  "short_description_ja": "ここにゲームはない。だから、そこらじゅうをめちゃくちゃにクリックするのは今すぐやめてほしい。ゲームの世界から追い出されたくはないよな？ もちろん、ないはずだ！",
+  "short_description_en": "There is no game. So don't go messing things up by clicking everywhere. You don’t want to be kicked out of your video game world, do you? Of course not!",
+  "short_description": "ここにゲームはない。だから、そこらじゅうをめちゃくちゃにクリックするのは今すぐやめてほしい。ゲームの世界から追い出されたくはないよな？ もちろん、ないはずだ！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/capsule_231x87.jpg?t=1728289933",
+  "developers": [
+    "Draw Me A Pixel"
+  ],
+  "publishers": [
+    "Draw Me A Pixel"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2020年8月6日",
+  "release_date_en": "6 Aug, 2020",
+  "release_date": "2020年8月6日",
+  "is_free": false,
+  "price_initial": 132000,
+  "price_final": 132000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,320",
+  "currency": "JPY",
+  "metacritic_score": 89,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, スペイン語 - スペイン, ポルトガル語－ブラジル, ドイツ語, 中国語（簡体字）, イタリア語, ロシア語, 韓国語, 日本語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.drawmeapixel.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_8c20dd0ab3a824c27fae5b2c921a3984d1821a34.1920x1080.jpg?t=1728289933",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1b523c5986c28eae7eddad3880ff45f242c2f280.1920x1080.jpg?t=1728289933",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1ce8e54c2a5017423058b0ca50252e32f5fb9d16.1920x1080.jpg?t=1728289933",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_b69a2bb175b8f92b0faa9429297402b662c70560.1920x1080.jpg?t=1728289933",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_543c4cd707b6278865a436052b29f959d364fc2b.1920x1080.jpg?t=1728289933"
+  ],
+  "movies": [
+    {
+      "name": "There is no Trailer!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793611/movie.293x165.jpg?t=1595513367",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "There is no Teaser!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775549/movie.293x165.jpg?t=1595421843",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 22924,
+  "total_reviews": 24800,
+  "total_positive": 24239,
+  "total_negative": 561,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "there-is-no-game",
+  "recommend": "all",
+  "tags_ja": [
+    "インディー",
+    "ポイント＆クリック",
+    "パズル",
+    "アドベンチャー",
+    "ドット絵",
+    "笑える",
+    "カジュアル",
+    "コメディ"
+  ],
+  "tags_en": [
+    "Indie",
+    "Point & Click",
+    "Puzzle",
+    "Adventure",
+    "Pixel Graphics",
+    "Funny",
+    "Casual",
+    "Comedy"
+  ],
+  "fetched_at": "2026-02-09T19:33:45.138511"
+}

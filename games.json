@@ -23,9 +23,13 @@
     {"appid": 1794680, "slug": "vampire-survivors", "comment": "ローグライクサバイバル", "recommend": "all"},
     {"appid": 447530, "slug": "va11halla", "comment": "サイバーパンクバーテンダーADV", "recommend": "niche"},
     {"appid": 1515210, "slug": "the-past-within", "comment": "協力型パズルADV", "recommend": "all", "multi": true},
+    {"appid": 4327530, "slug": "guild-tankyudan", "comment": "ギルド運営RPG", "recommend": "all"},
+    {"appid": 1240210, "slug": "there-is-no-game", "comment": "メタパズルADV", "recommend": "all"},
+    {"appid": 489830, "slug": "skyrim", "comment": "オープンワールドRPG", "recommend": "all"},
     {"appid": 4045680, "slug": "kanmuri", "comment": "育成シミュレーションADV", "name_ja": "冠を持つ神の手", "recommend": "niche", "coming_soon": true},
     {"appid": 4371880, "slug": "cyan-project", "comment": "脱出パズルADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true},
     {"appid": 2263010, "slug": "pineapple-on-pizza", "comment": "フリーゲーム", "recommend": "all", "free_section": true},
-    {"appid": 2973410, "slug": "wanwan-human", "comment": "わんわんフリーゲーム", "recommend": "all", "free_section": true}
+    {"appid": 2973410, "slug": "wanwan-human", "comment": "わんわんフリーゲーム", "recommend": "all", "free_section": true},
+    {"appid": 3419430, "slug": "bongo-cat", "comment": "フリーゲーム音楽", "recommend": "all", "free_section": true}
   ]
 }
