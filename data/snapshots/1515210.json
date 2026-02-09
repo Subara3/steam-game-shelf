@@ -93,7 +93,8 @@
   "total_negative": 847,
   "review_score_desc": "Very Positive",
   "slug": "the-past-within",
-  "recommend": "multi",
+  "recommend": "all",
+  "multi": true,
   "tags_ja": [
     "協力プレイ",
     "パズル",
@@ -114,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-02-09T10:24:15.699783"
+  "fetched_at": "2026-02-09T10:32:05.886640"
 }
