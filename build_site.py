@@ -307,6 +307,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["free_section"] = True
         if master.get("multi"):
             g["multi"] = True
+        if master.get("by"):
+            g["by"] = master["by"]
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
@@ -333,6 +335,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["free_section"] = True
             if master.get("multi"):
                 entry["multi"] = True
+            if master.get("by"):
+                entry["by"] = master["by"]
             games.append(entry)
 
     games_data = {
