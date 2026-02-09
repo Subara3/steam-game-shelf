@@ -1,0 +1,107 @@
+{
+  "appid": 489830,
+  "required_age": 0,
+  "name_ja": "The Elder Scrolls V: Skyrim Special Edition",
+  "name_en": "The Elder Scrolls V: Skyrim Special Edition",
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "short_description_ja": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
+  "short_description_en": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
+  "short_description": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1753715778",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres_ja": [
+    "RPG"
+  ],
+  "genres_en": [
+    "RPG"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "サラウンドサウンド",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年10月27日",
+  "release_date_en": "27 Oct, 2016",
+  "release_date": "2016年10月27日",
+  "is_free": false,
+  "price_initial": 439900,
+  "price_final": 439900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,399",
+  "currency": "JPY",
+  "metacritic_score": 74,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ポーランド語<strong>*</strong>, 中国語（繁体字）, ロシア語<strong>*</strong>, 日本語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1753715778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1753715778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1753715778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1753715778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1753715778"
+  ],
+  "movies": [
+    {
+      "name": "Skyrim Special Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672927/movie.293x165.jpg?t=1476991615",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Skyrim SE Live Action Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672841/movie.293x165.jpg?t=1476909226",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 205366,
+  "total_reviews": 358617,
+  "total_positive": 330789,
+  "total_negative": 27828,
+  "review_score_desc": "Very Positive",
+  "slug": "skyrim",
+  "recommend": "all",
+  "tags_ja": [
+    "オープンワールド",
+    "RPG",
+    "アドベンチャー",
+    "ファンタジー",
+    "シングルプレイヤー",
+    "キャラクターカスタマイズ",
+    "MOD導入可能",
+    "ドラゴン"
+  ],
+  "tags_en": [
+    "Open World",
+    "RPG",
+    "Adventure",
+    "Fantasy",
+    "Singleplayer",
+    "Character Customization",
+    "Moddable",
+    "Dragons"
+  ],
+  "fetched_at": "2026-02-09T19:33:45.138511"
+}

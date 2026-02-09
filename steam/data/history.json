@@ -259,6 +259,27 @@
       "discount_percent": 0
     }
   ],
+  "4327530": [
+    {
+      "date": "2026-02-09",
+      "price_final": 42300,
+      "discount_percent": 10
+    }
+  ],
+  "1240210": [
+    {
+      "date": "2026-02-09",
+      "price_final": 132000,
+      "discount_percent": 0
+    }
+  ],
+  "489830": [
+    {
+      "date": "2026-02-09",
+      "price_final": 439900,
+      "discount_percent": 0
+    }
+  ],
   "2263010": [
     {
       "date": "2026-02-09",
@@ -267,6 +288,13 @@
     }
   ],
   "2973410": [
+    {
+      "date": "2026-02-09",
+      "price_final": 0,
+      "discount_percent": 0
+    }
+  ],
+  "3419430": [
     {
       "date": "2026-02-09",
       "price_final": 0,

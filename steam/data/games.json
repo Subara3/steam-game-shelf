@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T19:20:07.842314",
+  "timestamp": "2026-02-09T19:33:45.138511",
   "games": [
     {
       "appid": 2379780,
@@ -80,7 +80,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147389,
+      "recommendations_total": 147388,
       "total_reviews": 182676,
       "total_positive": 178895,
       "total_negative": 3781,
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -220,7 +220,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -341,7 +341,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
     },
@@ -415,9 +415,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 281672,
-      "total_reviews": 313617,
-      "total_positive": 303497,
-      "total_negative": 10120,
+      "total_reviews": 313620,
+      "total_positive": 303499,
+      "total_negative": 10121,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
@@ -441,7 +441,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG"
     },
@@ -511,7 +511,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 46904,
+      "recommendations_total": 46905,
       "total_reviews": 51013,
       "total_positive": 48008,
       "total_negative": 3005,
@@ -538,7 +538,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -638,7 +638,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -748,7 +748,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -862,7 +862,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -947,8 +947,8 @@
       ],
       "demo_appid": 3347820,
       "recommendations_total": 19823,
-      "total_reviews": 20771,
-      "total_positive": 18747,
+      "total_reviews": 20770,
+      "total_positive": 18746,
       "total_negative": 2024,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -973,7 +973,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1083,7 +1083,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1193,7 +1193,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1293,7 +1293,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1418,7 +1418,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1512,6 +1512,7 @@
       "review_score_desc": "Very Positive",
       "slug": "plateup",
       "recommend": "all",
+      "multi": true,
       "tags_ja": [
         "協力プレイ",
         "管理",
@@ -1532,9 +1533,8 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
-      "has_article": false,
-      "multi": true
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
     },
     {
       "appid": 913740,
@@ -1636,7 +1636,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1744,7 +1744,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1847,7 +1847,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -1935,8 +1935,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 43142,
-      "total_reviews": 46679,
-      "total_positive": 45663,
+      "total_reviews": 46680,
+      "total_positive": 45664,
       "total_negative": 1016,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "volcano-princess",
@@ -1961,7 +1961,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2032,7 +2032,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9105,
+      "recommendations_total": 9104,
       "total_reviews": 9419,
       "total_positive": 9097,
       "total_negative": 322,
@@ -2059,7 +2059,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2199,7 +2199,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2321,7 +2321,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2426,7 +2426,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2525,6 +2525,7 @@
       "review_score_desc": "Very Positive",
       "slug": "the-past-within",
       "recommend": "all",
+      "multi": true,
       "tags_ja": [
         "協力プレイ",
         "パズル",
@@ -2545,9 +2546,324 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
-      "has_article": false,
-      "multi": true
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
+    },
+    {
+      "appid": 4327530,
+      "required_age": 0,
+      "name_ja": "ギルド探求団へようこそ！",
+      "name_en": "ギルド探求団へようこそ！",
+      "name": "ギルド探求団へようこそ！",
+      "short_description_ja": "「ギルド探求団へようこそ！」創立から1000日を迎えたギルドの、パーティ情報を復旧させる『推理パズルゲーム』です。過去1000日を振り返りながら、78人の冒険者が、20隊あるパーティのどこに所属していたのかを特定し、どのような結末を迎えたのかを推理で暴きましょう！それでは──良い旅を！",
+      "short_description_en": "「ギルド探求団へようこそ！」創立から1000日を迎えたギルドの、パーティ情報を復旧させる『推理パズルゲーム』です。過去1000日を振り返りながら、78人の冒険者が、20隊あるパーティのどこに所属していたのかを特定し、どのような結末を迎えたのかを推理で暴きましょう！それでは──良い旅を！",
+      "short_description": "「ギルド探求団へようこそ！」創立から1000日を迎えたギルドの、パーティ情報を復旧させる『推理パズルゲーム』です。過去1000日を振り返りながら、78人の冒険者が、20隊あるパーティのどこに所属していたのかを特定し、どのような結末を迎えたのかを推理で暴きましょう！それでは──良い旅を！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/901acf2144a41a2d38bd1887e6d6ba2e99d54b80/header.jpg?t=1770374379",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/461834ef2e6326452902234c42f066bee7c464de/capsule_231x87.jpg?t=1770374379",
+      "developers": [
+        "ぱるそに工房"
+      ],
+      "publishers": [
+        "ぱるそに工房"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "時間制限付き入力なしでプレイ可能",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2026年2月5日",
+      "release_date_en": "5 Feb, 2026",
+      "release_date": "2026年2月5日",
+      "is_free": false,
+      "price_initial": 47000,
+      "price_final": 42300,
+      "discount_percent": 10,
+      "price_formatted": "¥ 423",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "日本語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/f0d62fbb293e8f130ac6449fe6c4560cd6201f02/ss_f0d62fbb293e8f130ac6449fe6c4560cd6201f02.1920x1080.jpg?t=1770374379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/d9e8089fd1c94ca37e202385da8ca61ccecec5bc/ss_d9e8089fd1c94ca37e202385da8ca61ccecec5bc.1920x1080.jpg?t=1770374379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/9fcafa0385804a7da2294039189cd3e4387c05e3/ss_9fcafa0385804a7da2294039189cd3e4387c05e3.1920x1080.jpg?t=1770374379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/00032b7da743fde0a8c2ca92654ea557fe3d5f08/ss_00032b7da743fde0a8c2ca92654ea557fe3d5f08.1920x1080.jpg?t=1770374379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4327530/02cf11f02cce37f585b675cabd198d44dede23eb/ss_02cf11f02cce37f585b675cabd198d44dede23eb.1920x1080.jpg?t=1770374379"
+      ],
+      "movies": [
+        {
+          "name": "Gameplay",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257264113/d59d7baaadee0fc5d89001bb59d7b18ba0709519/movie_600x337.jpg?t=1769828076",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 4334900,
+      "recommendations_total": 170,
+      "total_reviews": 170,
+      "total_positive": 165,
+      "total_negative": 5,
+      "review_score_desc": "Very Positive",
+      "slug": "guild-tankyudan",
+      "recommend": "all",
+      "tags_ja": [
+        "探偵",
+        "アドベンチャー",
+        "パズル",
+        "調査",
+        "ミステリー",
+        "ファンタジー",
+        "2D",
+        "シングルプレイヤー"
+      ],
+      "tags_en": [
+        "Detective",
+        "Adventure",
+        "Puzzle",
+        "Investigation",
+        "Mystery",
+        "Fantasy",
+        "2D",
+        "Singleplayer"
+      ],
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
+    },
+    {
+      "appid": 1240210,
+      "required_age": 0,
+      "name_ja": "There Is No Game: Wrong Dimension",
+      "name_en": "There Is No Game: Wrong Dimension",
+      "name": "There Is No Game: Wrong Dimension",
+      "short_description_ja": "ここにゲームはない。だから、そこらじゅうをめちゃくちゃにクリックするのは今すぐやめてほしい。ゲームの世界から追い出されたくはないよな？ もちろん、ないはずだ！",
+      "short_description_en": "There is no game. So don't go messing things up by clicking everywhere. You don’t want to be kicked out of your video game world, do you? Of course not!",
+      "short_description": "ここにゲームはない。だから、そこらじゅうをめちゃくちゃにクリックするのは今すぐやめてほしい。ゲームの世界から追い出されたくはないよな？ もちろん、ないはずだ！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg?t=1728289933",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/capsule_231x87.jpg?t=1728289933",
+      "developers": [
+        "Draw Me A Pixel"
+      ],
+      "publishers": [
+        "Draw Me A Pixel"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年8月6日",
+      "release_date_en": "6 Aug, 2020",
+      "release_date": "2020年8月6日",
+      "is_free": false,
+      "price_initial": 132000,
+      "price_final": 132000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,320",
+      "currency": "JPY",
+      "metacritic_score": 89,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語, スペイン語 - スペイン, ポルトガル語－ブラジル, ドイツ語, 中国語（簡体字）, イタリア語, ロシア語, 韓国語, 日本語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.drawmeapixel.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_8c20dd0ab3a824c27fae5b2c921a3984d1821a34.1920x1080.jpg?t=1728289933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1b523c5986c28eae7eddad3880ff45f242c2f280.1920x1080.jpg?t=1728289933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1ce8e54c2a5017423058b0ca50252e32f5fb9d16.1920x1080.jpg?t=1728289933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_b69a2bb175b8f92b0faa9429297402b662c70560.1920x1080.jpg?t=1728289933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_543c4cd707b6278865a436052b29f959d364fc2b.1920x1080.jpg?t=1728289933"
+      ],
+      "movies": [
+        {
+          "name": "There is no Trailer!",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793611/movie.293x165.jpg?t=1595513367",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "There is no Teaser!",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775549/movie.293x165.jpg?t=1595421843",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 22924,
+      "total_reviews": 24800,
+      "total_positive": 24239,
+      "total_negative": 561,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "there-is-no-game",
+      "recommend": "all",
+      "tags_ja": [
+        "インディー",
+        "ポイント＆クリック",
+        "パズル",
+        "アドベンチャー",
+        "ドット絵",
+        "笑える",
+        "カジュアル",
+        "コメディ"
+      ],
+      "tags_en": [
+        "Indie",
+        "Point & Click",
+        "Puzzle",
+        "Adventure",
+        "Pixel Graphics",
+        "Funny",
+        "Casual",
+        "Comedy"
+      ],
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
+    },
+    {
+      "appid": 489830,
+      "required_age": 0,
+      "name_ja": "The Elder Scrolls V: Skyrim Special Edition",
+      "name_en": "The Elder Scrolls V: Skyrim Special Edition",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "short_description_ja": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
+      "short_description_en": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
+      "short_description": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1753715778",
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "genres_ja": [
+        "RPG"
+      ],
+      "genres_en": [
+        "RPG"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "ステレオサウンド",
+        "サラウンドサウンド",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2016年10月27日",
+      "release_date_en": "27 Oct, 2016",
+      "release_date": "2016年10月27日",
+      "is_free": false,
+      "price_initial": 439900,
+      "price_final": 439900,
+      "discount_percent": 0,
+      "price_formatted": "¥ 4,399",
+      "currency": "JPY",
+      "metacritic_score": 74,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ポーランド語<strong>*</strong>, 中国語（繁体字）, ロシア語<strong>*</strong>, 日本語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1753715778",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1753715778",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1753715778",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1753715778",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1753715778"
+      ],
+      "movies": [
+        {
+          "name": "Skyrim Special Edition Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672927/movie.293x165.jpg?t=1476991615",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Skyrim SE Live Action Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672841/movie.293x165.jpg?t=1476909226",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 205366,
+      "total_reviews": 358617,
+      "total_positive": 330789,
+      "total_negative": 27828,
+      "review_score_desc": "Very Positive",
+      "slug": "skyrim",
+      "recommend": "all",
+      "tags_ja": [
+        "オープンワールド",
+        "RPG",
+        "アドベンチャー",
+        "ファンタジー",
+        "シングルプレイヤー",
+        "キャラクターカスタマイズ",
+        "MOD導入可能",
+        "ドラゴン"
+      ],
+      "tags_en": [
+        "Open World",
+        "RPG",
+        "Adventure",
+        "Fantasy",
+        "Singleplayer",
+        "Character Customization",
+        "Moddable",
+        "Dragons"
+      ],
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
     },
     {
       "appid": 4045680,
@@ -2639,7 +2955,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2730,7 +3046,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2804,8 +3120,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 25289,
-      "total_positive": 24719,
+      "total_reviews": 25291,
+      "total_positive": 24721,
       "total_negative": 570,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "pineapple-on-pizza",
@@ -2831,7 +3147,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     },
     {
@@ -2927,7 +3243,125 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-09T19:20:07.842314",
+      "fetched_at": "2026-02-09T19:33:45.138511",
+      "has_article": false
+    },
+    {
+      "appid": 3419430,
+      "required_age": 0,
+      "name_ja": "Bongo Cat",
+      "name_en": "Bongo Cat",
+      "name": "Bongo Cat",
+      "short_description_ja": "Bongo catはいーっぱい帽子がほしいんだ！ あなたがクリックやキー入力をするたびにBongo catがタスクバーをばしばし叩きます。 ゲームや仕事をしながらポイントを貯めて、Bongo catを手伝ってあげよう。 どんな帽子が見つかるかな？",
+      "short_description_en": "Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?",
+      "short_description": "Bongo catはいーっぱい帽子がほしいんだ！ あなたがクリックやキー入力をするたびにBongo catがタスクバーをばしばし叩きます。 ゲームや仕事をしながらポイントを貯めて、Bongo catを手伝ってあげよう。 どんな帽子が見つかるかな？",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1759317272",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg?t=1759317272",
+      "developers": [
+        "Marcel Zurawka",
+        "Julius Krüger"
+      ],
+      "publishers": [
+        "Irox Games"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "シミュレーション",
+        "無料プレイ"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Free To Play"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "シミュレーション",
+        "無料プレイ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "部分的コントローラサポート",
+        "データ"
+      ],
+      "release_date_ja": "2025年3月5日",
+      "release_date_en": "5 Mar, 2025",
+      "release_date": "2025年3月5日",
+      "is_free": true,
+      "price_initial": 0,
+      "price_final": 0,
+      "discount_percent": 0,
+      "price_formatted": "",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, ドイツ語, オランダ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ポルトガル語－ポルトガル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, ウクライナ語, フランス語, イタリア語, スペイン語 - スペイン, アラビア語, チェコ語, デンマーク語, フィンランド語, ノルウェー語, ルーマニア語, スペイン語－ラテンアメリカ, スウェーデン語, トルコ語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.1920x1080.jpg?t=1759317272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.1920x1080.jpg?t=1759317272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.1920x1080.jpg?t=1759317272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.1920x1080.jpg?t=1759317272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.1920x1080.jpg?t=1759317272"
+      ],
+      "movies": [
+        {
+          "name": "Meowtiplayer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182675/d3cc74f057f33ba87972f2dba9811f970048fb6f/movie_600x337.jpg?t=1755156314",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090546/891f5d0255106822013d0ee9ca6bd3db0bedc3bb/movie_600x337.jpg?t=1737365643",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 0,
+      "total_reviews": 88995,
+      "total_positive": 86878,
+      "total_negative": 2117,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "bongo-cat",
+      "recommend": "all",
+      "free_section": true,
+      "tags_ja": [
+        "猫",
+        "無料プレイ",
+        "クリッカー",
+        "かわいい",
+        "カジュアル",
+        "放置",
+        "タイピング",
+        "2D"
+      ],
+      "tags_en": [
+        "Cats",
+        "Free to Play",
+        "Clicker",
+        "Cute",
+        "Casual",
+        "Idler",
+        "Typing",
+        "2D"
+      ],
+      "fetched_at": "2026-02-09T19:33:45.138511",
       "has_article": false
     }
   ]
