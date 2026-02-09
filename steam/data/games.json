@@ -1062,7 +1062,7 @@
       "total_negative": 4902,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
-      "recommend": "all",
+      "recommend": "niche",
       "tags_ja": [
         "コロニーシミュレーション",
         "基地建設",
@@ -1511,7 +1511,7 @@
       "total_negative": 1330,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
-      "recommend": "multi",
+      "recommend": "all",
       "tags_ja": [
         "協力プレイ",
         "管理",
@@ -1533,7 +1533,8 @@
         "Cute"
       ],
       "fetched_at": "2026-02-09T19:20:07.842314",
-      "has_article": false
+      "has_article": false,
+      "multi": true
     },
     {
       "appid": 913740,
@@ -2037,7 +2038,7 @@
       "total_negative": 322,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
-      "recommend": "niche",
+      "recommend": "all",
       "tags_ja": [
         "インタラクティブフィクション",
         "パズル",
@@ -2523,7 +2524,7 @@
       "total_negative": 847,
       "review_score_desc": "Very Positive",
       "slug": "the-past-within",
-      "recommend": "multi",
+      "recommend": "all",
       "tags_ja": [
         "協力プレイ",
         "パズル",
@@ -2545,7 +2546,8 @@
         "Point & Click"
       ],
       "fetched_at": "2026-02-09T19:20:07.842314",
-      "has_article": false
+      "has_article": false,
+      "multi": true
     },
     {
       "appid": 4045680,

@@ -298,14 +298,15 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
         g["has_article"] = slug in articles
         if slug in articles:
             g["article_title"] = articles[slug]["meta"].get("title", "")
-        # recommend / coming_soon をマスターから補完
+        # recommend / multi / coming_soon をマスターから上書き（編集判断はマスターが正）
         master = game_master.get(g.get("appid"), {})
-        if "recommend" not in g:
-            g["recommend"] = master.get("recommend", "all")
+        g["recommend"] = master.get("recommend", g.get("recommend", "all"))
         if master.get("coming_soon"):
             g["coming_soon"] = True
         if master.get("free_section"):
             g["free_section"] = True
+        if master.get("multi"):
+            g["multi"] = True
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
@@ -330,6 +331,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["coming_soon"] = True
             if master.get("free_section"):
                 entry["free_section"] = True
+            if master.get("multi"):
+                entry["multi"] = True
             games.append(entry)
 
     games_data = {
