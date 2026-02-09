@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T13:09:59.958795",
+  "timestamp": "2026-02-09T13:51:39.138402",
   "games": [
     {
       "appid": 2379780,
@@ -80,7 +80,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147389,
+      "recommendations_total": 147388,
       "total_reviews": 182677,
       "total_positive": 178896,
       "total_negative": 3781,
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 413150,
@@ -191,7 +191,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 837094,
+      "recommendations_total": 837104,
       "total_reviews": 975342,
       "total_positive": 960402,
       "total_negative": 14940,
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 2135150,
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 391540,
@@ -408,9 +408,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 281679,
-      "total_reviews": 313622,
-      "total_positive": 303502,
+      "recommendations_total": 281681,
+      "total_reviews": 313627,
+      "total_positive": 303507,
       "total_negative": 10120,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 568220,
@@ -504,8 +504,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 46912,
-      "total_reviews": 51016,
-      "total_positive": 48011,
+      "total_reviews": 51019,
+      "total_positive": 48014,
       "total_negative": 3005,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
@@ -530,7 +530,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1256670,
@@ -712,8 +712,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 35879,
-      "total_reviews": 39884,
-      "total_positive": 37642,
+      "total_reviews": 39885,
+      "total_positive": 37643,
       "total_negative": 2242,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1404850,
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 3314790,
@@ -935,8 +935,8 @@
       ],
       "demo_appid": 3347820,
       "recommendations_total": 19823,
-      "total_reviews": 20772,
-      "total_positive": 18748,
+      "total_reviews": 20775,
+      "total_positive": 18751,
       "total_negative": 2024,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -961,7 +961,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 294100,
@@ -1070,7 +1070,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 632470,
@@ -1153,8 +1153,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 111435,
-      "total_reviews": 123163,
-      "total_positive": 114233,
+      "total_reviews": 123164,
+      "total_positive": 114234,
       "total_negative": 8930,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
@@ -1179,7 +1179,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1222140,
@@ -1251,7 +1251,7 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 193504,
+      "recommendations_total": 193516,
       "total_reviews": 224338,
       "total_positive": 215778,
       "total_negative": 8560,
@@ -1278,7 +1278,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1054490,
@@ -1402,7 +1402,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1599600,
@@ -1516,7 +1516,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 913740,
@@ -1618,7 +1618,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1092790,
@@ -1698,7 +1698,7 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129043,
+      "recommendations_total": 129044,
       "total_reviews": 141717,
       "total_positive": 137280,
       "total_negative": 4437,
@@ -1725,7 +1725,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 239030,
@@ -1801,8 +1801,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 71073,
-      "total_reviews": 78029,
-      "total_positive": 75915,
+      "total_reviews": 78030,
+      "total_positive": 75916,
       "total_negative": 2114,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "papers-please",
@@ -1827,7 +1827,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1669980,
@@ -1940,7 +1940,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 2676840,
@@ -2010,9 +2010,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9106,
-      "total_reviews": 9421,
-      "total_positive": 9099,
+      "recommendations_total": 9107,
+      "total_reviews": 9420,
+      "total_positive": 9098,
       "total_negative": 322,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
@@ -2037,7 +2037,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 3117820,
@@ -2150,8 +2150,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 22700,
-      "total_reviews": 31855,
-      "total_positive": 30321,
+      "total_reviews": 31857,
+      "total_positive": 30323,
       "total_negative": 1534,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "sultans-game",
@@ -2176,7 +2176,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1794680,
@@ -2271,8 +2271,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 245996,
-      "total_reviews": 259467,
-      "total_positive": 255248,
+      "total_reviews": 259468,
+      "total_positive": 255249,
       "total_negative": 4219,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "vampire-survivors",
@@ -2297,7 +2297,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 447530,
@@ -2401,7 +2401,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1515210,
@@ -2520,7 +2520,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 4327530,
@@ -2592,8 +2592,8 @@
       ],
       "demo_appid": 4334900,
       "recommendations_total": 180,
-      "total_reviews": 180,
-      "total_positive": 175,
+      "total_reviews": 184,
+      "total_positive": 179,
       "total_negative": 5,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2618,7 +2618,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 1240210,
@@ -2726,7 +2726,101 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
+    },
+    {
+      "appid": 2455920,
+      "required_age": 0,
+      "name_ja": "Mimic Logic",
+      "name_en": "Mimic Logic",
+      "name": "Mimic Logic",
+      "short_description_ja": "「ミミックロジック」は自動生成論理パズルローグライクです。 宝箱の発言を聞いて、ウソつきミミックを見つけ出し、 それ以外の宝箱を開けていこう！ ミミックを開けるとゲームオーバー。 宝箱で手に入った装備やアイテムで敵を倒してダンジョンを制覇しましょう。",
+      "short_description_en": "&quot;Mimic Logic&quot; is an automatically generated logic puzzle roguelike. Listen to the statements of the treasure chests, find the lying mimics, and open the rest of the treasure chests! Opening a mimic results in a game over.",
+      "short_description": "「ミミックロジック」は自動生成論理パズルローグライクです。 宝箱の発言を聞いて、ウソつきミミックを見つけ出し、 それ以外の宝箱を開けていこう！ ミミックを開けるとゲームオーバー。 宝箱で手に入った装備やアイテムで敵を倒してダンジョンを制覇しましょう。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/header.jpg?t=1766096052",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/capsule_231x87.jpg?t=1766096052",
+      "developers": [
+        "Nihohe Soft"
+      ],
+      "publishers": [
+        "Nihohe Soft"
+      ],
+      "genres_ja": [
+        "インディー"
+      ],
+      "genres_en": [
+        "Indie"
+      ],
+      "genres": [
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "フルコントローラサポート",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2024年2月22日",
+      "release_date_en": "22 Feb, 2024",
+      "release_date": "2024年2月22日",
+      "is_free": false,
+      "price_initial": 47000,
+      "price_final": 47000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 470",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_232cc90c5b8a12475a59a959529b76ef69c0251b.1920x1080.jpg?t=1766096052",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_294be6ea1be7ae9c03b6e088e3f7f443c502be28.1920x1080.jpg?t=1766096052",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_b068ef6add6b35a3e82f4da03e69b8b95740f8d7.1920x1080.jpg?t=1766096052",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_40c9dcf1f027636706b7e3e82cfd4837284d3154.1920x1080.jpg?t=1766096052",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_4aef0057bb9cccfe109a6f30569300df286a3b8a.1920x1080.jpg?t=1766096052"
+      ],
+      "movies": [
+        {
+          "name": "mimic logic JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256982747/movie.293x165.jpg?t=1708930587",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 2567270,
+      "recommendations_total": 508,
+      "total_reviews": 521,
+      "total_positive": 514,
+      "total_negative": 7,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "mimic-logic",
+      "recommend": "all",
+      "by": "kotori",
+      "tags_ja": [
+        "パズル",
+        "ローグライク",
+        "自動生成",
+        "ファンタジー",
+        "レトロ",
+        "シングルプレイヤー",
+        "インディー",
+        "2D"
+      ],
+      "tags_en": [
+        "Puzzle",
+        "Roguelike",
+        "Procedural Generation",
+        "Fantasy",
+        "Retro",
+        "Singleplayer",
+        "Indie",
+        "2D"
+      ],
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 489830,
@@ -2806,9 +2900,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 205368,
-      "total_reviews": 358620,
-      "total_positive": 330792,
+      "recommendations_total": 205370,
+      "total_reviews": 358623,
+      "total_positive": 330795,
       "total_negative": 27828,
       "review_score_desc": "Very Positive",
       "slug": "skyrim",
@@ -2833,7 +2927,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 4045680,
@@ -2925,7 +3019,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 4371880,
@@ -3015,7 +3109,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 2263010,
@@ -3088,8 +3182,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 25294,
-      "total_positive": 24724,
+      "total_reviews": 25296,
+      "total_positive": 24726,
       "total_negative": 570,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "pineapple-on-pizza",
@@ -3115,7 +3209,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 2973410,
@@ -3210,7 +3304,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     },
     {
       "appid": 3419430,
@@ -3327,7 +3421,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-09T13:09:59.958795"
+      "fetched_at": "2026-02-09T13:51:39.138402"
     }
   ]
 }

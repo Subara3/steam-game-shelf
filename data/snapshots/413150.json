@@ -80,7 +80,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 837094,
+  "recommendations_total": 837104,
   "total_reviews": 975342,
   "total_positive": 960402,
   "total_negative": 14940,
@@ -107,5 +107,5 @@
     "Simulation",
     "Agriculture"
   ],
-  "fetched_at": "2026-02-09T13:09:59.958795"
+  "fetched_at": "2026-02-09T13:51:39.138402"
 }
