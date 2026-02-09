@@ -12,7 +12,6 @@ function dashboard() {
     selectedGenres: [],
     saleFilter: 'off',
     showOnlyWithArticle: false,
-    hideR18: false,
     sortKey: 'name',
     confirmedAgeApps: {},
     sidebarOpen: false,
@@ -103,7 +102,7 @@ function dashboard() {
 
     get isFiltering() {
       return this.searchQuery || this.selectedGenres.length > 0
-        || this.saleFilter !== 'off' || this.showOnlyWithArticle || this.hideR18;
+        || this.saleFilter !== 'off' || this.showOnlyWithArticle;
     },
 
     get filteredGames() {
@@ -134,9 +133,6 @@ function dashboard() {
         result = result.filter(g => g.has_article);
       }
 
-      if (this.hideR18) {
-        result = result.filter(g => !this.isR18(g));
-      }
 
       result = [...result].sort((a, b) => {
         switch (this.sortKey) {
@@ -174,7 +170,6 @@ function dashboard() {
       this.selectedGenres = [];
       this.saleFilter = 'off';
       this.showOnlyWithArticle = false;
-      this.hideR18 = false;
     },
 
     formatYen(amount) {
