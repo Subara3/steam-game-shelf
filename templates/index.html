@@ -70,9 +70,8 @@
       </div>
       <p class="site-description" x-text="t('siteDesc')"></p>
       <div class="header-meta">
-        <span class="header-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
-        <span class="header-divider"></span>
-        <span class="header-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section).length} ${t('titles')}`"></span>
+        <span class="header-badge header-badge-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
+        <span class="header-badge header-badge-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section).length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
@@ -170,10 +169,6 @@
         <label class="filter-check">
           <input type="checkbox" x-model="showOnlyWithArticle">
           <span x-text="t('onlyArticle')"></span>
-        </label>
-        <label class="filter-check">
-          <input type="checkbox" x-model="hideR18">
-          <span x-text="t('hideR18')"></span>
         </label>
       </div>
 
