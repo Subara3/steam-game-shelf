@@ -116,12 +116,24 @@
         <div class="genre-list">
           <button class="genre-chip" :class="selectedGenres.length === 0 ? 'genre-active' : ''" @click="selectedGenres = []">
             <span x-text="t('genreAll')"></span>
-            <span class="genre-count" x-text="games.length"></span>
+            <span class="genre-count" x-text="games.filter(g => !g.coming_soon && !g.free_section).length"></span>
           </button>
-          <template x-for="g in allGenres" :key="g.name">
+          <template x-for="g in allMainGenres" :key="g.name">
             <button class="genre-chip" :class="selectedGenres.includes(g.name) ? 'genre-active' : ''" @click="toggleGenre(g.name)">
               <span x-text="g.name"></span>
               <span class="genre-count" x-text="g.count"></span>
+            </button>
+          </template>
+        </div>
+      </div>
+
+      <div class="sidebar-section" x-show="allTags.length > 0">
+        <h3 x-text="t('tags')"></h3>
+        <div class="genre-list">
+          <template x-for="tag in allTags" :key="tag.name">
+            <button class="genre-chip" :class="selectedGenres.includes(tag.name) ? 'genre-active' : ''" @click="toggleGenre(tag.name)">
+              <span x-text="tag.name"></span>
+              <span class="genre-count" x-text="tag.count"></span>
             </button>
           </template>
         </div>

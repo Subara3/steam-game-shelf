@@ -88,14 +88,38 @@ function dashboard() {
       return this.articles.filter(a => !a.appid);
     },
 
-    get allGenres() {
+    get allMainGenres() {
+      const excluded = this.lang === 'en'
+        ? ['Indie', 'Early Access']
+        : ['インディー', '早期アクセス'];
       const counts = {};
       this.games.filter(g => !g.coming_soon && !g.free_section).forEach(g => {
-        this.gameGenres(g).forEach(genre => {
-          counts[genre] = (counts[genre] || 0) + 1;
+        const genres = (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
+        genres.forEach(genre => {
+          if (!excluded.includes(genre)) counts[genre] = (counts[genre] || 0) + 1;
         });
       });
       return Object.entries(counts)
+        .map(([name, count]) => ({ name, count }))
+        .sort((a, b) => b.count - a.count);
+    },
+
+    get allTags() {
+      const genreNames = new Set(this.allMainGenres.map(g => g.name));
+      const excluded = this.lang === 'en'
+        ? ['Singleplayer', 'Multiplayer', 'Indie', 'Early Access', 'Replay Value', 'Moddable']
+        : ['シングルプレイヤー', 'マルチプレイヤー', 'インディー', '早期アクセス', 'リプレイ性', 'MOD導入可能'];
+      const counts = {};
+      this.games.filter(g => !g.coming_soon && !g.free_section).forEach(g => {
+        const tags = (this.lang === 'en' ? g.tags_en : g.tags_ja) || [];
+        tags.forEach(tag => {
+          if (!excluded.includes(tag) && !genreNames.has(tag)) {
+            counts[tag] = (counts[tag] || 0) + 1;
+          }
+        });
+      });
+      return Object.entries(counts)
+        .filter(([_, count]) => count >= 3)
         .map(([name, count]) => ({ name, count }))
         .sort((a, b) => b.count - a.count);
     },
@@ -119,8 +143,10 @@ function dashboard() {
 
       if (this.selectedGenres.length > 0) {
         result = result.filter(g => {
-          const genres = this.gameGenres(g);
-          return genres.length > 0 && this.selectedGenres.some(genre => genres.includes(genre));
+          const genres = this.gameMainGenres(g);
+          const tags = (this.lang === 'en' ? g.tags_en : g.tags_ja) || [];
+          const all = [...new Set([...genres, ...tags])];
+          return this.selectedGenres.some(s => all.includes(s));
         });
       }
 
