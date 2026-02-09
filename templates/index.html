@@ -238,6 +238,8 @@
                       <div class="game-body">
                         <h3 class="game-name" x-text="gameName(g)"></h3>
                         <div class="recommend-badges">
+                          <img src="img/scala.png" alt="" class="recommend-avatar" x-show="!g.by || g.by === 'scala' || g.by === 'both'">
+                          <img src="img/kotori.png" alt="" class="recommend-avatar" x-show="g.by === 'kotori' || g.by === 'both'">
                           <span class="recommend-badge" :class="g.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="g.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
                           <span class="recommend-badge recommend-multi" x-show="g.multi" x-text="t('recommendMulti')"></span>
                         </div>

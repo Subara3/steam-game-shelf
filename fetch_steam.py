@@ -211,6 +211,8 @@ def main():
             info["free_section"] = True
         if game.get("multi"):
             info["multi"] = True
+        if game.get("by"):
+            info["by"] = game["by"]
 
         # ユーザータグ取得（上位8件）
         user_tags = fetch_user_tags(appid)
