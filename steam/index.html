@@ -54,6 +54,11 @@
   <header class="site-header">
     <div class="header-card">
       <div class="header-top-row">
+        <button class="menu-toggle" @click="sidebarOpen = !sidebarOpen" :aria-label="t('search')">
+          <span class="menu-bar"></span>
+          <span class="menu-bar"></span>
+          <span class="menu-bar"></span>
+        </button>
         <h1 class="site-title" x-text="t('siteTitle')"></h1>
         <div class="lang-switch">
           <button :class="lang === 'ja' ? 'lang-active' : ''" @click="switchLang('ja')">JP</button>
@@ -91,8 +96,14 @@
   <!-- 2カラムレイアウト -->
   <div class="layout">
 
+    <!-- サイドバー背景 -->
+    <div class="sidebar-backdrop" x-show="sidebarOpen" @click="sidebarOpen = false" x-transition.opacity></div>
+
     <!-- サイドバー -->
-    <aside class="sidebar">
+    <aside class="sidebar" :class="sidebarOpen ? 'sidebar-open' : ''">
+      <div class="sidebar-close-row">
+        <button class="sidebar-close" @click="sidebarOpen = false" aria-label="Close">&times;</button>
+      </div>
       <div class="sidebar-section">
         <h3 x-text="t('search')"></h3>
         <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input">
@@ -192,11 +203,10 @@
               <template x-if="idx > 0 && idx % 6 === 0">
                 <div class="ad-slot-inline">
                   <ins class="adsbygoogle"
-                    style="display:block"
+                    style="display:block; width:100%; height:100%;"
                     data-ad-client="ca-pub-7086371722392050"
                     data-ad-slot="4953305789"
-                    data-ad-format="auto"
-                    data-full-width-responsive="true"></ins>
+                    data-ad-format="rectangle"></ins>
                 </div>
               </template>
               <article class="game-card" :class="isR18(g) ? 'game-card-r18' : ''">
