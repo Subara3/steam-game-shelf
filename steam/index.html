@@ -106,9 +106,55 @@
       <div class="sidebar-close-row">
         <button class="sidebar-close" @click="sidebarOpen = false" aria-label="Close">&times;</button>
       </div>
+
       <div class="sidebar-section">
         <h3 x-text="t('search')"></h3>
         <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input">
+      </div>
+
+      <div class="sidebar-section">
+        <h3 x-text="t('sort')"></h3>
+        <select x-model="sortKey" class="sort-select">
+          <option value="name" x-text="t('sortName')"></option>
+          <option value="price_asc" x-text="t('sortPriceAsc')"></option>
+          <option value="price_desc" x-text="t('sortPriceDesc')"></option>
+          <option value="review" x-text="t('sortReview')"></option>
+          <option value="discount" x-text="t('sortDiscount')"></option>
+        </select>
+      </div>
+
+      <div class="sidebar-section">
+        <h3 x-text="t('display')"></h3>
+        <label class="filter-check">
+          <input type="checkbox" x-model="showOnlyWithArticle">
+          <span x-text="t('onlyArticle')"></span>
+        </label>
+      </div>
+
+      <div class="sidebar-section">
+        <h3 x-text="t('sale')"></h3>
+        <div class="sale-filter-list">
+          <label class="filter-radio">
+            <input type="radio" value="off" x-model="saleFilter">
+            <span x-text="t('genreAll')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="all" x-model="saleFilter">
+            <span x-text="t('saleAll')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale50" x-model="saleFilter">
+            <span x-text="t('sale50')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale30" x-model="saleFilter">
+            <span x-text="t('sale30')"></span>
+          </label>
+          <label class="filter-radio">
+            <input type="radio" value="sale10" x-model="saleFilter">
+            <span x-text="t('sale10')"></span>
+          </label>
+        </div>
       </div>
 
       <div class="sidebar-section">
@@ -139,32 +185,6 @@
         </div>
       </div>
 
-      <div class="sidebar-section">
-        <h3 x-text="t('sale')"></h3>
-        <div class="sale-filter-list">
-          <label class="filter-radio">
-            <input type="radio" value="off" x-model="saleFilter">
-            <span x-text="t('genreAll')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="all" x-model="saleFilter">
-            <span x-text="t('saleAll')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale50" x-model="saleFilter">
-            <span x-text="t('sale50')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale30" x-model="saleFilter">
-            <span x-text="t('sale30')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale10" x-model="saleFilter">
-            <span x-text="t('sale10')"></span>
-          </label>
-        </div>
-      </div>
-
       <!-- サイドバー広告 -->
       <div class="sidebar-section ad-sidebar">
         <ins class="adsbygoogle"
@@ -174,25 +194,6 @@
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-      </div>
-
-      <div class="sidebar-section">
-        <h3 x-text="t('display')"></h3>
-        <label class="filter-check">
-          <input type="checkbox" x-model="showOnlyWithArticle">
-          <span x-text="t('onlyArticle')"></span>
-        </label>
-      </div>
-
-      <div class="sidebar-section">
-        <h3 x-text="t('sort')"></h3>
-        <select x-model="sortKey" class="sort-select">
-          <option value="name" x-text="t('sortName')"></option>
-          <option value="price_asc" x-text="t('sortPriceAsc')"></option>
-          <option value="price_desc" x-text="t('sortPriceDesc')"></option>
-          <option value="review" x-text="t('sortReview')"></option>
-          <option value="discount" x-text="t('sortDiscount')"></option>
-        </select>
       </div>
     </aside>
 

@@ -1,19 +1,29 @@
-/* すばらしきSteamゲームの本棚 — モダンダークテーマ */
+/* すばらしきSteamゲームの本棚 — Midnight Library テーマ */
 
 :root {
+  /* ── ベース ── */
   --steam-dark: #1b2838;
-  --steam-darker: #0d1117;
+  --steam-darker: #0b1015;
+  /* ── プライマリ (Steam Blue) ── */
   --steam-blue: #66c0f4;
   --steam-blue-dark: #1a9fff;
+  --steam-blue-dim: rgba(102, 192, 244, 0.10);
+  /* ── アクセント (Warm Gold) ── */
+  --accent: #d4a056;
+  --accent-dim: rgba(212, 160, 86, 0.10);
+  --accent-border: rgba(212, 160, 86, 0.25);
+  /* ── セール ── */
   --steam-green: #4c6b22;
   --steam-green-bright: #a4d007;
   --sale-red: #ff4444;
   --sale-bg: #4c6b22;
-  --card-bg: rgba(22, 32, 45, 0.65);
-  --card-border: rgba(102, 192, 244, 0.12);
-  --card-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
-  --card-hover-shadow: 0 8px 32px rgba(102, 192, 244, 0.12), 0 2px 12px rgba(0, 0, 0, 0.4);
-  --glass-blur: 16px;
+  /* ── サーフェス ── */
+  --card-bg: rgba(20, 28, 38, 0.82);
+  --card-border: rgba(102, 192, 244, 0.08);
+  --card-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  --card-hover-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 20px rgba(212, 160, 86, 0.06);
+  --glass-blur: 12px;
+  /* ── タイポグラフィ ── */
   --font-heading: 'Sora', 'Zen Kaku Gothic New', sans-serif;
   --font-body: 'DM Sans', 'Zen Kaku Gothic New', sans-serif;
 }
@@ -21,8 +31,8 @@
 body {
   font-family: var(--font-body);
   background: var(--steam-darker);
-  background-image: radial-gradient(rgba(102, 192, 244, 0.04) 1px, transparent 1px);
-  background-size: 20px 20px;
+  background-image: radial-gradient(rgba(212, 160, 86, 0.025) 1px, transparent 1px);
+  background-size: 24px 24px;
   background-attachment: fixed;
 }
 
@@ -74,10 +84,10 @@ h1, h2, h3, h4, h5, h6,
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--steam-blue);
+  color: var(--accent);
   margin-bottom: 0.5rem;
   padding-bottom: 0.3rem;
-  border-bottom: 1px solid var(--card-border);
+  border-bottom: 1px solid rgba(212, 160, 86, 0.15);
 }
 
 .search-input {
@@ -120,15 +130,15 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .genre-chip:hover {
-  background: rgba(102, 192, 244, 0.08);
-  color: var(--steam-blue);
+  background: var(--accent-dim);
+  color: var(--accent);
 }
 
 .genre-active {
-  background: rgba(102, 192, 244, 0.12);
-  border-color: rgba(102, 192, 244, 0.4);
-  color: var(--steam-blue);
-  box-shadow: 0 0 8px rgba(102, 192, 244, 0.1);
+  background: rgba(212, 160, 86, 0.12);
+  border-color: var(--accent-border);
+  color: var(--accent);
+  box-shadow: 0 0 8px rgba(212, 160, 86, 0.08);
 }
 
 .genre-count {
@@ -236,13 +246,13 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .header-card {
-  background: linear-gradient(135deg, rgba(27, 40, 56, 0.8), rgba(22, 32, 45, 0.6));
+  background: linear-gradient(135deg, rgba(27, 40, 56, 0.85), rgba(20, 28, 38, 0.75));
   backdrop-filter: blur(var(--glass-blur));
   -webkit-backdrop-filter: blur(var(--glass-blur));
-  border: 1px solid var(--card-border);
+  border: 1px solid var(--accent-border);
   border-radius: 16px;
   padding: 1.8rem 2rem;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5), 0 0 40px rgba(212, 160, 86, 0.03);
 }
 
 .header-top-row {
@@ -255,7 +265,7 @@ h1, h2, h3, h4, h5, h6,
   font-size: 1.6rem;
   font-weight: 700;
   margin-bottom: 0.3rem;
-  background: linear-gradient(90deg, var(--steam-blue) 0%, #fff 40%, var(--steam-blue) 80%);
+  background: linear-gradient(90deg, var(--accent) 0%, #f0e0c8 35%, var(--steam-blue) 65%, var(--accent) 100%);
   background-size: 200% auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -319,9 +329,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .header-badge-date {
-  background: rgba(102, 192, 244, 0.1);
-  color: var(--steam-blue);
-  border: 1px solid rgba(102, 192, 244, 0.2);
+  background: var(--accent-dim);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
 }
 
 .header-badge-count {
@@ -407,6 +417,7 @@ h1, h2, h3, h4, h5, h6,
 .game-list h2 {
   font-size: 1.2rem;
   margin-bottom: 1rem;
+  color: var(--accent);
 }
 
 .game-grid-wrap {
@@ -460,7 +471,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .game-card:hover {
-  border-color: rgba(102, 192, 244, 0.3);
+  border-color: rgba(212, 160, 86, 0.25);
   box-shadow: var(--card-hover-shadow);
   transform: translateY(-3px);
 }
@@ -500,7 +511,7 @@ h1, h2, h3, h4, h5, h6,
 
 .game-genres-row {
   font-size: 0.75rem;
-  color: var(--steam-blue);
+  color: var(--accent);
   margin-bottom: 0.4rem;
 }
 
@@ -757,6 +768,7 @@ h1, h2, h3, h4, h5, h6,
 .articles-section h2 {
   font-size: 1.2rem;
   margin-bottom: 1rem;
+  color: var(--accent);
 }
 
 .no-articles {
@@ -784,7 +796,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .article-card:hover {
-  border-color: rgba(102, 192, 244, 0.3);
+  border-color: rgba(212, 160, 86, 0.25);
   box-shadow: var(--card-hover-shadow);
   transform: translateY(-2px);
 }
@@ -1238,7 +1250,7 @@ footer a {
 
 .wishlist-section h2 {
   font-size: 1.3rem;
-  color: var(--steam-blue);
+  color: var(--accent);
   margin-bottom: 1rem;
 }
 
@@ -1262,7 +1274,7 @@ footer a {
 }
 
 .wishlist-card:hover {
-  border-color: rgba(102, 192, 244, 0.3);
+  border-color: rgba(212, 160, 86, 0.25);
   box-shadow: var(--card-hover-shadow);
   transform: translateY(-2px);
 }
