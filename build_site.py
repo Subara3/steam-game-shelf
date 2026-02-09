@@ -275,7 +275,13 @@ def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix:
         text = md_file.read_text(encoding="utf-8")
         meta, body = parse_markdown_frontmatter(text)
         html = simple_markdown_to_html(body, lang=lang, img_prefix=img_prefix, pet_safety=meta.get("pet_safety", ""))
-        articles[slug] = {"meta": meta, "html": html, "slug": slug}
+        # pet_safety セクションを本文から分離（記事の外に配置するため）
+        pet_html = ""
+        pet_idx = html.find('<div class="pet-safety-section')
+        if pet_idx >= 0:
+            pet_html = html[pet_idx:]
+            html = html[:pet_idx].rstrip()
+        articles[slug] = {"meta": meta, "html": html, "pet_html": pet_html, "slug": slug}
     return articles
 
 
@@ -508,6 +514,8 @@ def build_article_pages(articles: dict, lang: str = "ja"):
     </header>
     {art["html"]}
   </article>
+
+  {art.get("pet_html", "")}
 
   <div style="text-align: center; margin: 20px auto; max-width: 800px;">
     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7086371722392050"
