@@ -1,0 +1,113 @@
+{
+  "appid": 1669980,
+  "required_age": 0,
+  "name_ja": "火山の娘",
+  "name_en": "Volcano Princess",
+  "name": "Volcano Princess",
+  "short_description_ja": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
+  "short_description_en": "Prepare the next monarch by finding her hobbies, training her for battle, and befriending the citizens she'll one day protect. Dive into an all-new parenting-simulator-RPG adventure, where every decision you make will not only affect the future of your daughter but that of an entire empire!",
+  "short_description": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/header_japanese.jpg?t=1746063344",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87_japanese.jpg?t=1746063344",
+  "developers": [
+    "养蛋人 Egg Hatcher"
+  ],
+  "publishers": [
+    "养蛋人 Egg Hatcher"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年4月20日",
+  "release_date_en": "20 Apr, 2023",
+  "release_date": "2023年4月20日",
+  "is_free": false,
+  "price_initial": 130000,
+  "price_final": 130000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,300",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "中国語（簡体字）, 英語, 日本語, 韓国語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_fb40756b2dd6278bf7ec0614b011d6b59c4ceead.1920x1080.jpg?t=1746063344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_d1af1123d6d8ce6f816e3f03fb27ad9887f7bba0.1920x1080.jpg?t=1746063344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_1c259124af42a61aeb2a598cfa404101a31c6500.1920x1080.jpg?t=1746063344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_60abc3b7e0a95773cadb8ac7c27a8c72312d8959.1920x1080.jpg?t=1746063344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_7e673efebb8f03020b770c39017064b3d6c6bc87.1920x1080.jpg?t=1746063344"
+  ],
+  "movies": [
+    {
+      "name": "FINAL_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942173/fd7734a1391a87013aeb5c37123bd892f708ed64/movie_600x337.jpg?t=1741928189",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer 02_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917946/movie.293x165.jpg?t=1741928196",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 43142,
+  "total_reviews": 46679,
+  "total_positive": 45663,
+  "total_negative": 1016,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "volcano-princess",
+  "recommend": "niche",
+  "tags_ja": [
+    "人生シミュレーション",
+    "マルチエンディング",
+    "選択型進行",
+    "RPG",
+    "女性主人公",
+    "恋愛シミュレーション",
+    "アニメ",
+    "シミュレーション"
+  ],
+  "tags_en": [
+    "Life Sim",
+    "Multiple Endings",
+    "Choices Matter",
+    "RPG",
+    "Female Protagonist",
+    "Dating Sim",
+    "Anime",
+    "Simulation"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

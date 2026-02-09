@@ -207,6 +207,8 @@ def main():
         info["recommend"] = game.get("recommend", "all")
         if game.get("coming_soon"):
             info["coming_soon"] = True
+        if game.get("free_section"):
+            info["free_section"] = True
 
         # ユーザータグ取得（上位8件）
         user_tags = fetch_user_tags(appid)

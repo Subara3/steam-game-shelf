@@ -1,0 +1,121 @@
+{
+  "appid": 1794680,
+  "required_age": 0,
+  "name_ja": "Vampire Survivors",
+  "name_en": "Vampire Survivors",
+  "name": "Vampire Survivors",
+  "short_description_ja": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
+  "short_description_en": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
+  "short_description": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1763675244",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg?t=1763675244",
+  "developers": [
+    "poncle"
+  ],
+  "publishers": [
+    "poncle"
+  ],
+  "genres_ja": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Action",
+    "Casual",
+    "Indie",
+    "RPG"
+  ],
+  "genres": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年10月20日",
+  "release_date_en": "20 Oct, 2022",
+  "release_date": "2022年10月20日",
+  "is_free": false,
+  "price_initial": 49900,
+  "price_final": 49900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 499",
+  "currency": "JPY",
+  "metacritic_score": 86,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, トルコ語, ウクライナ語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1763675244",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1763675244",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1763675244",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1763675244",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1763675244"
+  ],
+  "movies": [
+    {
+      "name": "Refreshed Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964120/movie.293x165.jpg?t=1692280956",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "October 2022 - v1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911886/movie.293x165.jpg?t=1692280960",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "December 2021 - Early Access Release",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858285/movie.293x165.jpg?t=1692280964",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 245993,
+  "total_reviews": 259464,
+  "total_positive": 255245,
+  "total_negative": 4219,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "vampire-survivors",
+  "recommend": "all",
+  "tags_ja": [
+    "ローグライクアクション",
+    "弾幕",
+    "ローグライト",
+    "ドット絵",
+    "吸血鬼",
+    "2D",
+    "インディー",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Action Roguelike",
+    "Bullet Hell",
+    "Roguelite",
+    "Pixel Graphics",
+    "Vampire",
+    "2D",
+    "Indie",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

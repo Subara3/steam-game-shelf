@@ -1,0 +1,118 @@
+{
+  "appid": 1515210,
+  "required_age": 0,
+  "name_ja": "The Past Within",
+  "name_en": "The Past Within",
+  "name": "The Past Within",
+  "short_description_ja": "『The Past Within』は、ラスティレイクがお届けする新しい協力プレイ体験です！信頼できる誰かと一緒にプレイしましょう。それぞれが過去と未来でプレイすることになります。周りをよく観察して、見たものを相手に伝えましょう。パズルを解いて、アルバート・ヴァンダーブームの策略を明らかにしてください。",
+  "short_description_en": "The Past Within is the new co-op experience from Rusty Lake! Play together with someone you deem trustworthy: one in The Past, the other in The Future. Observe and communicate what you see around you. Solve the puzzles and uncover Albert Vanderboom’s plan.",
+  "short_description": "『The Past Within』は、ラスティレイクがお届けする新しい協力プレイ体験です！信頼できる誰かと一緒にプレイしましょう。それぞれが過去と未来でプレイすることになります。周りをよく観察して、見たものを相手に伝えましょう。パズルを解いて、アルバート・ヴァンダーブームの策略を明らかにしてください。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg?t=1740070156",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/capsule_231x87.jpg?t=1740070156",
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "クロスプラットフォームマルチプレイヤー",
+    "Steam実績",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年11月2日",
+  "release_date_en": "2 Nov, 2022",
+  "release_date": "2022年11月2日",
+  "is_free": false,
+  "price_initial": 70000,
+  "price_final": 70000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 700",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, デンマーク語, オランダ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, ベトナム語, ポルトガル語－ポルトガル, スペイン語－ラテンアメリカ, ルーマニア語, フィンランド語, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.rustylake.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_4b841a393b3941fd81b186afe04f503d6b2bb8f4.1920x1080.jpg?t=1740070156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_41cac8c12c95f4f820e3f6526340d8b86862d9e4.1920x1080.jpg?t=1740070156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5c5a0842e7ad3a2c1a44f5ce4346c61073f4903a.1920x1080.jpg?t=1740070156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5bacd69d0346af7f895435099f7df4602e2f5d24.1920x1080.jpg?t=1740070156",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_53bc172b51a69cc8d59b845393505abc1561bb7c.1920x1080.jpg?t=1740070156"
+  ],
+  "movies": [
+    {
+      "name": "The Past Within - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256928239/movie.293x165.jpg?t=1675276978",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "The Past Within - Official Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906840/movie.293x165.jpg?t=1663757704",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "The Past Within - Official Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914083/movie.293x165.jpg?t=1667390078",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819623/movie.293x165.jpg?t=1637072941",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1905120,
+  "recommendations_total": 14054,
+  "total_reviews": 16155,
+  "total_positive": 15308,
+  "total_negative": 847,
+  "review_score_desc": "Very Positive",
+  "slug": "the-past-within",
+  "recommend": "multi",
+  "tags_ja": [
+    "協力プレイ",
+    "パズル",
+    "オンライン協力プレイ",
+    "マルチプレイヤー",
+    "脱出ゲーム",
+    "ホラー",
+    "ミステリー",
+    "ポイント＆クリック"
+  ],
+  "tags_en": [
+    "Co-op",
+    "Puzzle",
+    "Online Co-Op",
+    "Multiplayer",
+    "Escape Room",
+    "Horror",
+    "Mystery",
+    "Point & Click"
+  ],
+  "fetched_at": "2026-02-09T19:20:07.842314"
+}

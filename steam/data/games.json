@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T08:09:22.478125",
+  "timestamp": "2026-02-09T19:20:07.842314",
   "games": [
     {
       "appid": 2379780,
@@ -80,10 +80,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147357,
-      "total_reviews": 182636,
-      "total_positive": 178857,
-      "total_negative": 3779,
+      "recommendations_total": 147389,
+      "total_reviews": 182676,
+      "total_positive": 178895,
+      "total_negative": 3781,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -193,10 +193,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 836955,
-      "total_reviews": 975191,
-      "total_positive": 960256,
-      "total_negative": 14935,
+      "recommendations_total": 837065,
+      "total_reviews": 975312,
+      "total_positive": 960374,
+      "total_negative": 14938,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
@@ -220,7 +220,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -314,9 +314,9 @@
         }
       ],
       "demo_appid": 3288620,
-      "recommendations_total": 7619,
-      "total_reviews": 8354,
-      "total_positive": 7828,
+      "recommendations_total": 7618,
+      "total_reviews": 8353,
+      "total_positive": 7827,
       "total_negative": 526,
       "review_score_desc": "Very Positive",
       "slug": "elin",
@@ -341,7 +341,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
     },
@@ -414,10 +414,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 281642,
-      "total_reviews": 313586,
-      "total_positive": 303468,
-      "total_negative": 10118,
+      "recommendations_total": 281672,
+      "total_reviews": 313617,
+      "total_positive": 303497,
+      "total_negative": 10120,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
@@ -441,7 +441,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG"
     },
@@ -511,10 +511,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 46896,
-      "total_reviews": 51001,
-      "total_positive": 47995,
-      "total_negative": 3006,
+      "recommendations_total": 46904,
+      "total_reviews": 51013,
+      "total_positive": 48008,
+      "total_negative": 3005,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
       "recommend": "niche",
@@ -538,7 +538,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -638,7 +638,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -721,9 +721,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 35870,
-      "total_reviews": 39871,
-      "total_positive": 37629,
+      "recommendations_total": 35875,
+      "total_reviews": 39879,
+      "total_positive": 37637,
       "total_negative": 2242,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -748,7 +748,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -835,9 +835,9 @@
         }
       ],
       "demo_appid": 1439770,
-      "recommendations_total": 9993,
-      "total_reviews": 11276,
-      "total_positive": 10517,
+      "recommendations_total": 9992,
+      "total_reviews": 11275,
+      "total_positive": 10516,
       "total_negative": 759,
       "review_score_desc": "Very Positive",
       "slug": "luck-be-a-landlord",
@@ -862,7 +862,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -946,10 +946,10 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 19812,
-      "total_reviews": 20760,
-      "total_positive": 18739,
-      "total_negative": 2021,
+      "recommendations_total": 19823,
+      "total_reviews": 20771,
+      "total_positive": 18747,
+      "total_negative": 2024,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
       "recommend": "niche",
@@ -973,7 +973,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1056,10 +1056,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 197450,
-      "total_reviews": 232971,
-      "total_positive": 228070,
-      "total_negative": 4901,
+      "recommendations_total": 197475,
+      "total_reviews": 233005,
+      "total_positive": 228103,
+      "total_negative": 4902,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "all",
@@ -1083,7 +1083,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1166,10 +1166,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111420,
-      "total_reviews": 123147,
-      "total_positive": 114219,
-      "total_negative": 8928,
+      "recommendations_total": 111433,
+      "total_reviews": 123160,
+      "total_positive": 114231,
+      "total_negative": 8929,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
@@ -1193,7 +1193,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1266,10 +1266,10 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 193442,
-      "total_reviews": 224259,
-      "total_positive": 215699,
-      "total_negative": 8560,
+      "recommendations_total": 193492,
+      "total_reviews": 224314,
+      "total_positive": 215755,
+      "total_negative": 8559,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
       "recommend": "all",
@@ -1293,7 +1293,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1391,9 +1391,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9301,
-      "total_reviews": 11386,
-      "total_positive": 10737,
+      "recommendations_total": 9300,
+      "total_reviews": 11385,
+      "total_positive": 10736,
       "total_negative": 649,
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
@@ -1418,7 +1418,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1505,9 +1505,9 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 17371,
-      "total_reviews": 25532,
-      "total_positive": 24202,
+      "recommendations_total": 17377,
+      "total_reviews": 25540,
+      "total_positive": 24210,
       "total_negative": 1330,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
@@ -1532,7 +1532,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1635,7 +1635,916 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 1092790,
+      "required_age": 0,
+      "name_ja": "Inscryption",
+      "name_en": "Inscryption",
+      "name": "Inscryption",
+      "short_description_ja": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
+      "short_description_en": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
+      "short_description": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1768517864",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1768517864",
+      "developers": [
+        "Daniel Mullins Games"
+      ],
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie",
+        "Strategy"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2021年10月19日",
+      "release_date_en": "19 Oct, 2021",
+      "release_date": "2021年10月19日",
+      "is_free": false,
+      "price_initial": 205000,
+      "price_final": 82000,
+      "discount_percent": 60,
+      "price_formatted": "¥ 820",
+      "currency": "JPY",
+      "metacritic_score": 85,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ロシア語, 中国語（簡体字）, イタリア語, ポルトガル語－ブラジル, 中国語（繁体字）, トルコ語",
+      "website": "https://www.inscryption-game.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_0191a69b0e94a9a7784f5b81e27f06379910645a.1920x1080.jpg?t=1768517864",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_3b714682e9e0a214df1630a234e9f6764528eece.1920x1080.jpg?t=1768517864",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_7bfe728822807d232398df1cb1a5d64addd3d8fb.1920x1080.jpg?t=1768517864",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_79a146c36a3f0b728a8e0085327cec8c7fba82d6.1920x1080.jpg?t=1768517864",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_738220c84b63522c4ca8c77fbff1ddb252ea0fe9.1920x1080.jpg?t=1768517864"
+      ],
+      "movies": [
+        {
+          "name": "Inscryption - Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795106/movie.293x165.jpg?t=1597161792",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852985/movie.293x165.jpg?t=1711536013",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 1753260,
+      "recommendations_total": 129041,
+      "total_reviews": 141712,
+      "total_positive": 137275,
+      "total_negative": 4437,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "inscryption",
+      "recommend": "all",
+      "tags_ja": [
+        "カードバトル",
+        "カードゲーム",
+        "物語性",
+        "デッキ構築",
+        "ホラー",
+        "ダーク",
+        "パズル",
+        "ローグライク"
+      ],
+      "tags_en": [
+        "Card Battler",
+        "Card Game",
+        "Story Rich",
+        "Deckbuilding",
+        "Horror",
+        "Dark",
+        "Puzzle",
+        "Roguelike"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 239030,
+      "required_age": 0,
+      "name_ja": "Papers, Please",
+      "name_en": "Papers, Please",
+      "name": "Papers, Please",
+      "short_description_ja": "おめでとう。10月度勤労抽選により貴方を入国審査官に命ずる。即座配属のため、至急グレスティン国境検問所の入国管理省に赴くように。貴方とその家族には、東グレスティンの８等級の住居が割り当てられる。アルストツカに栄光あれ。ここは、共産主義国アルストツカ。隣国コレチアとの6年間の戦争がついに終わり、国境の町グレスティンの半分を正当に取り戻し、晴れて国交を再開することに。あなたの仕事は入国審査官としてアルストツカへの入国者を審査することです。仕事を探している移民や観光客の中に潜む密輸業者、スパイ、テロリストたちを見極める必要があります。入国希望者のパスポートをはじめとする数々の書類をもとに、入国を認めるか、拒否するかを判断しなければなりません。",
+      "short_description_en": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
+      "short_description": "おめでとう。10月度勤労抽選により貴方を入国審査官に命ずる。即座配属のため、至急グレスティン国境検問所の入国管理省に赴くように。貴方とその家族には、東グレスティンの８等級の住居が割り当てられる。アルストツカに栄光あれ。ここは、共産主義国アルストツカ。隣国コレチアとの6年間の戦争がついに終わり、国境の町グレスティンの半分を正当に取り戻し、晴れて国交を再開することに。あなたの仕事は入国審査官としてアルストツカへの入国者を審査することです。仕事を探している移民や観光客の中に潜む密輸業者、スパイ、テロリストたちを見極める必要があります。入国希望者のパスポートをはじめとする数々の書類をもとに、入国を認めるか、拒否するかを判断しなければなりません。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/capsule_231x87.jpg?t=1678266428",
+      "developers": [
+        "Lucas Pope"
+      ],
+      "publishers": [
+        "3909"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "データ",
+        "Steamランキング",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2013年8月8日",
+      "release_date_en": "8 Aug, 2013",
+      "release_date": "2013年8月8日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 120000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,200",
+      "currency": "JPY",
+      "metacritic_score": 85,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, イタリア語, 日本語, ポーランド語, ウクライナ語, チェコ語, 中国語（簡体字）, トルコ語, バスク語, 韓国語",
+      "website": "http://papersplea.se",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4cd77e3ef5b147b011a5cf8f96b8bcbcd79b3e15.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_a1d08145ac2d3e85e8db440ccfeb7f7ad3c8247a.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4b50458fbc4afe2917803b59a35afb3e5d61c960.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_958285f31774906eb4def9d98a83e7926ceb3be2.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_d24155eecb65aaff7367b791bc7d4910fe59b303.1920x1080.jpg?t=1678266428"
+      ],
+      "movies": [
+        {
+          "name": "Papers, Please Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028977/movie.293x165.jpg?t=1447358378",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 71071,
+      "total_reviews": 78028,
+      "total_positive": 75914,
+      "total_negative": 2114,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "papers-please",
+      "recommend": "all",
+      "tags_ja": [
+        "インディー",
+        "政治的",
+        "シミュレーション",
+        "ポイント＆クリック",
+        "シングルプレイヤー",
+        "ドット絵",
+        "ディストピア",
+        "マルチエンディング"
+      ],
+      "tags_en": [
+        "Indie",
+        "Political",
+        "Simulation",
+        "Point & Click",
+        "Singleplayer",
+        "Pixel Graphics",
+        "Dystopian ",
+        "Multiple Endings"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 1669980,
+      "required_age": 0,
+      "name_ja": "火山の娘",
+      "name_en": "Volcano Princess",
+      "name": "Volcano Princess",
+      "short_description_ja": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
+      "short_description_en": "Prepare the next monarch by finding her hobbies, training her for battle, and befriending the citizens she'll one day protect. Dive into an all-new parenting-simulator-RPG adventure, where every decision you make will not only affect the future of your daughter but that of an entire empire!",
+      "short_description": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/header_japanese.jpg?t=1746063344",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87_japanese.jpg?t=1746063344",
+      "developers": [
+        "养蛋人 Egg Hatcher"
+      ],
+      "publishers": [
+        "养蛋人 Egg Hatcher"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年4月20日",
+      "release_date_en": "20 Apr, 2023",
+      "release_date": "2023年4月20日",
+      "is_free": false,
+      "price_initial": 130000,
+      "price_final": 130000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,300",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "中国語（簡体字）, 英語, 日本語, 韓国語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_fb40756b2dd6278bf7ec0614b011d6b59c4ceead.1920x1080.jpg?t=1746063344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_d1af1123d6d8ce6f816e3f03fb27ad9887f7bba0.1920x1080.jpg?t=1746063344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_1c259124af42a61aeb2a598cfa404101a31c6500.1920x1080.jpg?t=1746063344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_60abc3b7e0a95773cadb8ac7c27a8c72312d8959.1920x1080.jpg?t=1746063344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_7e673efebb8f03020b770c39017064b3d6c6bc87.1920x1080.jpg?t=1746063344"
+      ],
+      "movies": [
+        {
+          "name": "FINAL_EN",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942173/fd7734a1391a87013aeb5c37123bd892f708ed64/movie_600x337.jpg?t=1741928189",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Trailer 02_EN",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917946/movie.293x165.jpg?t=1741928196",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 43142,
+      "total_reviews": 46679,
+      "total_positive": 45663,
+      "total_negative": 1016,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "volcano-princess",
+      "recommend": "niche",
+      "tags_ja": [
+        "人生シミュレーション",
+        "マルチエンディング",
+        "選択型進行",
+        "RPG",
+        "女性主人公",
+        "恋愛シミュレーション",
+        "アニメ",
+        "シミュレーション"
+      ],
+      "tags_en": [
+        "Life Sim",
+        "Multiple Endings",
+        "Choices Matter",
+        "RPG",
+        "Female Protagonist",
+        "Dating Sim",
+        "Anime",
+        "Simulation"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 2676840,
+      "required_age": 0,
+      "name_ja": "未解決事件は終わらせないといけないから",
+      "name_en": "No Case Should Remain Unsolved",
+      "name": "No Case Should Remain Unsolved",
+      "short_description_ja": "清崎蒼警部の退職から12年後、ある日訪ねてきた若い警官。彼女は「犀華ちゃん行方不明事件」を終わらせるよう協力を要請してきた。清崎はバラバラになった記憶のかけらを思い出して再構成するが、明らかとなったのは犀華の周りの全員が嘘つきだったということだけ。",
+      "short_description_en": "Twelve years after Senior Inspector Jeon Gyeong's retirement, she is visited by a young police officer: a woman who pleads with her to reexamine Seowon's case. But with each uncovered memory, only one thing becomes clear: everyone in Seowon's vicinity was lying.",
+      "short_description": "清崎蒼警部の退職から12年後、ある日訪ねてきた若い警官。彼女は「犀華ちゃん行方不明事件」を終わらせるよう協力を要請してきた。清崎はバラバラになった記憶のかけらを思い出して再構成するが、明らかとなったのは犀華の周りの全員が嘘つきだったということだけ。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/header_japanese.jpg?t=1747299882",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/capsule_231x87_japanese.jpg?t=1747299882",
+      "developers": [
+        "Somi"
+      ],
+      "publishers": [
+        "Somi"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2024年1月17日",
+      "release_date_en": "17 Jan, 2024",
+      "release_date": "2024年1月17日",
+      "is_free": false,
+      "price_initial": 80000,
+      "price_final": 80000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 800",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "韓国語, 英語, 日本語, 中国語（簡体字）, ロシア語, 中国語（繁体字）, ポルトガル語－ブラジル, フランス語, インドネシア語, ドイツ語, スペイン語 - スペイン, イタリア語, ベトナム語",
+      "website": "https://somigames.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_29f0727972a5d6ab740e0d04431dafd7a73dee02.1920x1080.jpg?t=1747299882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_9ae7af8c30272c730018e8155bef42184af93c2b.1920x1080.jpg?t=1747299882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_0bf0b5a8368b6cd427108b2850d8715c44783a71.1920x1080.jpg?t=1747299882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_057c2864885b7c81f38a15d5d36d005e4ffb293e.1920x1080.jpg?t=1747299882",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676840/ss_b4ba18b1b088550b0b2176366f96595b039fced7.1920x1080.jpg?t=1747299882"
+      ],
+      "movies": [
+        {
+          "name": "No Case Should Remain Unsolved Official Trailer Japanese",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989527/movie.293x165.jpg?t=1702803852",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 9105,
+      "total_reviews": 9419,
+      "total_positive": 9097,
+      "total_negative": 322,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "no-case-should-remain-unsolved",
+      "recommend": "niche",
+      "tags_ja": [
+        "インタラクティブフィクション",
+        "パズル",
+        "調査",
+        "ビジュアルノベル",
+        "ポイント＆クリック",
+        "物語性",
+        "アドベンチャー",
+        "女性主人公"
+      ],
+      "tags_en": [
+        "Interactive Fiction",
+        "Puzzle",
+        "Investigation",
+        "Visual Novel",
+        "Point & Click",
+        "Story Rich",
+        "Adventure",
+        "Female Protagonist"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 3117820,
+      "required_age": 0,
+      "name_ja": "スルタンのゲーム",
+      "name_en": "Sultan's Game",
+      "name": "Sultan's Game",
+      "short_description_ja": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
+      "short_description_en": "Survive a mad Sultan's reign in this brutal resource management RPG. Draw a card every seven days and complete its challenge. Make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement?",
+      "short_description": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/header_japanese.jpg?t=1769683666",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/f2719fdcb3d4a3ad36d6e5c635e7a1f6a563c639/capsule_231x87_japanese.jpg?t=1769683666",
+      "developers": [
+        "Double Cross"
+      ],
+      "publishers": [
+        "2P Games"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamワークショップ",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2025年3月30日",
+      "release_date_en": "30 Mar, 2025",
+      "release_date": "2025年3月30日",
+      "is_free": false,
+      "price_initial": 280000,
+      "price_final": 280000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,800",
+      "currency": "JPY",
+      "metacritic_score": 83,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/25def93936d3d502a3c34ae58a5455aabefeee74/ss_25def93936d3d502a3c34ae58a5455aabefeee74.1920x1080.jpg?t=1769683666",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/5345af0a4b29b70f492693ff06dece09ec177bdf/ss_5345af0a4b29b70f492693ff06dece09ec177bdf.1920x1080.jpg?t=1769683666",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/81493bc183e1d137cdbdf166de5d36037f67d9c9/ss_81493bc183e1d137cdbdf166de5d36037f67d9c9.1920x1080.jpg?t=1769683666",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/6a2df2a2db981cba4c71a9905b185a7776b2cbc2/ss_6a2df2a2db981cba4c71a9905b185a7776b2cbc2.1920x1080.jpg?t=1769683666",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/24ef00fa73a2c712344d14367bf482c38abd562b/ss_24ef00fa73a2c712344d14367bf482c38abd562b.1920x1080.jpg?t=1769683666"
+      ],
+      "movies": [
+        {
+          "name": "Story Trailer JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229465/11fc1415c73e11fa87208109789eacc2d7b81981/movie_600x337.jpg?t=1762850819",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "鏡の中のもの",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190483/38c5b51d9e0c0e573e70e8c804cb201eff3d5256/movie_600x337.jpg?t=1756440238",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Sultan's Game | Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120108/1a767352511ea22624510eaffa19e6ed56f3d41f/movie_600x337.jpg?t=1743390027",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Summer Sale Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257162215/2863c728aac064e86dc73968593601c95bfb9440/movie_600x337.jpg?t=1750999774",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Creating the Sultan's Game - The Musician ",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120140/81d931c7b9010364094d1141d66c8aed629acc21/movie_600x337.jpg?t=1743390030",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057798/movie.293x165.jpg?t=1727144160",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 22697,
+      "total_reviews": 31853,
+      "total_positive": 30318,
+      "total_negative": 1535,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "sultans-game",
+      "recommend": "niche",
+      "tags_ja": [
+        "シングルプレイヤー",
+        "物語性",
+        "RPG",
+        "カードゲーム",
+        "ストラテジー",
+        "シミュレーション",
+        "アドベンチャー",
+        "精神的恐怖"
+      ],
+      "tags_en": [
+        "Singleplayer",
+        "Story Rich",
+        "RPG",
+        "Card Game",
+        "Strategy",
+        "Simulation",
+        "Adventure",
+        "Psychological Horror"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 1794680,
+      "required_age": 0,
+      "name_ja": "Vampire Survivors",
+      "name_en": "Vampire Survivors",
+      "name": "Vampire Survivors",
+      "short_description_ja": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
+      "short_description_en": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
+      "short_description": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1763675244",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg?t=1763675244",
+      "developers": [
+        "poncle"
+      ],
+      "publishers": [
+        "poncle"
+      ],
+      "genres_ja": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "genres_en": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2022年10月20日",
+      "release_date_en": "20 Oct, 2022",
+      "release_date": "2022年10月20日",
+      "is_free": false,
+      "price_initial": 49900,
+      "price_final": 49900,
+      "discount_percent": 0,
+      "price_formatted": "¥ 499",
+      "currency": "JPY",
+      "metacritic_score": 86,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, トルコ語, ウクライナ語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1763675244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1763675244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1763675244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1763675244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1763675244"
+      ],
+      "movies": [
+        {
+          "name": "Refreshed Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964120/movie.293x165.jpg?t=1692280956",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "October 2022 - v1.0 Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911886/movie.293x165.jpg?t=1692280960",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "December 2021 - Early Access Release",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858285/movie.293x165.jpg?t=1692280964",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 245993,
+      "total_reviews": 259464,
+      "total_positive": 255245,
+      "total_negative": 4219,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "vampire-survivors",
+      "recommend": "all",
+      "tags_ja": [
+        "ローグライクアクション",
+        "弾幕",
+        "ローグライト",
+        "ドット絵",
+        "吸血鬼",
+        "2D",
+        "インディー",
+        "シングルプレイヤー"
+      ],
+      "tags_en": [
+        "Action Roguelike",
+        "Bullet Hell",
+        "Roguelite",
+        "Pixel Graphics",
+        "Vampire",
+        "2D",
+        "Indie",
+        "Singleplayer"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 447530,
+      "required_age": 0,
+      "name_ja": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "name_en": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "short_description_ja": "美しくも儚い芸術的な世界観、独特のゲームシステムが融合したゲーム性、他のゲームに例を見ない、まったく新しいサイバーパンク・ストーリーを体験しよう！",
+      "short_description_en": "VA-11 HALL-A: Cyberpunk Bartender Action is a booze em' up about waifus, technology, and post-dystopia life.",
+      "short_description": "美しくも儚い芸術的な世界観、独特のゲームシステムが融合したゲーム性、他のゲームに例を見ない、まったく新しいサイバーパンク・ストーリーを体験しよう！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/header.jpg?t=1730740610",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/capsule_231x87.jpg?t=1730740610",
+      "developers": [
+        "Sukeban Games"
+      ],
+      "publishers": [
+        "Ysbryd Games",
+        "PLAYISM"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2016年6月21日",
+      "release_date_en": "21 Jun, 2016",
+      "release_date": "2016年6月21日",
+      "is_free": false,
+      "price_initial": 150000,
+      "price_final": 150000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,500",
+      "currency": "JPY",
+      "metacritic_score": 77,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）",
+      "website": "http://waifubartending.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_03baa586b9192052a13f4987ec4b60ef46e943ed.1920x1080.jpg?t=1730740610",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_04a29c4e2bfef458f6089b911289a01175421795.1920x1080.jpg?t=1730740610",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_d42ddc2311eda61cb0f16fba13d188ddf4506457.1920x1080.jpg?t=1730740610",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_a8b14392148f7a65532b808f29bc54c33a8cc50b.1920x1080.jpg?t=1730740610",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447530/ss_7493c9d9b1f0adf931224437cdee00642d710a8f.1920x1080.jpg?t=1730740610"
+      ],
+      "movies": [
+        {
+          "name": "Japanese Final Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701288/movie.293x165.jpg?t=1510845637",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 32925,
+      "total_reviews": 37728,
+      "total_positive": 36731,
+      "total_negative": 997,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "va11halla",
+      "recommend": "niche",
+      "tags_ja": [
+        "サイバーパンク",
+        "ビジュアルノベル",
+        "ドット絵",
+        "物語性",
+        "女性主人公",
+        "ディストピア",
+        "LGBTQ+",
+        "選択型進行"
+      ],
+      "tags_en": [
+        "Cyberpunk",
+        "Visual Novel",
+        "Pixel Graphics",
+        "Story Rich",
+        "Female Protagonist",
+        "Dystopian ",
+        "LGBTQ+",
+        "Choices Matter"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 1515210,
+      "required_age": 0,
+      "name_ja": "The Past Within",
+      "name_en": "The Past Within",
+      "name": "The Past Within",
+      "short_description_ja": "『The Past Within』は、ラスティレイクがお届けする新しい協力プレイ体験です！信頼できる誰かと一緒にプレイしましょう。それぞれが過去と未来でプレイすることになります。周りをよく観察して、見たものを相手に伝えましょう。パズルを解いて、アルバート・ヴァンダーブームの策略を明らかにしてください。",
+      "short_description_en": "The Past Within is the new co-op experience from Rusty Lake! Play together with someone you deem trustworthy: one in The Past, the other in The Future. Observe and communicate what you see around you. Solve the puzzles and uncover Albert Vanderboom’s plan.",
+      "short_description": "『The Past Within』は、ラスティレイクがお届けする新しい協力プレイ体験です！信頼できる誰かと一緒にプレイしましょう。それぞれが過去と未来でプレイすることになります。周りをよく観察して、見たものを相手に伝えましょう。パズルを解いて、アルバート・ヴァンダーブームの策略を明らかにしてください。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg?t=1740070156",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/capsule_231x87.jpg?t=1740070156",
+      "developers": [
+        "Rusty Lake"
+      ],
+      "publishers": [
+        "Rusty Lake"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "categories": [
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2022年11月2日",
+      "release_date_en": "2 Nov, 2022",
+      "release_date": "2022年11月2日",
+      "is_free": false,
+      "price_initial": 70000,
+      "price_final": 70000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 700",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, デンマーク語, オランダ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, ベトナム語, ポルトガル語－ポルトガル, スペイン語－ラテンアメリカ, ルーマニア語, フィンランド語, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.rustylake.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_4b841a393b3941fd81b186afe04f503d6b2bb8f4.1920x1080.jpg?t=1740070156",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_41cac8c12c95f4f820e3f6526340d8b86862d9e4.1920x1080.jpg?t=1740070156",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5c5a0842e7ad3a2c1a44f5ce4346c61073f4903a.1920x1080.jpg?t=1740070156",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5bacd69d0346af7f895435099f7df4602e2f5d24.1920x1080.jpg?t=1740070156",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_53bc172b51a69cc8d59b845393505abc1561bb7c.1920x1080.jpg?t=1740070156"
+      ],
+      "movies": [
+        {
+          "name": "The Past Within - Official Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256928239/movie.293x165.jpg?t=1675276978",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "The Past Within - Official Release Date Announcement Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906840/movie.293x165.jpg?t=1663757704",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "The Past Within - Official Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914083/movie.293x165.jpg?t=1667390078",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Teaser Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819623/movie.293x165.jpg?t=1637072941",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 1905120,
+      "recommendations_total": 14054,
+      "total_reviews": 16155,
+      "total_positive": 15308,
+      "total_negative": 847,
+      "review_score_desc": "Very Positive",
+      "slug": "the-past-within",
+      "recommend": "multi",
+      "tags_ja": [
+        "協力プレイ",
+        "パズル",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "脱出ゲーム",
+        "ホラー",
+        "ミステリー",
+        "ポイント＆クリック"
+      ],
+      "tags_en": [
+        "Co-op",
+        "Puzzle",
+        "Online Co-Op",
+        "Multiplayer",
+        "Escape Room",
+        "Horror",
+        "Mystery",
+        "Point & Click"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1728,7 +2637,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     },
     {
@@ -1819,7 +2728,204 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T08:09:22.478125",
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 2263010,
+      "required_age": 0,
+      "name_ja": "Pineapple on pizza",
+      "name_en": "Pineapple on pizza",
+      "name": "Pineapple on pizza",
+      "short_description_ja": "Can a video game convey a flavor?",
+      "short_description_en": "Can a video game convey a flavor?",
+      "short_description": "Can a video game convey a flavor?",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/header.jpg?t=1726861073",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/capsule_231x87.jpg?t=1726861073",
+      "developers": [
+        "Majorariatto"
+      ],
+      "publishers": [
+        "Majorariatto"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "無料プレイ"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Free To Play"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "無料プレイ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート"
+      ],
+      "release_date_ja": "2023年3月28日",
+      "release_date_en": "28 Mar, 2023",
+      "release_date": "2023年3月28日",
+      "is_free": true,
+      "price_initial": 0,
+      "price_final": 0,
+      "discount_percent": 0,
+      "price_formatted": "",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, スペイン語 - スペイン",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_06a10f257421987bc5892df859ea87fee63a5d1c.1920x1080.jpg?t=1726861073",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_9911f8b25803b1a9495a746dc66094ec22739acd.1920x1080.jpg?t=1726861073",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8b7868bd8a032c7b4247ab5a0cadf7a950e837d5.1920x1080.jpg?t=1726861073",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_d8a3562250354b17600616b579c96592b8a51410.1920x1080.jpg?t=1726861073",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8a08644f012904a031b126c772aa5f82a1a7d47a.1920x1080.jpg?t=1726861073"
+      ],
+      "movies": [
+        {
+          "name": "Pineapple on Pizza launch trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935012/movie.293x165.jpg?t=1679503481",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 0,
+      "total_reviews": 25289,
+      "total_positive": 24719,
+      "total_negative": 570,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "pineapple-on-pizza",
+      "recommend": "all",
+      "free_section": true,
+      "tags_ja": [
+        "無料プレイ",
+        "短時間",
+        "探検",
+        "ダークコメディ",
+        "シングルプレイヤー",
+        "ファーストパーソン",
+        "ウォーキングシミュレーター",
+        "毒のあるユーモア"
+      ],
+      "tags_en": [
+        "Free to Play",
+        "Short",
+        "Exploration",
+        "Dark Comedy",
+        "Singleplayer",
+        "First-Person",
+        "Walking Simulator",
+        "Dark Humor"
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
+      "has_article": false
+    },
+    {
+      "appid": 2973410,
+      "required_age": 0,
+      "name_ja": "就労！！わんわんヒューマン",
+      "name_en": "就労！！わんわんヒューマン",
+      "name": "就労！！わんわんヒューマン",
+      "short_description_ja": "就労！！わんわんヒューマンは罪人を教育し、可愛いらしい犬に変える【人間ガチ犬化ADVノベルゲーム】です。人間、悪魔、天使が混在する混沌の街で矯正官となり、仕事をこなしましょう。個性豊かな同僚と罪人たちがアナタとの出会いを待っています。",
+      "short_description_en": "Work! Wan Wan Human is an [ADV Novel Game of Human Gachi-Inukenka] that educates sinners and turns them into adorable dogs. Become a correctional officer in a city of chaos where humans, demons, and angels are all mixed together and get the job done.",
+      "short_description": "就労！！わんわんヒューマンは罪人を教育し、可愛いらしい犬に変える【人間ガチ犬化ADVノベルゲーム】です。人間、悪魔、天使が混在する混沌の街で矯正官となり、仕事をこなしましょう。個性豊かな同僚と罪人たちがアナタとの出会いを待っています。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/header_japanese.jpg?t=1741878023",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/capsule_231x87_japanese.jpg?t=1741878023",
+      "developers": [
+        "samezakistudio"
+      ],
+      "publishers": [
+        "samezakistudio"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "無料プレイ"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Free To Play"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "無料プレイ"
+      ],
+      "categories": [
+        "シングルプレイヤー"
+      ],
+      "release_date_ja": "2025年3月13日",
+      "release_date_en": "13 Mar, 2025",
+      "release_date": "2025年3月13日",
+      "is_free": true,
+      "price_initial": 0,
+      "price_final": 0,
+      "discount_percent": 0,
+      "price_formatted": "",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "日本語",
+      "website": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_748250a6cf8e11f24b7ead619f95761e88506d48.1920x1080.jpg?t=1741878023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_d81b1cb3a042a23d232b8c72add656e90d295ada.1920x1080.jpg?t=1741878023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_6e463fe303dbfa2ef03315affb70da9e3ce48cb7.1920x1080.jpg?t=1741878023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_21349eec8236997cd9308bee1ee791e93cdaa608.1920x1080.jpg?t=1741878023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2973410/ss_ed219d2203488b11c8eac5a364d88b4d8a483027.1920x1080.jpg?t=1741878023"
+      ],
+      "movies": [
+        {
+          "name": "基本動画",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092504/665a6bbbaedaa47a40ccb756708b5c405022b84d/movie_600x337.jpg?t=1738015885",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 3005800,
+      "recommendations_total": 0,
+      "total_reviews": 63,
+      "total_positive": 63,
+      "total_negative": 0,
+      "review_score_desc": "Very Positive",
+      "slug": "wanwan-human",
+      "recommend": "all",
+      "free_section": true,
+      "tags_ja": [
+        "ビジュアルノベル",
+        "シミュレーション",
+        "選択方式アドベンチャー",
+        "2D",
+        "SF",
+        "コメディ",
+        "ダークコメディ",
+        "ディストピア"
+      ],
+      "tags_en": [
+        "Visual Novel",
+        "Simulation",
+        "Choose Your Own Adventure",
+        "2D",
+        "Sci-fi",
+        "Comedy",
+        "Dark Comedy",
+        "Dystopian "
+      ],
+      "fetched_at": "2026-02-09T19:20:07.842314",
       "has_article": false
     }
   ]

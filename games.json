@@ -15,7 +15,17 @@
     {"appid": 1054490, "slug": "wingspan", "comment": "鳥類テーマのボードゲーム", "recommend": "all"},
     {"appid": 1599600, "slug": "plateup", "comment": "レストラン経営ローグライク", "recommend": "multi"},
     {"appid": 913740, "slug": "world-of-horror", "comment": "伊藤潤二風ホラーRPG", "recommend": "niche"},
+    {"appid": 1092790, "slug": "inscryption", "comment": "カードゲーム×脱出ホラー", "recommend": "all"},
+    {"appid": 239030, "slug": "papers-please", "comment": "入国審査シミュレーション", "recommend": "all"},
+    {"appid": 1669980, "slug": "volcano-princess", "comment": "育成シミュレーション", "recommend": "niche"},
+    {"appid": 2676840, "slug": "no-case-should-remain-unsolved", "comment": "推理アドベンチャー", "recommend": "niche"},
+    {"appid": 3117820, "slug": "sultans-game", "comment": "ストラテジー", "recommend": "niche"},
+    {"appid": 1794680, "slug": "vampire-survivors", "comment": "ローグライクサバイバル", "recommend": "all"},
+    {"appid": 447530, "slug": "va11halla", "comment": "サイバーパンクバーテンダーADV", "recommend": "niche"},
+    {"appid": 1515210, "slug": "the-past-within", "comment": "協力型パズルADV", "recommend": "multi"},
     {"appid": 4045680, "slug": "kanmuri", "comment": "育成シミュレーションADV", "name_ja": "冠を持つ神の手", "recommend": "niche", "coming_soon": true},
-    {"appid": 4371880, "slug": "cyan-project", "comment": "脱出パズルADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true}
+    {"appid": 4371880, "slug": "cyan-project", "comment": "脱出パズルADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true},
+    {"appid": 2263010, "slug": "pineapple-on-pizza", "comment": "フリーゲーム", "recommend": "all", "free_section": true},
+    {"appid": 2973410, "slug": "wanwan-human", "comment": "わんわんフリーゲーム", "recommend": "all", "free_section": true}
   ]
 }

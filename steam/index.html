@@ -69,7 +69,7 @@
       <div class="header-meta">
         <span class="header-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
         <span class="header-divider"></span>
-        <span class="header-count" x-text="`${games.filter(g => !g.coming_soon).length} ${t('titles')}`"></span>
+        <span class="header-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section).length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
@@ -306,6 +306,22 @@
               <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
               <div class="wishlist-body">
                 <span class="coming-soon-badge" x-text="t('comingSoonBadge')"></span>
+                <h3 class="wishlist-name" x-text="gameName(g)"></h3>
+                <p class="wishlist-desc" x-text="gameDesc(g)"></p>
+              </div>
+            </a>
+          </template>
+        </div>
+      </section>
+
+      <section class="free-games-section" x-show="freeGames.length > 0">
+        <h2 x-text="t('freeGames')"></h2>
+        <div class="wishlist-grid">
+          <template x-for="g in freeGames" :key="g.appid">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+              <div class="wishlist-body">
+                <span class="free-badge" x-text="t('freeGamesBadge')"></span>
                 <h3 class="wishlist-name" x-text="gameName(g)"></h3>
                 <p class="wishlist-desc" x-text="gameDesc(g)"></p>
               </div>
