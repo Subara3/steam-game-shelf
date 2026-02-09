@@ -1,6 +1,6 @@
 {
   "date": "2026-02-09",
-  "timestamp": "2026-02-09T19:54:05.472583",
+  "timestamp": "2026-02-09T20:01:38.317021",
   "games": [
     {
       "appid": 2379780,
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 413150,
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 2135150,
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 391540,
@@ -409,8 +409,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 281697,
-      "total_reviews": 313645,
-      "total_positive": 303522,
+      "total_reviews": 313651,
+      "total_positive": 303528,
       "total_negative": 10123,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 568220,
@@ -530,7 +530,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1256670,
@@ -711,9 +711,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 35882,
-      "total_reviews": 39887,
-      "total_positive": 37645,
+      "recommendations_total": 35883,
+      "total_reviews": 39888,
+      "total_positive": 37646,
       "total_negative": 2242,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1404850,
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 3314790,
@@ -934,7 +934,7 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 19831,
+      "recommendations_total": 19832,
       "total_reviews": 20782,
       "total_positive": 18758,
       "total_negative": 2024,
@@ -961,7 +961,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 294100,
@@ -1070,7 +1070,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 632470,
@@ -1179,7 +1179,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1222140,
@@ -1278,7 +1278,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1054490,
@@ -1402,7 +1402,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1599600,
@@ -1516,7 +1516,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 913740,
@@ -1618,7 +1618,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1092790,
@@ -1725,7 +1725,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 239030,
@@ -1827,7 +1827,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1669980,
@@ -1940,7 +1940,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 2676840,
@@ -2037,7 +2037,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 3117820,
@@ -2176,7 +2176,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1794680,
@@ -2297,7 +2297,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 447530,
@@ -2401,7 +2401,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1515210,
@@ -2520,7 +2520,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 4327530,
@@ -2618,7 +2618,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1240210,
@@ -2726,7 +2726,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 2455920,
@@ -2820,7 +2820,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 1617030,
@@ -2924,7 +2924,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 3101040,
@@ -3037,7 +3037,7 @@
         "Story Rich",
         "Sexual Content"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 489830,
@@ -3144,7 +3144,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 4045680,
@@ -3236,7 +3236,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 4371880,
@@ -3326,7 +3326,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 2263010,
@@ -3426,7 +3426,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 2973410,
@@ -3521,7 +3521,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     },
     {
       "appid": 3419430,
@@ -3638,7 +3638,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-09T19:54:05.472583"
+      "fetched_at": "2026-02-09T20:01:38.317021"
     }
   ]
 }
