@@ -67,10 +67,10 @@
     }
   ],
   "demo_appid": 4334900,
-  "recommendations_total": 200,
-  "total_reviews": 200,
-  "total_positive": 193,
-  "total_negative": 7,
+  "recommendations_total": 234,
+  "total_reviews": 234,
+  "total_positive": 225,
+  "total_negative": 9,
   "review_score_desc": "Very Positive",
   "slug": "guild-tankyudan",
   "recommend": "all",
@@ -94,5 +94,5 @@
     "2D",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-09T23:14:46.788967"
+  "fetched_at": "2026-02-10T22:45:24.971190"
 }
