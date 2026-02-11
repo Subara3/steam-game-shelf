@@ -77,6 +77,18 @@
     "lang": "ja"
   },
   {
+    "slug": "world-of-horror",
+    "title": "恐怖の世界 - こわいゲームですか？",
+    "appid": "913740",
+    "tags": [
+      "ホラー",
+      "RPG",
+      "インディー",
+      "クトゥルフ"
+    ],
+    "lang": "ja"
+  },
+  {
     "slug": "about",
     "title": "About This Site",
     "appid": "",
@@ -150,6 +162,18 @@
       "RPG",
       "Indie",
       "Bullet Hell"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "world-of-horror",
+    "title": "World of Horror - Is It Scary?",
+    "appid": "913740",
+    "tags": [
+      "Horror",
+      "RPG",
+      "Indie",
+      "Lovecraftian"
     ],
     "lang": "en"
   }
