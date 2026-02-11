@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9534,
-  "total_reviews": 10019,
+  "recommendations_total": 9535,
+  "total_reviews": 10020,
   "total_positive": 9352,
-  "total_negative": 667,
+  "total_negative": 668,
   "review_score_desc": "Very Positive",
   "slug": "8banguchi",
   "recommend": "all",
@@ -95,5 +95,5 @@
     "First-Person",
     "Horror"
   ],
-  "fetched_at": "2026-02-11T19:38:25.872584"
+  "fetched_at": "2026-02-11T22:34:34.326853"
 }
