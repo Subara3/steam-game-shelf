@@ -7,23 +7,19 @@ pet_safety: mixed
 
 *\*This article was translated by AI.*
 
-> kotori: "World of Horror"?!
-> Is it a scary game?
+> kotori: "World of Horror"?!<br>Is it a scary game?
 
-> scala: Oh yes, it's scary.
-> It's a very frightening game inspired by the Cthulhu Mythos.
+> scala: Oh yes, it's scary.<br>It's a very frightening game inspired by the Cthulhu Mythos.
 
 > kotori: Eek!
 
-> scala: What do you mean, "eek"?
-> Kotori. You mow down zombies on a daily basis.
+> scala: What do you mean, "eek"?<br>Kotori. You mow down zombies on a daily basis.
 
 > kotori: Hehehe.
 
 > kotori: I kinda thought you weren't really into that sort of thing, Doctor...
 
-> scala: That's not true at all.
-> The reason I don't play many zombie-slashing games is simply because I'm terrible at action games.
+> scala: That's not true at all.<br>The reason I don't play many zombie-slashing games is simply because I'm terrible at action games.
 
 > scala: This game has no action elements (so far), you see.
 
@@ -49,25 +45,18 @@ pet_safety: mixed
 
 > scala: This is actually a game from an overseas publisher.
 
-> kotori: What?!
-> The translation is so natural, and the atmosphere feels so authentically Japanese — I had no idea!
-> (Well, the text did overflow the boxes sometimes...)
+> kotori: What?!<br>The translation is so natural, and the atmosphere feels so authentically Japanese — I had no idea!<br>(Well, the text did overflow the boxes sometimes...)
 
 > scala: It really is impressive.
 
-> scala: Names like "Shiokawa," recovering health at a "hot spring"...
-> The nuances are captured so precisely — it's a flawless recreation of "that era" of Japan.
+> scala: Names like "Shiokawa," recovering health at a "hot spring"...<br>The nuances are captured so precisely — it's a flawless recreation of "that era" of Japan.
 
-> scala: The school occult boom, the broadband-era PCs —
-> all of it is remarkably well-researched.
+> scala: The school occult boom, the broadband-era PCs —<br>all of it is remarkably well-researched.
 
 > scala: Even the character names feel completely natural.
 
-> kotori: By the way, I was absolutely terrified by the pixelated "Good morning" on the character select screen.
-> I cried. Scary. So scary.
+> kotori: By the way, I was absolutely terrified by the pixelated "Good morning" on the character select screen.<br>I cried. Scary. So scary.
 
 ## About Pet Safety
 
-> scala: There are no deliberately cruel or distressing depictions, but animals can become "allies," which means — like any other ally — you can send them charging in, and they can die.
-> Stray dogs also appear as enemies sometimes.
-> That said, I'd say they're treated favorably overall. A dog runs one of the shops, buying dog treats gets you a discount, and there are hidden elements involving... well, you know...
+> scala: There are no deliberately cruel or distressing depictions, but animals can become "allies," which means — like any other ally — you can send them charging in, and they can die.<br>Stray dogs also appear as enemies sometimes.<br>That said, I'd say they're treated favorably overall. A dog runs one of the shops, buying dog treats gets you a discount, and there are hidden elements involving... well, you know...

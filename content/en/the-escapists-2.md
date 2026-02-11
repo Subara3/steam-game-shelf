@@ -9,8 +9,7 @@ pet_safety: safe
 
 > kotori: Doctor! Doctor! Let's break out of prison!
 
-> scala: The Escapists 2, huh.
-> What did you even do to get locked up?
+> scala: The Escapists 2, huh.<br>What did you even do to get locked up?
 
 > kotori: Hehehe, who knows?
 
@@ -18,22 +17,15 @@ pet_safety: safe
 
 > scala: The first game was decent, but the second one addresses its shortcomings and feels like a solid improvement — that's my take.
 
-> kotori: Hmm.
-> When you start with the sequel of a game like this,
-> don't you get so used to the quality-of-life improvements
-> that you can't go back to the first one???
+> kotori: Hmm.<br>When you start with the sequel of a game like this,<br>don't you get so used to the quality-of-life improvements<br>that you can't go back to the first one???
 
-> scala: Well, maybe...
-> But personally, if you like 2, I think you'd like 1 as well.
+> scala: Well, maybe...<br>But personally, if you like 2, I think you'd like 1 as well.
 
 > scala: The Escapists 2 is a game where you get to experience life in prison.
 
-> scala: You work out to build strength, study, collect items and craft them together...
-> Each item is perfectly legal on its own, but combine them and you might end up with contraband.
-> Then you hide it in your desk drawer...
+> scala: You work out to build strength, study, collect items and craft them together...<br>Each item is perfectly legal on its own, but combine them and you might end up with contraband.<br>Then you hide it in your desk drawer...
 
-> scala: Fistfights break out, you get requests like "beat up so-and-so" — pretty rough stuff...
-> You get thrown in solitary and end up peeling potatoes...
+> scala: Fistfights break out, you get requests like "beat up so-and-so" — pretty rough stuff...<br>You get thrown in solitary and end up peeling potatoes...
 
 > scala: While prison life is entertaining, the art style keeps everything stylized and cartoony, so it never gets too heavy.
 
@@ -43,15 +35,13 @@ pet_safety: safe
 
 > scala: There's a part of me that thinks, "If it's fun to goof around in multiplayer, then what more do I need?" That's the kind of game this is.
 
-> scala: The escape methods vary by stage, but once you figure them out, you can rush straight to the end — so it's more fun to play with friends who are at the same pace.
-> If you're going to play with someone, ideally you should buy it together at the same time.
+> scala: The escape methods vary by stage, but once you figure them out, you can rush straight to the end — so it's more fun to play with friends who are at the same pace.<br>If you're going to play with someone, ideally you should buy it together at the same time.
 
 > kotori: I'll dig through the walls!
 
 > scala: ...
 
-> scala: Also, there's a Switch version with local play, but honestly, split-screen makes it cramped.
-> Too cramped — I'd say local play isn't really suited for this one.
+> scala: Also, there's a Switch version with local play, but honestly, split-screen makes it cramped.<br>Too cramped — I'd say local play isn't really suited for this one.
 
 ## About Pet Safety
 
