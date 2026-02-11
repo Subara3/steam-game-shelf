@@ -75,5 +75,82 @@
       "弾幕"
     ],
     "lang": "ja"
+  },
+  {
+    "slug": "about",
+    "title": "About This Site",
+    "appid": "",
+    "tags": [
+      "Site Info"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "balatro",
+    "title": "Balatro - Take That, Five of a Kind!",
+    "appid": "2379780",
+    "tags": [
+      "Roguelike",
+      "Card Game",
+      "Indie"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "elin",
+    "title": "Elin - The Bottomless Roguelike",
+    "appid": "2135150",
+    "tags": [
+      "Roguelike",
+      "Open World",
+      "RPG",
+      "Early Access"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "guild-tankyudan",
+    "title": "Welcome to Guild Tankyudan! - Play It Right Now",
+    "appid": "4327530",
+    "tags": [
+      "Mystery",
+      "Puzzle",
+      "Logic",
+      "Indie"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "stardew-valley",
+    "title": "Stardew Valley - The Quintessential Farming Sim",
+    "appid": "413150",
+    "tags": [
+      "Simulation",
+      "Farming",
+      "Indie",
+      "Multiplayer"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "steam-guide",
+    "title": "What Is Steam?",
+    "appid": "",
+    "tags": [
+      "Guide",
+      "Steam"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "undertale",
+    "title": "Undertale - The RPG That Watches You Back",
+    "appid": "391540",
+    "tags": [
+      "RPG",
+      "Indie",
+      "Bullet Hell"
+    ],
+    "lang": "en"
   }
 ]
