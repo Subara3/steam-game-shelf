@@ -44,6 +44,18 @@
     "lang": "ja"
   },
   {
+    "slug": "q2-humanity",
+    "title": "Q2 HUMANITY - ぜえ、ぜえ……。",
+    "appid": "2357950",
+    "tags": [
+      "パズル",
+      "物理シミュレーション",
+      "マルチプレイ",
+      "インディー"
+    ],
+    "lang": "ja"
+  },
+  {
     "slug": "stardew-valley",
     "title": "Stardew Valley - 定番ぼくもの系列のゲーム",
     "appid": "413150",
@@ -140,6 +152,18 @@
       "Mystery",
       "Puzzle",
       "Logic",
+      "Indie"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "q2-humanity",
+    "title": "Q2 HUMANITY - Huff... Puff...",
+    "appid": "2357950",
+    "tags": [
+      "Puzzle",
+      "Physics",
+      "Multiplayer",
       "Indie"
     ],
     "lang": "en"
