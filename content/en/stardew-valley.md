@@ -2,7 +2,7 @@
 title: Stardew Valley - The Quintessential Farming Sim
 appid: 413150
 tags: [Simulation, Farming, Indie, Multiplayer]
-pet_safety: none
+pet_safety: safe
 ---
 
 *\*This article was translated by AI.*
