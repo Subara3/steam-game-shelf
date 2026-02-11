@@ -3,6 +3,7 @@ title: Undertale - こっちを見てくるRPG
 appid: 391540
 tags: [RPG, インディー, 弾幕]
 recommend: niche
+pet_safety: mixed
 ---
 
 > kotori: DELTARUNE、楽しみですね。
@@ -78,3 +79,9 @@ recommend: niche
 > kotori: 博士って、ほんと、めんどくさいですね。
 
 > scala: まあ、ぜんぶがぜんぶ、思う通りになることなんてないってことだ。
+
+## 犬猫、その他の無事について
+
+> scala: あるっちゃあるが、ほぼ全員地下のモンスターだから、ペットってことでもないかな。いやうーん。petpetpet...まあ、そう。うん。あるにしといたほうが無難か？？？
+
+> scala: まあ、そんなでもない。
