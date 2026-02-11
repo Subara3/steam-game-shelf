@@ -1,0 +1,101 @@
+{
+  "appid": 242920,
+  "required_age": 0,
+  "name_ja": "Banished",
+  "name_en": "Banished",
+  "name": "Banished",
+  "short_description_ja": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
+  "short_description_en": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
+  "short_description": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/header.jpg?t=1667584747",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/capsule_231x87.jpg?t=1667584747",
+  "developers": [
+    "Shining Rock Software LLC"
+  ],
+  "publishers": [
+    "Shining Rock Software LLC"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2014年2月18日",
+  "release_date_en": "18 Feb, 2014",
+  "release_date": "2014年2月18日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
+  "currency": "JPY",
+  "metacritic_score": 73,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.shiningrocksoftware.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/ss_888a226267a065f2afa2a0d3a75200c2ec928ca7.1920x1080.jpg?t=1667584747",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/ss_798ba6cbfd8f19b9b4f1460193e1ada3a5334be2.1920x1080.jpg?t=1667584747",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/ss_dd2498b7992acd7b7d4ccbc432f3d956681dffd2.1920x1080.jpg?t=1667584747",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/ss_6ecfbff5f1054613bf76eee6d7f094fe348e0173.1920x1080.jpg?t=1667584747",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/ss_a2a364cf533c57e9a233b402a54fc21f51f01b6e.1920x1080.jpg?t=1667584747"
+  ],
+  "movies": [
+    {
+      "name": "GameTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029783/movie.293x165.jpg?t=1447359221",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 37493,
+  "total_reviews": 42874,
+  "total_positive": 38764,
+  "total_negative": 4110,
+  "review_score_desc": "Very Positive",
+  "slug": "banished",
+  "recommend": "all",
+  "tags_ja": [
+    "街づくり",
+    "コロニーシミュレーション",
+    "ストラテジー",
+    "シミュレーション",
+    "サバイバル",
+    "インディー",
+    "シングルプレイヤー",
+    "サンドボックス"
+  ],
+  "tags_en": [
+    "City Builder",
+    "Colony Sim",
+    "Strategy",
+    "Simulation",
+    "Survival",
+    "Indie",
+    "Singleplayer",
+    "Sandbox"
+  ],
+  "fetched_at": "2026-02-11T17:22:56.710899"
+}

@@ -1,0 +1,108 @@
+{
+  "appid": 330820,
+  "required_age": 0,
+  "name_ja": "2064: Read Only Memories",
+  "name_en": "2064: Read Only Memories",
+  "name": "2064: Read Only Memories",
+  "short_description_ja": "西暦2064年、主人公、そして世界初の自立思考型AIであるチューリングは危険なスキャンダルの闇に呑まれようとしていた。",
+  "short_description_en": "2064: Read Only Memories is a cyberpunk thriller that explores the social challenges of tomorrow through classic adventure gaming. A journalist-turned-detective teams up with Turing, the world’s first sapient machine, to unmask a conspiracy that will shake the foundations of Neo-San Francisco.",
+  "short_description": "西暦2064年、主人公、そして世界初の自立思考型AIであるチューリングは危険なスキャンダルの闇に呑まれようとしていた。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/header.jpg?t=1712088920",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/capsule_231x87.jpg?t=1712088920",
+  "developers": [
+    "MidBoss, LLC."
+  ],
+  "publishers": [
+    "Chorus Worldwide Games"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2015年10月6日",
+  "release_date_en": "6 Oct, 2015",
+  "release_date": "2015年10月6日",
+  "is_free": false,
+  "price_initial": 98000,
+  "price_final": 98000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 980",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, 日本語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://readonlymemori.es",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/ss_838583c112b2328a8c9de048568c1dd7a0ff03aa.1920x1080.jpg?t=1712088920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/ss_06303af2e7efe2cb0bb087f095d87e14041358d2.1920x1080.jpg?t=1712088920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/ss_8425c3a02ebd922e1d4d3a9ca841bed21ec4f8a1.1920x1080.jpg?t=1712088920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/ss_950749a3c2c2c6487e8688e79abf8b8d9d0a98db.1920x1080.jpg?t=1712088920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/330820/ss_af6db231488739ba28d84b2cd0bde0745ff744e9.1920x1080.jpg?t=1712088920"
+  ],
+  "movies": [
+    {
+      "name": "2064: Read Only Memories Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830188/movie.293x165.jpg?t=1618377321",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Japanese Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701208/movie.293x165.jpg?t=1547609403",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 407040,
+  "recommendations_total": 692,
+  "total_reviews": 1660,
+  "total_positive": 1321,
+  "total_negative": 339,
+  "review_score_desc": "Mostly Positive",
+  "slug": "2064-read-only-memories",
+  "recommend": "niche",
+  "tags_ja": [
+    "サイバーパンク",
+    "インタラクティブフィクション",
+    "ビジュアルノベル",
+    "物語性",
+    "雰囲気",
+    "ノアール",
+    "マルチエンディング",
+    "選択型進行"
+  ],
+  "tags_en": [
+    "Cyberpunk",
+    "Interactive Fiction",
+    "Visual Novel",
+    "Story Rich",
+    "Atmospheric",
+    "Noir",
+    "Multiple Endings",
+    "Choices Matter"
+  ],
+  "fetched_at": "2026-02-11T17:22:56.710899"
+}
