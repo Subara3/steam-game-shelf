@@ -302,6 +302,7 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
     for g in snapshot.get("games", []):
         slug = g.get("slug", "")
         g["has_article"] = slug in articles
+        g["has_article_en"] = slug in (articles_en or {})
         if slug in articles:
             g["article_title"] = articles[slug]["meta"].get("title", "")
         # recommend / multi / coming_soon をマスターから上書き（編集判断はマスターが正）
@@ -334,6 +335,7 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
                 "recommend": master.get("recommend", "all"),
                 "has_article": master.get("slug", "") in articles,
+                "has_article_en": master.get("slug", "") in (articles_en or {}),
             }
             if master.get("coming_soon"):
                 entry["coming_soon"] = True
