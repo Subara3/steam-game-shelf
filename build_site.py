@@ -203,7 +203,7 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", 
             s_name = steam_match.group(2)
             html_lines.append(
                 f'<a href="https://store.steampowered.com/app/{s_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
+                f'<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">{s_name}</span>'
                 f'</a>'
             )
@@ -332,7 +332,7 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 "short_description_ja": master.get("comment", ""),
                 "short_description_en": master.get("comment", ""),
                 "short_description": master.get("comment", ""),
-                "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
+                "header_image": f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg",
                 "recommend": master.get("recommend", "all"),
                 "has_article": master.get("slug", "") in articles,
                 "has_article_en": master.get("slug", "") in (articles_en or {}),
@@ -412,7 +412,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         appid = meta.get("appid", "")
 
         if appid:
-            header_img = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
+            header_img = header_images.get(str(appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
             ogp_card = (
                 f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-ogp-card">'
                 f'<img src="{header_img}" alt="{title}" class="steam-ogp-img">'
@@ -426,11 +426,12 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         emotelab_appid = meta.get("emotelab", "")
         if emotelab_appid:
             credit_label = "このサイトのキャラクターは EmoteLab で作成しました" if lang == "ja" else "Characters on this site were created with EmoteLab"
+            emotelab_img = header_images.get(str(emotelab_appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{emotelab_appid}/header.jpg")
             emotelab_html = (
                 f'<div class="emotelab-credit">'
                 f'<p>{credit_label}</p>'
                 f'<a href="https://store.steampowered.com/app/{emotelab_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{emotelab_appid}/header.jpg" alt="EmoteLab" class="steam-ogp-img">'
+                f'<img src="{emotelab_img}" alt="EmoteLab" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">EmoteLab</span>'
                 f'</a>'
                 f'</div>'
@@ -456,7 +457,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         # OG image: ゲーム記事ならSteamヘッダー画像
         og_image = ""
         if appid:
-            og_image = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
+            og_image = header_images.get(str(appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
 
         canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
         og_image_tag = f'\n<meta property="og:image" content="{og_image}">' if og_image else ""
@@ -518,8 +519,8 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 <meta name="twitter:card" content="{twitter_card}">
 <meta name="twitter:title" content="{title}">
 <meta name="twitter:description" content="{desc_text}">
-<link rel="dns-prefetch" href="https://cdn.akamai.steamstatic.com">
-<link rel="preconnect" href="https://cdn.akamai.steamstatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://shared.akamai.steamstatic.com">
+<link rel="preconnect" href="https://shared.akamai.steamstatic.com" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="{prefix}style.css">
 {json_ld}
