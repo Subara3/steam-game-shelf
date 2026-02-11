@@ -1,0 +1,104 @@
+{
+  "appid": 1580240,
+  "required_age": 0,
+  "name_ja": "ルーンファクトリー４スペシャル",
+  "name_en": "Rune Factory 4 Special",
+  "name": "Rune Factory 4 Special",
+  "short_description_ja": "やりこみ要素満載のほのぼのRPG！ ファンタジー世界で冒険と生活の両方を楽しもう！",
+  "short_description_en": "Journey to the vibrant world of Rune Factory and experience the legendary fantasy farming adventure like never before!",
+  "short_description": "やりこみ要素満載のほのぼのRPG！ ファンタジー世界で冒険と生活の両方を楽しもう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/header.jpg?t=1738960314",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/capsule_231x87.jpg?t=1738960314",
+  "developers": [
+    "Marvelous Inc."
+  ],
+  "publishers": [
+    "XSEED Games",
+    "Marvelous USA, Inc.",
+    "Marvelous Europe"
+  ],
+  "genres_ja": [
+    "RPG"
+  ],
+  "genres_en": [
+    "RPG"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2021年12月7日",
+  "release_date_en": "7 Dec, 2021",
+  "release_date": "2021年12月7日",
+  "is_free": false,
+  "price_initial": 396000,
+  "price_final": 118800,
+  "discount_percent": 70,
+  "price_formatted": "¥ 1,188",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, ドイツ語, 日本語<strong>*</strong>, 韓国語, 中国語（繁体字）, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "http://runefactory4.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/ss_4c404de6d069c0b90d37e3f5a0796b29c1b1418c.1920x1080.jpg?t=1738960314",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/ss_a82f77972966b01ca15c929e431f63861fe3f416.1920x1080.jpg?t=1738960314",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/ss_bfba8971a9a3be9809fcc9c0832f536c81d44339.1920x1080.jpg?t=1738960314",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/ss_2567045f0c6e56442ede487b42dfc803f0dbc368.1920x1080.jpg?t=1738960314",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580240/ss_afeee72a829aadbffe2f34083f4ff96f76c0bc2f.1920x1080.jpg?t=1738960314"
+  ],
+  "movies": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256863804/movie.293x165.jpg?t=1638905362",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858815/movie.293x165.jpg?t=1636044845",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 1935,
+  "total_reviews": 2183,
+  "total_positive": 1935,
+  "total_negative": 248,
+  "review_score_desc": "Very Positive",
+  "slug": "rune-factory-4",
+  "recommend": "all",
+  "tags_ja": [
+    "RPG",
+    "農場シミュレーション",
+    "アドベンチャー",
+    "ロマンス",
+    "ファンタジー",
+    "アニメ",
+    "クリーチャーコレクター",
+    "魔法"
+  ],
+  "tags_en": [
+    "RPG",
+    "Farming Sim",
+    "Adventure",
+    "Romance",
+    "Fantasy",
+    "Anime",
+    "Creature Collector",
+    "Magic"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

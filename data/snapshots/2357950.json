@@ -1,0 +1,124 @@
+{
+  "appid": 2357950,
+  "required_age": 0,
+  "name_ja": "Q2 HUMANITY",
+  "name_en": "Q2 HUMANITY",
+  "name": "Q2 HUMANITY",
+  "short_description_ja": "物理演算ゲーム『Q REMASTERED』の続編『Q2 HUMANITY』は、“描く”だけではなく”人間 ”が登場。 “人間”が飛んだり跳ねたり投げたり、時には特殊能力を発揮したり。『Q2』は、1人はもちろん、最大4人まで遊ぶことができます。描いて人間を操って数多のステージに挑戦しよう！",
+  "short_description_en": "The sequel to the physics-based puzzle game 'Q REMASTERED,' titled 'Q2 HUMANITY,' introduces characters or 'humans' that now appear in the game. These 'humans' can jump, bounce, throw things, and sometimes even exhibit special abilities. 'Q2' can be played solo or with up to 4 players.",
+  "short_description": "物理演算ゲーム『Q REMASTERED』の続編『Q2 HUMANITY』は、“描く”だけではなく”人間 ”が登場。 “人間”が飛んだり跳ねたり投げたり、時には特殊能力を発揮したり。『Q2』は、1人はもちろん、最大4人まで遊ぶことができます。描いて人間を操って数多のステージに挑戦しよう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/header.jpg?t=1743773692",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/capsule_231x87.jpg?t=1743773692",
+  "developers": [
+    "liica, Inc."
+  ],
+  "publishers": [
+    "liica, Inc."
+  ],
+  "genres_ja": [
+    "アクション",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アクション",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "フルコントローラサポート",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年12月17日",
+  "release_date_en": "17 Dec, 2024",
+  "release_date": "2024年12月17日",
+  "is_free": false,
+  "price_initial": 99900,
+  "price_final": 99900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 999",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語",
+  "website": "https://www.liica.co.jp/q2/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/d0b663205f9e5ee65f8d5db557d122b6fff851f0/ss_d0b663205f9e5ee65f8d5db557d122b6fff851f0.1920x1080.jpg?t=1743773692",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/ss_a7a6c4c742a9904c50533a54109afbda65b61c5f.1920x1080.jpg?t=1743773692",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/95a31bd75c83e9d618bf98a792e79276fe1ff032/ss_95a31bd75c83e9d618bf98a792e79276fe1ff032.1920x1080.jpg?t=1743773692",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/ss_e5cc67551f1e86c1180158c5f27d70eff53d1caa.1920x1080.jpg?t=1743773692",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357950/ss_b1ca1031281d58da4918b0a9c5b394946d003118.1920x1080.jpg?t=1743773692"
+  ],
+  "movies": [
+    {
+      "name": "Q2 HUMANITY Steam PV JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062394/ca5fb3643a0021db77342480ea927de95b280dce/movie_600x337.jpg?t=1728273345",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Q2 HUMANITY Capability Sample",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062391/f9854b8c94e2860bada0f21688e54db4ab0e24d2/movie_600x337.jpg?t=1728270305",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Q2 HUMANITY Basic Operation JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062393/52fa317bfc3941cc2c5fea994817d8945cd767a8/movie_600x337.jpg?t=1728270310",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Q2 Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980218/movie.293x165.jpg?t=1699223277",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 0,
+  "total_reviews": 61,
+  "total_positive": 55,
+  "total_negative": 6,
+  "review_score_desc": "Very Positive",
+  "slug": "q2-humanity",
+  "recommend": "niche",
+  "multi": true,
+  "tags_ja": [
+    "アクション",
+    "カジュアル",
+    "パズル",
+    "3D",
+    "笑える",
+    "メトロイドヴァニア",
+    "物理",
+    "マルチプレイヤー"
+  ],
+  "tags_en": [
+    "Action",
+    "Casual",
+    "Puzzle",
+    "3D",
+    "Funny",
+    "Metroidvania",
+    "Physics",
+    "Multiplayer"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

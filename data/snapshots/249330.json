@@ -1,0 +1,101 @@
+{
+  "appid": 249330,
+  "required_age": 0,
+  "name_ja": "メゾン・ド・魔王",
+  "name_en": "Unholy Heights",
+  "name": "Unholy Heights",
+  "short_description_ja": "メゾン・ド・魔王/Unholy Heightsは、アパート経営・モンスター生活・防衛シミュレーションゲームです。モンスターが住むアパートを経営し、迫り来る勇者たちをやっつけましょう。",
+  "short_description_en": "Welcome to Unholy Heights, a mashup of Tower Defense and Apartment Management Simulation!",
+  "short_description": "メゾン・ド・魔王/Unholy Heightsは、アパート経営・モンスター生活・防衛シミュレーションゲームです。モンスターが住むアパートを経営し、迫り来る勇者たちをやっつけましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/header_japanese.jpg?t=1728448231",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/capsule_231x87_japanese.jpg?t=1728448231",
+  "developers": [
+    "Petit Depotto"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamランキング",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2013年10月4日",
+  "release_date_en": "4 Oct, 2013",
+  "release_date": "2013年10月4日",
+  "is_free": false,
+  "price_initial": 39800,
+  "price_final": 39800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 398",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語",
+  "website": "https://playism.com/game/unholy-heights/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/ss_c74e8a44e486b477f25a0a0cf42220d950827350.1920x1080.jpg?t=1728448231",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/ss_0176181530098fa826f3534137398983587c2522.1920x1080.jpg?t=1728448231",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/ss_da8ef2c099e9773199945df25019ab637cf0b7e6.1920x1080.jpg?t=1728448231",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/ss_29767a02bddb909307a809f492f9809b98507e9b.1920x1080.jpg?t=1728448231",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/249330/ss_55adcc62701bf1e03394764f442ae0bcd2946d73.1920x1080.jpg?t=1728448231"
+  ],
+  "movies": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029535/movie.293x165.jpg?t=1447358923",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 254150,
+  "recommendations_total": 1115,
+  "total_reviews": 1628,
+  "total_positive": 1450,
+  "total_negative": 178,
+  "review_score_desc": "Very Positive",
+  "slug": "unholy-heights",
+  "recommend": "all",
+  "tags_ja": [
+    "建設",
+    "コロニーシミュレーション",
+    "ストラテジー",
+    "かわいい",
+    "管理",
+    "街づくり",
+    "2D",
+    "シミュレーション"
+  ],
+  "tags_en": [
+    "Building",
+    "Colony Sim",
+    "Strategy",
+    "Cute",
+    "Management",
+    "City Builder",
+    "2D",
+    "Simulation"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

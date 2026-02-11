@@ -1,0 +1,106 @@
+{
+  "appid": 1801110,
+  "required_age": 0,
+  "name_ja": "違う冬のぼくら(BOKURA)",
+  "name_en": "BOKURA",
+  "name": "BOKURA",
+  "short_description_ja": "『違う冬のぼくら』は2人プレイ専用のパズルアドベンチャーゲームです。プレイヤーはそれぞれ家出をした2人の少年となり、協力して壁を乗り越え、「どこか遠く」を目指します。旅を通して友達と一緒に、あの日の友情を取り戻しに行きましょう。",
+  "short_description_en": "BOKURA is a two-player puzzle adventure game. Play as two boys who ran away from their homes and work together to take yourselves somewhere far, far away. Relive the friendship of your childhood through the journey of two boys.",
+  "short_description": "『違う冬のぼくら』は2人プレイ専用のパズルアドベンチャーゲームです。プレイヤーはそれぞれ家出をした2人の少年となり、協力して壁を乗り越え、「どこか遠く」を目指します。旅を通して友達と一緒に、あの日の友情を取り戻しに行きましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/header_japanese.jpg?t=1748672108",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/capsule_231x87_japanese.jpg?t=1748672108",
+  "developers": [
+    "tokoronyori"
+  ],
+  "publishers": [
+    "Kodansha"
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "LAN協力プレイ",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年8月9日",
+  "release_date_en": "9 Aug, 2023",
+  "release_date": "2023年8月9日",
+  "is_free": false,
+  "price_initial": 71000,
+  "price_final": 71000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 710",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 韓国語, ウクライナ語, スペイン語－ラテンアメリカ, タイ語, ポルトガル語－ブラジル, ポーランド語, ロシア語, オランダ語, スウェーデン語, チェコ語, デンマーク語, ポルトガル語－ポルトガル, インドネシア語, ギリシャ語, トルコ語, ノルウェー語, ハンガリー語, フィンランド語, ブルガリア語, ベトナム語, ルーマニア語",
+  "website": "https://twitter.com/tokoronyori",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/ss_7eae9b2d2cab6f513df66ef186700228f854187a.1920x1080.jpg?t=1748672108",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/ss_6186043353585ba463611eb8219676c953a46998.1920x1080.jpg?t=1748672108",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/ss_531716eee4fa84714e235a6589603259287cbf15.1920x1080.jpg?t=1748672108",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/ss_d7c8805562b51b997c04c58e9d23f7e3b5289fd8.1920x1080.jpg?t=1748672108",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801110/ss_6e7a03261a199144ff86d04ce5d6e080ed9fb481.1920x1080.jpg?t=1748672108"
+  ],
+  "movies": [
+    {
+      "name": "PV_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962461/movie.293x165.jpg?t=1691593619",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 9844,
+  "total_reviews": 11847,
+  "total_positive": 10846,
+  "total_negative": 1001,
+  "review_score_desc": "Very Positive",
+  "slug": "bokura",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "オンライン協力プレイ",
+    "アドベンチャー",
+    "ドット絵",
+    "協力プレイ",
+    "精神的恐怖",
+    "アクション",
+    "2D",
+    "マルチプレイヤー"
+  ],
+  "tags_en": [
+    "Online Co-Op",
+    "Adventure",
+    "Pixel Graphics",
+    "Co-op",
+    "Psychological Horror",
+    "Action",
+    "2D",
+    "Multiplayer"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

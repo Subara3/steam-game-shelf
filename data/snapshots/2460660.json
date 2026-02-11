@@ -1,0 +1,96 @@
+{
+  "appid": 2460660,
+  "required_age": 0,
+  "name_ja": "A Dark Room ®",
+  "name_en": "A Dark Room ®",
+  "name": "A Dark Room ®",
+  "short_description_ja": "Critically acclaimed, minimalist text-based rpg. Come light the fire.",
+  "short_description_en": "Critically acclaimed, minimalist text-based rpg. Come light the fire.",
+  "short_description": "Critically acclaimed, minimalist text-based rpg. Come light the fire.",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/header.jpg?t=1720740126",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/capsule_231x87.jpg?t=1720740126",
+  "developers": [
+    "Amir Rajan"
+  ],
+  "publishers": [
+    "Scratchwork Development LLC"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG"
+  ],
+  "genres": [
+    "インディー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年7月6日",
+  "release_date_en": "6 Jul, 2023",
+  "release_date": "2023年7月6日",
+  "is_free": false,
+  "price_initial": 80000,
+  "price_final": 80000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 800",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/ss_7d3a377e5005f86c781aec53a738650330fc8189.1920x1080.jpg?t=1720740126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/ss_b9dd58a701c0e10f4505d5f808546aeb24315590.1920x1080.jpg?t=1720740126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/ss_dd04ac4c1c3a2c6df425502a036c04866aba3d97.1920x1080.jpg?t=1720740126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/ss_e23248a789bc0f5b9338603751e83c072a4d4b51.1920x1080.jpg?t=1720740126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460660/ss_b28a1eedcb1217b323b57ba2798b3d3c948ee244.1920x1080.jpg?t=1720740126"
+  ],
+  "movies": [
+    {
+      "name": "A Dark Room",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950759/movie.293x165.jpg?t=1687398753",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 0,
+  "total_reviews": 62,
+  "total_positive": 57,
+  "total_negative": 5,
+  "review_score_desc": "Very Positive",
+  "slug": "a-dark-room",
+  "recommend": "niche",
+  "tags_ja": [
+    "RPG",
+    "アドベンチャー",
+    "ローグライク",
+    "探検",
+    "ミニマリスト",
+    "ドット絵",
+    "雰囲気",
+    "伝統的ローグライク"
+  ],
+  "tags_en": [
+    "RPG",
+    "Adventure",
+    "Roguelike",
+    "Exploration",
+    "Minimalist",
+    "Pixel Graphics",
+    "Atmospheric",
+    "Traditional Roguelike"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}
