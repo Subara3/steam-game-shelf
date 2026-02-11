@@ -9,6 +9,11 @@
       "date": "2026-02-09",
       "price_final": 170000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 170000,
+      "discount_percent": 0
     }
   ],
   "413150": [
@@ -19,6 +24,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 148000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 148000,
       "discount_percent": 0
     }
@@ -33,6 +43,11 @@
       "date": "2026-02-09",
       "price_final": 298000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 298000,
+      "discount_percent": 0
     }
   ],
   "391540": [
@@ -43,6 +58,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 98000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 98000,
       "discount_percent": 0
     }
@@ -57,6 +77,11 @@
       "date": "2026-02-09",
       "price_final": 257000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 257000,
+      "discount_percent": 0
     }
   ],
   "266210": [
@@ -67,6 +92,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 35000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 35000,
       "discount_percent": 0
     }
@@ -81,6 +111,11 @@
       "date": "2026-02-09",
       "price_final": 309000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 309000,
+      "discount_percent": 0
     }
   ],
   "1404850": [
@@ -91,6 +126,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 90000,
+      "discount_percent": 25
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 90000,
       "discount_percent": 25
     }
@@ -105,6 +145,11 @@
       "date": "2026-02-09",
       "price_final": 120000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 120000,
+      "discount_percent": 0
     }
   ],
   "294100": [
@@ -117,6 +162,11 @@
       "date": "2026-02-09",
       "price_final": 390000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 312000,
+      "discount_percent": 20
     }
   ],
   "632470": [
@@ -127,6 +177,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 410000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 410000,
       "discount_percent": 0
     }
@@ -141,6 +196,11 @@
       "date": "2026-02-09",
       "price_final": 450000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 450000,
+      "discount_percent": 0
     }
   ],
   "1054490": [
@@ -151,6 +211,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 220000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 220000,
       "discount_percent": 0
     }
@@ -165,6 +230,11 @@
       "date": "2026-02-09",
       "price_final": 230000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 230000,
+      "discount_percent": 0
     }
   ],
   "913740": [
@@ -175,6 +245,11 @@
     },
     {
       "date": "2026-02-09",
+      "price_final": 242000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 242000,
       "discount_percent": 0
     }
@@ -189,6 +264,11 @@
       "date": "2026-02-09",
       "price_final": 0,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 0,
+      "discount_percent": 0
     }
   ],
   "4371880": [
@@ -201,11 +281,21 @@
       "date": "2026-02-09",
       "price_final": 0,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 0,
+      "discount_percent": 0
     }
   ],
   "1092790": [
     {
       "date": "2026-02-09",
+      "price_final": 82000,
+      "discount_percent": 60
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 82000,
       "discount_percent": 60
     }
@@ -215,6 +305,11 @@
       "date": "2026-02-09",
       "price_final": 120000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 120000,
+      "discount_percent": 0
     }
   ],
   "1669980": [
@@ -222,11 +317,21 @@
       "date": "2026-02-09",
       "price_final": 130000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 88400,
+      "discount_percent": 32
     }
   ],
   "2676840": [
     {
       "date": "2026-02-09",
+      "price_final": 80000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 80000,
       "discount_percent": 0
     }
@@ -236,11 +341,21 @@
       "date": "2026-02-09",
       "price_final": 280000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 280000,
+      "discount_percent": 0
     }
   ],
   "1794680": [
     {
       "date": "2026-02-09",
+      "price_final": 39900,
+      "discount_percent": 20
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 39900,
       "discount_percent": 20
     }
@@ -250,11 +365,21 @@
       "date": "2026-02-09",
       "price_final": 150000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 150000,
+      "discount_percent": 0
     }
   ],
   "1515210": [
     {
       "date": "2026-02-09",
+      "price_final": 70000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 70000,
       "discount_percent": 0
     }
@@ -264,11 +389,21 @@
       "date": "2026-02-09",
       "price_final": 42300,
       "discount_percent": 10
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 42300,
+      "discount_percent": 10
     }
   ],
   "1240210": [
     {
       "date": "2026-02-09",
+      "price_final": 132000,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 132000,
       "discount_percent": 0
     }
@@ -278,11 +413,21 @@
       "date": "2026-02-09",
       "price_final": 42300,
       "discount_percent": 10
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 42300,
+      "discount_percent": 10
     }
   ],
   "1617030": [
     {
       "date": "2026-02-09",
+      "price_final": 49200,
+      "discount_percent": 70
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 49200,
       "discount_percent": 70
     }
@@ -292,11 +437,21 @@
       "date": "2026-02-09",
       "price_final": 350000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 350000,
+      "discount_percent": 0
     }
   ],
   "489830": [
     {
       "date": "2026-02-09",
+      "price_final": 439900,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 439900,
       "discount_percent": 0
     }
@@ -306,6 +461,11 @@
       "date": "2026-02-09",
       "price_final": 0,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 0,
+      "discount_percent": 0
     }
   ],
   "2973410": [
@@ -313,11 +473,21 @@
       "date": "2026-02-09",
       "price_final": 0,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
+      "price_final": 0,
+      "discount_percent": 0
     }
   ],
   "3419430": [
     {
       "date": "2026-02-09",
+      "price_final": 0,
+      "discount_percent": 0
+    },
+    {
+      "date": "2026-02-10",
       "price_final": 0,
       "discount_percent": 0
     }
