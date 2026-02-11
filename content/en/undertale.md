@@ -3,6 +3,7 @@ title: Undertale - The RPG That Watches You Back
 appid: 391540
 tags: [RPG, Indie, Bullet Hell]
 recommend: niche
+pet_safety: mixed
 ---
 
 *\*This article was translated by AI.*
@@ -80,3 +81,9 @@ recommend: niche
 > kotori: You really are... so particular, aren't you?
 
 > scala: Well, not everything in the world can be exactly how you want it.
+
+## About Pet Safety
+
+> scala: Technically yes, but nearly all of them are monsters living underground, so they're not really "pets." Hmm... pet pet pet... Well, yeah. Hmm. Better to say it's there than not, I suppose???
+
+> scala: It's not that bad, though.
