@@ -192,9 +192,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 170807,
-  "total_reviews": 221854,
-  "total_positive": 209964,
+  "recommendations_total": 170809,
+  "total_reviews": 221856,
+  "total_positive": 209966,
   "total_negative": 11890,
   "review_score_desc": "Very Positive",
   "slug": "human-fall-flat",
@@ -220,5 +220,5 @@
     "Sandbox",
     "Puzzle Platformer"
   ],
-  "fetched_at": "2026-02-11T19:38:25.872584"
+  "fetched_at": "2026-02-11T22:34:34.326853"
 }
