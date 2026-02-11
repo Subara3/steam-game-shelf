@@ -1,0 +1,104 @@
+{
+  "appid": 1608290,
+  "required_age": 0,
+  "name_ja": "グノーシア",
+  "name_en": "GNOSIA",
+  "name": "GNOSIA",
+  "short_description_ja": "グノーシアは嘘をつく。人間のふりをして近づき、だまし、人間達を消し去っていく―― ＳＦ世界を舞台に、いわゆる人狼系ゲームを１人で何度でも遊ぶことができます。宇宙船の乗員の１人となり、議論と投票を通じて、生き残りつつ勝利を目指して下さい。それでは皆様、良い旅を！",
+  "short_description_en": "The Gnosia lie. Pretending to be human, they’ll get in close, trick and deceive, and then eliminate one victim at a time...",
+  "short_description": "グノーシアは嘘をつく。人間のふりをして近づき、だまし、人間達を消し去っていく―― ＳＦ世界を舞台に、いわゆる人狼系ゲームを１人で何度でも遊ぶことができます。宇宙船の乗員の１人となり、議論と投票を通じて、生き残りつつ勝利を目指して下さい。それでは皆様、良い旅を！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/header.jpg?t=1764922887",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/capsule_231x87.jpg?t=1764922887",
+  "developers": [
+    "Petit Depotto"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年1月23日",
+  "release_date_en": "23 Jan, 2022",
+  "release_date": "2022年1月23日",
+  "is_free": false,
+  "price_initial": 275000,
+  "price_final": 275000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,750",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 日本語",
+  "website": "https://playism.com/game/gnosia/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/ss_c1c567c3069e7beb24dd0719db944228642ffa42.1920x1080.jpg?t=1764922887",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/ss_c28fa84aff4d8bcf46eec5d8733d6315cb799e7c.1920x1080.jpg?t=1764922887",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/ss_c0650178d0983aa2f6a00e137d9e63b8ca10f14b.1920x1080.jpg?t=1764922887",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/ss_716fd6b497fcac9b46946d928d3fa6da3902a4ab.1920x1080.jpg?t=1764922887",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608290/ss_82dc80a88365da2fffd4f909afd459b17df68d3b.1920x1080.jpg?t=1764922887"
+  ],
+  "movies": [
+    {
+      "name": "Trailer-JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256834628/movie.293x165.jpg?t=1621080995",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 4267,
+  "total_reviews": 4511,
+  "total_positive": 4236,
+  "total_negative": 275,
+  "review_score_desc": "Very Positive",
+  "slug": "gnosia",
+  "recommend": "all",
+  "tags_ja": [
+    "ビジュアルノベル",
+    "物語性",
+    "アニメ",
+    "タイムトラベル",
+    "SF",
+    "シングルプレイヤー",
+    "ミステリー",
+    "精神的恐怖"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Story Rich",
+    "Anime",
+    "Time Travel",
+    "Sci-fi",
+    "Singleplayer",
+    "Mystery",
+    "Psychological Horror"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

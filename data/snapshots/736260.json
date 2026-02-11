@@ -1,0 +1,105 @@
+{
+  "appid": 736260,
+  "required_age": 0,
+  "name_ja": "Baba Is You",
+  "name_en": "Baba Is You",
+  "name": "Baba Is You",
+  "short_description_ja": "「Baba Is You」はゲーム上で従われるルールがステージ内にある接触可能のブロックとして存在するゲームです。全てのステージんいおいて、ルール自体が接触可能なブロックとして配置されています。そのブロックを操作することでステージの原則も変わり、ステージ内のオブジェクトに新しい役割を与えながら予想できない効果を引き起こすことができます！",
+  "short_description_en": "Baba Is You is a puzzle game where the rules you have to follow are present as blocks you can interact with. By manipulating them, you can change how the game works, repurpose things you find in the levels and cause surprising interactions!",
+  "short_description": "「Baba Is You」はゲーム上で従われるルールがステージ内にある接触可能のブロックとして存在するゲームです。全てのステージんいおいて、ルール自体が接触可能なブロックとして配置されています。そのブロックを操作することでステージの原則も変わり、ステージ内のオブジェクトに新しい役割を与えながら予想できない効果を引き起こすことができます！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/header.jpg?t=1760102539",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/capsule_231x87.jpg?t=1760102539",
+  "developers": [
+    "Hempuli Oy"
+  ],
+  "publishers": [
+    "Hempuli Oy"
+  ],
+  "genres_ja": [
+    "インディー"
+  ],
+  "genres_en": [
+    "Indie"
+  ],
+  "genres": [
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年3月13日",
+  "release_date_en": "13 Mar, 2019",
+  "release_date": "2019年3月13日",
+  "is_free": false,
+  "price_initial": 152000,
+  "price_final": 152000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,520",
+  "currency": "JPY",
+  "metacritic_score": 87,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, スペイン語 - スペイン, 韓国語, ノルウェー語, ポーランド語, タイ語, フランス語, イタリア語, オランダ語, 日本語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, トルコ語, ベトナム語, ドイツ語, チェコ語, 中国語（繁体字）, 中国語（簡体字）",
+  "website": "https://www.hempuli.com/Baba/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/ss_908c8a4fd0ffec9f29341eb50eb7f074c105342f.1920x1080.jpg?t=1760102539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/ss_9eadb1cdc09f574d49d32a722d7bda5813c96a64.1920x1080.jpg?t=1760102539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/ss_c535fc337bdb15bfe35a164cc13db7ec92fd1f44.1920x1080.jpg?t=1760102539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/ss_e421ba3fb93e902eb4af05564ebf3afcabaae951.1920x1080.jpg?t=1760102539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736260/ss_4e489dcc482e3f094cd8caf0a10317fdc71345af.1920x1080.jpg?t=1760102539"
+  ],
+  "movies": [
+    {
+      "name": "Release date trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743354/movie.293x165.jpg?t=1550681204",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Reveal trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256698065/movie.293x165.jpg?t=1513088546",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 19995,
+  "total_reviews": 23475,
+  "total_positive": 22949,
+  "total_negative": 526,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "baba-is-you",
+  "recommend": "all",
+  "by": "kotori",
+  "tags_ja": [
+    "パズル",
+    "インディー",
+    "高難易度",
+    "シングルプレイヤー",
+    "論理",
+    "ドット絵",
+    "かわいい",
+    "プログラミング"
+  ],
+  "tags_en": [
+    "Puzzle",
+    "Indie",
+    "Difficult",
+    "Singleplayer",
+    "Logic",
+    "Pixel Graphics",
+    "Cute",
+    "Programming"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

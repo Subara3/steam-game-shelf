@@ -1,0 +1,107 @@
+{
+  "appid": 861540,
+  "required_age": 0,
+  "name_ja": "Dicey Dungeons",
+  "name_en": "Dicey Dungeons",
+  "name": "Dicey Dungeons",
+  "short_description_ja": "『Dicey Dungeons』は、サイコロを使って戦うデッキ構築型バトルゲームだ！幸運の女神「レディラック」の挑戦を乗り越えよう。",
+  "short_description_en": "Become a giant walking dice, explore dungeons and defy Lady Luck in this dice powered roguelike! Now featuring &quot;Reunion&quot;, a free DLC with six brand-new episodes!",
+  "short_description": "『Dicey Dungeons』は、サイコロを使って戦うデッキ構築型バトルゲームだ！幸運の女神「レディラック」の挑戦を乗り越えよう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/header.jpg?t=1761845135",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/capsule_231x87.jpg?t=1761845135",
+  "developers": [
+    "Terry Cavanagh"
+  ],
+  "publishers": [
+    "Terry Cavanagh"
+  ],
+  "genres_ja": [
+    "インディー",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年8月13日",
+  "release_date_en": "13 Aug, 2019",
+  "release_date": "2019年8月13日",
+  "is_free": false,
+  "price_initial": 170000,
+  "price_final": 170000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,700",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 韓国語, ドイツ語, フランス語, スペイン語 - スペイン, ロシア語, 日本語, イタリア語, オランダ語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, 中国語（繁体字）, トルコ語, アラビア語, カタルーニャ語, アイルランド語, ウェールズ語",
+  "website": "http://diceydungeons.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_de2e2efde50a4d22b694f67e7fa3c073b927c922.1920x1080.jpg?t=1761845135",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_9c787d82c7eac5c60cfbba2175892daf28aa9667.1920x1080.jpg?t=1761845135",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_384c05b0de489f5a07f5d5bd37024cab0a215b3d.1920x1080.jpg?t=1761845135",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_d98edace0f99958d895bbd5f5f381139bbf87604.1920x1080.jpg?t=1761845135",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_3e52dfc0d82b204c0ae1b9744452a9f12017af25.1920x1080.jpg?t=1761845135"
+  ],
+  "movies": [
+    {
+      "name": "Reunion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895113/movie.293x165.jpg?t=1657209250",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758975/movie.293x165.jpg?t=1565715780",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 10053,
+  "total_reviews": 11454,
+  "total_positive": 10243,
+  "total_negative": 1211,
+  "review_score_desc": "Very Positive",
+  "slug": "dicey-dungeons",
+  "recommend": "all",
+  "tags_ja": [
+    "ローグライクデッキ構築",
+    "カードバトル",
+    "デッキ構築",
+    "ローグライト",
+    "インディー",
+    "ローグライク",
+    "ターン制",
+    "ストラテジー"
+  ],
+  "tags_en": [
+    "Roguelike Deckbuilder",
+    "Card Battler",
+    "Deckbuilding",
+    "Roguelite",
+    "Indie",
+    "Roguelike",
+    "Turn-Based",
+    "Strategy"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

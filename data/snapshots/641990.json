@@ -1,0 +1,135 @@
+{
+  "appid": 641990,
+  "required_age": 0,
+  "name_ja": "The Escapists 2",
+  "name_en": "The Escapists 2",
+  "name": "The Escapists 2",
+  "short_description_ja": "Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?",
+  "short_description_en": "Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?",
+  "short_description": "Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg?t=1764006025",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/capsule_231x87.jpg?t=1764006025",
+  "developers": [
+    "Team17",
+    "Mouldy Toof Studios"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "PvP",
+    "オンラインPvP",
+    "共有／分割画面でのPvP",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "Steamランキング",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2017年8月21日",
+  "release_date_en": "21 Aug, 2017",
+  "release_date": "2017年8月21日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 49500,
+  "discount_percent": 75,
+  "price_formatted": "¥ 495",
+  "currency": "JPY",
+  "metacritic_score": 75,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ロシア語, 中国語（簡体字）, イタリア語",
+  "website": "https://www.team17.com/games/the-escapists-2/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_4c06641e551c04e72abb54d3c190233ff02c05ca.1920x1080.jpg?t=1764006025",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_75c9e0c479c4fb6cc2a40686685ed26d0488f332.1920x1080.jpg?t=1764006025",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_2bb6149a553bbc28c85a624f7628f18fb1573860.1920x1080.jpg?t=1764006025",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_797e85fff36b0c2f5da3caa5028132ab52f3c97c.1920x1080.jpg?t=1764006025",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_84fff3cb6e8306970c8b2fbe7210552646b6f2b2.1920x1080.jpg?t=1764006025"
+  ],
+  "movies": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694499/movie.293x165.jpg?t=1504542318",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Santa's Shakedown Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703598/movie.293x165.jpg?t=1513178847",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "The Escapists 2 - Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689565/movie.293x165.jpg?t=1499788850",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "The Escapists 2 - Old West Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689574/movie.293x165.jpg?t=1499788861",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 25930,
+  "total_reviews": 33058,
+  "total_positive": 29942,
+  "total_negative": 3116,
+  "review_score_desc": "Very Positive",
+  "slug": "the-escapists-2",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "マルチプレイヤー",
+    "ストラテジー",
+    "ドット絵",
+    "オンライン協力プレイ",
+    "協力プレイ",
+    "2D",
+    "クラフト",
+    "ローカル協力プレイ"
+  ],
+  "tags_en": [
+    "Multiplayer",
+    "Strategy",
+    "Pixel Graphics",
+    "Online Co-Op",
+    "Co-op",
+    "2D",
+    "Crafting",
+    "Local Co-Op"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

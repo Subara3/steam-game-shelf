@@ -1,0 +1,105 @@
+{
+  "appid": 1967430,
+  "required_age": 0,
+  "name_ja": "ゴースト トリック",
+  "name_en": "Ghost Trick: Phantom Detective",
+  "name": "Ghost Trick: Phantom Detective",
+  "short_description_ja": "謎解きミステリーアドベンチャーの名作が復活！ 『逆転裁判』シリーズの生みの親・巧 舟が手掛けた『ゴースト トリック』がHDリマスター化。 『大逆転裁判』のBGMを担当する北川保昌による原曲完全同期アレンジに加え、 イラストアツメやBGMアツメなどの新規コンテンツも追加！",
+  "short_description_en": "Ghost Trick: Phantom Detective, the classic puzzle-solving mystery adventure directed by Ace Attorney creator Shu Takumi, is back! This long-awaited HD remaster features upgraded visuals and sound and new gallery content.",
+  "short_description": "謎解きミステリーアドベンチャーの名作が復活！ 『逆転裁判』シリーズの生みの親・巧 舟が手掛けた『ゴースト トリック』がHDリマスター化。 『大逆転裁判』のBGMを担当する北川保昌による原曲完全同期アレンジに加え、 イラストアツメやBGMアツメなどの新規コンテンツも追加！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/header_japanese.jpg?t=1761525968",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/capsule_231x87_japanese.jpg?t=1761525968",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年6月29日",
+  "release_date_en": "29 Jun, 2023",
+  "release_date": "2023年6月29日",
+  "is_free": false,
+  "price_initial": 299000,
+  "price_final": 299000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,990",
+  "currency": "JPY",
+  "metacritic_score": 90,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 日本語, 韓国語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/ss_ac4e1cc74479f93370552a80a5e0088f270c2a95.1920x1080.jpg?t=1761525968",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/ss_e40a7588b3844e736db7ddebaed8ce2f2ed40bb8.1920x1080.jpg?t=1761525968",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/ss_37395976b9f86dbf6c7bb47dbc4bf5912ea23fd0.1920x1080.jpg?t=1761525968",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/ss_732e0ada07e7461fc45fe90bc285a29cdfb9171f.1920x1080.jpg?t=1761525968",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/ss_451320198d87823861fdb32d5ae6d9f39746de64.1920x1080.jpg?t=1761525968"
+  ],
+  "movies": [
+    {
+      "name": "reborn_Steam_Store_日本語.mp4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929705/movie.293x165.jpg?t=1678399297",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "01_AA_BrandMovie_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060223/d31318bb714c46f4e56018bdc7b4fa82077937be/movie_600x337.jpg?t=1727757984",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1971230,
+  "recommendations_total": 5712,
+  "total_reviews": 7520,
+  "total_positive": 7341,
+  "total_negative": 179,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "ghost-trick",
+  "recommend": "all",
+  "tags_ja": [
+    "パズル",
+    "アドベンチャー",
+    "ミステリー",
+    "物語性",
+    "探偵",
+    "アクション",
+    "シングルプレイヤー",
+    "ビジュアルノベル"
+  ],
+  "tags_en": [
+    "Puzzle",
+    "Adventure",
+    "Mystery",
+    "Story Rich",
+    "Detective",
+    "Action",
+    "Singleplayer",
+    "Visual Novel"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

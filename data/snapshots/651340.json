@@ -1,0 +1,99 @@
+{
+  "appid": 651340,
+  "required_age": 0,
+  "name_ja": "Shephy",
+  "name_en": "Shephy",
+  "name": "Shephy",
+  "short_description_ja": "かわいいひつじを1000匹に！大人気の１人用カードゲームの「シェフィ」がSteamに登場！",
+  "short_description_en": "1000 adorable sheep!The popular single-player card game Shephy, is now available on Steam.",
+  "short_description": "かわいいひつじを1000匹に！大人気の１人用カードゲームの「シェフィ」がSteamに登場！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/header_japanese.jpg?t=1671433057",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/capsule_231x87_japanese.jpg?t=1671433057",
+  "developers": [
+    "Arc System Works"
+  ],
+  "publishers": [
+    "Arc System Works"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2017年8月3日",
+  "release_date_en": "3 Aug, 2017",
+  "release_date": "2017年8月3日",
+  "is_free": false,
+  "price_initial": 50000,
+  "price_final": 50000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 500",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）, 日本語<strong>*</strong>, 韓国語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.arcsystemworks.jp/shephy_steam/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/ss_4a43baa9be3b403f7da232f06ebd6a8292316eb7.1920x1080.jpg?t=1671433057",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/ss_4c1fa5f4483aa22ca08b72999f403e6a5515f724.1920x1080.jpg?t=1671433057",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/ss_17abf4572276d6fb0e3ee2d170d53b93e73afd31.1920x1080.jpg?t=1671433057",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/ss_6ee02d8e2727a91b4d90cd027c29671d641130de.1920x1080.jpg?t=1671433057",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651340/ss_72baf9a2e49a884431ff7a517492b1a1619a89b1.1920x1080.jpg?t=1671433057"
+  ],
+  "movies": [
+    {
+      "name": "Shephy Japanese Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689714/movie.293x165.jpg?t=1501132327",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 179,
+  "total_reviews": 203,
+  "total_positive": 150,
+  "total_negative": 53,
+  "review_score_desc": "Mostly Positive",
+  "slug": "shephy",
+  "recommend": "niche",
+  "tags_ja": [
+    "カードゲーム",
+    "ソリティア",
+    "カジュアル",
+    "シングルプレイヤー",
+    "かわいい",
+    "インディー",
+    "ボードゲーム",
+    "パズル"
+  ],
+  "tags_en": [
+    "Card Game",
+    "Solitaire",
+    "Casual",
+    "Singleplayer",
+    "Cute",
+    "Indie",
+    "Board Game",
+    "Puzzle"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}

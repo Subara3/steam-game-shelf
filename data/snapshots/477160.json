@@ -1,0 +1,224 @@
+{
+  "appid": 477160,
+  "required_age": 0,
+  "name_ja": "Human Fall Flat",
+  "name_en": "Human Fall Flat",
+  "name": "Human Fall Flat",
+  "short_description_ja": "ヒューマン フォール フラットは、ふわふわした夢の世界が舞台の爆笑お気軽プラットフォームゲーム。シングルプレイもよし、オンラインでのマルチプレイもよし (最大8名)。活気あふれるコミュニティーのために次々追加される無料の新レベルもあり！",
+  "short_description_en": "Human Fall Flat is a hilarious, light-hearted platformer set in floating dreamscapes that can be played solo or with up to 8 players online. Free new levels keep its vibrant community rewarded.",
+  "short_description": "ヒューマン フォール フラットは、ふわふわした夢の世界が舞台の爆笑お気軽プラットフォームゲーム。シングルプレイもよし、オンラインでのマルチプレイもよし (最大8名)。活気あふれるコミュニティーのために次々追加される無料の新レベルもあり！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/47794e3bd6e51595178b57b7a8e013535a9a172c/header_alt_assets_27.jpg?t=1770736658",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/698850b369ddaa7e91fdff53f38ec657521690fd/capsule_231x87.jpg?t=1770736658",
+  "developers": [
+    "No Brakes Games"
+  ],
+  "publishers": [
+    "Curve Games"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "PvP",
+    "オンラインPvP",
+    "協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamワークショップ",
+    "色のオプション",
+    "カスタム音量調整",
+    "キーボードのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "ステレオサウンド",
+    "サラウンドサウンド",
+    "Steamクラウド",
+    "データ",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年7月22日",
+  "release_date_en": "22 Jul, 2016",
+  "release_date": "2016年7月22日",
+  "is_free": false,
+  "price_initial": 205000,
+  "price_final": 205000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,050",
+  "currency": "JPY",
+  "metacritic_score": 70,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, ドイツ語, スペイン語 - スペイン, ロシア語, イタリア語, 中国語（簡体字）, 日本語, 韓国語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, タイ語, トルコ語, ウクライナ語, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.nobrakesgames.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/3fea2bfe67e9d6a91b734a54f4cb85221e75d100/ss_3fea2bfe67e9d6a91b734a54f4cb85221e75d100.1920x1080.jpg?t=1770736658",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/cee82b41a6b4434d7d2d777d2551e1e88da0bf27/ss_cee82b41a6b4434d7d2d777d2551e1e88da0bf27.1920x1080.jpg?t=1770736658",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/5cc0c9e4a3a58be072e14469aafcbbf0393e51ec/ss_5cc0c9e4a3a58be072e14469aafcbbf0393e51ec.1920x1080.jpg?t=1770736658",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9b241170c07e6455c5f82e87dde9988eb9c3f85c/ss_9b241170c07e6455c5f82e87dde9988eb9c3f85c.1920x1080.jpg?t=1770736658",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/2f79e50b6aa294a0c9aa8f6fa65a5f4335d9f216/ss_2f79e50b6aa294a0c9aa8f6fa65a5f4335d9f216.1920x1080.jpg?t=1770736658"
+  ],
+  "movies": [
+    {
+      "name": "Steampunk Party Trailer - New level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220934/40d57f257e6ddc41098c033bf7cfcb8f822ad449/movie_600x337.jpg?t=1761125504",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Test Chamber - New level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257175671/3fd38ef5d186d319b77b85877d815b818f4c2f39/movie_600x337.jpg?t=1753981035",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Candyland - New level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257113846/8be50e3f7bf6840177e62333ff704d132fecc278/movie_600x337.jpg?t=1741867713",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Hike - New Level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076768/99a08234a818bf2468aa81bc48fe98db7e62c425/movie_600x337.jpg?t=1732705001",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Museum - New Level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053945/movie.293x165.jpg?t=1726149373",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Dockyard - New Level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028509/movie.293x165.jpg?t=1725992173",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Underwater - New Level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989676/movie.293x165.jpg?t=1702903634",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Port - New level available now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965918/movie.293x165.jpg?t=1692961674",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Human Fall Flat - Over 20 FREE levels!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955752/movie.293x165.jpg?t=1692273173",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_Steam_CopperWorldTrailer_2k_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931672/movie.293x165.jpg?t=1677078105",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_Miniature_Steam_OutNow_Unrated_1920x1080_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915202/movie.293x165.jpg?t=1667908892",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_TOWER_1080p_Trailer_English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895889/movie.293x165.jpg?t=1667908897",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_REDROCK_4K Trailer_English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256876518/movie.293x165.jpg?t=1647511641",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_LUMBER_4K Trailer_English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256859524/movie.293x165.jpg?t=1636466448",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF Lab_4K Trailer_English_SUPPLY",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256847548/movie.293x165.jpg?t=1629989517",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF_Content Creator 4K Trailer Global_Eng Subs_SUPPLY",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843872/movie.293x165.jpg?t=1626973949",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "HFF Forest Seq_EN_v002",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256834979/movie.293x165.jpg?t=1677078113",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Human: Fall Flat City Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256809274/movie.293x165.jpg?t=1605623828",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 170807,
+  "total_reviews": 221854,
+  "total_positive": 209964,
+  "total_negative": 11890,
+  "review_score_desc": "Very Positive",
+  "slug": "human-fall-flat",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "協力プレイ",
+    "笑える",
+    "パズル",
+    "アドベンチャー",
+    "物理",
+    "マルチプレイヤー",
+    "サンドボックス",
+    "パズルプラットフォーム"
+  ],
+  "tags_en": [
+    "Co-op",
+    "Funny",
+    "Puzzle",
+    "Adventure",
+    "Physics",
+    "Multiplayer",
+    "Sandbox",
+    "Puzzle Platformer"
+  ],
+  "fetched_at": "2026-02-12T03:39:45.910773"
+}
