@@ -2,7 +2,7 @@
 title: Stardew Valley - 定番ぼくもの系列のゲーム
 appid: 413150
 tags: [シミュレーション, 牧場, インディー, マルチプレイ]
-pet_safety: none
+pet_safety: safe
 ---
 
 > kotori: ん～。なんかぼくもの系のゲームやりたいな～ってキブンなんですけど、博士、Stardew Valleyってどうですか？
