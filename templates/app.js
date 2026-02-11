@@ -85,7 +85,15 @@ function dashboard() {
     },
 
     get siteArticles() {
-      return this.articles.filter(a => !a.appid);
+      return this.articles.filter(a => !a.appid && a.lang === this.lang);
+    },
+
+    articleUrl(slug) {
+      return this.lang === 'en' ? `articles/en/${slug}.html` : `articles/${slug}.html`;
+    },
+
+    gameHasArticle(g) {
+      return this.lang === 'en' ? g.has_article_en : g.has_article;
     },
 
     get allMainGenres() {
@@ -156,7 +164,7 @@ function dashboard() {
       }
 
       if (this.showOnlyWithArticle) {
-        result = result.filter(g => g.has_article);
+        result = result.filter(g => this.gameHasArticle(g));
       }
 
 
