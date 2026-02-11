@@ -1,0 +1,148 @@
+{
+  "appid": 1568590,
+  "required_age": 0,
+  "name_ja": "Goose Goose Duck",
+  "name_en": "Goose Goose Duck",
+  "name": "Goose Goose Duck",
+  "short_description_ja": "『Goose Goose Duck』は、最大16人で遊べるソーシャルディダクションゲームです。プレイヤーは異なる目標を与えられた複数のグループに分けられ、チームの目標を達成すれば勝利です！",
+  "short_description_en": "Goose Goose Duck is a game of social deduction for up to 16 players. Players are separated into different groups that are each assigned a different objective. Complete your team’s objective to win!",
+  "short_description": "『Goose Goose Duck』は、最大16人で遊べるソーシャルディダクションゲームです。プレイヤーは異なる目標を与えられた複数のグループに分けられ、チームの目標を達成すれば勝利です！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/header.jpg?t=1750955551",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/capsule_231x87.jpg?t=1750955551",
+  "developers": [
+    "Gaggle Studios, Inc."
+  ],
+  "publishers": [
+    "Gaggle Studios, Inc."
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "MM（Massively Multiplayer）",
+    "ストラテジー",
+    "無料プレイ"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Massively Multiplayer",
+    "Strategy",
+    "Free To Play"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "MM（Massively Multiplayer）",
+    "ストラテジー",
+    "無料プレイ"
+  ],
+  "categories": [
+    "マルチプレイヤー",
+    "PvP",
+    "オンラインPvP",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "クロスプラットフォームマルチプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "アプリ内購入"
+  ],
+  "release_date_ja": "2021年10月3日",
+  "release_date_en": "3 Oct, 2021",
+  "release_date": "2021年10月3日",
+  "is_free": true,
+  "price_initial": 0,
+  "price_final": 0,
+  "discount_percent": 0,
+  "price_formatted": "",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, 日本語<strong>*</strong>, 韓国語<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, スペイン語－ラテンアメリカ<strong>*</strong>, タイ語<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, トルコ語<strong>*</strong>, イタリア語<strong>*</strong>, チェコ語<strong>*</strong>, ハンガリー語<strong>*</strong>, ポーランド語<strong>*</strong>, ロシア語<strong>*</strong>, ベトナム語<strong>*</strong>, ウクライナ語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "https://gaggle.fun/goose-goose-duck",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/565f57e7f57094fc0a831407d95fb8d20beae65c/ss_565f57e7f57094fc0a831407d95fb8d20beae65c.1920x1080.jpg?t=1750955551",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/1deb7bcec8686495784fbbfa38a7433de26f1222/ss_1deb7bcec8686495784fbbfa38a7433de26f1222.1920x1080.jpg?t=1750955551",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/828fa0637c7028cd5c71e1f075b10b1f604ebc5b/ss_828fa0637c7028cd5c71e1f075b10b1f604ebc5b.1920x1080.jpg?t=1750955551",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/ss_099bf01d94c82de348ac094b35096c24aaa3bcee.1920x1080.jpg?t=1750955551",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568590/ss_2f7896099c5ad3f4f95988cd54065d5d85b1ab41.1920x1080.jpg?t=1750955551"
+  ],
+  "movies": [
+    {
+      "name": "GGDxGodzilla",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108682/be9b3bc711a61300e2332630cb4a7c3aa761bcbc/movie_600x337.jpg?t=1741202414",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "GGD Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875497/movie.293x165.jpg?t=1734556380",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "The Carnival",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012595/movie.293x165.jpg?t=1734556376",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Eagleton Springs",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256966475/movie.293x165.jpg?t=1734556389",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Bloodhaven Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949127/movie.293x165.jpg?t=1734556393",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fowl Play Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849883/movie.293x165.jpg?t=1734556397",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Goose Goose Duck Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828097/movie.293x165.jpg?t=1734556401",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 0,
+  "total_reviews": 78507,
+  "total_positive": 67979,
+  "total_negative": 10528,
+  "review_score_desc": "Very Positive",
+  "slug": "goose-goose-duck",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "マルチプレイヤー",
+    "無料プレイ",
+    "オンライン協力プレイ",
+    "ソーシャルディダクション",
+    "2D",
+    "インディー",
+    "PvP",
+    "キャラクターカスタマイズ"
+  ],
+  "tags_en": [
+    "Multiplayer",
+    "Free to Play",
+    "Online Co-Op",
+    "Social Deduction",
+    "2D",
+    "Indie",
+    "PvP",
+    "Character Customization"
+  ],
+  "fetched_at": "2026-02-11T17:22:56.710899"
+}

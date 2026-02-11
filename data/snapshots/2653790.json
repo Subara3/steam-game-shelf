@@ -1,0 +1,99 @@
+{
+  "appid": 2653790,
+  "required_age": 0,
+  "name_ja": "８番出口",
+  "name_en": "The Exit 8",
+  "name": "The Exit 8",
+  "short_description_ja": "あなたは無限に続く地下通路に閉じ込められている。 周囲をよく観察し、「８番出口」まで辿り着こう。",
+  "short_description_en": "You are trapped in an endless underground passageway. Observe your surroundings carefully to reach &quot;The Exit 8&quot;.",
+  "short_description": "あなたは無限に続く地下通路に閉じ込められている。 周囲をよく観察し、「８番出口」まで辿り着こう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/header.jpg?t=1756464433",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/capsule_231x87.jpg?t=1756464433",
+  "developers": [
+    "KOTAKE CREATE"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年11月29日",
+  "release_date_en": "29 Nov, 2023",
+  "release_date": "2023年11月29日",
+  "is_free": false,
+  "price_initial": 47000,
+  "price_final": 47000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 470",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, 中国語（簡体字）, 中国語（繁体字）, 韓国語",
+  "website": "https://www.kotakecreate.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/ss_67acc3861bcbbebba7e823ce3842ef09a2c7b90d.1920x1080.jpg?t=1756464433",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/ss_8b60b1ac4ebba7a7365c837666debb2e53071278.1920x1080.jpg?t=1756464433",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/ss_d063fac19985e9e3bfe03c6a9d4d0043676bbe4a.1920x1080.jpg?t=1756464433",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/ss_aab252acfcd45c572e37b7d97c988e5fe9488e0a.1920x1080.jpg?t=1756464433",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653790/ss_d9230054f31e82f937746e80c2ded84b5aae4c85.1920x1080.jpg?t=1756464433"
+  ],
+  "movies": [
+    {
+      "name": "　",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979916/movie.293x165.jpg?t=1699024856",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 9533,
+  "total_reviews": 10018,
+  "total_positive": 9351,
+  "total_negative": 667,
+  "review_score_desc": "Very Positive",
+  "slug": "8banguchi",
+  "recommend": "all",
+  "tags_ja": [
+    "探検",
+    "没入シミュレーション",
+    "パズル",
+    "地下",
+    "ウォーキングシミュレーター",
+    "3D",
+    "ファーストパーソン",
+    "ホラー"
+  ],
+  "tags_en": [
+    "Exploration",
+    "Immersive Sim",
+    "Puzzle",
+    "Underground",
+    "Walking Simulator",
+    "3D",
+    "First-Person",
+    "Horror"
+  ],
+  "fetched_at": "2026-02-11T17:22:56.710899"
+}
