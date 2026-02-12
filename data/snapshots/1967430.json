@@ -40,9 +40,9 @@
   "release_date": "2023年6月29日",
   "is_free": false,
   "price_initial": 299000,
-  "price_final": 299000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,990",
+  "price_final": 98600,
+  "discount_percent": 67,
+  "price_formatted": "¥ 986",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Visual Novel"
   ],
-  "fetched_at": "2026-02-12T10:51:17.043710"
+  "fetched_at": "2026-02-12T22:36:42.986699"
 }

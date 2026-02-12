@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 20000,
-  "total_reviews": 23480,
-  "total_positive": 22953,
-  "total_negative": 527,
+  "recommendations_total": 20004,
+  "total_reviews": 23485,
+  "total_positive": 22957,
+  "total_negative": 528,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baba-is-you",
   "recommend": "all",
@@ -101,5 +101,5 @@
     "Cute",
     "Programming"
   ],
-  "fetched_at": "2026-02-12T10:51:17.043710"
+  "fetched_at": "2026-02-12T22:36:42.986699"
 }

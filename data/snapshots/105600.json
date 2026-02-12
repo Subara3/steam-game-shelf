@@ -106,10 +106,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1189684,
-  "total_reviews": 1492623,
-  "total_positive": 1454005,
-  "total_negative": 38618,
+  "recommendations_total": 1189919,
+  "total_reviews": 1492921,
+  "total_positive": 1454297,
+  "total_negative": 38624,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "terraria",
   "recommend": "all",
@@ -133,5 +133,5 @@
     "Adventure",
     "Crafting"
   ],
-  "fetched_at": "2026-02-12T10:51:17.043710"
+  "fetched_at": "2026-02-12T22:36:42.986699"
 }
