@@ -1,6 +1,6 @@
 {
   "date": "2026-02-12",
-  "timestamp": "2026-02-12T03:39:45.910773",
+  "timestamp": "2026-02-12T09:23:12.492919",
   "games": [
     {
       "appid": 2379780,
@@ -80,10 +80,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147539,
-      "total_reviews": 182861,
-      "total_positive": 179079,
-      "total_negative": 3782,
+      "recommendations_total": 147572,
+      "total_reviews": 182900,
+      "total_positive": 179115,
+      "total_negative": 3785,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 413150,
@@ -191,10 +191,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 837668,
-      "total_reviews": 975979,
-      "total_positive": 961035,
-      "total_negative": 14944,
+      "recommendations_total": 837781,
+      "total_reviews": 976106,
+      "total_positive": 961164,
+      "total_negative": 14942,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2135150,
@@ -310,10 +310,10 @@
         }
       ],
       "demo_appid": 3288620,
-      "recommendations_total": 7626,
-      "total_reviews": 8361,
-      "total_positive": 7834,
-      "total_negative": 527,
+      "recommendations_total": 7631,
+      "total_reviews": 8367,
+      "total_positive": 7839,
+      "total_negative": 528,
       "review_score_desc": "Very Positive",
       "slug": "elin",
       "recommend": "niche",
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 391540,
@@ -408,10 +408,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 281821,
-      "total_reviews": 313778,
-      "total_positive": 303656,
-      "total_negative": 10122,
+      "recommendations_total": 281859,
+      "total_reviews": 313822,
+      "total_positive": 303699,
+      "total_negative": 10123,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 568220,
@@ -503,10 +503,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 46970,
-      "total_reviews": 51081,
-      "total_positive": 48076,
-      "total_negative": 3005,
+      "recommendations_total": 46981,
+      "total_reviews": 51091,
+      "total_positive": 48084,
+      "total_negative": 3007,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
       "recommend": "niche",
@@ -530,7 +530,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1256670,
@@ -711,10 +711,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 35915,
-      "total_reviews": 39922,
-      "total_positive": 37680,
-      "total_negative": 2242,
+      "recommendations_total": 35934,
+      "total_reviews": 39940,
+      "total_positive": 37697,
+      "total_negative": 2243,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
       "recommend": "niche",
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1404850,
@@ -825,8 +825,8 @@
       ],
       "demo_appid": 1439770,
       "recommendations_total": 9993,
-      "total_reviews": 11277,
-      "total_positive": 10519,
+      "total_reviews": 11276,
+      "total_positive": 10518,
       "total_negative": 758,
       "review_score_desc": "Very Positive",
       "slug": "luck-be-a-landlord",
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 3314790,
@@ -934,10 +934,10 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 19860,
-      "total_reviews": 20812,
-      "total_positive": 18788,
-      "total_negative": 2024,
+      "recommendations_total": 19875,
+      "total_reviews": 20826,
+      "total_positive": 18801,
+      "total_negative": 2025,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
       "recommend": "niche",
@@ -962,7 +962,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 294100,
@@ -1044,10 +1044,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 197578,
-      "total_reviews": 233130,
-      "total_positive": 228228,
-      "total_negative": 4902,
+      "recommendations_total": 197605,
+      "total_reviews": 233158,
+      "total_positive": 228253,
+      "total_negative": 4905,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "niche",
@@ -1071,7 +1071,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 632470,
@@ -1153,10 +1153,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111494,
-      "total_reviews": 123240,
-      "total_positive": 114309,
-      "total_negative": 8931,
+      "recommendations_total": 111513,
+      "total_reviews": 123259,
+      "total_positive": 114326,
+      "total_negative": 8933,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
@@ -1180,7 +1180,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1222140,
@@ -1252,9 +1252,9 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 193908,
-      "total_reviews": 224799,
-      "total_positive": 216232,
+      "recommendations_total": 194011,
+      "total_reviews": 224920,
+      "total_positive": 216353,
       "total_negative": 8567,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
@@ -1279,7 +1279,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1054490,
@@ -1403,7 +1403,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1599600,
@@ -1489,10 +1489,10 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 17393,
-      "total_reviews": 25563,
-      "total_positive": 24233,
-      "total_negative": 1330,
+      "recommendations_total": 17397,
+      "total_reviews": 25568,
+      "total_positive": 24235,
+      "total_negative": 1333,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
       "recommend": "all",
@@ -1517,7 +1517,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 913740,
@@ -1619,7 +1619,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1092790,
@@ -1699,10 +1699,10 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129161,
-      "total_reviews": 141845,
-      "total_positive": 137405,
-      "total_negative": 4440,
+      "recommendations_total": 129181,
+      "total_reviews": 141868,
+      "total_positive": 137427,
+      "total_negative": 4441,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "inscryption",
       "recommend": "niche",
@@ -1726,7 +1726,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 239030,
@@ -1801,9 +1801,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 71099,
-      "total_reviews": 78057,
-      "total_positive": 75944,
+      "recommendations_total": 71103,
+      "total_reviews": 78061,
+      "total_positive": 75948,
       "total_negative": 2113,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "papers-please",
@@ -1828,7 +1828,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1669980,
@@ -1914,10 +1914,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 43159,
-      "total_reviews": 46700,
-      "total_positive": 45684,
-      "total_negative": 1016,
+      "recommendations_total": 43161,
+      "total_reviews": 46703,
+      "total_positive": 45688,
+      "total_negative": 1015,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "volcano-princess",
       "recommend": "niche",
@@ -1941,7 +1941,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2676840,
@@ -2011,9 +2011,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9117,
-      "total_reviews": 9432,
-      "total_positive": 9109,
+      "recommendations_total": 9122,
+      "total_reviews": 9436,
+      "total_positive": 9113,
       "total_negative": 323,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
@@ -2038,7 +2038,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 3117820,
@@ -2150,10 +2150,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22721,
-      "total_reviews": 31885,
-      "total_positive": 30349,
-      "total_negative": 1536,
+      "recommendations_total": 22723,
+      "total_reviews": 31890,
+      "total_positive": 30353,
+      "total_negative": 1537,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "sultans-game",
       "recommend": "niche",
@@ -2177,7 +2177,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1794680,
@@ -2271,10 +2271,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 246056,
-      "total_reviews": 259534,
-      "total_positive": 255311,
-      "total_negative": 4223,
+      "recommendations_total": 246077,
+      "total_reviews": 259558,
+      "total_positive": 255334,
+      "total_negative": 4224,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "vampire-survivors",
       "recommend": "all",
@@ -2298,7 +2298,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 447530,
@@ -2375,9 +2375,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 32935,
-      "total_reviews": 37739,
-      "total_positive": 36742,
+      "recommendations_total": 32937,
+      "total_reviews": 37741,
+      "total_positive": 36744,
       "total_negative": 997,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "va11halla",
@@ -2402,7 +2402,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1515210,
@@ -2521,7 +2521,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 4327530,
@@ -2592,9 +2592,9 @@
         }
       ],
       "demo_appid": 4334900,
-      "recommendations_total": 270,
-      "total_reviews": 271,
-      "total_positive": 262,
+      "recommendations_total": 273,
+      "total_reviews": 274,
+      "total_positive": 265,
       "total_negative": 9,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2619,7 +2619,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1240210,
@@ -2700,9 +2700,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22929,
-      "total_reviews": 24806,
-      "total_positive": 24245,
+      "recommendations_total": 22931,
+      "total_reviews": 24808,
+      "total_positive": 24247,
       "total_negative": 561,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "there-is-no-game",
@@ -2727,7 +2727,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2455920,
@@ -2821,7 +2821,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1617030,
@@ -2925,7 +2925,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 3101040,
@@ -3010,10 +3010,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 24141,
-      "total_reviews": 26996,
-      "total_positive": 26140,
-      "total_negative": 856,
+      "recommendations_total": 24156,
+      "total_reviews": 27022,
+      "total_positive": 26165,
+      "total_negative": 857,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "magical-girl-witch-trials",
       "recommend": "niche",
@@ -3038,7 +3038,7 @@
         "Story Rich",
         "Sexual Content"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 105600,
@@ -3148,10 +3148,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 1189330,
-      "total_reviews": 1492188,
-      "total_positive": 1453586,
-      "total_negative": 38602,
+      "recommendations_total": 1189650,
+      "total_reviews": 1492592,
+      "total_positive": 1453975,
+      "total_negative": 38617,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "terraria",
       "recommend": "all",
@@ -3175,7 +3175,7 @@
         "Adventure",
         "Crafting"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 242920,
@@ -3249,9 +3249,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 37493,
-      "total_reviews": 42875,
-      "total_positive": 38765,
+      "recommendations_total": 37495,
+      "total_reviews": 42876,
+      "total_positive": 38766,
       "total_negative": 4110,
       "review_score_desc": "Very Positive",
       "slug": "banished",
@@ -3276,7 +3276,7 @@
         "Singleplayer",
         "Sandbox"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2653790,
@@ -3348,10 +3348,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9534,
-      "total_reviews": 10019,
-      "total_positive": 9352,
-      "total_negative": 667,
+      "recommendations_total": 9538,
+      "total_reviews": 10022,
+      "total_positive": 9354,
+      "total_negative": 668,
       "review_score_desc": "Very Positive",
       "slug": "8banguchi",
       "recommend": "all",
@@ -3375,7 +3375,7 @@
         "First-Person",
         "Horror"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 330820,
@@ -3483,7 +3483,7 @@
         "Multiple Endings",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1568590,
@@ -3604,9 +3604,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 78508,
-      "total_positive": 67980,
-      "total_negative": 10528,
+      "total_reviews": 78512,
+      "total_positive": 67982,
+      "total_negative": 10530,
       "review_score_desc": "Very Positive",
       "slug": "goose-goose-duck",
       "recommend": "all",
@@ -3631,7 +3631,7 @@
         "PvP",
         "Character Customization"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 736260,
@@ -3708,10 +3708,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 19995,
-      "total_reviews": 23475,
-      "total_positive": 22949,
-      "total_negative": 526,
+      "recommendations_total": 20000,
+      "total_reviews": 23480,
+      "total_positive": 22953,
+      "total_negative": 527,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "baba-is-you",
       "recommend": "all",
@@ -3736,7 +3736,7 @@
         "Cute",
         "Programming"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2357950,
@@ -3860,7 +3860,7 @@
         "Physics",
         "Multiplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1967430,
@@ -3938,9 +3938,9 @@
         }
       ],
       "demo_appid": 1971230,
-      "recommendations_total": 5712,
-      "total_reviews": 7520,
-      "total_positive": 7341,
+      "recommendations_total": 5714,
+      "total_reviews": 7522,
+      "total_positive": 7343,
       "total_negative": 179,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "ghost-trick",
@@ -3965,7 +3965,7 @@
         "Singleplayer",
         "Visual Novel"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1801110,
@@ -4043,10 +4043,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9844,
-      "total_reviews": 11847,
-      "total_positive": 10846,
-      "total_negative": 1001,
+      "recommendations_total": 9847,
+      "total_reviews": 11849,
+      "total_positive": 10849,
+      "total_negative": 1000,
       "review_score_desc": "Very Positive",
       "slug": "bokura",
       "recommend": "all",
@@ -4071,7 +4071,7 @@
         "2D",
         "Multiplayer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 861540,
@@ -4178,7 +4178,7 @@
         "Turn-Based",
         "Strategy"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2460660,
@@ -4274,7 +4274,7 @@
         "Atmospheric",
         "Traditional Roguelike"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1580240,
@@ -4351,9 +4351,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 1935,
-      "total_reviews": 2183,
-      "total_positive": 1935,
+      "recommendations_total": 1936,
+      "total_reviews": 2184,
+      "total_positive": 1936,
       "total_negative": 248,
       "review_score_desc": "Very Positive",
       "slug": "rune-factory-4",
@@ -4378,7 +4378,7 @@
         "Creature Collector",
         "Magic"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 1608290,
@@ -4455,9 +4455,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 4267,
-      "total_reviews": 4511,
-      "total_positive": 4236,
+      "recommendations_total": 4268,
+      "total_reviews": 4512,
+      "total_positive": 4237,
       "total_negative": 275,
       "review_score_desc": "Very Positive",
       "slug": "gnosia",
@@ -4482,7 +4482,7 @@
         "Mystery",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 477160,
@@ -4678,9 +4678,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 170807,
-      "total_reviews": 221854,
-      "total_positive": 209964,
+      "recommendations_total": 170810,
+      "total_reviews": 221857,
+      "total_positive": 209967,
       "total_negative": 11890,
       "review_score_desc": "Very Positive",
       "slug": "human-fall-flat",
@@ -4706,7 +4706,7 @@
         "Sandbox",
         "Puzzle Platformer"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 651340,
@@ -4805,7 +4805,7 @@
         "Board Game",
         "Puzzle"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 249330,
@@ -4879,9 +4879,9 @@
         }
       ],
       "demo_appid": 254150,
-      "recommendations_total": 1115,
-      "total_reviews": 1628,
-      "total_positive": 1450,
+      "recommendations_total": 1116,
+      "total_reviews": 1629,
+      "total_positive": 1451,
       "total_negative": 178,
       "review_score_desc": "Very Positive",
       "slug": "unholy-heights",
@@ -4906,7 +4906,7 @@
         "2D",
         "Simulation"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 641990,
@@ -5013,9 +5013,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 25930,
-      "total_reviews": 33058,
-      "total_positive": 29942,
+      "recommendations_total": 25933,
+      "total_reviews": 33060,
+      "total_positive": 29944,
       "total_negative": 3116,
       "review_score_desc": "Very Positive",
       "slug": "the-escapists-2",
@@ -5041,7 +5041,7 @@
         "Crafting",
         "Local Co-Op"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 489830,
@@ -5121,10 +5121,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 205493,
-      "total_reviews": 358775,
-      "total_positive": 330941,
-      "total_negative": 27834,
+      "recommendations_total": 205526,
+      "total_reviews": 358822,
+      "total_positive": 330987,
+      "total_negative": 27835,
       "review_score_desc": "Very Positive",
       "slug": "skyrim",
       "recommend": "all",
@@ -5148,7 +5148,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 4045680,
@@ -5240,7 +5240,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 4371880,
@@ -5330,7 +5330,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2263010,
@@ -5403,8 +5403,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 25316,
-      "total_positive": 24745,
+      "total_reviews": 25321,
+      "total_positive": 24750,
       "total_negative": 571,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "pineapple-on-pizza",
@@ -5430,7 +5430,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 2973410,
@@ -5525,7 +5525,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     },
     {
       "appid": 3419430,
@@ -5615,9 +5615,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 89290,
-      "total_positive": 87151,
-      "total_negative": 2139,
+      "total_reviews": 89353,
+      "total_positive": 87211,
+      "total_negative": 2142,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "bongo-cat",
       "recommend": "all",
@@ -5642,7 +5642,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-12T03:39:45.910773"
+      "fetched_at": "2026-02-12T09:23:12.492919"
     }
   ]
 }
