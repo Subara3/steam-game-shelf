@@ -86,11 +86,13 @@ def inline_markdown(text: str) -> str:
 
 PET_SAFETY_LABELS = {
     "ja": {
+        "safe": "犬猫の無事度：無事",
         "none": "犬猫の無事度：そもそも登場しない",
         "mild": "犬猫の無事度：無事ではない（軽度）",
         "severe": "犬猫の無事度：無事ではない（深刻）",
     },
     "en": {
+        "safe": "Pet Safety: Safe",
         "none": "Pet Safety: Not applicable",
         "mild": "Pet Safety: Some concern (mild)",
         "severe": "Pet Safety: Some concern (severe)",
