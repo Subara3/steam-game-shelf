@@ -824,6 +824,83 @@ h1, h2, h3, h4, h5, h6,
   font-size: 0.7rem;
 }
 
+/* ===== ページネーション ===== */
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.pagination-info {
+  font-size: 0.85rem;
+  color: #8f98a0;
+}
+
+.pagination-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pagination-btn {
+  min-width: 2.2rem;
+  height: 2.2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.5rem;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  color: #c7d5e0;
+  font-size: 0.9rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.pagination-btn:hover:not(:disabled):not(.ellipsis) {
+  border-color: var(--accent-border);
+  color: var(--accent);
+  box-shadow: 0 0 8px rgba(212, 160, 86, 0.08);
+}
+
+.pagination-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--steam-darker);
+  font-weight: 700;
+  cursor: default;
+  box-shadow: 0 0 12px rgba(212, 160, 86, 0.15);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.pagination-btn.ellipsis {
+  border-color: transparent;
+  background: transparent;
+  cursor: default;
+  opacity: 0.5;
+}
+
+@media (max-width: 768px) {
+  .pagination-btn {
+    min-width: 2rem;
+    height: 2rem;
+    font-size: 0.8rem;
+  }
+}
+
 /* パンくず */
 .breadcrumb {
   font-size: 0.85rem;
@@ -923,6 +1000,12 @@ h1, h2, h3, h4, h5, h6,
   background: rgba(136, 136, 136, 0.04);
 }
 
+.pet-safety-safe {
+  border-color: rgba(164, 208, 7, 0.25);
+  border-left-color: var(--steam-green-bright);
+  background: rgba(164, 208, 7, 0.04);
+}
+
 .pet-safety-none {
   border-color: rgba(102, 192, 244, 0.25);
   border-left-color: var(--steam-blue);
@@ -950,6 +1033,7 @@ h1, h2, h3, h4, h5, h6,
   border-bottom: 1px solid rgba(136, 136, 136, 0.15);
 }
 
+.pet-safety-safe .pet-safety-header { border-bottom-color: rgba(164, 208, 7, 0.15); }
 .pet-safety-none .pet-safety-header { border-bottom-color: rgba(102, 192, 244, 0.15); }
 .pet-safety-mild .pet-safety-header { border-bottom-color: rgba(230, 180, 50, 0.15); }
 .pet-safety-severe .pet-safety-header { border-bottom-color: rgba(200, 60, 60, 0.15); }
@@ -960,6 +1044,7 @@ h1, h2, h3, h4, h5, h6,
   color: #888;
 }
 
+.pet-safety-safe .pet-safety-label { color: var(--steam-green-bright); }
 .pet-safety-none .pet-safety-label { color: var(--steam-blue); }
 .pet-safety-mild .pet-safety-label { color: #e6b432; }
 .pet-safety-severe .pet-safety-label { color: #c83c3c; }
