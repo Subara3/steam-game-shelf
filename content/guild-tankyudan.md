@@ -2,7 +2,7 @@
 title: ギルド探求団へようこそ！ - やるのだ、いますぐ
 appid: 4327530
 tags: [推理, パズル, 論理, インディー]
-pet_safety: none
+pet_safety: safe
 ---
 
 > scala: ギルド探求団をやるのだ。

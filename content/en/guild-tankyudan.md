@@ -2,7 +2,7 @@
 title: Welcome to Guild Tankyudan! - Play It Right Now
 appid: 4327530
 tags: [Mystery, Puzzle, Logic, Indie]
-pet_safety: none
+pet_safety: safe
 ---
 
 *\*This article was translated by AI.*
