@@ -74,9 +74,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9849,
-  "total_reviews": 11851,
-  "total_positive": 10851,
+  "recommendations_total": 9852,
+  "total_reviews": 11855,
+  "total_positive": 10855,
   "total_negative": 1000,
   "review_score_desc": "Very Positive",
   "slug": "bokura",
@@ -102,5 +102,5 @@
     "2D",
     "Multiplayer"
   ],
-  "fetched_at": "2026-02-12T22:36:42.986699"
+  "fetched_at": "2026-02-13T22:37:47.923308"
 }
