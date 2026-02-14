@@ -656,6 +656,23 @@ def main():
                         shutil.rmtree(dest)
                     shutil.copytree(f, dest)
 
+    # Cache busting: add ?v=timestamp to CSS/JS references
+    ver = datetime.now().strftime("%Y%m%d%H%M")
+    index_path = SITE_DIR / "index.html"
+    if index_path.exists():
+        html = index_path.read_text(encoding="utf-8")
+        html = html.replace('href="style.css"', f'href="style.css?v={ver}"')
+        html = html.replace('src="app.js"', f'src="app.js?v={ver}"')
+        html = html.replace('src="i18n-data.js"', f'src="i18n-data.js?v={ver}"')
+        index_path.write_text(html, encoding="utf-8")
+
+    for articles_dir in [SITE_DIR / "articles", SITE_DIR / "articles" / "en"]:
+        if articles_dir.exists():
+            for article_html in articles_dir.glob("*.html"):
+                html = article_html.read_text(encoding="utf-8")
+                html = html.replace('href="../style.css"', f'href="../style.css?v={ver}"')
+                article_html.write_text(html, encoding="utf-8")
+
     print(f"\nビルド完了: {SITE_DIR}")
 
 
