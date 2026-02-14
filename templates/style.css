@@ -340,6 +340,91 @@ h1, h2, h3, h4, h5, h6,
   border: 1px solid rgba(164, 208, 7, 0.2);
 }
 
+/* ===== 直近のベスト！ ===== */
+.featured-section {
+  margin-bottom: 1.5rem;
+}
+
+.featured-section h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.8rem;
+  color: var(--accent);
+}
+
+.featured-card {
+  display: flex;
+  background: var(--card-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--accent-border);
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: var(--card-shadow), 0 0 24px rgba(212, 160, 86, 0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.featured-card:hover {
+  border-color: var(--accent);
+  box-shadow: var(--card-hover-shadow), 0 0 32px rgba(212, 160, 86, 0.12);
+  transform: translateY(-3px);
+}
+
+.featured-img {
+  width: 460px;
+  flex-shrink: 0;
+  object-fit: cover;
+  aspect-ratio: 460 / 215;
+}
+
+.featured-body {
+  padding: 1.2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+.featured-name {
+  font-size: 1.3rem;
+  color: #fff;
+  margin: 0;
+}
+
+.featured-desc {
+  font-size: 0.9rem;
+  color: #8f98a0;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.featured-cta {
+  display: inline-block;
+  width: fit-content;
+  margin-top: 0.3rem;
+  padding: 0.35rem 1rem;
+  background: var(--accent);
+  color: var(--steam-darker);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+.featured-card:hover .featured-cta {
+  opacity: 0.85;
+}
+
+@media (max-width: 768px) {
+  .featured-card {
+    flex-direction: column;
+  }
+  .featured-img {
+    width: 100%;
+    height: auto;
+  }
+}
+
 /* ===== セール中バナー ===== */
 .sale-banner {
   margin-bottom: 1.5rem;
@@ -824,83 +909,6 @@ h1, h2, h3, h4, h5, h6,
   font-size: 0.7rem;
 }
 
-/* ===== ページネーション ===== */
-.pagination {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.8rem;
-  margin-top: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-.pagination-info {
-  font-size: 0.85rem;
-  color: #8f98a0;
-}
-
-.pagination-buttons {
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.pagination-btn {
-  min-width: 2.2rem;
-  height: 2.2rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 0.5rem;
-  border: 1px solid var(--card-border);
-  border-radius: 8px;
-  background: var(--card-bg);
-  backdrop-filter: blur(var(--glass-blur));
-  -webkit-backdrop-filter: blur(var(--glass-blur));
-  color: #c7d5e0;
-  font-size: 0.9rem;
-  font-family: inherit;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.pagination-btn:hover:not(:disabled):not(.ellipsis) {
-  border-color: var(--accent-border);
-  color: var(--accent);
-  box-shadow: 0 0 8px rgba(212, 160, 86, 0.08);
-}
-
-.pagination-btn.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--steam-darker);
-  font-weight: 700;
-  cursor: default;
-  box-shadow: 0 0 12px rgba(212, 160, 86, 0.15);
-}
-
-.pagination-btn:disabled {
-  opacity: 0.3;
-  cursor: default;
-}
-
-.pagination-btn.ellipsis {
-  border-color: transparent;
-  background: transparent;
-  cursor: default;
-  opacity: 0.5;
-}
-
-@media (max-width: 768px) {
-  .pagination-btn {
-    min-width: 2rem;
-    height: 2rem;
-    font-size: 0.8rem;
-  }
-}
-
 /* パンくず */
 .breadcrumb {
   font-size: 0.85rem;
@@ -1000,12 +1008,6 @@ h1, h2, h3, h4, h5, h6,
   background: rgba(136, 136, 136, 0.04);
 }
 
-.pet-safety-safe {
-  border-color: rgba(164, 208, 7, 0.25);
-  border-left-color: var(--steam-green-bright);
-  background: rgba(164, 208, 7, 0.04);
-}
-
 .pet-safety-none {
   border-color: rgba(102, 192, 244, 0.25);
   border-left-color: var(--steam-blue);
@@ -1033,7 +1035,6 @@ h1, h2, h3, h4, h5, h6,
   border-bottom: 1px solid rgba(136, 136, 136, 0.15);
 }
 
-.pet-safety-safe .pet-safety-header { border-bottom-color: rgba(164, 208, 7, 0.15); }
 .pet-safety-none .pet-safety-header { border-bottom-color: rgba(102, 192, 244, 0.15); }
 .pet-safety-mild .pet-safety-header { border-bottom-color: rgba(230, 180, 50, 0.15); }
 .pet-safety-severe .pet-safety-header { border-bottom-color: rgba(200, 60, 60, 0.15); }
@@ -1044,7 +1045,6 @@ h1, h2, h3, h4, h5, h6,
   color: #888;
 }
 
-.pet-safety-safe .pet-safety-label { color: var(--steam-green-bright); }
 .pet-safety-none .pet-safety-label { color: var(--steam-blue); }
 .pet-safety-mild .pet-safety-label { color: #e6b432; }
 .pet-safety-severe .pet-safety-label { color: #c83c3c; }

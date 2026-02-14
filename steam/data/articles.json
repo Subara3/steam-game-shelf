@@ -44,18 +44,6 @@
     "lang": "ja"
   },
   {
-    "slug": "q2-humanity",
-    "title": "Q2 HUMANITY - ぜえ、ぜえ……。",
-    "appid": "2357950",
-    "tags": [
-      "パズル",
-      "物理シミュレーション",
-      "マルチプレイ",
-      "インディー"
-    ],
-    "lang": "ja"
-  },
-  {
     "slug": "stardew-valley",
     "title": "Stardew Valley - 定番ぼくもの系列のゲーム",
     "appid": "413150",
@@ -78,18 +66,6 @@
     "lang": "ja"
   },
   {
-    "slug": "the-escapists-2",
-    "title": "The Escapists 2 - 脱獄しましょー！",
-    "appid": "641990",
-    "tags": [
-      "シミュレーション",
-      "パズル",
-      "マルチプレイ",
-      "インディー"
-    ],
-    "lang": "ja"
-  },
-  {
     "slug": "undertale",
     "title": "Undertale - こっちを見てくるRPG",
     "appid": "391540",
@@ -99,130 +75,5 @@
       "弾幕"
     ],
     "lang": "ja"
-  },
-  {
-    "slug": "world-of-horror",
-    "title": "恐怖の世界 - こわいゲームですか？",
-    "appid": "913740",
-    "tags": [
-      "ホラー",
-      "RPG",
-      "インディー",
-      "クトゥルフ"
-    ],
-    "lang": "ja"
-  },
-  {
-    "slug": "about",
-    "title": "About This Site",
-    "appid": "",
-    "tags": [
-      "Site Info"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "balatro",
-    "title": "Balatro - Take That, Five of a Kind!",
-    "appid": "2379780",
-    "tags": [
-      "Roguelike",
-      "Card Game",
-      "Indie"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "elin",
-    "title": "Elin - The Bottomless Roguelike",
-    "appid": "2135150",
-    "tags": [
-      "Roguelike",
-      "Open World",
-      "RPG",
-      "Early Access"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "guild-tankyudan",
-    "title": "Welcome to Guild Tankyudan! - Play It Right Now",
-    "appid": "4327530",
-    "tags": [
-      "Mystery",
-      "Puzzle",
-      "Logic",
-      "Indie"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "q2-humanity",
-    "title": "Q2 HUMANITY - Huff... Puff...",
-    "appid": "2357950",
-    "tags": [
-      "Puzzle",
-      "Physics",
-      "Multiplayer",
-      "Indie"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "stardew-valley",
-    "title": "Stardew Valley - The Quintessential Farming Sim",
-    "appid": "413150",
-    "tags": [
-      "Simulation",
-      "Farming",
-      "Indie",
-      "Multiplayer"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "steam-guide",
-    "title": "What Is Steam?",
-    "appid": "",
-    "tags": [
-      "Guide",
-      "Steam"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "the-escapists-2",
-    "title": "The Escapists 2 - Let's Break Out!",
-    "appid": "641990",
-    "tags": [
-      "Simulation",
-      "Puzzle",
-      "Multiplayer",
-      "Indie"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "undertale",
-    "title": "Undertale - The RPG That Watches You Back",
-    "appid": "391540",
-    "tags": [
-      "RPG",
-      "Indie",
-      "Bullet Hell"
-    ],
-    "lang": "en"
-  },
-  {
-    "slug": "world-of-horror",
-    "title": "World of Horror - Is It Scary?",
-    "appid": "913740",
-    "tags": [
-      "Horror",
-      "RPG",
-      "Indie",
-      "Lovecraftian"
-    ],
-    "lang": "en"
   }
 ]
