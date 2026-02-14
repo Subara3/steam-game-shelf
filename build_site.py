@@ -205,7 +205,7 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", 
             s_name = steam_match.group(2)
             html_lines.append(
                 f'<a href="https://store.steampowered.com/app/{s_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">{s_name}</span>'
                 f'</a>'
             )
@@ -304,7 +304,6 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
     for g in snapshot.get("games", []):
         slug = g.get("slug", "")
         g["has_article"] = slug in articles
-        g["has_article_en"] = slug in (articles_en or {})
         if slug in articles:
             g["article_title"] = articles[slug]["meta"].get("title", "")
         # recommend / multi / coming_soon をマスターから上書き（編集判断はマスターが正）
@@ -318,6 +317,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["multi"] = True
         if master.get("by"):
             g["by"] = master["by"]
+        if master.get("featured"):
+            g["featured"] = True
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
@@ -334,10 +335,9 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 "short_description_ja": master.get("comment", ""),
                 "short_description_en": master.get("comment", ""),
                 "short_description": master.get("comment", ""),
-                "header_image": f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg",
+                "header_image": f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg",
                 "recommend": master.get("recommend", "all"),
                 "has_article": master.get("slug", "") in articles,
-                "has_article_en": master.get("slug", "") in (articles_en or {}),
             }
             if master.get("coming_soon"):
                 entry["coming_soon"] = True
@@ -414,7 +414,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         appid = meta.get("appid", "")
 
         if appid:
-            header_img = header_images.get(str(appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
+            header_img = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
             ogp_card = (
                 f'<a href="https://store.steampowered.com/app/{appid}/" target="_blank" class="steam-ogp-card">'
                 f'<img src="{header_img}" alt="{title}" class="steam-ogp-img">'
@@ -428,12 +428,11 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         emotelab_appid = meta.get("emotelab", "")
         if emotelab_appid:
             credit_label = "このサイトのキャラクターは EmoteLab で作成しました" if lang == "ja" else "Characters on this site were created with EmoteLab"
-            emotelab_img = header_images.get(str(emotelab_appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{emotelab_appid}/header.jpg")
             emotelab_html = (
                 f'<div class="emotelab-credit">'
                 f'<p>{credit_label}</p>'
                 f'<a href="https://store.steampowered.com/app/{emotelab_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="{emotelab_img}" alt="EmoteLab" class="steam-ogp-img">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{emotelab_appid}/header.jpg" alt="EmoteLab" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">EmoteLab</span>'
                 f'</a>'
                 f'</div>'
@@ -456,15 +455,16 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         if not desc_text:
             desc_text = f"{title} - {site_name}"
 
-        # OG image: ゲーム記事ならSteamヘッダー画像
-        og_image = ""
+        # OG image: ゲーム記事ならSteamヘッダー画像、それ以外はサイトOGP画像
         if appid:
-            og_image = header_images.get(str(appid), f"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg")
+            og_image = header_images.get(str(appid), f"https://cdn.akamai.steamstatic.com/steam/apps/{appid}/header.jpg")
+        else:
+            og_image = "https://steam.subara3.com/img/ogp.png"
 
         canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
-        og_image_tag = f'\n<meta property="og:image" content="{og_image}">' if og_image else ""
+        og_image_tag = f'\n<meta property="og:image" content="{og_image}">'
         og_locale = "ja_JP" if lang == "ja" else "en_US"
-        twitter_card = "summary_large_image" if og_image else "summary"
+        twitter_card = "summary_large_image"
 
         # メタキーワード
         tags = meta.get("tags", [])
@@ -474,9 +474,11 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
             keywords_tag = f'\n<meta name="keywords" content="{keywords_str}">'
 
         # JSON-LD: Article + BreadcrumbList
-        json_ld_image = f'"image": "{og_image}",' if og_image else ""
+        json_ld_image = f'"image": "{og_image}",'
         desc_escaped = desc_text.replace('"', '\\"')
         title_escaped = title.replace('"', '\\"')
+        date_published = meta.get("date", "")
+        json_ld_date = f'"datePublished": "{date_published}",' if date_published else ""
         json_ld = f'''<script type="application/ld+json">
 [{{
   "@context": "https://schema.org",
@@ -484,6 +486,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
   "headline": "{title_escaped}",
   "description": "{desc_escaped}",
   {json_ld_image}
+  {json_ld_date}
   "url": "{canonical_url}",
   "publisher": {{
     "@type": "Organization",
@@ -521,8 +524,9 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 <meta name="twitter:card" content="{twitter_card}">
 <meta name="twitter:title" content="{title}">
 <meta name="twitter:description" content="{desc_text}">
-<link rel="dns-prefetch" href="https://shared.akamai.steamstatic.com">
-<link rel="preconnect" href="https://shared.akamai.steamstatic.com" crossorigin>
+<meta name="twitter:image" content="{og_image}">
+<link rel="dns-prefetch" href="https://cdn.akamai.steamstatic.com">
+<link rel="preconnect" href="https://cdn.akamai.steamstatic.com" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="{prefix}style.css">
 {json_ld}

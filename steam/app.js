@@ -15,8 +15,6 @@ function dashboard() {
     sortKey: 'name',
     confirmedAgeApps: {},
     sidebarOpen: false,
-    currentPage: 1,
-    pageSize: 12,
 
     t(key) {
       return (this.i18nData[this.lang] || this.i18nData.ja || {})[key] || key;
@@ -74,6 +72,10 @@ function dashboard() {
       return desc;
     },
 
+    get featuredGame() {
+      return this.games.find(g => g.featured) || null;
+    },
+
     get onSaleGames() {
       return this.games.filter(g => g.discount_percent > 0 && !g.coming_soon);
     },
@@ -87,15 +89,7 @@ function dashboard() {
     },
 
     get siteArticles() {
-      return this.articles.filter(a => !a.appid && a.lang === this.lang);
-    },
-
-    articleUrl(slug) {
-      return this.lang === 'en' ? `articles/en/${slug}.html` : `articles/${slug}.html`;
-    },
-
-    gameHasArticle(g) {
-      return this.lang === 'en' ? g.has_article_en : g.has_article;
+      return this.articles.filter(a => !a.appid);
     },
 
     get allMainGenres() {
@@ -166,7 +160,7 @@ function dashboard() {
       }
 
       if (this.showOnlyWithArticle) {
-        result = result.filter(g => this.gameHasArticle(g));
+        result = result.filter(g => g.has_article);
       }
 
 
@@ -192,52 +186,6 @@ function dashboard() {
       return result;
     },
 
-    get totalPages() {
-      return Math.max(1, Math.ceil(this.filteredGames.length / this.pageSize));
-    },
-
-    get paginatedGames() {
-      const start = (this.currentPage - 1) * this.pageSize;
-      return this.filteredGames.slice(start, start + this.pageSize);
-    },
-
-    get displayRange() {
-      const total = this.filteredGames.length;
-      if (total === 0) return '';
-      const start = (this.currentPage - 1) * this.pageSize + 1;
-      const end = Math.min(this.currentPage * this.pageSize, total);
-      return this.t('paginationShowing')
-        .replace('{total}', total)
-        .replace('{start}', start)
-        .replace('{end}', end);
-    },
-
-    get pageNumbers() {
-      const total = this.totalPages;
-      const current = this.currentPage;
-      if (total <= 7) {
-        return Array.from({ length: total }, (_, i) => i + 1);
-      }
-      const pages = [];
-      pages.push(1);
-      if (current > 3) pages.push('...');
-      for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) {
-        pages.push(i);
-      }
-      if (current < total - 2) pages.push('...');
-      pages.push(total);
-      return pages;
-    },
-
-    goToPage(n) {
-      if (n < 1 || n > this.totalPages) return;
-      this.currentPage = n;
-      const grid = document.querySelector('.game-list');
-      if (grid) {
-        grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
-    },
-
     toggleGenre(genre) {
       const idx = this.selectedGenres.indexOf(genre);
       if (idx === -1) {
@@ -245,7 +193,6 @@ function dashboard() {
       } else {
         this.selectedGenres.splice(idx, 1);
       }
-      this.currentPage = 1;
     },
 
     clearFilters() {
@@ -253,7 +200,6 @@ function dashboard() {
       this.selectedGenres = [];
       this.saleFilter = 'off';
       this.showOnlyWithArticle = false;
-      this.currentPage = 1;
     },
 
     formatYen(amount) {
@@ -278,12 +224,6 @@ function dashboard() {
         if (articlesResp.ok) {
           this.articles = await articlesResp.json();
         }
-        // フィルタ変更時にページを1にリセット
-        this.$watch('searchQuery', () => { this.currentPage = 1; });
-        this.$watch('saleFilter', () => { this.currentPage = 1; });
-        this.$watch('showOnlyWithArticle', () => { this.currentPage = 1; });
-        this.$watch('sortKey', () => { this.currentPage = 1; });
-
         // Alpine動的テンプレート内の広告をpush
         this.$nextTick(() => {
           document.querySelectorAll('.ad-slot-inline .adsbygoogle').forEach(ins => {

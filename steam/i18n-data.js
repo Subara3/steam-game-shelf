@@ -47,11 +47,8 @@ window.__i18n={
     "wishlist": "ウィッシュリストに入れる",
     "freeGames": "フリーゲーム",
     "freeGamesBadge": "無料",
-    "paginationShowing": "{total}件中 {start}-{end}件を表示",
-    "paginationFirst": "最初",
-    "paginationLast": "最後",
-    "paginationPrev": "前",
-    "paginationNext": "次"
+    "featured": "直近のベスト！",
+    "featuredReadArticle": "記事を読む"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -101,11 +98,8 @@ window.__i18n={
     "wishlist": "Add to Wishlist",
     "freeGames": "Free Games",
     "freeGamesBadge": "Free",
-    "paginationShowing": "Showing {start}-{end} of {total}",
-    "paginationFirst": "First",
-    "paginationLast": "Last",
-    "paginationPrev": "Prev",
-    "paginationNext": "Next"
+    "featured": "Recent Best!",
+    "featuredReadArticle": "Read article"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",
