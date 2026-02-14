@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b2838"/>
+      <stop offset="100%" stop-color="#0e1620"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#66c0f4"/>
+      <stop offset="100%" stop-color="#1a9fff"/>
+    </linearGradient>
+    <filter id="steam-blur">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <!-- Outer glow ring -->
+  <circle cx="32" cy="33" r="18" fill="none" stroke="url(#glow)" stroke-width="2.5" opacity="0.3" filter="url(#steam-blur)"/>
+  <!-- Gear teeth -->
+  <g fill="url(#glow)" opacity="0.9">
+    <rect x="30" y="11" width="4" height="7" rx="1.5"/>
+    <rect x="30" y="46" width="4" height="7" rx="1.5"/>
+    <rect x="11" y="31" width="7" height="4" rx="1.5"/>
+    <rect x="46" y="31" width="7" height="4" rx="1.5"/>
+    <rect x="16.5" y="17.5" width="4" height="7" rx="1.5" transform="rotate(-45 18.5 21)"/>
+    <rect x="43.5" y="39.5" width="4" height="7" rx="1.5" transform="rotate(-45 45.5 43)"/>
+    <rect x="43.5" y="17.5" width="4" height="7" rx="1.5" transform="rotate(45 45.5 21)"/>
+    <rect x="16.5" y="39.5" width="4" height="7" rx="1.5" transform="rotate(45 18.5 43)"/>
+  </g>
+  <!-- Gear outer ring -->
+  <circle cx="32" cy="33" r="15" fill="none" stroke="url(#glow)" stroke-width="2.8"/>
+  <!-- Gear inner ring -->
+  <circle cx="32" cy="33" r="9" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <!-- Center dot -->
+  <circle cx="32" cy="33" r="3.5" fill="url(#glow)"/>
+  <!-- Steam vapor wisps -->
+  <g opacity="0.5" fill="none" stroke="#66c0f4" stroke-width="1.5" stroke-linecap="round">
+    <path d="M25 18 Q23 12, 26 7" filter="url(#steam-blur)"/>
+    <path d="M32 16 Q30 9, 33 4" filter="url(#steam-blur)"/>
+    <path d="M39 18 Q37 12, 40 7" filter="url(#steam-blur)"/>
+  </g>
+</svg>
