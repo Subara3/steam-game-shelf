@@ -53,7 +53,7 @@ pet_safety: mild
 
 > scala: たとえば、この私のデータを見て欲しい。
 
-![Dr.スカラのElinステータス画面](img/elin-stats.png)
+![Dr.スカラのElinステータス画面](img/elin-stats.jpg)
 
 > kotori: 数字がいっぱいだなあー。
 
