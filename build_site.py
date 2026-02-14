@@ -6,6 +6,7 @@ stdlib のみ使用。Markdown は簡易パーサーで変換。
 import json
 import re
 import shutil
+import urllib.request
 from datetime import datetime
 from pathlib import Path
 
@@ -427,12 +428,21 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         # EmoteLab クレジット（記事外に配置）
         emotelab_appid = meta.get("emotelab", "")
         if emotelab_appid:
+            emotelab_img = header_images.get(str(emotelab_appid), "")
+            if not emotelab_img:
+                try:
+                    url = f"https://store.steampowered.com/api/appdetails?appids={emotelab_appid}"
+                    with urllib.request.urlopen(url, timeout=10) as resp:
+                        api = json.loads(resp.read())
+                    emotelab_img = api[str(emotelab_appid)]["data"]["header_image"]
+                except Exception:
+                    emotelab_img = f"https://cdn.akamai.steamstatic.com/steam/apps/{emotelab_appid}/header.jpg"
             credit_label = "このサイトのキャラクターは EmoteLab で作成しました" if lang == "ja" else "Characters on this site were created with EmoteLab"
             emotelab_html = (
                 f'<div class="emotelab-credit">'
                 f'<p>{credit_label}</p>'
                 f'<a href="https://store.steampowered.com/app/{emotelab_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{emotelab_appid}/header.jpg" alt="EmoteLab" class="steam-ogp-img">'
+                f'<img src="{emotelab_img}" alt="EmoteLab" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">EmoteLab</span>'
                 f'</a>'
                 f'</div>'
