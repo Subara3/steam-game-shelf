@@ -47,7 +47,7 @@ window.__i18n={
     "wishlist": "ウィッシュリストに入れる",
     "freeGames": "フリーゲーム",
     "freeGamesBadge": "無料",
-    "featured": "直近のベスト！",
+    "featured": "直近のマイベスト！",
     "featuredReadArticle": "記事を読む"
   },
   "en": {
@@ -98,7 +98,7 @@ window.__i18n={
     "wishlist": "Add to Wishlist",
     "freeGames": "Free Games",
     "freeGamesBadge": "Free",
-    "featured": "Recent Best!",
+    "featured": "My Recent Best!",
     "featuredReadArticle": "Read article"
   },
   "reviewScoreJa": {
