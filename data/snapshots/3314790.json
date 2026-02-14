@@ -79,14 +79,13 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 19914,
-  "total_reviews": 20868,
-  "total_positive": 18840,
+  "recommendations_total": 19916,
+  "total_reviews": 20869,
+  "total_positive": 18841,
   "total_negative": 2028,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
-  "by": "kotori",
   "tags_ja": [
     "ギャンブル",
     "ローグライト",
@@ -107,5 +106,5 @@
     "Dark Humor",
     "3D"
   ],
-  "fetched_at": "2026-02-14T06:38:55.148236"
+  "fetched_at": "2026-02-14T08:58:02.684340"
 }
