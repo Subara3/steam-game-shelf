@@ -155,7 +155,7 @@ function dashboard() {
       }
 
       if (this.saleFilter !== 'off') {
-        const minDiscount = { all: 1, sale50: 50, sale30: 30, sale10: 10 }[this.saleFilter] || 1;
+        const minDiscount = { all: 1, sale90: 90, sale80: 80, sale70: 70, sale60: 60, sale50: 50, sale40: 40, sale30: 30, sale20: 20, sale10: 10 }[this.saleFilter] || 1;
         result = result.filter(g => (g.discount_percent || 0) >= minDiscount);
       }
 
