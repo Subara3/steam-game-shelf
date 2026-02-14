@@ -155,28 +155,19 @@
 
       <div class="sidebar-section">
         <h3 x-text="t('sale')"></h3>
-        <div class="sale-filter-list">
-          <label class="filter-radio">
-            <input type="radio" value="off" x-model="saleFilter">
-            <span x-text="t('genreAll')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="all" x-model="saleFilter">
-            <span x-text="t('saleAll')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale50" x-model="saleFilter">
-            <span x-text="t('sale50')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale30" x-model="saleFilter">
-            <span x-text="t('sale30')"></span>
-          </label>
-          <label class="filter-radio">
-            <input type="radio" value="sale10" x-model="saleFilter">
-            <span x-text="t('sale10')"></span>
-          </label>
-        </div>
+        <select x-model="saleFilter" class="sort-select">
+          <option value="off" x-text="t('genreAll')"></option>
+          <option value="all" x-text="t('saleAll')"></option>
+          <option value="sale90" x-text="t('sale90')"></option>
+          <option value="sale80" x-text="t('sale80')"></option>
+          <option value="sale70" x-text="t('sale70')"></option>
+          <option value="sale60" x-text="t('sale60')"></option>
+          <option value="sale50" x-text="t('sale50')"></option>
+          <option value="sale40" x-text="t('sale40')"></option>
+          <option value="sale30" x-text="t('sale30')"></option>
+          <option value="sale20" x-text="t('sale20')"></option>
+          <option value="sale10" x-text="t('sale10')"></option>
+        </select>
       </div>
 
       <div class="sidebar-section">
