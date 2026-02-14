@@ -86,9 +86,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 89601,
-  "total_positive": 87453,
-  "total_negative": 2148,
+  "total_reviews": 89652,
+  "total_positive": 87501,
+  "total_negative": 2151,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
@@ -113,5 +113,5 @@
     "Typing",
     "2D"
   ],
-  "fetched_at": "2026-02-14T16:17:30.609795"
+  "fetched_at": "2026-02-14T22:28:52.647600"
 }
