@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 25934,
+  "recommendations_total": 25933,
   "total_reviews": 33065,
-  "total_positive": 29950,
-  "total_negative": 3115,
+  "total_positive": 29949,
+  "total_negative": 3116,
   "review_score_desc": "Very Positive",
   "slug": "the-escapists-2",
   "recommend": "all",
@@ -131,5 +131,5 @@
     "Crafting",
     "Local Co-Op"
   ],
-  "fetched_at": "2026-02-13T22:37:47.923308"
+  "fetched_at": "2026-02-14T06:38:55.148236"
 }

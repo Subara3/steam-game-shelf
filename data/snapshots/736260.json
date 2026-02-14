@@ -73,9 +73,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 20012,
-  "total_reviews": 23493,
-  "total_positive": 22965,
+  "recommendations_total": 20016,
+  "total_reviews": 23497,
+  "total_positive": 22969,
   "total_negative": 528,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baba-is-you",
@@ -101,5 +101,5 @@
     "Cute",
     "Sokoban"
   ],
-  "fetched_at": "2026-02-13T22:37:47.923308"
+  "fetched_at": "2026-02-14T06:38:55.148236"
 }

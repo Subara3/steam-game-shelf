@@ -76,9 +76,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 10054,
-  "total_reviews": 11457,
-  "total_positive": 10246,
+  "recommendations_total": 10055,
+  "total_reviews": 11458,
+  "total_positive": 10247,
   "total_negative": 1211,
   "review_score_desc": "Very Positive",
   "slug": "dicey-dungeons",
@@ -103,5 +103,5 @@
     "Turn-Based",
     "Strategy"
   ],
-  "fetched_at": "2026-02-13T22:37:47.923308"
+  "fetched_at": "2026-02-14T06:38:55.148236"
 }
