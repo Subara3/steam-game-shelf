@@ -213,6 +213,22 @@ h1, h2, h3, h4, h5, h6,
 .sort-select option {
   background: #1b2838;
   color: #e1e8ed;
+  padding: 0.3rem;
+}
+
+.sort-select:focus {
+  border-color: var(--steam-blue);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(102, 192, 244, 0.2);
+}
+
+.sort-select option:checked {
+  background: #2a475e;
+  color: #fff;
+}
+
+.sort-select option:hover {
+  background: #2a475e;
 }
 
 /* フィルター結果バー */
