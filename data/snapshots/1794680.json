@@ -90,9 +90,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 246122,
-  "total_reviews": 259611,
-  "total_positive": 255387,
+  "recommendations_total": 246125,
+  "total_reviews": 259613,
+  "total_positive": 255389,
   "total_negative": 4224,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
@@ -117,5 +117,5 @@
     "Indie",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-14T09:20:49.186303"
+  "fetched_at": "2026-02-14T11:03:16.125185"
 }
