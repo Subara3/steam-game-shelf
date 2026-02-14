@@ -51,6 +51,14 @@ h1, h2, h3, h4, h5, h6,
   display: none !important;
 }
 
+/* ===== コンテナ ===== */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  overflow-x: hidden;
+}
+
 /* ===== 2カラムレイアウト ===== */
 .layout {
   display: grid;
@@ -1326,7 +1334,12 @@ footer a {
   .sidebar-close-row {
     display: flex;
     justify-content: flex-end;
+    padding: 0.8rem 0.8rem 0;
     margin-bottom: 0.5rem;
+  }
+
+  .sidebar {
+    padding: 0 0.5rem 1rem;
   }
 
   .ad-sidebar {
