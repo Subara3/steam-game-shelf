@@ -100,6 +100,28 @@ steam-game-shelf/
 
 **注意**: ステップ2で `templates/` → `steam/` が上書きされる。
 
+## デプロイ方法
+
+### 通常（push時に自動）
+masterにプッシュすれば自動的にfetch + build + FTPデプロイが走る。
+
+### サイトのみ再ビルド（データ取得スキップ）
+UIやCSSだけ変更した場合、Steam APIからのデータ取得をスキップして高速デプロイできる。
+
+```bash
+gh workflow run update.yml -f skip_fetch=true
+```
+
+GitHub Web UIの場合: Actions → Update Game Data → Run workflow → skip_fetch: true
+
+### ローカルからの手動デプロイ
+```bash
+python build_site.py          # テンプレートからビルド
+git add templates/ steam/     # 両方コミット必須
+git commit -m "変更内容"
+git push origin master        # → 自動デプロイ
+```
+
 ## やってはいけないこと
 
 - `steam/app.js`, `steam/index.html`, `steam/style.css` を直接編集する
