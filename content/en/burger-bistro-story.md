@@ -1,6 +1,5 @@
 ---
 title: Kairosoft Shopping Guide!
-appid: 1933990
 tags: [Management Sim, Kairosoft, Indie]
 pet_safety: none
 ---
