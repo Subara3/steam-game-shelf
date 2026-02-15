@@ -17,6 +17,8 @@ order: 3
 
 > scala: どのゲームもとても面白いが、カイロソフトの旧作ゲームは、とんでもないバンドルセールで安く買える場合がある。
 
+> kotori: それじゃあ、バンドルセールの時に買うのがお得なんですね♪
+
 !link[https://store.steampowered.com/bundle/25263/_/?l=japanese](カイロソフト大全集)
 
 !link[https://store.steampowered.com/bundle/26387/_/?l=japanese](カイロソフト入門パック)
@@ -43,7 +45,7 @@ order: 3
 
 > scala: 新作の「魔王城ものがたり」もきっと面白いに違いない。
 
-!steam[3349760](魔王城ものがたり)
+[魔王城ものがたり](https://store.steampowered.com/app/3349760/)
 
 > kotori: ドラえもんが好きなら、「ドラえもんのどら焼き屋さん物語」もいいと思います！
 
