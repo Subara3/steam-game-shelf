@@ -19,6 +19,8 @@ order: 3
 
 > scala: Every game they make is great fun, but Kairosoft's older titles can sometimes be picked up incredibly cheap in bundle sales.
 
+> kotori: So buying during a bundle sale is the best deal, then!
+
 !link[https://store.steampowered.com/bundle/25263/_/](Kairosoft Complete Collection)
 
 !link[https://store.steampowered.com/bundle/26387/_/](Kairosoft Starter Pack)
@@ -45,7 +47,7 @@ order: 3
 
 > scala: The new "Demon Castle Story" is sure to be great too.
 
-!steam[3349760](Demon Castle Story)
+[Demon Castle Story](https://store.steampowered.com/app/3349760/)
 
 > kotori: If you like Doraemon, "Doraemon Dorayaki Shop Story" is a great pick!
 
