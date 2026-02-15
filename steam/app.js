@@ -214,9 +214,10 @@ function dashboard() {
 
     async init() {
       try {
+        const cb = Math.floor(Date.now() / 60000);
         const [gamesResp, articlesResp] = await Promise.all([
-          fetch('data/games.json'),
-          fetch('data/articles.json'),
+          fetch(`data/games.json?_=${cb}`),
+          fetch(`data/articles.json?_=${cb}`),
         ]);
 
         if (gamesResp.ok) {
