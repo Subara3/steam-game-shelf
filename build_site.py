@@ -239,6 +239,19 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", 
             )
             continue
 
+        # 汎用リンクカード: !link[url](タイトル)
+        link_match = re.match(r'^!link\[(.+?)\]\((.+?)\)\s*$', stripped)
+        if link_match:
+            close_paragraph()
+            l_url = link_match.group(1)
+            l_title = link_match.group(2)
+            html_lines.append(
+                f'<a href="{l_url}" target="_blank" class="steam-ogp-card link-card">'
+                f'<span class="steam-ogp-name">{l_title}</span>'
+                f'</a>'
+            )
+            continue
+
         # 画像: ![alt](src)
         img_match = re.match(r'^!\[(.+?)\]\((.+?)\)\s*$', stripped)
         if img_match:

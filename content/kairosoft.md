@@ -17,9 +17,9 @@ order: 3
 
 > scala: どのゲームもとても面白いが、カイロソフトの旧作ゲームは、とんでもないバンドルセールで安く買える場合がある。
 
-> scala: [カイロソフト大全集](https://store.steampowered.com/bundle/25263/_/?l=japanese)
+!link[https://store.steampowered.com/bundle/25263/_/?l=japanese](カイロソフト大全集)
 
-> scala: [カイロソフト入門パック](https://store.steampowered.com/bundle/26387/_/?l=japanese)
+!link[https://store.steampowered.com/bundle/26387/_/?l=japanese](カイロソフト入門パック)
 
 > scala: とはいえ、Steamは、バンドル内のゲームを持っていたら（別ゲームであれば）その分差し引いて計上してくれる。
 
@@ -35,17 +35,27 @@ order: 3
 
 > scala: あんまりキャラメイクして、好きなキャラを持ち込んで見守るタイプのゲームではない。（できないこともないが、かわいい寄りで、耽美ではない。）
 
-> scala: 私のおすすめは「[冒険ダンジョン村](https://store.steampowered.com/app/1937390/?l=japanese)」「[創作ハンバーガー堂](https://store.steampowered.com/app/1933990/?l=japanese)」だな。新作の、「[魔王城ものがたり](https://store.steampowered.com/app/3349760/?l=japanese)」もきっと面白いに違いない。
+> scala: 私のおすすめは「冒険ダンジョン村」と「創作ハンバーガー堂」だな。
 
-> kotori: ドラえもんが好きなら、「[ドラえもんのどら焼き屋さん物語](https://store.steampowered.com/app/2546560/?l=japanese)」もいいと思います！
+!steam[1937390](冒険ダンジョン村)
+
+!steam[1933990](創作ハンバーガー堂)
+
+> scala: 新作の「魔王城ものがたり」もきっと面白いに違いない。
+
+!steam[3349760](魔王城ものがたり)
+
+> kotori: ドラえもんが好きなら、「ドラえもんのどら焼き屋さん物語」もいいと思います！
+
+!steam[2546560](ドラえもんのどら焼き屋さん物語)
 
 > scala: ただのコラボにとどまらずマニアックなネタまで拾っているという評判だな。
 
 > scala: カイロソフトの社長がこち亀とか、ドラえもんとか、そのあたりのコミックのファンらしい。カイロソフトのコラボは、厳選されたもので、かなり精度の高いコラボが行われていくだろうな。あんなにスチャラカなのに。
 
-> kotori: グッズも売ってたりして、可愛いと思う。
+> scala: グッズも売ってたりして、可愛いと思う。
 
-> kotori: [カイロソフト公式ストア](https://kairosoft.stores.jp/)
+!link[https://kairosoft.stores.jp/](カイロソフト公式ストア)
 
 > kotori: カイロくん、可愛いですよねー。
 
