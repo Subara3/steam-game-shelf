@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 331,
-  "total_reviews": 373,
+  "recommendations_total": 332,
+  "total_reviews": 374,
   "total_positive": 331,
-  "total_negative": 42,
+  "total_negative": 43,
   "review_score_desc": "Very Positive",
   "slug": "terrorbane",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Exploration",
     "Comedy"
   ],
-  "fetched_at": "2026-02-15T07:45:29.413835"
+  "fetched_at": "2026-02-15T22:29:47.630498"
 }
