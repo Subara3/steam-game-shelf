@@ -31,6 +31,12 @@ Sometimes plays the same games as the Doctor, sometimes not.
 The type who buys games without worrying much about sales.
 <<
 
+> scala: By the way, our characters are made with **EmoteLab**. Check out these animated images it can create!
+
+![Dr. Scala](img/scala-motion.gif)
+
+![Kotori](img/kotori-motion.gif)
+
 ## About This Site
 
 > kotori: Doctor, what kind of place is this?
