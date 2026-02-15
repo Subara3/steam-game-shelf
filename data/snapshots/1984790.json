@@ -1,0 +1,101 @@
+{
+  "appid": 1984790,
+  "required_age": 0,
+  "name_ja": "ドラゴノーカ",
+  "name_en": "Drago Noka",
+  "name": "Drago Noka",
+  "short_description_ja": "地上は巨獣と害獣の巣となり、人間が住めなくなった世界。人は竜の背にすがり、生きている。 竜の背にある村を開拓し、自らの手で様々な素材を集めてアイテムをつくりだし、自由に村づくりを楽しみましょう。",
+  "short_description_en": "The surface has become overrun with huge giants and dangerous pests, leaving an uninhabitable world in their quake. Humans have nowhere to live, and so… they live on the backs of dragons! Develop your very own village, gather various materials, and create new items with your very own hands.",
+  "short_description": "地上は巨獣と害獣の巣となり、人間が住めなくなった世界。人は竜の背にすがり、生きている。 竜の背にある村を開拓し、自らの手で様々な素材を集めてアイテムをつくりだし、自由に村づくりを楽しみましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/header_japanese.jpg?t=1728438632",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/capsule_231x87_japanese.jpg?t=1728438632",
+  "developers": [
+    "GeSEI unkan (ゲ製うんかん)"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年1月12日",
+  "release_date_en": "12 Jan, 2023",
+  "release_date": "2023年1月12日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）",
+  "website": "https://playism.com/game/dragonoka/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_762a10a8726a0d2454bbd652f54581a4a15ed4e2.1920x1080.jpg?t=1728438632",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_3049df8fc840a6597a9da8cbb8d48b8539318e0b.1920x1080.jpg?t=1728438632",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_7050f385d51582758a1c600d1f6922579398fd0c.1920x1080.jpg?t=1728438632",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_aa1e7c8402b61fccec298d54f12f26a385fb282b.1920x1080.jpg?t=1728438632",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_8257385517a300b8c03bea4ba927ec0fd99aa32a.1920x1080.jpg?t=1728438632"
+  ],
+  "movies": [
+    {
+      "name": "Drago Noka Japanese Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256885961/movie.293x165.jpg?t=1664434264",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 2082500,
+  "recommendations_total": 139,
+  "total_reviews": 172,
+  "total_positive": 140,
+  "total_negative": 32,
+  "review_score_desc": "Very Positive",
+  "slug": "drago-noka",
+  "recommend": "niche",
+  "tags_ja": [
+    "カジュアル",
+    "農場シミュレーション",
+    "ドラゴン",
+    "シミュレーション",
+    "農業",
+    "街づくり",
+    "人生シミュレーション",
+    "サンドボックス"
+  ],
+  "tags_en": [
+    "Casual",
+    "Farming Sim",
+    "Dragons",
+    "Simulation",
+    "Agriculture",
+    "City Builder",
+    "Life Sim",
+    "Sandbox"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

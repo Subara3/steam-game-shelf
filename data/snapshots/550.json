@@ -1,0 +1,133 @@
+{
+  "appid": 550,
+  "required_age": 0,
+  "name_ja": "Left 4 Dead 2",
+  "name_en": "Left 4 Dead 2",
+  "name": "Left 4 Dead 2",
+  "short_description_ja": "ゾンビの黙示録を舞台にした『Left 4 Dead 2』（L4D2）は、2008年に協力ゲームで1位を獲得した『Left 4 Dead』の待望の続編です。本作は、サバンナからニューオーリンズまで、アメリカ最南部の都市、沼地、墓地を5つのキャンペーンで駆け抜ける協力型アクションホラーFPSです。あなたは、多様で破壊的な従来の武器や改造武器で武装した、4人の新しい生存者の1人としてプレイします。 銃器に加え、チェーンソーから斧、さらには致命的なフライパンに至るまで、殺戮のためのさまざまな近接武器で感染者を倒すチャンスがあります。これらの武器で、恐ろしく手強い3人の新たな特殊感染者を相手に（または対戦モードで）戦います。",
+  "short_description_en": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+  "short_description": "ゾンビの黙示録を舞台にした『Left 4 Dead 2』（L4D2）は、2008年に協力ゲームで1位を獲得した『Left 4 Dead』の待望の続編です。本作は、サバンナからニューオーリンズまで、アメリカ最南部の都市、沼地、墓地を5つのキャンペーンで駆け抜ける協力型アクションホラーFPSです。あなたは、多様で破壊的な従来の武器や改造武器で武装した、4人の新しい生存者の1人としてプレイします。 銃器に加え、チェーンソーから斧、さらには致命的なフライパンに至るまで、殺戮のためのさまざまな近接武器で感染者を倒すチャンスがあります。これらの武器で、恐ろしく手強い3人の新たな特殊感染者を相手に（または対戦モードで）戦います。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1745368562",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg?t=1745368562",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "genres_ja": [
+    "アクション"
+  ],
+  "genres_en": [
+    "Action"
+  ],
+  "genres": [
+    "アクション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "PvP",
+    "オンラインPvP",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "キャプション使用可能",
+    "Steamワークショップ",
+    "カメラの快適性",
+    "色のオプション",
+    "カスタム音量調整",
+    "難易度の調整",
+    "時間制限付き入力なしでプレイ可能",
+    "ステレオサウンド",
+    "サラウンドサウンド",
+    "Steamクラウド",
+    "Valveアンチチート有効",
+    "データ",
+    "Source SDKを含む",
+    "解説モード使用可能",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング",
+    "Steamタイムライン"
+  ],
+  "release_date_ja": "2009年11月16日",
+  "release_date_en": "16 Nov, 2009",
+  "release_date": "2009年11月16日",
+  "is_free": false,
+  "price_initial": 120000,
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
+  "currency": "JPY",
+  "metacritic_score": 89,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "supported_languages": "デンマーク語, オランダ語, 英語<strong>*</strong>, フィンランド語, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, イタリア語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ロシア語<strong>*</strong>, 中国語（簡体字）, スペイン語 - スペイン<strong>*</strong>, スウェーデン語, 中国語（繁体字）, ハンガリー語, トルコ語, ブルガリア語, チェコ語, ギリシャ語, ポルトガル語－ブラジル, ルーマニア語, スペイン語－ラテンアメリカ, タイ語, ウクライナ語, ベトナム語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.l4d.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.1920x1080.jpg?t=1745368562",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.1920x1080.jpg?t=1745368562",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.1920x1080.jpg?t=1745368562",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.1920x1080.jpg?t=1745368562",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_73ad69168a263ce585e4823d9607d901719ca3c5.1920x1080.jpg?t=1745368562"
+  ],
+  "movies": [
+    {
+      "name": "Left 4 Dead - The Sacrifice Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5952/movie.293x165.jpg?t=1682697457",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Left 4 Dead 2 - TV Spot 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489/movie.jpg?t=1447352698",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Left 4 Dead 2 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268/movie.jpg?t=1447352170",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 779756,
+  "total_reviews": 1016380,
+  "total_positive": 991289,
+  "total_negative": 25091,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "left-4-dead-2",
+  "recommend": "all",
+  "multi": true,
+  "by": "kotori",
+  "tags_ja": [
+    "ゾンビ",
+    "協力プレイ",
+    "FPS",
+    "マルチプレイヤー",
+    "シューティング",
+    "オンライン協力プレイ",
+    "アクション",
+    "サバイバル"
+  ],
+  "tags_en": [
+    "Zombies",
+    "Co-op",
+    "FPS",
+    "Multiplayer",
+    "Shooter",
+    "Online Co-Op",
+    "Action",
+    "Survival"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

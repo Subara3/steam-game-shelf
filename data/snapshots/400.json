@@ -1,0 +1,107 @@
+{
+  "appid": 400,
+  "required_age": 0,
+  "name_ja": "Portal",
+  "name_en": "Portal",
+  "name": "Portal",
+  "short_description_ja": "Portal™ は Valve が新たに開発した、シングルプレイ専用の新感覚ゲームです。ゲームの舞台は謎に満ちた Aperture Science 社の研究施設です。独特のゲームプレイはくせになることまちがいなし。またこのゲームは、近年最高の革新性を持つゲームのひとつと評されています。 ちょうど Half-Life® 2 の重力銃がプレイヤーとゲーム内オブジェクトとの革新的なインターアクションを提示したように、Portal も「一般的なゲームの思考／行動パターン、そして &quot;何ができるのか&quot; を推測する方法」を革新することを意識してデザインされています。",
+  "short_description_en": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+  "short_description": "Portal™ は Valve が新たに開発した、シングルプレイ専用の新感覚ゲームです。ゲームの舞台は謎に満ちた Aperture Science 社の研究施設です。独特のゲームプレイはくせになることまちがいなし。またこのゲームは、近年最高の革新性を持つゲームのひとつと評されています。 ちょうど Half-Life® 2 の重力銃がプレイヤーとゲーム内オブジェクトとの革新的なインターアクションを提示したように、Portal も「一般的なゲームの思考／行動パターン、そして &quot;何ができるのか&quot; を推測する方法」を革新することを意識してデザインされています。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_231x87.jpg?t=1745368554",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "genres_ja": [
+    "アクション"
+  ],
+  "genres_en": [
+    "Action"
+  ],
+  "genres": [
+    "アクション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "キャプション使用可能",
+    "カメラの快適性",
+    "カスタム音量調整",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "字幕オプション",
+    "サラウンドサウンド",
+    "レベル編集可能",
+    "Source SDKを含む",
+    "解説モード使用可能",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2007年10月10日",
+  "release_date_en": "10 Oct, 2007",
+  "release_date": "2007年10月10日",
+  "is_free": false,
+  "price_initial": 120000,
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
+  "currency": "JPY",
+  "metacritic_score": 90,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, ロシア語<strong>*</strong>, デンマーク語, オランダ語, フィンランド語, イタリア語, 日本語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, 中国語（簡体字）, スペイン語 - スペイン<strong>*</strong>, スウェーデン語, 中国語（繁体字）<strong>*</strong>, 韓国語, ブルガリア語, チェコ語, ギリシャ語, ハンガリー語, ポルトガル語－ブラジル, ルーマニア語, スペイン語－ラテンアメリカ, タイ語, トルコ語, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.whatistheorangebox.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002582.1920x1080.jpg?t=1745368554",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002583.1920x1080.jpg?t=1745368554",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002584.1920x1080.jpg?t=1745368554",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002585.1920x1080.jpg?t=1745368554",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002586.1920x1080.jpg?t=1745368554"
+  ],
+  "movies": [
+    {
+      "name": "Portal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922/movie.jpg?t=1682715059",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 410,
+  "recommendations_total": 165624,
+  "total_reviews": 190624,
+  "total_positive": 187795,
+  "total_negative": 2829,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "portal",
+  "recommend": "all",
+  "by": "kotori",
+  "tags_ja": [
+    "パズル",
+    "パズルプラットフォーム",
+    "ファーストパーソン",
+    "3Dプラットフォーム",
+    "シングルプレイヤー",
+    "SF",
+    "コメディ",
+    "女性主人公"
+  ],
+  "tags_en": [
+    "Puzzle",
+    "Puzzle Platformer",
+    "First-Person",
+    "3D Platformer",
+    "Singleplayer",
+    "Sci-fi",
+    "Comedy",
+    "Female Protagonist"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

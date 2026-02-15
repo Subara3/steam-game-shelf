@@ -20,6 +20,17 @@
     "lang": "ja"
   },
   {
+    "slug": "burger-bistro-story",
+    "title": "カイロソフトのお買い物、攻略！",
+    "appid": "1933990",
+    "tags": [
+      "経営シミュレーション",
+      "カイロソフト",
+      "インディー"
+    ],
+    "lang": "ja"
+  },
+  {
     "slug": "elin",
     "title": "Elin - 果てなきローグライクの深淵",
     "appid": "2135150",
@@ -128,6 +139,17 @@
     "tags": [
       "Roguelike",
       "Card Game",
+      "Indie"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "burger-bistro-story",
+    "title": "Kairosoft Shopping Guide!",
+    "appid": "1933990",
+    "tags": [
+      "Management Sim",
+      "Kairosoft",
       "Indie"
     ],
     "lang": "en"

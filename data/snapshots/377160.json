@@ -1,0 +1,150 @@
+{
+  "appid": 377160,
+  "required_age": 18,
+  "name_ja": "Fallout 4",
+  "name_en": "Fallout 4",
+  "name": "Fallout 4",
+  "short_description_ja": "『Starfield』や『The Elder Scrolls V: Skyrim』で数々の賞を受賞したBethesda Game Studiosが贈る『Fallout 4』は、D.I.C.E. Awardsおよび英国アカデミー賞ゲーム部門を含む200以上の受賞歴を誇るオープンワールドRPGの金字塔とも言える一作です。",
+  "short_description_en": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.",
+  "short_description": "『Starfield』や『The Elder Scrolls V: Skyrim』で数々の賞を受賞したBethesda Game Studiosが贈る『Fallout 4』は、D.I.C.E. Awardsおよび英国アカデミー賞ゲーム部門を含む200以上の受賞歴を誇るオープンワールドRPGの金字塔とも言える一作です。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1764687456",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres_ja": [
+    "RPG"
+  ],
+  "genres_en": [
+    "RPG"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "サラウンドサウンド",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2015年11月9日",
+  "release_date_en": "9 Nov, 2015",
+  "release_date": "2015年11月9日",
+  "is_free": false,
+  "price_initial": 224600,
+  "price_final": 224600,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,246",
+  "currency": "JPY",
+  "metacritic_score": 84,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）, 日本語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.fallout4.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f7861bd71e6c0c218d8ff69fb1c626aec0d187cf.1920x1080.jpg?t=1764687456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_910437ac708aed7c028f6e43a6224c633d086b0a.1920x1080.jpg?t=1764687456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f649b8e57749f380cca225db5074edbb1e06d7f5.1920x1080.jpg?t=1764687456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c310f858e6a7b02ffa21db984afb0dd1b24c1423.1920x1080.jpg?t=1764687456",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_5e2d136759e0ff4e0d74940fffc9c64e8cdcd833.1920x1080.jpg?t=1764687456"
+  ],
+  "movies": [
+    {
+      "name": "Creations Bundle Trailer JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229662/b1914d134124c8de41e79a79b5859e8239ccece1/movie_600x337.jpg?t=1762884813",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658080/movie.293x165.jpg?t=1447378809",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Strength Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656644/movie.293x165.jpg?t=1447378208",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Perception Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657296/movie.293x165.jpg?t=1447378488",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Endurance Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657300/movie.293x165.jpg?t=1447378489",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Charisma Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657301/movie.293x165.jpg?t=1447378490",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Intelligence Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657302/movie.293x165.jpg?t=1447378490",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Agility Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657303/movie.293x165.jpg?t=1447378490",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Fallout 4 Luck Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658072/movie.293x165.jpg?t=1447378808",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 282684,
+  "total_reviews": 419322,
+  "total_positive": 340014,
+  "total_negative": 79308,
+  "review_score_desc": "Very Positive",
+  "slug": "fallout-4",
+  "recommend": "all",
+  "tags_ja": [
+    "オープンワールド",
+    "ポストアポカリプス",
+    "シングルプレイヤー",
+    "探検",
+    "RPG",
+    "アドベンチャー",
+    "雰囲気",
+    "シューティング"
+  ],
+  "tags_en": [
+    "Open World",
+    "Post-apocalyptic",
+    "Singleplayer",
+    "Exploration",
+    "RPG",
+    "Adventure",
+    "Atmospheric",
+    "Shooter"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

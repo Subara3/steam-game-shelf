@@ -1,0 +1,123 @@
+{
+  "appid": 1016920,
+  "required_age": 0,
+  "name_ja": "Unrailed!",
+  "name_en": "Unrailed!",
+  "name": "Unrailed!",
+  "short_description_ja": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
+  "short_description_en": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
+  "short_description": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1770912082",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/capsule_231x87.jpg?t=1770912082",
+  "developers": [
+    "Indoor Astronaut"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "genres_ja": [
+    "アクション",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アクション",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "PvP",
+    "オンラインPvP",
+    "共有／分割画面でのPvP",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "クロスプラットフォームマルチプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamランキング",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2020年9月23日",
+  "release_date_en": "23 Sep, 2020",
+  "release_date": "2020年9月23日",
+  "is_free": false,
+  "price_initial": 280000,
+  "price_final": 280000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,800",
+  "currency": "JPY",
+  "metacritic_score": 77,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, 中国語（簡体字）, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）, イタリア語, スペイン語 - スペイン, 日本語, ポーランド語, トルコ語, スペイン語－ラテンアメリカ, チェコ語",
+  "website": "https://unrailed-game.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_718c17d9145a8f11eb99de457d513fc79bd82979.1920x1080.jpg?t=1770912082",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_60264335a97af2987159e787635f39cb9f19f648.1920x1080.jpg?t=1770912082",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_8496602ef1f242770f079665740f542aaa4eb638.1920x1080.jpg?t=1770912082",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_71511b260173d62f1fbc43b56b97611335f08c60.1920x1080.jpg?t=1770912082",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_674eeece8947149f96dadf6624aea741b4ac5264.1920x1080.jpg?t=1770912082"
+  ],
+  "movies": [
+    {
+      "name": "Full Release Gameplay Trailer_Daedalic",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801370/movie.293x165.jpg?t=1600436813",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Underwater Update Trailer_jp",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935410/movie.293x165.jpg?t=1678734253",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 13507,
+  "total_reviews": 19396,
+  "total_positive": 18088,
+  "total_negative": 1308,
+  "review_score_desc": "Very Positive",
+  "slug": "unrailed",
+  "recommend": "all",
+  "multi": true,
+  "by": "kotori",
+  "tags_ja": [
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "ローカル協力プレイ",
+    "カジュアル",
+    "鉄道",
+    "ローカルマルチプレイヤー",
+    "アクション"
+  ],
+  "tags_en": [
+    "Multiplayer",
+    "Co-op",
+    "Online Co-Op",
+    "Local Co-Op",
+    "Casual",
+    "Trains",
+    "Local Multiplayer",
+    "Action"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

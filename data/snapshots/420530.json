@@ -1,0 +1,102 @@
+{
+  "appid": 420530,
+  "required_age": 0,
+  "name_ja": "OneShot",
+  "name_en": "OneShot",
+  "name": "OneShot",
+  "short_description_ja": "『OneShot』はプレイヤーと主人公によるインタラクティブなやりとりが特徴的な、新感覚パズルアドベンチャーゲームです。 太陽の失われた見知らぬ土地で目覚めた主人公「ニコ」を導き、世界に光を取り戻す旅に出ましょう。",
+  "short_description_en": "OneShot is a surreal top down Puzzle/Adventure game with unique gameplay capabilities. You are to guide a child through a mysterious world on a mission to restore its long-dead sun. The world knows you exist.",
+  "short_description": "『OneShot』はプレイヤーと主人公によるインタラクティブなやりとりが特徴的な、新感覚パズルアドベンチャーゲームです。 太陽の失われた見知らぬ土地で目覚めた主人公「ニコ」を導き、世界に光を取り戻す旅に出ましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/header.jpg?t=1747673318",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/capsule_231x87.jpg?t=1747673318",
+  "developers": [
+    "Future Cat LLC"
+  ],
+  "publishers": [
+    "KOMODO"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年12月8日",
+  "release_date_en": "8 Dec, 2016",
+  "release_date": "2016年12月8日",
+  "is_free": false,
+  "price_initial": 99800,
+  "price_final": 99800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 998",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, 日本語, フランス語, スペイン語 - スペイン, ポルトガル語－ブラジル, 韓国語, 中国語（簡体字）, イタリア語, ロシア語",
+  "website": "http://www.oneshot-game.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_8a8639313a9cfc5d39e17fad5fe4b819379f1101.1920x1080.jpg?t=1747673318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_bd78bc0a36c215cf4b0b53c4963bd119f58ab25c.1920x1080.jpg?t=1747673318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_2262ef9696dd6befdd23ea232b80ccdc83a7a471.1920x1080.jpg?t=1747673318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_5d03428de28dd03845a9adb5566ba29431eba0f5.1920x1080.jpg?t=1747673318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_5632681456db78d0e33c252c59d39c18ff35262e.1920x1080.jpg?t=1747673318"
+  ],
+  "movies": [
+    {
+      "name": "OneShot Trailer JA",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690306/movie.293x165.jpg?t=1501659437",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 55133,
+  "total_reviews": 60637,
+  "total_positive": 59613,
+  "total_negative": 1024,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "oneshot",
+  "recommend": "niche",
+  "tags_ja": [
+    "物語性",
+    "ドット絵",
+    "インディー",
+    "良質サントラ",
+    "かわいい",
+    "雰囲気",
+    "パズル",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Story Rich",
+    "Pixel Graphics",
+    "Indie",
+    "Great Soundtrack",
+    "Cute",
+    "Atmospheric",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

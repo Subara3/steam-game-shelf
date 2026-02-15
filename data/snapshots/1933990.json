@@ -1,0 +1,104 @@
+{
+  "appid": 1933990,
+  "required_age": 0,
+  "name_ja": "創作ハンバーガー堂",
+  "name_en": "Burger Bistro Story",
+  "name": "Burger Bistro Story",
+  "short_description_ja": "夢の味わいハンバーガー屋さん経営ゲーム。シャキシャキ野菜に肉汁たっぷりパティ、 あれもこれも、ふっくらバンズに挟んで重ねよう",
+  "short_description_en": "Open your own diner and create custom burgers in this management sim game.",
+  "short_description": "夢の味わいハンバーガー屋さん経営ゲーム。シャキシャキ野菜に肉汁たっぷりパティ、 あれもこれも、ふっくらバンズに挟んで重ねよう",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/header_japanese.jpg?t=1706686272",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/capsule_231x87_japanese.jpg?t=1706686272",
+  "developers": [
+    "Kairosoft Co.,Ltd"
+  ],
+  "publishers": [
+    "Kairosoft Co.,Ltd"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年1月15日",
+  "release_date_en": "15 Jan, 2023",
+  "release_date": "2023年1月15日",
+  "is_free": false,
+  "price_initial": 128000,
+  "price_final": 128000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,280",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語, 韓国語, タイ語, フランス語, ドイツ語",
+  "website": "https://kairosoft.net/game/appli/burger.html",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_02aa5b57e7f604157f977ce85dc0abe2a0c5e13f.1920x1080.jpg?t=1706686272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_a12eea463f57b76dbeece695d9ede95d4fe6d3c9.1920x1080.jpg?t=1706686272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_f5f1d6278114b647a8671196bbb6332ca6ab5b00.1920x1080.jpg?t=1706686272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_91c674745efd3c349f029cc6ccc7f4418a28aac8.1920x1080.jpg?t=1706686272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_3640590c47163bb3e1f16b0ccefc1afebbbbb196.1920x1080.jpg?t=1706686272"
+  ],
+  "movies": [
+    {
+      "name": "BurgerBistroStory_japanese",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879739/movie.293x165.jpg?t=1649255522",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 276,
+  "total_reviews": 305,
+  "total_positive": 254,
+  "total_negative": 51,
+  "review_score_desc": "Very Positive",
+  "slug": "burger-bistro-story",
+  "recommend": "all",
+  "tags_ja": [
+    "カジュアル",
+    "シミュレーション",
+    "ストラテジー",
+    "料理",
+    "ドット絵",
+    "人生シミュレーション",
+    "街づくり",
+    "2D"
+  ],
+  "tags_en": [
+    "Casual",
+    "Simulation",
+    "Strategy",
+    "Cooking",
+    "Pixel Graphics",
+    "Life Sim",
+    "City Builder",
+    "2D"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

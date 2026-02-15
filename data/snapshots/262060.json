@@ -1,0 +1,115 @@
+{
+  "appid": 262060,
+  "required_age": 0,
+  "name_ja": "Darkest Dungeon®",
+  "name_en": "Darkest Dungeon®",
+  "name": "Darkest Dungeon®",
+  "short_description_ja": "『Darkest Dungeon』は、プレイする度にダンジョンが変わるローグライクダークファンタジーRPG。本作の最大の特徴は、冒険における「ストレス」。集めた仲間（ヒーロー）を訓練し、暗く深い森や忘れ去られた迷宮、廃墟となった墓地などを探索しよう。――さあ、君はすべての希望が失われても、ヒーローの結束力を保ち続けていられるだろうか？",
+  "short_description_en": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
+  "short_description": "『Darkest Dungeon』は、プレイする度にダンジョンが変わるローグライクダークファンタジーRPG。本作の最大の特徴は、冒険における「ストレス」。集めた仲間（ヒーロー）を訓練し、暗く深い森や忘れ去られた迷宮、廃墟となった墓地などを探索しよう。――さあ、君はすべての希望が失われても、ヒーローの結束力を保ち続けていられるだろうか？",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/header.jpg?t=1769780578",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/capsule_231x87.jpg?t=1769780578",
+  "developers": [
+    "Red Hook Studios"
+  ],
+  "publishers": [
+    "Red Hook Studios"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年1月19日",
+  "release_date_en": "19 Jan, 2016",
+  "release_date": "2016年1月19日",
+  "is_free": false,
+  "price_initial": 290000,
+  "price_final": 290000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,900",
+  "currency": "JPY",
+  "metacritic_score": 84,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, ドイツ語, スペイン語 - スペイン, チェコ語, ポーランド語, ポルトガル語－ブラジル, ロシア語, イタリア語, 中国語（簡体字）, 韓国語, 日本語<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.darkestdungeon.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_04572edc979601b038756f87861c6f8c6c337806.1920x1080.jpg?t=1769780578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_799c78932c87f2be0cbd45dd1b80ebd0a355e575.1920x1080.jpg?t=1769780578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_a967c2d7344433cdf72a53ef1922586b0d7cce69.1920x1080.jpg?t=1769780578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_c9d41e74d574f6fa9bf53c0cf74f8430c2072cc2.1920x1080.jpg?t=1769780578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_b78c562dc67379f42691dcc8522b40d5385bb32e.1920x1080.jpg?t=1769780578"
+  ],
+  "movies": [
+    {
+      "name": "Official Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659907/movie.293x165.jpg?t=1747999027",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "House_of_Ruin",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036155/movie.293x165.jpg?t=1747999029",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Official Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036992/movie.293x165.jpg?t=1447368566",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 136249,
+  "total_reviews": 157055,
+  "total_positive": 144014,
+  "total_negative": 13041,
+  "review_score_desc": "Very Positive",
+  "slug": "darkest-dungeon",
+  "recommend": "niche",
+  "tags_ja": [
+    "ターン制コンバット",
+    "ダンジョンクロウル",
+    "ダークファンタジー",
+    "ローグライク",
+    "RPG",
+    "ラヴクラフト",
+    "高難易度",
+    "ターン制"
+  ],
+  "tags_en": [
+    "Turn-Based Combat",
+    "Dungeon Crawler",
+    "Dark Fantasy",
+    "Roguelike",
+    "RPG",
+    "Lovecraftian",
+    "Difficult",
+    "Turn-Based"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

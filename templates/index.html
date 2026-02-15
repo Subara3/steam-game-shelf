@@ -85,7 +85,7 @@
   <template x-if="featuredGame">
     <section class="featured-section">
       <h2 x-text="t('featured')"></h2>
-      <a :href="featuredGame.has_article ? `articles/${featuredGame.slug}.html` : `https://store.steampowered.com/app/${featuredGame.appid}/`"
+      <a :href="featuredGame.has_article ? articlePath(featuredGame.slug) : `https://store.steampowered.com/app/${featuredGame.appid}/`"
          :target="featuredGame.has_article ? '_self' : '_blank'"
          class="featured-card">
         <img :src="featuredGame.header_image" :alt="gameName(featuredGame)" class="featured-img" loading="lazy">
@@ -286,7 +286,7 @@
                       </div>
                     </a>
                     <template x-if="g.has_article">
-                      <a :href="`articles/${g.slug}.html`" class="article-link-bar">
+                      <a :href="articlePath(g.slug)" class="article-link-bar">
                         <img src="img/scala.png" alt="" class="article-link-avatar">
                         <img src="img/kotori.png" alt="" class="article-link-avatar">
                         <span x-text="t('readArticle')"></span>
@@ -316,7 +316,7 @@
         <h2 x-text="t('articles')"></h2>
         <div class="article-grid">
           <template x-for="a in siteArticles" :key="a.slug">
-            <a :href="`articles/${a.slug}.html`" class="article-card">
+            <a :href="articlePath(a.slug)" class="article-card">
               <h3 x-text="a.title"></h3>
               <div class="article-tags">
                 <template x-for="tag in (a.tags || [])" :key="tag">

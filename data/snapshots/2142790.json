@@ -1,0 +1,108 @@
+{
+  "appid": 2142790,
+  "required_age": 0,
+  "name_ja": "Fields of Mistria",
+  "name_en": "Fields of Mistria",
+  "name": "Fields of Mistria",
+  "short_description_ja": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+  "short_description_en": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+  "short_description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1759939537",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg?t=1759939537",
+  "developers": [
+    "NPC Studio"
+  ],
+  "publishers": [
+    "NPC Studio"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "早期アクセス"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Early Access"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "早期アクセス"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年8月5日",
+  "release_date_en": "5 Aug, 2024",
+  "release_date": "2024年8月5日",
+  "is_free": false,
+  "price_initial": 160000,
+  "price_final": 160000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,600",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語",
+  "website": "https://fieldsofmistria.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_468560d6cc336409644cfc1891e73d1ea26cb56e.1920x1080.jpg?t=1759939537",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_980c227a20de85c9a39bcdf574b77e9d43a9d2e4.1920x1080.jpg?t=1759939537",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_11800c6902cd77d6363e9e64118a84af55d7c75b.1920x1080.jpg?t=1759939537",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_64185ab6bada96e82d4e7c311ac13c52808d10dc.1920x1080.jpg?t=1759939537",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f2592c4bdf482b43e2dacb9880c0f80b032602f2.1920x1080.jpg?t=1759939537"
+  ],
+  "movies": [
+    {
+      "name": "Major Update 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257173055/cd40f302cb0d08738781478365a0437530fa7c1f/movie_600x337.jpg?t=1753302306",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951238/movie.293x165.jpg?t=1731959967",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 23584,
+  "total_reviews": 25861,
+  "total_positive": 25309,
+  "total_negative": 552,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "fields-of-mistria",
+  "recommend": "all",
+  "tags_ja": [
+    "早期アクセス",
+    "農場シミュレーション",
+    "恋愛シミュレーション",
+    "RPG",
+    "人生シミュレーション",
+    "ドット絵",
+    "シミュレーション",
+    "ロマンス"
+  ],
+  "tags_en": [
+    "Early Access",
+    "Farming Sim",
+    "Dating Sim",
+    "RPG",
+    "Life Sim",
+    "Pixel Graphics",
+    "Simulation",
+    "Romance"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}
