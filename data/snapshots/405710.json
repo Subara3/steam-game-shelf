@@ -1,0 +1,123 @@
+{
+  "appid": 405710,
+  "required_age": 0,
+  "name_ja": "Staxel",
+  "name_en": "Staxel",
+  "name": "Staxel",
+  "short_description_ja": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
+  "short_description_en": "Grow your farm, meet the villagers, and join your friends online in building your world.",
+  "short_description": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/header.jpg?t=1659690961",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/capsule_231x87.jpg?t=1659690961",
+  "developers": [
+    "Plukit"
+  ],
+  "publishers": [
+    "Humble Games"
+  ],
+  "genres_ja": [
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "genres": [
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamワークショップ",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年4月11日",
+  "release_date_en": "11 Apr, 2019",
+  "release_date": "2019年4月11日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, 日本語, 中国語（簡体字）, オランダ語",
+  "website": "http://playstaxel.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1659690961",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.1920x1080.jpg?t=1659690961",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1659690961",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1659690961",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1659690961"
+  ],
+  "movies": [
+    {
+      "name": "Hideaway Hollow",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805710/movie.293x165.jpg?t=1603218598",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Staxel Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747746/movie.293x165.jpg?t=1554996647",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706166/movie.293x165.jpg?t=1554994816",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Friendship Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723203/movie.293x165.jpg?t=1532096177",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 3083,
+  "total_reviews": 4801,
+  "total_positive": 3773,
+  "total_negative": 1028,
+  "review_score_desc": "Mostly Positive",
+  "slug": "staxel",
+  "recommend": "all",
+  "tags_ja": [
+    "農場シミュレーション",
+    "かわいい",
+    "キャラクターカスタマイズ",
+    "サンドボックス",
+    "農業",
+    "自然",
+    "リラックス",
+    "建設"
+  ],
+  "tags_en": [
+    "Farming Sim",
+    "Cute",
+    "Character Customization",
+    "Sandbox",
+    "Agriculture",
+    "Nature",
+    "Relaxing",
+    "Building"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

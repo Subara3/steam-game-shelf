@@ -1,0 +1,87 @@
+{
+  "appid": 3900,
+  "required_age": 0,
+  "name_ja": "Sid Meier's Civilization® IV",
+  "name_en": "Sid Meier's Civilization® IV",
+  "name": "Sid Meier's Civilization® IV",
+  "short_description_ja": "6 百万本以上の売り上げと、世界中のファンおよび雑誌社からの前例のない高い評価を受けた、Sid Meier の Civilization は、史上最高の PC タイトルであると認定されています。 今回、Sid Meier と Firaxis Games は、最高に面白く、プレイし始めたらとまらないこのゲームに、新しいプレイ方法と勝利条件、文明を管理発展させるための新しいツール、全く新しく使い方も簡単な MOD 機能と、緊迫感に満ちたマルチプレイヤーモードおよびオプションを追加して、新しいものへと作り変えたのです。 こうして、Civilization IV は、これまでに見たこともないような細部まで美しく描き込まれた、リアルな 3D の世界として生まれ変わりました。",
+  "short_description_en": "With over 6 million units sold and unprecedented critical acclaim from fans and press around the world, Sid Meier's Civilization is recognized as one of the greatest PC game franchises of all-time. Now, Sid Meier and Firaxis Games will take this incredibly fun and addictive game to new heights by adding new ways to play and win, new...",
+  "short_description": "6 百万本以上の売り上げと、世界中のファンおよび雑誌社からの前例のない高い評価を受けた、Sid Meier の Civilization は、史上最高の PC タイトルであると認定されています。 今回、Sid Meier と Firaxis Games は、最高に面白く、プレイし始めたらとまらないこのゲームに、新しいプレイ方法と勝利条件、文明を管理発展させるための新しいツール、全く新しく使い方も簡単な MOD 機能と、緊迫感に満ちたマルチプレイヤーモードおよびオプションを追加して、新しいものへと作り変えたのです。 こうして、Civilization IV は、これまでに見たこともないような細部まで美しく描き込まれた、リアルな 3D の世界として生まれ変わりました。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/header.jpg?t=1724341287",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "genres_ja": [
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Strategy"
+  ],
+  "genres": [
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "レベル編集可能",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2006年10月25日",
+  "release_date_en": "25 Oct, 2006",
+  "release_date": "2006年10月25日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 39600,
+  "discount_percent": 80,
+  "price_formatted": "¥ 396",
+  "currency": "JPY",
+  "metacritic_score": 94,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, ドイツ語, イタリア語, スペイン語 - スペイン",
+  "website": "http://www.2kgames.com/civ4/home.htm",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000712.1920x1080.jpg?t=1724341287",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000713.1920x1080.jpg?t=1724341287",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000714.1920x1080.jpg?t=1724341287",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000715.1920x1080.jpg?t=1724341287",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000716.1920x1080.jpg?t=1724341287"
+  ],
+  "movies": [],
+  "demo_appid": null,
+  "recommendations_total": 2678,
+  "total_reviews": 3535,
+  "total_positive": 3270,
+  "total_negative": 265,
+  "review_score_desc": "Very Positive",
+  "slug": "civilization-iv",
+  "recommend": "all",
+  "tags_ja": [
+    "ストラテジー",
+    "ターン制ストラテジー",
+    "ターン制",
+    "4X",
+    "歴史",
+    "マルチプレイヤー",
+    "シングルプレイヤー",
+    "MOD導入可能"
+  ],
+  "tags_en": [
+    "Strategy",
+    "Turn-Based Strategy",
+    "Turn-Based",
+    "4X",
+    "Historical",
+    "Multiplayer",
+    "Singleplayer",
+    "Moddable"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}

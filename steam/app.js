@@ -88,8 +88,12 @@ function dashboard() {
       return this.games.filter(g => g.free_section);
     },
 
+    articlePath(slug) {
+      return this.lang === 'en' ? `articles/en/${slug}.html` : `articles/${slug}.html`;
+    },
+
     get siteArticles() {
-      return this.articles.filter(a => !a.appid);
+      return this.articles.filter(a => !a.appid && a.lang === this.lang);
     },
 
     get allMainGenres() {

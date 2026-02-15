@@ -1,6 +1,6 @@
 {
-  "date": "2026-02-14",
-  "timestamp": "2026-02-14T22:28:52.647600",
+  "date": "2026-02-15",
+  "timestamp": "2026-02-15T12:56:56.756445",
   "games": [
     {
       "appid": 2379780,
@@ -80,10 +80,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 147771,
-      "total_reviews": 183141,
-      "total_positive": 179348,
-      "total_negative": 3793,
+      "recommendations_total": 147797,
+      "total_reviews": 183168,
+      "total_positive": 179374,
+      "total_negative": 3794,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
       "recommend": "all",
@@ -107,7 +107,7 @@
         "Strategy",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！"
     },
@@ -193,10 +193,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 838334,
-      "total_reviews": 976759,
-      "total_positive": 961802,
-      "total_negative": 14957,
+      "recommendations_total": 838392,
+      "total_reviews": 976820,
+      "total_positive": 961864,
+      "total_negative": 14956,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
@@ -220,7 +220,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム"
     },
@@ -341,7 +341,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵"
     },
@@ -414,10 +414,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 282086,
-      "total_reviews": 314071,
-      "total_positive": 303939,
-      "total_negative": 10132,
+      "recommendations_total": 282115,
+      "total_reviews": 314094,
+      "total_positive": 303961,
+      "total_negative": 10133,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
@@ -441,7 +441,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG"
     },
@@ -511,9 +511,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 47046,
-      "total_reviews": 51158,
-      "total_positive": 48149,
+      "recommendations_total": 47047,
+      "total_reviews": 51163,
+      "total_positive": 48154,
       "total_negative": 3009,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
@@ -538,7 +538,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -638,7 +638,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -721,9 +721,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 35974,
-      "total_reviews": 39986,
-      "total_positive": 37741,
+      "recommendations_total": 35980,
+      "total_reviews": 39991,
+      "total_positive": 37746,
       "total_negative": 2245,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -748,7 +748,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -862,7 +862,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -946,9 +946,9 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 19927,
-      "total_reviews": 20880,
-      "total_positive": 18852,
+      "recommendations_total": 19931,
+      "total_reviews": 20885,
+      "total_positive": 18857,
       "total_negative": 2028,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -973,7 +973,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1056,10 +1056,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 197738,
-      "total_reviews": 233321,
-      "total_positive": 228420,
-      "total_negative": 4901,
+      "recommendations_total": 197750,
+      "total_reviews": 233336,
+      "total_positive": 228432,
+      "total_negative": 4904,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "niche",
@@ -1083,7 +1083,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1166,9 +1166,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111608,
-      "total_reviews": 123372,
-      "total_positive": 114428,
+      "recommendations_total": 111613,
+      "total_reviews": 123381,
+      "total_positive": 114437,
       "total_negative": 8944,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
@@ -1193,7 +1193,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1266,9 +1266,9 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 194490,
-      "total_reviews": 225471,
-      "total_positive": 216894,
+      "recommendations_total": 194524,
+      "total_reviews": 225499,
+      "total_positive": 216922,
       "total_negative": 8577,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
@@ -1293,7 +1293,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1391,9 +1391,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9310,
-      "total_reviews": 11398,
-      "total_positive": 10748,
+      "recommendations_total": 9311,
+      "total_reviews": 11399,
+      "total_positive": 10749,
       "total_negative": 650,
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
@@ -1418,7 +1418,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1505,10 +1505,10 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 17419,
-      "total_reviews": 25598,
-      "total_positive": 24260,
-      "total_negative": 1338,
+      "recommendations_total": 17421,
+      "total_reviews": 25600,
+      "total_positive": 24261,
+      "total_negative": 1339,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
       "recommend": "all",
@@ -1533,7 +1533,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1636,7 +1636,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "恐怖の世界 - こわいゲームですか？"
     },
@@ -1718,10 +1718,10 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129274,
-      "total_reviews": 141982,
-      "total_positive": 137536,
-      "total_negative": 4446,
+      "recommendations_total": 129282,
+      "total_reviews": 141991,
+      "total_positive": 137544,
+      "total_negative": 4447,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "inscryption",
       "recommend": "niche",
@@ -1745,7 +1745,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1821,9 +1821,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 71130,
-      "total_reviews": 78092,
-      "total_positive": 75978,
+      "recommendations_total": 71133,
+      "total_reviews": 78093,
+      "total_positive": 75979,
       "total_negative": 2114,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "papers-please",
@@ -1848,7 +1848,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -1935,9 +1935,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 43191,
-      "total_reviews": 46738,
-      "total_positive": 45723,
+      "recommendations_total": 43194,
+      "total_reviews": 46741,
+      "total_positive": 45726,
       "total_negative": 1015,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "volcano-princess",
@@ -1962,7 +1962,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2033,9 +2033,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9144,
-      "total_reviews": 9458,
-      "total_positive": 9133,
+      "recommendations_total": 9145,
+      "total_reviews": 9459,
+      "total_positive": 9134,
       "total_negative": 325,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
@@ -2060,7 +2060,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2173,9 +2173,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22755,
-      "total_reviews": 31936,
-      "total_positive": 30400,
+      "recommendations_total": 22756,
+      "total_reviews": 31938,
+      "total_positive": 30402,
       "total_negative": 1536,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "sultans-game",
@@ -2200,7 +2200,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2295,10 +2295,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 246133,
-      "total_reviews": 259625,
-      "total_positive": 255400,
-      "total_negative": 4225,
+      "recommendations_total": 246145,
+      "total_reviews": 259639,
+      "total_positive": 255413,
+      "total_negative": 4226,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "vampire-survivors",
       "recommend": "all",
@@ -2322,7 +2322,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2400,7 +2400,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 32949,
+      "recommendations_total": 32948,
       "total_reviews": 37754,
       "total_positive": 36758,
       "total_negative": 996,
@@ -2427,7 +2427,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2519,9 +2519,9 @@
         }
       ],
       "demo_appid": 1905120,
-      "recommendations_total": 14059,
-      "total_reviews": 16159,
-      "total_positive": 15312,
+      "recommendations_total": 14060,
+      "total_reviews": 16161,
+      "total_positive": 15314,
       "total_negative": 847,
       "review_score_desc": "Very Positive",
       "slug": "the-past-within",
@@ -2547,7 +2547,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2619,9 +2619,9 @@
         }
       ],
       "demo_appid": 4334900,
-      "recommendations_total": 342,
-      "total_reviews": 344,
-      "total_positive": 335,
+      "recommendations_total": 344,
+      "total_reviews": 346,
+      "total_positive": 337,
       "total_negative": 9,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2646,7 +2646,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": true,
       "article_title": "ギルド探求団へようこそ！ - やるのだ、いますぐ",
       "featured": true
@@ -2730,9 +2730,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22938,
-      "total_reviews": 24815,
-      "total_positive": 24254,
+      "recommendations_total": 22939,
+      "total_reviews": 24816,
+      "total_positive": 24255,
       "total_negative": 561,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "there-is-no-game",
@@ -2757,7 +2757,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2852,7 +2852,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -2957,7 +2957,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3043,9 +3043,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 24252,
-      "total_reviews": 27149,
-      "total_positive": 26289,
+      "recommendations_total": 24255,
+      "total_reviews": 27155,
+      "total_positive": 26295,
       "total_negative": 860,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "magical-girl-witch-trials",
@@ -3071,7 +3071,7 @@
         "Story Rich",
         "Sexual Content"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3152,9 +3152,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 205678,
-      "total_reviews": 359036,
-      "total_positive": 331198,
+      "recommendations_total": 205695,
+      "total_reviews": 359051,
+      "total_positive": 331213,
       "total_negative": 27838,
       "review_score_desc": "Very Positive",
       "slug": "skyrim",
@@ -3179,7 +3179,2279 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 3900,
+      "required_age": 0,
+      "name_ja": "Sid Meier's Civilization® IV",
+      "name_en": "Sid Meier's Civilization® IV",
+      "name": "Sid Meier's Civilization® IV",
+      "short_description_ja": "6 百万本以上の売り上げと、世界中のファンおよび雑誌社からの前例のない高い評価を受けた、Sid Meier の Civilization は、史上最高の PC タイトルであると認定されています。 今回、Sid Meier と Firaxis Games は、最高に面白く、プレイし始めたらとまらないこのゲームに、新しいプレイ方法と勝利条件、文明を管理発展させるための新しいツール、全く新しく使い方も簡単な MOD 機能と、緊迫感に満ちたマルチプレイヤーモードおよびオプションを追加して、新しいものへと作り変えたのです。 こうして、Civilization IV は、これまでに見たこともないような細部まで美しく描き込まれた、リアルな 3D の世界として生まれ変わりました。",
+      "short_description_en": "With over 6 million units sold and unprecedented critical acclaim from fans and press around the world, Sid Meier's Civilization is recognized as one of the greatest PC game franchises of all-time. Now, Sid Meier and Firaxis Games will take this incredibly fun and addictive game to new heights by adding new ways to play and win, new...",
+      "short_description": "6 百万本以上の売り上げと、世界中のファンおよび雑誌社からの前例のない高い評価を受けた、Sid Meier の Civilization は、史上最高の PC タイトルであると認定されています。 今回、Sid Meier と Firaxis Games は、最高に面白く、プレイし始めたらとまらないこのゲームに、新しいプレイ方法と勝利条件、文明を管理発展させるための新しいツール、全く新しく使い方も簡単な MOD 機能と、緊迫感に満ちたマルチプレイヤーモードおよびオプションを追加して、新しいものへと作り変えたのです。 こうして、Civilization IV は、これまでに見たこともないような細部まで美しく描き込まれた、リアルな 3D の世界として生まれ変わりました。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/header.jpg?t=1724341287",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287",
+      "developers": [
+        "Firaxis Games"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "genres_ja": [
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Strategy"
+      ],
+      "genres": [
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "レベル編集可能",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2006年10月25日",
+      "release_date_en": "25 Oct, 2006",
+      "release_date": "2006年10月25日",
+      "is_free": false,
+      "price_initial": 198000,
+      "price_final": 39600,
+      "discount_percent": 80,
+      "price_formatted": "¥ 396",
+      "currency": "JPY",
+      "metacritic_score": 94,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, イタリア語, スペイン語 - スペイン",
+      "website": "http://www.2kgames.com/civ4/home.htm",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000712.1920x1080.jpg?t=1724341287",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000713.1920x1080.jpg?t=1724341287",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000714.1920x1080.jpg?t=1724341287",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000715.1920x1080.jpg?t=1724341287",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3900/0000000716.1920x1080.jpg?t=1724341287"
+      ],
+      "movies": [],
+      "demo_appid": null,
+      "recommendations_total": 2678,
+      "total_reviews": 3535,
+      "total_positive": 3270,
+      "total_negative": 265,
+      "review_score_desc": "Very Positive",
+      "slug": "civilization-iv",
+      "recommend": "all",
+      "tags_ja": [
+        "ストラテジー",
+        "ターン制ストラテジー",
+        "ターン制",
+        "4X",
+        "歴史",
+        "マルチプレイヤー",
+        "シングルプレイヤー",
+        "MOD導入可能"
+      ],
+      "tags_en": [
+        "Strategy",
+        "Turn-Based Strategy",
+        "Turn-Based",
+        "4X",
+        "Historical",
+        "Multiplayer",
+        "Singleplayer",
+        "Moddable"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 2142790,
+      "required_age": 0,
+      "name_ja": "Fields of Mistria",
+      "name_en": "Fields of Mistria",
+      "name": "Fields of Mistria",
+      "short_description_ja": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+      "short_description_en": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+      "short_description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1759939537",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg?t=1759939537",
+      "developers": [
+        "NPC Studio"
+      ],
+      "publishers": [
+        "NPC Studio"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "早期アクセス"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+      ],
+      "genres": [
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "早期アクセス"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "フルコントローラサポート",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2024年8月5日",
+      "release_date_en": "5 Aug, 2024",
+      "release_date": "2024年8月5日",
+      "is_free": false,
+      "price_initial": 160000,
+      "price_final": 160000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,600",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語",
+      "website": "https://fieldsofmistria.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_468560d6cc336409644cfc1891e73d1ea26cb56e.1920x1080.jpg?t=1759939537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_980c227a20de85c9a39bcdf574b77e9d43a9d2e4.1920x1080.jpg?t=1759939537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_11800c6902cd77d6363e9e64118a84af55d7c75b.1920x1080.jpg?t=1759939537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_64185ab6bada96e82d4e7c311ac13c52808d10dc.1920x1080.jpg?t=1759939537",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f2592c4bdf482b43e2dacb9880c0f80b032602f2.1920x1080.jpg?t=1759939537"
+      ],
+      "movies": [
+        {
+          "name": "Major Update 3",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257173055/cd40f302cb0d08738781478365a0437530fa7c1f/movie_600x337.jpg?t=1753302306",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951238/movie.293x165.jpg?t=1731959967",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 23584,
+      "total_reviews": 25861,
+      "total_positive": 25309,
+      "total_negative": 552,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "fields-of-mistria",
+      "recommend": "all",
+      "tags_ja": [
+        "早期アクセス",
+        "農場シミュレーション",
+        "恋愛シミュレーション",
+        "RPG",
+        "人生シミュレーション",
+        "ドット絵",
+        "シミュレーション",
+        "ロマンス"
+      ],
+      "tags_en": [
+        "Early Access",
+        "Farming Sim",
+        "Dating Sim",
+        "RPG",
+        "Life Sim",
+        "Pixel Graphics",
+        "Simulation",
+        "Romance"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 3213850,
+      "required_age": 0,
+      "name_ja": "gogh: Focus with Your Avatar",
+      "name_en": "gogh: Focus with Your Avatar",
+      "name": "gogh: Focus with Your Avatar",
+      "short_description_ja": "gogh: Focus with Your Avatarは『マルチプレイ・オンライン・作業用ゲーム』です。理想の作業部屋とかわいいアバターをカスタマイズして、互いの部屋に集まって一緒に集中しよう。タイマーやToDo、Lofi音楽や美しい環境音で、あなたのデスクワークをもっと楽しく！",
+      "short_description_en": "gogh: Focus with Your Avatar is a multiplayer online focus game for work. Customize your ideal workspace and cute avatars, gather in each other’s rooms, and focus together. Timers and To-Dos, lo-fi music, and beautiful ambience make desk work more fun!",
+      "short_description": "gogh: Focus with Your Avatarは『マルチプレイ・オンライン・作業用ゲーム』です。理想の作業部屋とかわいいアバターをカスタマイズして、互いの部屋に集まって一緒に集中しよう。タイマーやToDo、Lofi音楽や美しい環境音で、あなたのデスクワークをもっと楽しく！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0a8609a466c3b85f06b27b1477bf0c650a10cedf/header.jpg?t=1771042976",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1771042976",
+      "developers": [
+        "ambr"
+      ],
+      "publishers": [
+        "ambr"
+      ],
+      "genres_ja": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "スポーツ",
+        "無料プレイ"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Sports",
+        "Free To Play"
+      ],
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "スポーツ",
+        "無料プレイ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2025年4月30日",
+      "release_date_en": "30 Apr, 2025",
+      "release_date": "2025年4月30日",
+      "is_free": false,
+      "price_initial": 138000,
+      "price_final": 96600,
+      "discount_percent": 30,
+      "price_formatted": "¥ 966",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, 中国語（簡体字）, 日本語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, インドネシア語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）",
+      "website": "https://gogh.gg/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1771042976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/954d5d5834c1450494368bcd12123cbc8093a467/ss_954d5d5834c1450494368bcd12123cbc8093a467.1920x1080.jpg?t=1771042976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edb5434e9ccea304409fb3a5746e410c71beec0b/ss_edb5434e9ccea304409fb3a5746e410c71beec0b.1920x1080.jpg?t=1771042976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edeea01eedd80f70dfe7219c85e058d5717c6e2e/ss_edeea01eedd80f70dfe7219c85e058d5717c6e2e.1920x1080.jpg?t=1771042976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/68ad1d6dd5981b207f0c6496d84aa455aaf361fb/ss_68ad1d6dd5981b207f0c6496d84aa455aaf361fb.1920x1080.jpg?t=1771042976"
+      ],
+      "movies": [
+        {
+          "name": "STUDY WITH MIKU DLC - Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252380/0176336b7893e19a9290bbc27018abcd17e73256/movie_600x337.jpg?t=1766102609",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Multiplayer Trailer - JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257208756/4acc4c3d98c96cfd02961ade00d43907d9acd418/movie_600x337.jpg?t=1759167697",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Launch Trailer - JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257130690/ac6662bd0a4236e212cde880b61e3ccf2b71a5cd/movie_600x337.jpg?t=1746010210",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Sketch Chat Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257236870/7965c00e7b7b4f9751ba57f2087f58bd6a16bb90/movie_600x337.jpg?t=1763974869",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Summer Update Trailer - JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257166812/78333fc5cca06b64a6e236a0559bd4b4c0279756/movie_600x337.jpg?t=1752138532",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257119904/e890db1693ab7e19ddf371000f1f3f4f3d902c55/movie_600x337.jpg?t=1743385958",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "gogh: Focus with Your Avatar - Announce Trailer - JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068894/738800ce01beb6874635be277471e3784db7516e/movie_600x337.jpg?t=1731376249",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 3942,
+      "total_reviews": 4427,
+      "total_positive": 3997,
+      "total_negative": 430,
+      "review_score_desc": "Very Positive",
+      "slug": "gogh",
+      "recommend": "all",
+      "tags_ja": [
+        "キャラクターカスタマイズ",
+        "かわいい",
+        "サンドボックス",
+        "マルチプレイヤー",
+        "ユーティリティ",
+        "心地よい",
+        "3D",
+        "リラックス"
+      ],
+      "tags_en": [
+        "Character Customization",
+        "Cute",
+        "Sandbox",
+        "Multiplayer",
+        "Utilities",
+        "Cozy",
+        "3D",
+        "Relaxing"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 262060,
+      "required_age": 0,
+      "name_ja": "Darkest Dungeon®",
+      "name_en": "Darkest Dungeon®",
+      "name": "Darkest Dungeon®",
+      "short_description_ja": "『Darkest Dungeon』は、プレイする度にダンジョンが変わるローグライクダークファンタジーRPG。本作の最大の特徴は、冒険における「ストレス」。集めた仲間（ヒーロー）を訓練し、暗く深い森や忘れ去られた迷宮、廃墟となった墓地などを探索しよう。――さあ、君はすべての希望が失われても、ヒーローの結束力を保ち続けていられるだろうか？",
+      "short_description_en": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
+      "short_description": "『Darkest Dungeon』は、プレイする度にダンジョンが変わるローグライクダークファンタジーRPG。本作の最大の特徴は、冒険における「ストレス」。集めた仲間（ヒーロー）を訓練し、暗く深い森や忘れ去られた迷宮、廃墟となった墓地などを探索しよう。――さあ、君はすべての希望が失われても、ヒーローの結束力を保ち続けていられるだろうか？",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/header.jpg?t=1769780578",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/capsule_231x87.jpg?t=1769780578",
+      "developers": [
+        "Red Hook Studios"
+      ],
+      "publishers": [
+        "Red Hook Studios"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Strategy"
+      ],
+      "genres": [
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2016年1月19日",
+      "release_date_en": "19 Jan, 2016",
+      "release_date": "2016年1月19日",
+      "is_free": false,
+      "price_initial": 290000,
+      "price_final": 290000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,900",
+      "currency": "JPY",
+      "metacritic_score": 84,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語, ドイツ語, スペイン語 - スペイン, チェコ語, ポーランド語, ポルトガル語－ブラジル, ロシア語, イタリア語, 中国語（簡体字）, 韓国語, 日本語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.darkestdungeon.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_04572edc979601b038756f87861c6f8c6c337806.1920x1080.jpg?t=1769780578",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_799c78932c87f2be0cbd45dd1b80ebd0a355e575.1920x1080.jpg?t=1769780578",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_a967c2d7344433cdf72a53ef1922586b0d7cce69.1920x1080.jpg?t=1769780578",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_c9d41e74d574f6fa9bf53c0cf74f8430c2072cc2.1920x1080.jpg?t=1769780578",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262060/ss_b78c562dc67379f42691dcc8522b40d5385bb32e.1920x1080.jpg?t=1769780578"
+      ],
+      "movies": [
+        {
+          "name": "Official Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659907/movie.293x165.jpg?t=1747999027",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "House_of_Ruin",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036155/movie.293x165.jpg?t=1747999029",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Official Early Access Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036992/movie.293x165.jpg?t=1447368566",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 136249,
+      "total_reviews": 157055,
+      "total_positive": 144014,
+      "total_negative": 13041,
+      "review_score_desc": "Very Positive",
+      "slug": "darkest-dungeon",
+      "recommend": "niche",
+      "tags_ja": [
+        "ターン制コンバット",
+        "ダンジョンクロウル",
+        "ダークファンタジー",
+        "ローグライク",
+        "RPG",
+        "ラヴクラフト",
+        "高難易度",
+        "ターン制"
+      ],
+      "tags_en": [
+        "Turn-Based Combat",
+        "Dungeon Crawler",
+        "Dark Fantasy",
+        "Roguelike",
+        "RPG",
+        "Lovecraftian",
+        "Difficult",
+        "Turn-Based"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 377160,
+      "required_age": 18,
+      "name_ja": "Fallout 4",
+      "name_en": "Fallout 4",
+      "name": "Fallout 4",
+      "short_description_ja": "『Starfield』や『The Elder Scrolls V: Skyrim』で数々の賞を受賞したBethesda Game Studiosが贈る『Fallout 4』は、D.I.C.E. Awardsおよび英国アカデミー賞ゲーム部門を含む200以上の受賞歴を誇るオープンワールドRPGの金字塔とも言える一作です。",
+      "short_description_en": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year.",
+      "short_description": "『Starfield』や『The Elder Scrolls V: Skyrim』で数々の賞を受賞したBethesda Game Studiosが贈る『Fallout 4』は、D.I.C.E. Awardsおよび英国アカデミー賞ゲーム部門を含む200以上の受賞歴を誇るオープンワールドRPGの金字塔とも言える一作です。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/capsule_231x87.jpg?t=1764687456",
+      "developers": [
+        "Bethesda Game Studios"
+      ],
+      "publishers": [
+        "Bethesda Softworks"
+      ],
+      "genres_ja": [
+        "RPG"
+      ],
+      "genres_en": [
+        "RPG"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "ステレオサウンド",
+        "サラウンドサウンド",
+        "Steamクラウド",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "テレビでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2015年11月9日",
+      "release_date_en": "9 Nov, 2015",
+      "release_date": "2015年11月9日",
+      "is_free": false,
+      "price_initial": 224600,
+      "price_final": 224600,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,246",
+      "currency": "JPY",
+      "metacritic_score": 84,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）, 日本語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.fallout4.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f7861bd71e6c0c218d8ff69fb1c626aec0d187cf.1920x1080.jpg?t=1764687456",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_910437ac708aed7c028f6e43a6224c633d086b0a.1920x1080.jpg?t=1764687456",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f649b8e57749f380cca225db5074edbb1e06d7f5.1920x1080.jpg?t=1764687456",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c310f858e6a7b02ffa21db984afb0dd1b24c1423.1920x1080.jpg?t=1764687456",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_5e2d136759e0ff4e0d74940fffc9c64e8cdcd833.1920x1080.jpg?t=1764687456"
+      ],
+      "movies": [
+        {
+          "name": "Creations Bundle Trailer JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229662/b1914d134124c8de41e79a79b5859e8239ccece1/movie_600x337.jpg?t=1762884813",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658080/movie.293x165.jpg?t=1447378809",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Strength Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656644/movie.293x165.jpg?t=1447378208",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Perception Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657296/movie.293x165.jpg?t=1447378488",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Endurance Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657300/movie.293x165.jpg?t=1447378489",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Charisma Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657301/movie.293x165.jpg?t=1447378490",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Intelligence Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657302/movie.293x165.jpg?t=1447378490",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Agility Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657303/movie.293x165.jpg?t=1447378490",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Fallout 4 Luck Video",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658072/movie.293x165.jpg?t=1447378808",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 282684,
+      "total_reviews": 419322,
+      "total_positive": 340014,
+      "total_negative": 79308,
+      "review_score_desc": "Very Positive",
+      "slug": "fallout-4",
+      "recommend": "all",
+      "tags_ja": [
+        "オープンワールド",
+        "ポストアポカリプス",
+        "シングルプレイヤー",
+        "探検",
+        "RPG",
+        "アドベンチャー",
+        "雰囲気",
+        "シューティング"
+      ],
+      "tags_en": [
+        "Open World",
+        "Post-apocalyptic",
+        "Singleplayer",
+        "Exploration",
+        "RPG",
+        "Adventure",
+        "Atmospheric",
+        "Shooter"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 550,
+      "required_age": 0,
+      "name_ja": "Left 4 Dead 2",
+      "name_en": "Left 4 Dead 2",
+      "name": "Left 4 Dead 2",
+      "short_description_ja": "ゾンビの黙示録を舞台にした『Left 4 Dead 2』（L4D2）は、2008年に協力ゲームで1位を獲得した『Left 4 Dead』の待望の続編です。本作は、サバンナからニューオーリンズまで、アメリカ最南部の都市、沼地、墓地を5つのキャンペーンで駆け抜ける協力型アクションホラーFPSです。あなたは、多様で破壊的な従来の武器や改造武器で武装した、4人の新しい生存者の1人としてプレイします。 銃器に加え、チェーンソーから斧、さらには致命的なフライパンに至るまで、殺戮のためのさまざまな近接武器で感染者を倒すチャンスがあります。これらの武器で、恐ろしく手強い3人の新たな特殊感染者を相手に（または対戦モードで）戦います。",
+      "short_description_en": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008. This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+      "short_description": "ゾンビの黙示録を舞台にした『Left 4 Dead 2』（L4D2）は、2008年に協力ゲームで1位を獲得した『Left 4 Dead』の待望の続編です。本作は、サバンナからニューオーリンズまで、アメリカ最南部の都市、沼地、墓地を5つのキャンペーンで駆け抜ける協力型アクションホラーFPSです。あなたは、多様で破壊的な従来の武器や改造武器で武装した、4人の新しい生存者の1人としてプレイします。 銃器に加え、チェーンソーから斧、さらには致命的なフライパンに至るまで、殺戮のためのさまざまな近接武器で感染者を倒すチャンスがあります。これらの武器で、恐ろしく手強い3人の新たな特殊感染者を相手に（または対戦モードで）戦います。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1745368562",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg?t=1745368562",
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres_ja": [
+        "アクション"
+      ],
+      "genres_en": [
+        "Action"
+      ],
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "キャプション使用可能",
+        "Steamワークショップ",
+        "カメラの快適性",
+        "色のオプション",
+        "カスタム音量調整",
+        "難易度の調整",
+        "時間制限付き入力なしでプレイ可能",
+        "ステレオサウンド",
+        "サラウンドサウンド",
+        "Steamクラウド",
+        "Valveアンチチート有効",
+        "データ",
+        "Source SDKを含む",
+        "解説モード使用可能",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "テレビでRemote Play",
+        "Remote Play Together",
+        "ファミリーシェアリング",
+        "Steamタイムライン"
+      ],
+      "release_date_ja": "2009年11月16日",
+      "release_date_en": "16 Nov, 2009",
+      "release_date": "2009年11月16日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 120000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,200",
+      "currency": "JPY",
+      "metacritic_score": 89,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "supported_languages": "デンマーク語, オランダ語, 英語<strong>*</strong>, フィンランド語, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, イタリア語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ロシア語<strong>*</strong>, 中国語（簡体字）, スペイン語 - スペイン<strong>*</strong>, スウェーデン語, 中国語（繁体字）, ハンガリー語, トルコ語, ブルガリア語, チェコ語, ギリシャ語, ポルトガル語－ブラジル, ルーマニア語, スペイン語－ラテンアメリカ, タイ語, ウクライナ語, ベトナム語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.l4d.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.1920x1080.jpg?t=1745368562",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.1920x1080.jpg?t=1745368562",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.1920x1080.jpg?t=1745368562",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.1920x1080.jpg?t=1745368562",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_73ad69168a263ce585e4823d9607d901719ca3c5.1920x1080.jpg?t=1745368562"
+      ],
+      "movies": [
+        {
+          "name": "Left 4 Dead - The Sacrifice Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5952/movie.293x165.jpg?t=1682697457",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Left 4 Dead 2 - TV Spot 2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489/movie.jpg?t=1447352698",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Left 4 Dead 2 Teaser",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268/movie.jpg?t=1447352170",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 779756,
+      "total_reviews": 1016380,
+      "total_positive": 991289,
+      "total_negative": 25091,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "left-4-dead-2",
+      "recommend": "all",
+      "multi": true,
+      "by": "kotori",
+      "tags_ja": [
+        "ゾンビ",
+        "協力プレイ",
+        "FPS",
+        "マルチプレイヤー",
+        "シューティング",
+        "オンライン協力プレイ",
+        "アクション",
+        "サバイバル"
+      ],
+      "tags_en": [
+        "Zombies",
+        "Co-op",
+        "FPS",
+        "Multiplayer",
+        "Shooter",
+        "Online Co-Op",
+        "Action",
+        "Survival"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1150690,
+      "required_age": 0,
+      "name_ja": "OMORI",
+      "name_en": "OMORI",
+      "name": "OMORI",
+      "short_description_ja": "個性豊かな友達、そしてエネミーでいっぱいの奇妙な世界を探検しましょう。やがて、あなたが選んだその道が、あなたの運命を決定づけるでしょう。おそらく……他の誰かの運命も。",
+      "short_description_en": "Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.",
+      "short_description": "個性豊かな友達、そしてエネミーでいっぱいの奇妙な世界を探検しましょう。やがて、あなたが選んだその道が、あなたの運命を決定づけるでしょう。おそらく……他の誰かの運命も。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg?t=1671584768",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg?t=1671584768",
+      "developers": [
+        "OMOCAT, LLC"
+      ],
+      "publishers": [
+        "OMOCAT, LLC"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年12月25日",
+      "release_date_en": "25 Dec, 2020",
+      "release_date": "2020年12月25日",
+      "is_free": false,
+      "price_initial": 198000,
+      "price_final": 198000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,980",
+      "currency": "JPY",
+      "metacritic_score": 87,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）, 韓国語",
+      "website": "http://omori-game.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_219463835487a7205f0af93fb02d2c84855c667b.1920x1080.jpg?t=1671584768",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_4bb5647e9094a13078d23f2a9daa4a9bd160841e.1920x1080.jpg?t=1671584768",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_72e19b9ca001c03084b9eb7f5665514e60a6a6dd.1920x1080.jpg?t=1671584768",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_14bd4cd7c2be96cdffa112d991ce755600c8ad72.1920x1080.jpg?t=1671584768",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_126ccd3db36bf47431f6d6b92cf0922a3a918bfc.1920x1080.jpg?t=1671584768"
+      ],
+      "movies": [
+        {
+          "name": "OMORI 2020 TRAILER",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256811753/movie.293x165.jpg?t=1618373243",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "OMORI 2017 TRAILER",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761359/movie.293x165.jpg?t=1568179929",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "OMORI 2014 TRAILER",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761358/movie.293x165.jpg?t=1568179937",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 76854,
+      "total_reviews": 85291,
+      "total_positive": 82828,
+      "total_negative": 2463,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "omori",
+      "recommend": "niche",
+      "tags_ja": [
+        "精神的恐怖",
+        "物語性",
+        "インディー",
+        "ドット絵",
+        "良質サントラ",
+        "RPG",
+        "マルチエンディング",
+        "RPG作成"
+      ],
+      "tags_en": [
+        "Psychological Horror",
+        "Story Rich",
+        "Indie",
+        "Pixel Graphics",
+        "Great Soundtrack",
+        "RPG",
+        "Multiple Endings",
+        "RPGMaker"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 420530,
+      "required_age": 0,
+      "name_ja": "OneShot",
+      "name_en": "OneShot",
+      "name": "OneShot",
+      "short_description_ja": "『OneShot』はプレイヤーと主人公によるインタラクティブなやりとりが特徴的な、新感覚パズルアドベンチャーゲームです。 太陽の失われた見知らぬ土地で目覚めた主人公「ニコ」を導き、世界に光を取り戻す旅に出ましょう。",
+      "short_description_en": "OneShot is a surreal top down Puzzle/Adventure game with unique gameplay capabilities. You are to guide a child through a mysterious world on a mission to restore its long-dead sun. The world knows you exist.",
+      "short_description": "『OneShot』はプレイヤーと主人公によるインタラクティブなやりとりが特徴的な、新感覚パズルアドベンチャーゲームです。 太陽の失われた見知らぬ土地で目覚めた主人公「ニコ」を導き、世界に光を取り戻す旅に出ましょう。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/header.jpg?t=1747673318",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/capsule_231x87.jpg?t=1747673318",
+      "developers": [
+        "Future Cat LLC"
+      ],
+      "publishers": [
+        "KOMODO"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2016年12月8日",
+      "release_date_en": "8 Dec, 2016",
+      "release_date": "2016年12月8日",
+      "is_free": false,
+      "price_initial": 99800,
+      "price_final": 99800,
+      "discount_percent": 0,
+      "price_formatted": "¥ 998",
+      "currency": "JPY",
+      "metacritic_score": 80,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, 日本語, フランス語, スペイン語 - スペイン, ポルトガル語－ブラジル, 韓国語, 中国語（簡体字）, イタリア語, ロシア語",
+      "website": "http://www.oneshot-game.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_8a8639313a9cfc5d39e17fad5fe4b819379f1101.1920x1080.jpg?t=1747673318",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_bd78bc0a36c215cf4b0b53c4963bd119f58ab25c.1920x1080.jpg?t=1747673318",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_2262ef9696dd6befdd23ea232b80ccdc83a7a471.1920x1080.jpg?t=1747673318",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_5d03428de28dd03845a9adb5566ba29431eba0f5.1920x1080.jpg?t=1747673318",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/ss_5632681456db78d0e33c252c59d39c18ff35262e.1920x1080.jpg?t=1747673318"
+      ],
+      "movies": [
+        {
+          "name": "OneShot Trailer JA",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690306/movie.293x165.jpg?t=1501659437",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 55133,
+      "total_reviews": 60637,
+      "total_positive": 59613,
+      "total_negative": 1024,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "oneshot",
+      "recommend": "niche",
+      "tags_ja": [
+        "物語性",
+        "ドット絵",
+        "インディー",
+        "良質サントラ",
+        "かわいい",
+        "雰囲気",
+        "パズル",
+        "シングルプレイヤー"
+      ],
+      "tags_en": [
+        "Story Rich",
+        "Pixel Graphics",
+        "Indie",
+        "Great Soundtrack",
+        "Cute",
+        "Atmospheric",
+        "Puzzle",
+        "Singleplayer"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1243830,
+      "required_age": 0,
+      "name_ja": "Overcooked! All You Can Eat",
+      "name_en": "Overcooked! All You Can Eat",
+      "name": "Overcooked! All You Can Eat",
+      "short_description_ja": "オニオン王国の全てを堪能しよう！ 『Overcooked! 1』＆『Overcooked! 2』が 4K の高画質と 60fps のスムーズな動作で味付けされました。完全にリマスターされ、ゼロから美味しく調理されています。200以上のステージ（新ステージ22つ）と80人以上のシェフ（新人3人）を楽しめる、究極の『Overcooked!』を召し上がってください！",
+      "short_description_en": "Experience all the Onion Kingdom has to offer, Overcooked! 1 &amp; 2 infused with 4k goodness running at a smooth 60 FPS. Fully remastered and cooked up from scratch. Enjoy 200+ levels (22 new) and 80+ chefs (3 new), this is the ultimate Overcooked! experience.",
+      "short_description": "オニオン王国の全てを堪能しよう！ 『Overcooked! 1』＆『Overcooked! 2』が 4K の高画質と 60fps のスムーズな動作で味付けされました。完全にリマスターされ、ゼロから美味しく調理されています。200以上のステージ（新ステージ22つ）と80人以上のシェフ（新人3人）を楽しめる、究極の『Overcooked!』を召し上がってください！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/header.jpg?t=1763038379",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/capsule_231x87.jpg?t=1763038379",
+      "developers": [
+        "Team17 Digital",
+        "Ghost Town Games"
+      ],
+      "publishers": [
+        "Team17 Digital"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "共有／分割画面での協力プレイ",
+        "共有／分割画面",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2021年3月23日",
+      "release_date_en": "23 Mar, 2021",
+      "release_date": "2021年3月23日",
+      "is_free": false,
+      "price_initial": 410000,
+      "price_final": 123000,
+      "discount_percent": 70,
+      "price_formatted": "¥ 1,230",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, タイ語, 中国語（繁体字）, ポーランド語",
+      "website": "https://www.team17.com/games/overcooked-all-you-can-eat",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_2cc95ad5268f42cdc45e923c94c58966cd2106ad.1920x1080.jpg?t=1763038379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_e788a88828bd26cd42261997644b8aefa178f68f.1920x1080.jpg?t=1763038379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_d4c4c3b36b48a1d9ff754b6be0b4ac97d7acd986.1920x1080.jpg?t=1763038379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_90421f24a5e9a631deb83e5128ead001f7b6e13f.1920x1080.jpg?t=1763038379",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1243830/ss_98d28a41af2047ce17c455a0dbe7765c7b141402.1920x1080.jpg?t=1763038379"
+      ],
+      "movies": [
+        {
+          "name": "World Food Festival",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910477/movie.jpg?t=1665568483",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Birthday Party update",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846005/movie.293x165.jpg?t=1628517830",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Launch",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827116/movie.293x165.jpg?t=1616522996",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Peckish Rises",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827121/movie.293x165.jpg?t=1616524153",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 5094,
+      "total_reviews": 7303,
+      "total_positive": 5305,
+      "total_negative": 1998,
+      "review_score_desc": "Mostly Positive",
+      "slug": "overcooked-ayce",
+      "recommend": "all",
+      "multi": true,
+      "tags_ja": [
+        "マルチプレイヤー",
+        "オンライン協力プレイ",
+        "ローカル協力プレイ",
+        "料理",
+        "カジュアル",
+        "シミュレーション",
+        "子供向け",
+        "ローカルマルチプレイヤー"
+      ],
+      "tags_en": [
+        "Multiplayer",
+        "Online Co-Op",
+        "Local Co-Op",
+        "Cooking",
+        "Casual",
+        "Simulation",
+        "Family Friendly",
+        "Local Multiplayer"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 400,
+      "required_age": 0,
+      "name_ja": "Portal",
+      "name_en": "Portal",
+      "name": "Portal",
+      "short_description_ja": "Portal™ は Valve が新たに開発した、シングルプレイ専用の新感覚ゲームです。ゲームの舞台は謎に満ちた Aperture Science 社の研究施設です。独特のゲームプレイはくせになることまちがいなし。またこのゲームは、近年最高の革新性を持つゲームのひとつと評されています。 ちょうど Half-Life® 2 の重力銃がプレイヤーとゲーム内オブジェクトとの革新的なインターアクションを提示したように、Portal も「一般的なゲームの思考／行動パターン、そして &quot;何ができるのか&quot; を推測する方法」を革新することを意識してデザインされています。",
+      "short_description_en": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+      "short_description": "Portal™ は Valve が新たに開発した、シングルプレイ専用の新感覚ゲームです。ゲームの舞台は謎に満ちた Aperture Science 社の研究施設です。独特のゲームプレイはくせになることまちがいなし。またこのゲームは、近年最高の革新性を持つゲームのひとつと評されています。 ちょうど Half-Life® 2 の重力銃がプレイヤーとゲーム内オブジェクトとの革新的なインターアクションを提示したように、Portal も「一般的なゲームの思考／行動パターン、そして &quot;何ができるのか&quot; を推測する方法」を革新することを意識してデザインされています。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_231x87.jpg?t=1745368554",
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres_ja": [
+        "アクション"
+      ],
+      "genres_en": [
+        "Action"
+      ],
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "キャプション使用可能",
+        "カメラの快適性",
+        "カスタム音量調整",
+        "いつでもセーブ可能",
+        "ステレオサウンド",
+        "字幕オプション",
+        "サラウンドサウンド",
+        "レベル編集可能",
+        "Source SDKを含む",
+        "解説モード使用可能",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2007年10月10日",
+      "release_date_en": "10 Oct, 2007",
+      "release_date": "2007年10月10日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 120000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,200",
+      "currency": "JPY",
+      "metacritic_score": 90,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, ロシア語<strong>*</strong>, デンマーク語, オランダ語, フィンランド語, イタリア語, 日本語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, 中国語（簡体字）, スペイン語 - スペイン<strong>*</strong>, スウェーデン語, 中国語（繁体字）<strong>*</strong>, 韓国語, ブルガリア語, チェコ語, ギリシャ語, ハンガリー語, ポルトガル語－ブラジル, ルーマニア語, スペイン語－ラテンアメリカ, タイ語, トルコ語, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.whatistheorangebox.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002582.1920x1080.jpg?t=1745368554",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002583.1920x1080.jpg?t=1745368554",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002584.1920x1080.jpg?t=1745368554",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002585.1920x1080.jpg?t=1745368554",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002586.1920x1080.jpg?t=1745368554"
+      ],
+      "movies": [
+        {
+          "name": "Portal Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922/movie.jpg?t=1682715059",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 410,
+      "recommendations_total": 165624,
+      "total_reviews": 190624,
+      "total_positive": 187795,
+      "total_negative": 2829,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "portal",
+      "recommend": "all",
+      "by": "kotori",
+      "tags_ja": [
+        "パズル",
+        "パズルプラットフォーム",
+        "ファーストパーソン",
+        "3Dプラットフォーム",
+        "シングルプレイヤー",
+        "SF",
+        "コメディ",
+        "女性主人公"
+      ],
+      "tags_en": [
+        "Puzzle",
+        "Puzzle Platformer",
+        "First-Person",
+        "3D Platformer",
+        "Singleplayer",
+        "Sci-fi",
+        "Comedy",
+        "Female Protagonist"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 620,
+      "required_age": 0,
+      "name_ja": "Portal 2",
+      "name_en": "Portal 2",
+      "name": "Portal 2",
+      "short_description_ja": "Perpetual Testing Initiativeにより、フレンドと協力してプレイできるパズルのデザイン機能が追加されました！",
+      "short_description_en": "The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!",
+      "short_description": "Perpetual Testing Initiativeにより、フレンドと協力してプレイできるパズルのデザイン機能が追加されました！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_231x87.jpg?t=1745363004",
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "genres_ja": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "genres_en": [
+        "Action",
+        "Adventure"
+      ],
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "共有／分割画面での協力プレイ",
+        "共有／分割画面",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "キャプション使用可能",
+        "Steamワークショップ",
+        "Steamワークショップ",
+        "カメラの快適性",
+        "カスタム音量調整",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "ステレオサウンド",
+        "サラウンドサウンド",
+        "Steamクラウド",
+        "データ",
+        "レベル編集可能",
+        "解説モード使用可能",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "テレビでRemote Play",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2011年4月18日",
+      "release_date_en": "18 Apr, 2011",
+      "release_date": "2011年4月18日",
+      "is_free": false,
+      "price_initial": 120000,
+      "price_final": 120000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,200",
+      "currency": "JPY",
+      "metacritic_score": 95,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, チェコ語, デンマーク語, オランダ語, フィンランド語, ハンガリー語, イタリア語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ルーマニア語, ロシア語<strong>*</strong>, 中国語（簡体字）, スウェーデン語, タイ語, 中国語（繁体字）, トルコ語, ブルガリア語, ギリシャ語, ポルトガル語－ブラジル, スペイン語－ラテンアメリカ, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+      "website": "http://www.thinkwithportals.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1745363004",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.1920x1080.jpg?t=1745363004",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_0cdd90fafc160b52d08b303d205f9fd4e83cf164.1920x1080.jpg?t=1745363004",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_ec35a739b4b33270eb170d9e561c5b016cba50a6.1920x1080.jpg?t=1745363004",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg?t=1745363004"
+      ],
+      "movies": [
+        {
+          "name": "Portal 2 E3 Demo (Excursion Funnels)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5787/movie.293x165.jpg?t=1682715616",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 Remix Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80822/movie.293x165.jpg?t=1683129612",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Perpetual Testing Initiative",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81613/movie.293x165.jpg?t=1682715589",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 Co-op Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5926/movie.293x165.jpg?t=1682715596",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 Teaser",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5739/movie.293x165.jpg?t=1682715602",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Wheatley)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5786/movie.293x165.jpg?t=1682715609",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Pneumatic Diversity Vents)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5790/movie.293x165.jpg?t=1682715623",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Faith Plates)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5788/movie.293x165.jpg?t=1682715630",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Thermal Discouragement Beams)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5789/movie.293x165.jpg?t=1682715637",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Repulsion Gel)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5791/movie.293x165.jpg?t=1682715644",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 E3 Demo (Propulsion Gel)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5795/movie.293x165.jpg?t=1682715651",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2: Valentine's Day",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80633/movie.293x165.jpg?t=1682715658",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Panels Short (English)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80739/movie.293x165.jpg?t=1682715665",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Bot Trust Short (English)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80747/movie.293x165.jpg?t=1682715692",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Turrets (English)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80752/movie.293x165.jpg?t=1682715720",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Boots Short (English)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80762/movie.293x165.jpg?t=1682715769",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Portal 2 - Launch TV Ad",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80788/movie.293x165.jpg?t=1682715776",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 378521,
+      "total_reviews": 453723,
+      "total_positive": 447843,
+      "total_negative": 5880,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "portal-2",
+      "recommend": "all",
+      "by": "kotori",
+      "tags_ja": [
+        "プラットフォーム",
+        "パズル",
+        "ファーストパーソン",
+        "毒のあるユーモア",
+        "物語性",
+        "パズルプラットフォーム",
+        "笑える",
+        "女性主人公"
+      ],
+      "tags_en": [
+        "Platformer",
+        "Puzzle",
+        "First-Person",
+        "Dark Humor",
+        "Story Rich",
+        "Puzzle Platformer",
+        "Funny",
+        "Female Protagonist"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 405710,
+      "required_age": 0,
+      "name_ja": "Staxel",
+      "name_en": "Staxel",
+      "name": "Staxel",
+      "short_description_ja": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
+      "short_description_en": "Grow your farm, meet the villagers, and join your friends online in building your world.",
+      "short_description": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/header.jpg?t=1659690961",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/capsule_231x87.jpg?t=1659690961",
+      "developers": [
+        "Plukit"
+      ],
+      "publishers": [
+        "Humble Games"
+      ],
+      "genres_ja": [
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
+      "genres": [
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamワークショップ",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2019年4月11日",
+      "release_date_en": "11 Apr, 2019",
+      "release_date": "2019年4月11日",
+      "is_free": false,
+      "price_initial": 198000,
+      "price_final": 198000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,980",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, 日本語, 中国語（簡体字）, オランダ語",
+      "website": "http://playstaxel.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1659690961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.1920x1080.jpg?t=1659690961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1659690961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1659690961",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1659690961"
+      ],
+      "movies": [
+        {
+          "name": "Hideaway Hollow",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805710/movie.293x165.jpg?t=1603218598",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Staxel Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747746/movie.293x165.jpg?t=1554996647",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706166/movie.293x165.jpg?t=1554994816",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Friendship Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723203/movie.293x165.jpg?t=1532096177",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 3083,
+      "total_reviews": 4801,
+      "total_positive": 3773,
+      "total_negative": 1028,
+      "review_score_desc": "Mostly Positive",
+      "slug": "staxel",
+      "recommend": "all",
+      "tags_ja": [
+        "農場シミュレーション",
+        "かわいい",
+        "キャラクターカスタマイズ",
+        "サンドボックス",
+        "農業",
+        "自然",
+        "リラックス",
+        "建設"
+      ],
+      "tags_en": [
+        "Farming Sim",
+        "Cute",
+        "Character Customization",
+        "Sandbox",
+        "Agriculture",
+        "Nature",
+        "Relaxing",
+        "Building"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1016920,
+      "required_age": 0,
+      "name_ja": "Unrailed!",
+      "name_en": "Unrailed!",
+      "name": "Unrailed!",
+      "short_description_ja": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
+      "short_description_en": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
+      "short_description": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1770912082",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/capsule_231x87.jpg?t=1770912082",
+      "developers": [
+        "Indoor Astronaut"
+      ],
+      "publishers": [
+        "Daedalic Entertainment"
+      ],
+      "genres_ja": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "genres_en": [
+        "Action",
+        "Casual",
+        "Indie"
+      ],
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "共有／分割画面での協力プレイ",
+        "共有／分割画面",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "Steamランキング",
+        "スマホでRemote Play",
+        "タブレットでRemote Play",
+        "テレビでRemote Play",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年9月23日",
+      "release_date_en": "23 Sep, 2020",
+      "release_date": "2020年9月23日",
+      "is_free": false,
+      "price_initial": 280000,
+      "price_final": 280000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,800",
+      "currency": "JPY",
+      "metacritic_score": 77,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, ドイツ語, 中国語（簡体字）, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）, イタリア語, スペイン語 - スペイン, 日本語, ポーランド語, トルコ語, スペイン語－ラテンアメリカ, チェコ語",
+      "website": "https://unrailed-game.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_718c17d9145a8f11eb99de457d513fc79bd82979.1920x1080.jpg?t=1770912082",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_60264335a97af2987159e787635f39cb9f19f648.1920x1080.jpg?t=1770912082",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_8496602ef1f242770f079665740f542aaa4eb638.1920x1080.jpg?t=1770912082",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_71511b260173d62f1fbc43b56b97611335f08c60.1920x1080.jpg?t=1770912082",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_674eeece8947149f96dadf6624aea741b4ac5264.1920x1080.jpg?t=1770912082"
+      ],
+      "movies": [
+        {
+          "name": "Full Release Gameplay Trailer_Daedalic",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801370/movie.293x165.jpg?t=1600436813",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Underwater Update Trailer_jp",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935410/movie.293x165.jpg?t=1678734253",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 13507,
+      "total_reviews": 19396,
+      "total_positive": 18088,
+      "total_negative": 1308,
+      "review_score_desc": "Very Positive",
+      "slug": "unrailed",
+      "recommend": "all",
+      "multi": true,
+      "by": "kotori",
+      "tags_ja": [
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "ローカル協力プレイ",
+        "カジュアル",
+        "鉄道",
+        "ローカルマルチプレイヤー",
+        "アクション"
+      ],
+      "tags_en": [
+        "Multiplayer",
+        "Co-op",
+        "Online Co-Op",
+        "Local Co-Op",
+        "Casual",
+        "Trains",
+        "Local Multiplayer",
+        "Action"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1647190,
+      "required_age": 0,
+      "name_ja": "World End Diner",
+      "name_en": "World End Diner",
+      "name": "World End Diner",
+      "short_description_ja": "人類滅亡後の、世界最後の島で、レストランを経営しよう！　生き残った可愛い動物達やロボット達のために、美味しい料理を作り、農場を経営し、森を探索し、最高のダイナーを作り上げよう！",
+      "short_description_en": "Run a diner on the last island in the world after the destruction of humankind! For the cute animals and robots that survived, cook delicious food, run a farm, explore the forest, and create the best diner!",
+      "short_description": "人類滅亡後の、世界最後の島で、レストランを経営しよう！　生き残った可愛い動物達やロボット達のために、美味しい料理を作り、農場を経営し、森を探索し、最高のダイナーを作り上げよう！",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/header.jpg?t=1740745033",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/capsule_231x87.jpg?t=1740745033",
+      "developers": [
+        "Andymente"
+      ],
+      "publishers": [
+        "Andymente"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "Steamクラウド",
+        "Steamランキング",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2025年2月3日",
+      "release_date_en": "3 Feb, 2025",
+      "release_date": "2025年2月3日",
+      "is_free": false,
+      "price_initial": 152000,
+      "price_final": 121600,
+      "discount_percent": 20,
+      "price_formatted": "¥ 1,216",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語",
+      "website": "http://andymente.moo.jp/html/game2/world_end_diner/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_b16996e851e933b89b718c47a9a25bcf9812cc80.1920x1080.jpg?t=1740745033",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_686d3d9d0801c516f636dc0e4b8e8df95a6d0960.1920x1080.jpg?t=1740745033",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_514a901e39aebd3f09d35815cba0b221c41d0903.1920x1080.jpg?t=1740745033",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_c7d92cee2515a367e752570b0ca8ca66bc512f88.1920x1080.jpg?t=1740745033",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_e8859e49db2a0f417a8b5b8f1e2b0f789bd745d4.1920x1080.jpg?t=1740745033"
+      ],
+      "movies": [
+        {
+          "name": "World End Diner Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835943/movie.293x165.jpg?t=1622109945",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 404,
+      "total_reviews": 416,
+      "total_positive": 391,
+      "total_negative": 25,
+      "review_score_desc": "Very Positive",
+      "slug": "world-end-diner",
+      "recommend": "niche",
+      "tags_ja": [
+        "シミュレーション",
+        "サンドボックス",
+        "料理",
+        "没入シミュレーション",
+        "農場シミュレーション",
+        "人生シミュレーション",
+        "ポストアポカリプス",
+        "農業"
+      ],
+      "tags_en": [
+        "Simulation",
+        "Sandbox",
+        "Cooking",
+        "Immersive Sim",
+        "Farming Sim",
+        "Life Sim",
+        "Post-apocalyptic",
+        "Agriculture"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1933990,
+      "required_age": 0,
+      "name_ja": "創作ハンバーガー堂",
+      "name_en": "Burger Bistro Story",
+      "name": "Burger Bistro Story",
+      "short_description_ja": "夢の味わいハンバーガー屋さん経営ゲーム。シャキシャキ野菜に肉汁たっぷりパティ、 あれもこれも、ふっくらバンズに挟んで重ねよう",
+      "short_description_en": "Open your own diner and create custom burgers in this management sim game.",
+      "short_description": "夢の味わいハンバーガー屋さん経営ゲーム。シャキシャキ野菜に肉汁たっぷりパティ、 あれもこれも、ふっくらバンズに挟んで重ねよう",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/header_japanese.jpg?t=1706686272",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/capsule_231x87_japanese.jpg?t=1706686272",
+      "developers": [
+        "Kairosoft Co.,Ltd"
+      ],
+      "publishers": [
+        "Kairosoft Co.,Ltd"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年1月15日",
+      "release_date_en": "15 Jan, 2023",
+      "release_date": "2023年1月15日",
+      "is_free": false,
+      "price_initial": 128000,
+      "price_final": 128000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,280",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語, 韓国語, タイ語, フランス語, ドイツ語",
+      "website": "https://kairosoft.net/game/appli/burger.html",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_02aa5b57e7f604157f977ce85dc0abe2a0c5e13f.1920x1080.jpg?t=1706686272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_a12eea463f57b76dbeece695d9ede95d4fe6d3c9.1920x1080.jpg?t=1706686272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_f5f1d6278114b647a8671196bbb6332ca6ab5b00.1920x1080.jpg?t=1706686272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_91c674745efd3c349f029cc6ccc7f4418a28aac8.1920x1080.jpg?t=1706686272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933990/ss_3640590c47163bb3e1f16b0ccefc1afebbbbb196.1920x1080.jpg?t=1706686272"
+      ],
+      "movies": [
+        {
+          "name": "BurgerBistroStory_japanese",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879739/movie.293x165.jpg?t=1649255522",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 276,
+      "total_reviews": 305,
+      "total_positive": 254,
+      "total_negative": 51,
+      "review_score_desc": "Very Positive",
+      "slug": "burger-bistro-story",
+      "recommend": "all",
+      "tags_ja": [
+        "カジュアル",
+        "シミュレーション",
+        "ストラテジー",
+        "料理",
+        "ドット絵",
+        "人生シミュレーション",
+        "街づくり",
+        "2D"
+      ],
+      "tags_en": [
+        "Casual",
+        "Simulation",
+        "Strategy",
+        "Cooking",
+        "Pixel Graphics",
+        "Life Sim",
+        "City Builder",
+        "2D"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": true,
+      "article_title": "カイロソフトのお買い物、攻略！"
+    },
+    {
+      "appid": 1086940,
+      "required_age": 0,
+      "name_ja": "Baldur's Gate 3",
+      "name_en": "Baldur's Gate 3",
+      "name": "Baldur's Gate 3",
+      "short_description_ja": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "short_description_en": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "short_description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1765505948",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg?t=1765505948",
+      "developers": [
+        "Larian Studios"
+      ],
+      "publishers": [
+        "Larian Studios"
+      ],
+      "genres_ja": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "genres": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "LAN協力プレイ",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "テキストサイズの調整",
+        "カメラの快適性",
+        "色のオプション",
+        "カスタム音量調整",
+        "難易度の調整",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "ステレオサウンド",
+        "字幕オプション",
+        "サラウンドサウンド",
+        "Steamクラウド",
+        "テレビでRemote Play",
+        "Remote Play Together",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年8月3日",
+      "release_date_en": "3 Aug, 2023",
+      "release_date": "2023年8月3日",
+      "is_free": false,
+      "price_initial": 849900,
+      "price_final": 849900,
+      "discount_percent": 0,
+      "price_formatted": "¥ 8,499",
+      "currency": "JPY",
+      "metacritic_score": 96,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, フランス語, ドイツ語, スペイン語 - スペイン, ポーランド語, ロシア語, 中国語（簡体字）, トルコ語, ポルトガル語－ブラジル, イタリア語, スペイン語－ラテンアメリカ, 中国語（繁体字）, ウクライナ語, 韓国語, 日本語<br><strong>*</strong>フル音声対応言語",
+      "website": "https://baldursgate3.game",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg?t=1765505948",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1765505948",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg?t=1765505948",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.1920x1080.jpg?t=1765505948",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.1920x1080.jpg?t=1765505948"
+      ],
+      "movies": [
+        {
+          "name": "Baldur's Gate 3 - Accolades Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987424/movie.293x165.jpg?t=1702007645",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Baldur's Gate 3 - Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961600/movie.293x165.jpg?t=1695393579",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Baldur's Gate 3 - Release Teaser",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957679/movie.293x165.jpg?t=1692294107",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Baldur's Gate 3 - First Look at the City",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952190/movie.293x165.jpg?t=1692294111",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Baldur's Gate 3 - Release Date Reveal Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932354/movie.293x165.jpg?t=1692294115",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Baldur's Gate 3 - The Game Awards Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920587/movie.293x165.jpg?t=1692294120",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 725498,
+      "total_reviews": 823814,
+      "total_positive": 797539,
+      "total_negative": 26275,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "baldurs-gate-3",
+      "recommend": "all",
+      "tags_ja": [
+        "RPG",
+        "キャラクターカスタマイズ",
+        "選択型進行",
+        "ダンジョンズ＆ドラゴンズ",
+        "ターン制コンバット",
+        "物語性",
+        "性的表現",
+        "コンピューターRPG"
+      ],
+      "tags_en": [
+        "RPG",
+        "Character Customization",
+        "Choices Matter",
+        "Dungeons & Dragons",
+        "Turn-Based Combat",
+        "Story Rich",
+        "Sexual Content",
+        "CRPG"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 1984790,
+      "required_age": 0,
+      "name_ja": "ドラゴノーカ",
+      "name_en": "Drago Noka",
+      "name": "Drago Noka",
+      "short_description_ja": "地上は巨獣と害獣の巣となり、人間が住めなくなった世界。人は竜の背にすがり、生きている。 竜の背にある村を開拓し、自らの手で様々な素材を集めてアイテムをつくりだし、自由に村づくりを楽しみましょう。",
+      "short_description_en": "The surface has become overrun with huge giants and dangerous pests, leaving an uninhabitable world in their quake. Humans have nowhere to live, and so… they live on the backs of dragons! Develop your very own village, gather various materials, and create new items with your very own hands.",
+      "short_description": "地上は巨獣と害獣の巣となり、人間が住めなくなった世界。人は竜の背にすがり、生きている。 竜の背にある村を開拓し、自らの手で様々な素材を集めてアイテムをつくりだし、自由に村づくりを楽しみましょう。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/header_japanese.jpg?t=1728438632",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/capsule_231x87_japanese.jpg?t=1728438632",
+      "developers": [
+        "GeSEI unkan (ゲ製うんかん)"
+      ],
+      "publishers": [
+        "PLAYISM"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Simulation"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2023年1月12日",
+      "release_date_en": "12 Jan, 2023",
+      "release_date": "2023年1月12日",
+      "is_free": false,
+      "price_initial": 198000,
+      "price_final": 198000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,980",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）",
+      "website": "https://playism.com/game/dragonoka/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_762a10a8726a0d2454bbd652f54581a4a15ed4e2.1920x1080.jpg?t=1728438632",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_3049df8fc840a6597a9da8cbb8d48b8539318e0b.1920x1080.jpg?t=1728438632",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_7050f385d51582758a1c600d1f6922579398fd0c.1920x1080.jpg?t=1728438632",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_aa1e7c8402b61fccec298d54f12f26a385fb282b.1920x1080.jpg?t=1728438632",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984790/ss_8257385517a300b8c03bea4ba927ec0fd99aa32a.1920x1080.jpg?t=1728438632"
+      ],
+      "movies": [
+        {
+          "name": "Drago Noka Japanese Announcement Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256885961/movie.293x165.jpg?t=1664434264",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 2082500,
+      "recommendations_total": 139,
+      "total_reviews": 172,
+      "total_positive": 140,
+      "total_negative": 32,
+      "review_score_desc": "Very Positive",
+      "slug": "drago-noka",
+      "recommend": "niche",
+      "tags_ja": [
+        "カジュアル",
+        "農場シミュレーション",
+        "ドラゴン",
+        "シミュレーション",
+        "農業",
+        "街づくり",
+        "人生シミュレーション",
+        "サンドボックス"
+      ],
+      "tags_en": [
+        "Casual",
+        "Farming Sim",
+        "Dragons",
+        "Simulation",
+        "Agriculture",
+        "City Builder",
+        "Life Sim",
+        "Sandbox"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
+      "has_article": false
+    },
+    {
+      "appid": 427520,
+      "required_age": 0,
+      "name_ja": "Factorio",
+      "name_en": "Factorio",
+      "name": "Factorio",
+      "short_description_ja": "Factorioは無限に広がる2D世界に自動化された工場を建設し、次第に複雑になる様々なアイテムを製造するゲームです――想像力を駆使して工場をデザインしましょう。単純な要素を組みあわせ、精巧なラインを作りましょう。そしてあなたを敵視する生物から工場を守りましょう。",
+      "short_description_en": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+      "short_description": "Factorioは無限に広がる2D世界に自動化された工場を建設し、次第に複雑になる様々なアイテムを製造するゲームです――想像力を駆使して工場をデザインしましょう。単純な要素を組みあわせ、精巧なラインを作りましょう。そしてあなたを敵視する生物から工場を守りましょう。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/capsule_231x87.jpg?t=1763986204",
+      "developers": [
+        "Wube Software LTD."
+      ],
+      "publishers": [
+        "Wube Software LTD."
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "LAN協力プレイ",
+        "クロスプラットフォームマルチプレイヤー",
+        "Steam実績",
+        "テキストサイズの調整",
+        "カメラの快適性",
+        "カスタム音量調整",
+        "難易度の調整",
+        "時間制限付き入力なしでプレイ可能",
+        "いつでもセーブ可能",
+        "字幕オプション",
+        "部分的コントローラサポート",
+        "Steamクラウド",
+        "レベル編集可能",
+        "タブレットでRemote Play",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2020年8月14日",
+      "release_date_en": "14 Aug, 2020",
+      "release_date": "2020年8月14日",
+      "is_free": false,
+      "price_initial": 400000,
+      "price_final": 400000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 4,000",
+      "currency": "JPY",
+      "metacritic_score": 90,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ハンガリー語, オランダ語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, ルーマニア語, フィンランド語, スウェーデン語, チェコ語, ロシア語, ウクライナ語, 日本語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, トルコ語, ギリシャ語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ベラルーシ語, カタルーニャ語, カザフ語, ジョージア語",
+      "website": "https://www.factorio.com",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.1920x1080.jpg?t=1763986204",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.1920x1080.jpg?t=1763986204",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0bf814493f247b6baa093511b46c352cf9e98435.1920x1080.jpg?t=1763986204",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_2533e54b0bd90a29adbedb60108ed277536ad445.1920x1080.jpg?t=1763986204",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_192864c00fc38b5ef97b97ca7fa655a9aed7c0da.1920x1080.jpg?t=1763986204"
+      ],
+      "movies": [
+        {
+          "name": "Teaser 2020",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796273/movie.293x165.jpg?t=1597395499",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Gameplay Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660593/movie.293x165.jpg?t=1456427081",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "1.0 launch trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796265/movie.293x165.jpg?t=1597395492",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 452280,
+      "recommendations_total": 187341,
+      "total_reviews": 224934,
+      "total_positive": 219263,
+      "total_negative": 5671,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "factorio",
+      "recommend": "all",
+      "by": "kotori",
+      "tags_ja": [
+        "自動化",
+        "基地建設",
+        "資源管理",
+        "サンドボックス",
+        "クラフト",
+        "ストラテジー",
+        "マルチプレイヤー",
+        "サバイバル"
+      ],
+      "tags_en": [
+        "Automation",
+        "Base Building",
+        "Resource Management",
+        "Sandbox",
+        "Crafting",
+        "Strategy",
+        "Multiplayer",
+        "Survival"
+      ],
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3272,7 +5544,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3363,7 +5635,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3437,8 +5709,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 25338,
-      "total_positive": 24767,
+      "total_reviews": 25340,
+      "total_positive": 24769,
       "total_negative": 571,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "pineapple-on-pizza",
@@ -3464,7 +5736,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3560,7 +5832,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     },
     {
@@ -3651,8 +5923,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 89652,
-      "total_positive": 87501,
+      "total_reviews": 89676,
+      "total_positive": 87525,
       "total_negative": 2151,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "bongo-cat",
@@ -3678,7 +5950,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-14T22:28:52.647600",
+      "fetched_at": "2026-02-15T12:56:56.756445",
       "has_article": false
     }
   ]

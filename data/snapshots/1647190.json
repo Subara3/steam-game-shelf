@@ -1,0 +1,102 @@
+{
+  "appid": 1647190,
+  "required_age": 0,
+  "name_ja": "World End Diner",
+  "name_en": "World End Diner",
+  "name": "World End Diner",
+  "short_description_ja": "人類滅亡後の、世界最後の島で、レストランを経営しよう！　生き残った可愛い動物達やロボット達のために、美味しい料理を作り、農場を経営し、森を探索し、最高のダイナーを作り上げよう！",
+  "short_description_en": "Run a diner on the last island in the world after the destruction of humankind! For the cute animals and robots that survived, cook delicious food, run a farm, explore the forest, and create the best diner!",
+  "short_description": "人類滅亡後の、世界最後の島で、レストランを経営しよう！　生き残った可愛い動物達やロボット達のために、美味しい料理を作り、農場を経営し、森を探索し、最高のダイナーを作り上げよう！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/header.jpg?t=1740745033",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/capsule_231x87.jpg?t=1740745033",
+  "developers": [
+    "Andymente"
+  ],
+  "publishers": [
+    "Andymente"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "Steamランキング",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2025年2月3日",
+  "release_date_en": "3 Feb, 2025",
+  "release_date": "2025年2月3日",
+  "is_free": false,
+  "price_initial": 152000,
+  "price_final": 121600,
+  "discount_percent": 20,
+  "price_formatted": "¥ 1,216",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語",
+  "website": "http://andymente.moo.jp/html/game2/world_end_diner/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_b16996e851e933b89b718c47a9a25bcf9812cc80.1920x1080.jpg?t=1740745033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_686d3d9d0801c516f636dc0e4b8e8df95a6d0960.1920x1080.jpg?t=1740745033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_514a901e39aebd3f09d35815cba0b221c41d0903.1920x1080.jpg?t=1740745033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_c7d92cee2515a367e752570b0ca8ca66bc512f88.1920x1080.jpg?t=1740745033",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647190/ss_e8859e49db2a0f417a8b5b8f1e2b0f789bd745d4.1920x1080.jpg?t=1740745033"
+  ],
+  "movies": [
+    {
+      "name": "World End Diner Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835943/movie.293x165.jpg?t=1622109945",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 404,
+  "total_reviews": 416,
+  "total_positive": 391,
+  "total_negative": 25,
+  "review_score_desc": "Very Positive",
+  "slug": "world-end-diner",
+  "recommend": "niche",
+  "tags_ja": [
+    "シミュレーション",
+    "サンドボックス",
+    "料理",
+    "没入シミュレーション",
+    "農場シミュレーション",
+    "人生シミュレーション",
+    "ポストアポカリプス",
+    "農業"
+  ],
+  "tags_en": [
+    "Simulation",
+    "Sandbox",
+    "Cooking",
+    "Immersive Sim",
+    "Farming Sim",
+    "Life Sim",
+    "Post-apocalyptic",
+    "Agriculture"
+  ],
+  "fetched_at": "2026-02-15T12:56:56.756445"
+}
