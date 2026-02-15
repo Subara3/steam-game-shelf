@@ -233,7 +233,8 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", 
             s_name = steam_match.group(2)
             html_lines.append(
                 f'<a href="https://store.steampowered.com/app/{s_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img"'
+                f" onerror=\"this.style.display='none';this.parentElement.classList.add('link-card')\">"
                 f'<span class="steam-ogp-name">{s_name}</span>'
                 f'</a>'
             )
@@ -485,6 +486,14 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
             out_mtime = out_path.stat().st_mtime
             if md_path.stat().st_mtime < out_mtime and build_script_mtime < out_mtime:
                 continue
+
+        # 記事内の !steam OGP画像URLをスナップショットの正しいURLに置換
+        article_html = art["html"]
+        for aid, img_url in header_images.items():
+            if img_url and aid:
+                placeholder = f"https://cdn.akamai.steamstatic.com/steam/apps/{aid}/header.jpg"
+                article_html = article_html.replace(placeholder, img_url)
+
         meta = art["meta"]
         title = meta.get("title", slug)
         appid = meta.get("appid", "")
@@ -527,7 +536,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 
         # SEO: description を最初の対話行から抽出
         desc_text = ""
-        for dline in art["html"].split("\n"):
+        for dline in article_html.split("\n"):
             if "dialogue-bubble" in dline:
                 # dialogue-name タグを除去してからテキスト抽出
                 text = re.sub(r'<span class="dialogue-name">.*?</span>', '', dline)
@@ -628,7 +637,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
       <h1>{title}</h1>
       {ogp_card}
     </header>
-    {art["html"]}
+    {article_html}
   </article>
 
   {art.get("pet_html", "")}
