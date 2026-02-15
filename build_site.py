@@ -17,6 +17,8 @@ CONTENT_EN_DIR = BASE_DIR / "content" / "en"
 SITE_DIR = BASE_DIR / "steam"
 GAMES_PATH = BASE_DIR / "games.json"
 TEMPLATE_DIR = BASE_DIR / "templates"
+HISTORY_CACHE_PATH = BASE_DIR / "data" / "history-cache.json"
+BUILD_SCRIPT_PATH = Path(__file__).resolve()
 
 
 def load_game_list() -> list[dict]:
@@ -34,9 +36,22 @@ def load_latest_snapshot() -> dict | None:
 
 
 def load_price_history() -> dict:
-    """全日次スナップショットから価格履歴を構築"""
-    history = {}  # appid -> [{date, price_final, discount_percent}, ...]
+    """全日次スナップショットから価格履歴を構築（キャッシュ付き）"""
+    cache = {"files_processed": [], "history": {}}
+    if HISTORY_CACHE_PATH.exists():
+        try:
+            with open(HISTORY_CACHE_PATH, encoding="utf-8") as f:
+                cache = json.load(f)
+        except (json.JSONDecodeError, KeyError):
+            cache = {"files_processed": [], "history": {}}
+
+    processed = set(cache.get("files_processed", []))
+    history = cache.get("history", {})
+    new_files = 0
+
     for f in sorted(SNAPSHOTS_DIR.glob("2*-*-*.json")):
+        if f.name in processed:
+            continue
         with open(f, encoding="utf-8") as fh:
             snap = json.load(fh)
         date = snap.get("date", "")
@@ -49,6 +64,18 @@ def load_price_history() -> dict:
                 "price_final": game.get("price_final", 0),
                 "discount_percent": game.get("discount_percent", 0),
             })
+        processed.add(f.name)
+        new_files += 1
+
+    if new_files > 0:
+        cache["files_processed"] = sorted(processed)
+        cache["history"] = history
+        with open(HISTORY_CACHE_PATH, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False)
+        print(f"  価格履歴キャッシュ更新: {new_files}件の新規スナップショット")
+    else:
+        print(f"  価格履歴キャッシュ使用: 新規スナップショットなし")
+
     return history
 
 
@@ -288,6 +315,24 @@ def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix:
     return articles
 
 
+def cleanup_orphaned_articles(articles: dict, articles_en: dict | None = None):
+    """content/ に対応する .md がない孤立した記事HTMLを削除"""
+    cleaned = 0
+    for articles_dir, valid_slugs in [
+        (SITE_DIR / "articles", set(articles.keys())),
+        (SITE_DIR / "articles" / "en", set(articles_en.keys()) if articles_en else set()),
+    ]:
+        if not articles_dir.exists():
+            continue
+        for html_file in articles_dir.glob("*.html"):
+            if html_file.stem not in valid_slugs:
+                html_file.unlink()
+                print(f"  孤立記事削除: {html_file.name}")
+                cleaned += 1
+    if cleaned:
+        print(f"  計{cleaned}件の孤立記事を削除")
+
+
 def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: dict = None):
     """site/data/ にダッシュボード用JSONを出力"""
     data_dir = SITE_DIR / "data"
@@ -386,7 +431,7 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
 
 
 def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None = None):
-    """Markdown記事をHTMLページとして出力"""
+    """Markdown記事をHTMLページとして出力（差分ビルド対応）"""
     # appid → header_image マップ構築
     header_images = {}
     if snapshot:
@@ -394,6 +439,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
             header_images[str(g.get("appid", ""))] = g.get("header_image", "")
     if lang == "en":
         articles_dir = SITE_DIR / "articles" / "en"
+        content_dir = CONTENT_EN_DIR
         prefix = "../../"
         html_lang = "en"
         top_label = "Top"
@@ -401,6 +447,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         site_name = "The Wonderful Steam Game Shelf"
     else:
         articles_dir = SITE_DIR / "articles"
+        content_dir = CONTENT_DIR
         prefix = "../"
         html_lang = "ja"
         top_label = "トップ"
@@ -408,8 +455,17 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         site_name = "すばらしきSteamゲームの本棚"
 
     articles_dir.mkdir(parents=True, exist_ok=True)
+    build_script_mtime = BUILD_SCRIPT_PATH.stat().st_mtime
 
     for slug, art in articles.items():
+        out_path = articles_dir / f"{slug}.html"
+        md_path = content_dir / f"{slug}.md"
+
+        # 差分ビルド: .md と build_site.py の両方が出力より古ければスキップ
+        if out_path.exists() and md_path.exists():
+            out_mtime = out_path.stat().st_mtime
+            if md_path.stat().st_mtime < out_mtime and build_script_mtime < out_mtime:
+                continue
         meta = art["meta"]
         title = meta.get("title", slug)
         appid = meta.get("appid", "")
@@ -573,7 +629,6 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 </footer>
 </body>
 </html>"""
-        out_path = articles_dir / f"{slug}.html"
         with open(out_path, "w", encoding="utf-8") as f:
             f.write(html)
         print(f"  記事生成 ({lang}): {out_path.name}")
@@ -597,7 +652,10 @@ def main():
     build_data_json(snapshot, history, articles, articles_en)
     print(f"データJSON出力完了")
 
-    # 記事ページ生成
+    # 孤立記事の削除
+    cleanup_orphaned_articles(articles, articles_en)
+
+    # 記事ページ生成（差分ビルド）
     if articles:
         build_article_pages(articles, lang="ja", snapshot=snapshot)
     if articles_en:
