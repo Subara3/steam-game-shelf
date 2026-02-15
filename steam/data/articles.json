@@ -20,17 +20,6 @@
     "lang": "ja"
   },
   {
-    "slug": "burger-bistro-story",
-    "title": "カイロソフトのお買い物、攻略！",
-    "appid": "",
-    "tags": [
-      "経営シミュレーション",
-      "カイロソフト",
-      "インディー"
-    ],
-    "lang": "ja"
-  },
-  {
     "slug": "elin",
     "title": "Elin - 果てなきローグライクの深淵",
     "appid": "2135150",
@@ -50,6 +39,17 @@
       "推理",
       "パズル",
       "論理",
+      "インディー"
+    ],
+    "lang": "ja"
+  },
+  {
+    "slug": "kairosoft",
+    "title": "カイロソフトのお買い物、攻略！",
+    "appid": "",
+    "tags": [
+      "経営シミュレーション",
+      "カイロソフト",
       "インディー"
     ],
     "lang": "ja"
@@ -144,17 +144,6 @@
     "lang": "en"
   },
   {
-    "slug": "burger-bistro-story",
-    "title": "Kairosoft Shopping Guide!",
-    "appid": "",
-    "tags": [
-      "Management Sim",
-      "Kairosoft",
-      "Indie"
-    ],
-    "lang": "en"
-  },
-  {
     "slug": "elin",
     "title": "Elin - The Bottomless Roguelike",
     "appid": "2135150",
@@ -174,6 +163,17 @@
       "Mystery",
       "Puzzle",
       "Logic",
+      "Indie"
+    ],
+    "lang": "en"
+  },
+  {
+    "slug": "kairosoft",
+    "title": "Kairosoft Shopping Guide!",
+    "appid": "",
+    "tags": [
+      "Management Sim",
+      "Kairosoft",
       "Indie"
     ],
     "lang": "en"
