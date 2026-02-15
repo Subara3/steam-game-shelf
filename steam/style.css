@@ -1141,6 +1141,17 @@ h1, h2, h3, h4, h5, h6,
   color: #c7d5e0;
 }
 
+.steam-ogp-card.link-card {
+  padding: 1rem 1.2rem;
+  text-align: center;
+}
+
+.steam-ogp-card.link-card .steam-ogp-name {
+  font-size: 1rem;
+  padding: 0;
+  color: var(--steam-blue);
+}
+
 /* ===== プロフィールカード ===== */
 .profile-card {
   display: flex;

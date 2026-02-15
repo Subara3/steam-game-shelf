@@ -19,9 +19,9 @@ order: 3
 
 > scala: Every game they make is great fun, but Kairosoft's older titles can sometimes be picked up incredibly cheap in bundle sales.
 
-> scala: [Kairosoft Complete Collection](https://store.steampowered.com/bundle/25263/_/)
+!link[https://store.steampowered.com/bundle/25263/_/](Kairosoft Complete Collection)
 
-> scala: [Kairosoft Starter Pack](https://store.steampowered.com/bundle/26387/_/)
+!link[https://store.steampowered.com/bundle/26387/_/](Kairosoft Starter Pack)
 
 > scala: That said, Steam will deduct the price of any games you already own from a bundle (as long as they're different games).
 
@@ -37,17 +37,27 @@ order: 3
 
 > scala: These aren't really the kind of games where you create custom characters and lovingly watch over them. (You can to some extent, but the aesthetic is more cute than elegant.)
 
-> scala: My recommendations are "[Dungeon Village](https://store.steampowered.com/app/1937390/)" and "[Burger Bistro Story](https://store.steampowered.com/app/1933990/)." The new "[Demon Castle Story](https://store.steampowered.com/app/3349760/)" is sure to be great too.
+> scala: My recommendations are "Dungeon Village" and "Burger Bistro Story."
 
-> kotori: If you like Doraemon, "[Doraemon Dorayaki Shop Story](https://store.steampowered.com/app/2546560/)" is a great pick!
+!steam[1937390](Dungeon Village)
+
+!steam[1933990](Burger Bistro Story)
+
+> scala: The new "Demon Castle Story" is sure to be great too.
+
+!steam[3349760](Demon Castle Story)
+
+> kotori: If you like Doraemon, "Doraemon Dorayaki Shop Story" is a great pick!
+
+!steam[2546560](Doraemon Dorayaki Shop Story)
 
 > scala: Word is that the collab goes beyond surface-level fan service and digs into some really deep-cut references.
 
 > scala: Apparently Kairosoft's CEO is a big fan of manga like Kochikame and Doraemon. Their collaborations are carefully curated, and the attention to detail is surprisingly high. For such a goofy studio.
 
-> kotori: They even sell merchandise — it's really cute!
+> scala: They even sell merchandise — it's really cute!
 
-> kotori: [Kairosoft Official Store](https://kairosoft.stores.jp/)
+!link[https://kairosoft.stores.jp/](Kairosoft Official Store)
 
 > kotori: Kairo-kun is adorable, isn't he?
 
