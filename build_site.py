@@ -410,22 +410,28 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
     # 記事一覧
     article_list = []
     for slug, art in articles.items():
-        article_list.append({
+        entry = {
             "slug": slug,
             "title": art["meta"].get("title", slug),
             "appid": art["meta"].get("appid", ""),
             "tags": art["meta"].get("tags", []),
             "lang": "ja",
-        })
+        }
+        if art["meta"].get("order"):
+            entry["order"] = int(art["meta"]["order"])
+        article_list.append(entry)
     if articles_en:
         for slug, art in articles_en.items():
-            article_list.append({
+            entry = {
                 "slug": slug,
                 "title": art["meta"].get("title", slug),
                 "appid": art["meta"].get("appid", ""),
                 "tags": art["meta"].get("tags", []),
                 "lang": "en",
-            })
+            }
+            if art["meta"].get("order"):
+                entry["order"] = int(art["meta"]["order"])
+            article_list.append(entry)
     with open(data_dir / "articles.json", "w", encoding="utf-8") as f:
         json.dump(article_list, f, ensure_ascii=False, indent=2)
 
