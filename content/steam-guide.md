@@ -1,6 +1,7 @@
 ---
 title: Steamとは
 tags: [ガイド, Steam]
+order: 2
 ---
 
 > kotori: 博士―。

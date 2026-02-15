@@ -1,6 +1,7 @@
 ---
 title: What Is Steam?
 tags: [Guide, Steam]
+order: 2
 ---
 
 *\*This article was translated by AI.*

@@ -93,7 +93,9 @@ function dashboard() {
     },
 
     get siteArticles() {
-      return this.articles.filter(a => !a.appid && a.lang === this.lang);
+      return this.articles
+        .filter(a => !a.appid && a.lang === this.lang)
+        .sort((a, b) => (a.order || 999) - (b.order || 999));
     },
 
     get allMainGenres() {

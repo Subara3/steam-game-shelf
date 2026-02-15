@@ -2,6 +2,7 @@
 title: Kairosoft Shopping Guide!
 tags: [Management Sim, Kairosoft, Indie]
 pet_safety: none
+order: 3
 ---
 
 *\*This article was translated by AI.*
