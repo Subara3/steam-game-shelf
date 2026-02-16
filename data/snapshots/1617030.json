@@ -38,9 +38,9 @@
   "release_date": "2022年4月1日",
   "is_free": false,
   "price_initial": 164000,
-  "price_final": 49200,
-  "discount_percent": 70,
-  "price_formatted": "¥ 492",
+  "price_final": 164000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,640",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -100,5 +100,5 @@
     "Exploration",
     "Comedy"
   ],
-  "fetched_at": "2026-02-16T09:32:59.831311"
+  "fetched_at": "2026-02-16T22:33:54.756855"
 }

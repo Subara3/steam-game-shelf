@@ -82,9 +82,9 @@
     }
   ],
   "demo_appid": 1439770,
-  "recommendations_total": 9995,
-  "total_reviews": 11279,
-  "total_positive": 10521,
+  "recommendations_total": 9994,
+  "total_reviews": 11278,
+  "total_positive": 10520,
   "total_negative": 758,
   "review_score_desc": "Very Positive",
   "slug": "luck-be-a-landlord",
@@ -109,5 +109,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-02-16T09:32:59.831311"
+  "fetched_at": "2026-02-16T22:33:54.756855"
 }
