@@ -41,9 +41,9 @@
   "release_date": "2022年11月2日",
   "is_free": false,
   "price_initial": 70000,
-  "price_final": 70000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 700",
+  "price_final": 46200,
+  "discount_percent": 34,
+  "price_formatted": "¥ 462",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -115,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-02-16T09:32:59.831311"
+  "fetched_at": "2026-02-16T22:33:54.756855"
 }

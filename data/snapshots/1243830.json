@@ -55,9 +55,9 @@
   "release_date": "2021年3月23日",
   "is_free": false,
   "price_initial": 410000,
-  "price_final": 123000,
-  "discount_percent": 70,
-  "price_formatted": "¥ 1,230",
+  "price_final": 410000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,100",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -101,9 +101,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5101,
-  "total_reviews": 7312,
-  "total_positive": 5308,
+  "recommendations_total": 5106,
+  "total_reviews": 7317,
+  "total_positive": 5313,
   "total_negative": 2004,
   "review_score_desc": "Mostly Positive",
   "slug": "overcooked-ayce",
@@ -129,5 +129,5 @@
     "Family Friendly",
     "Local Multiplayer"
   ],
-  "fetched_at": "2026-02-16T09:32:59.831311"
+  "fetched_at": "2026-02-16T22:33:54.756855"
 }
