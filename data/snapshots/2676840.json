@@ -66,17 +66,17 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9150,
-  "total_reviews": 9464,
-  "total_positive": 9138,
-  "total_negative": 326,
+  "recommendations_total": 9155,
+  "total_reviews": 9470,
+  "total_positive": 9143,
+  "total_negative": 327,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
   "recommend": "all",
   "tags_ja": [
     "インタラクティブフィクション",
-    "パズル",
     "調査",
+    "パズル",
     "ビジュアルノベル",
     "ポイント＆クリック",
     "物語性",
@@ -85,13 +85,13 @@
   ],
   "tags_en": [
     "Interactive Fiction",
-    "Puzzle",
     "Investigation",
+    "Puzzle",
     "Visual Novel",
     "Point & Click",
     "Story Rich",
     "Adventure",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-02-15T22:29:47.630498"
+  "fetched_at": "2026-02-16T09:32:59.831311"
 }
