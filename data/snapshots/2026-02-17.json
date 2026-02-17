@@ -1,6 +1,6 @@
 {
   "date": "2026-02-17",
-  "timestamp": "2026-02-17T13:39:55.351471",
+  "timestamp": "2026-02-17T23:48:33.683521",
   "games": [
     {
       "appid": 2379780,
@@ -80,9 +80,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 148012,
-      "total_reviews": 183427,
-      "total_positive": 179625,
+      "recommendations_total": 148015,
+      "total_reviews": 183433,
+      "total_positive": 179631,
       "total_negative": 3802,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
@@ -107,7 +107,7 @@
         "Strategy",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 413150,
@@ -191,10 +191,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 838971,
-      "total_reviews": 977481,
-      "total_positive": 962519,
-      "total_negative": 14962,
+      "recommendations_total": 839003,
+      "total_reviews": 977496,
+      "total_positive": 962533,
+      "total_negative": 14963,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2135150,
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 391540,
@@ -408,9 +408,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 282294,
-      "total_reviews": 314290,
-      "total_positive": 304147,
+      "recommendations_total": 282297,
+      "total_reviews": 314295,
+      "total_positive": 304152,
       "total_negative": 10143,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 568220,
@@ -503,10 +503,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 47104,
+      "recommendations_total": 47105,
       "total_reviews": 51220,
-      "total_positive": 48210,
-      "total_negative": 3010,
+      "total_positive": 48209,
+      "total_negative": 3011,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
       "recommend": "niche",
@@ -530,7 +530,7 @@
         "Gore",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1256670,
@@ -711,9 +711,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 36028,
-      "total_reviews": 40042,
-      "total_positive": 37796,
+      "recommendations_total": 36030,
+      "total_reviews": 40043,
+      "total_positive": 37797,
       "total_negative": 2246,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1404850,
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3314790,
@@ -935,8 +935,8 @@
       ],
       "demo_appid": 3347820,
       "recommendations_total": 19994,
-      "total_reviews": 20950,
-      "total_positive": 18916,
+      "total_reviews": 20951,
+      "total_positive": 18917,
       "total_negative": 2034,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -961,7 +961,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 294100,
@@ -1043,9 +1043,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 197931,
-      "total_reviews": 233547,
-      "total_positive": 228634,
+      "recommendations_total": 197932,
+      "total_reviews": 233548,
+      "total_positive": 228635,
       "total_negative": 4913,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
@@ -1070,7 +1070,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 632470,
@@ -1152,10 +1152,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111694,
+      "recommendations_total": 111696,
       "total_reviews": 123469,
-      "total_positive": 114517,
-      "total_negative": 8952,
+      "total_positive": 114518,
+      "total_negative": 8951,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
@@ -1179,7 +1179,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1222140,
@@ -1251,9 +1251,9 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 194978,
-      "total_reviews": 226033,
-      "total_positive": 217438,
+      "recommendations_total": 194989,
+      "total_reviews": 226048,
+      "total_positive": 217453,
       "total_negative": 8595,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
@@ -1278,7 +1278,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1054490,
@@ -1375,9 +1375,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9318,
-      "total_reviews": 11407,
-      "total_positive": 10756,
+      "recommendations_total": 9319,
+      "total_reviews": 11408,
+      "total_positive": 10757,
       "total_negative": 651,
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
@@ -1402,7 +1402,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1599600,
@@ -1516,7 +1516,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 913740,
@@ -1591,9 +1591,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 8848,
-      "total_reviews": 9694,
-      "total_positive": 8695,
+      "recommendations_total": 8847,
+      "total_reviews": 9693,
+      "total_positive": 8694,
       "total_negative": 999,
       "review_score_desc": "Very Positive",
       "slug": "world-of-horror",
@@ -1618,7 +1618,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1092790,
@@ -1698,10 +1698,10 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129355,
-      "total_reviews": 142075,
-      "total_positive": 137625,
-      "total_negative": 4450,
+      "recommendations_total": 129356,
+      "total_reviews": 142077,
+      "total_positive": 137626,
+      "total_negative": 4451,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "inscryption",
       "recommend": "niche",
@@ -1725,7 +1725,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 239030,
@@ -1801,8 +1801,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 71160,
-      "total_reviews": 78121,
-      "total_positive": 76003,
+      "total_reviews": 78122,
+      "total_positive": 76004,
       "total_negative": 2118,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "papers-please",
@@ -1827,7 +1827,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1669980,
@@ -1913,9 +1913,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 43212,
-      "total_reviews": 46773,
-      "total_positive": 45755,
+      "recommendations_total": 43213,
+      "total_reviews": 46774,
+      "total_positive": 45756,
       "total_negative": 1018,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "volcano-princess",
@@ -1940,7 +1940,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2676840,
@@ -2010,9 +2010,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9169,
-      "total_reviews": 9482,
-      "total_positive": 9154,
+      "recommendations_total": 9170,
+      "total_reviews": 9485,
+      "total_positive": 9157,
       "total_negative": 328,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
@@ -2037,7 +2037,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3117820,
@@ -2149,9 +2149,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22784,
-      "total_reviews": 31987,
-      "total_positive": 30446,
+      "recommendations_total": 22785,
+      "total_reviews": 31990,
+      "total_positive": 30449,
       "total_negative": 1541,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "sultans-game",
@@ -2176,7 +2176,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1794680,
@@ -2270,9 +2270,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 246215,
-      "total_reviews": 259718,
-      "total_positive": 255488,
+      "recommendations_total": 246217,
+      "total_reviews": 259720,
+      "total_positive": 255490,
       "total_negative": 4230,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "vampire-survivors",
@@ -2297,7 +2297,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 447530,
@@ -2401,7 +2401,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1515210,
@@ -2492,9 +2492,9 @@
         }
       ],
       "demo_appid": 1905120,
-      "recommendations_total": 14065,
-      "total_reviews": 16167,
-      "total_positive": 15320,
+      "recommendations_total": 14068,
+      "total_reviews": 16169,
+      "total_positive": 15322,
       "total_negative": 847,
       "review_score_desc": "Very Positive",
       "slug": "the-past-within",
@@ -2520,7 +2520,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 4327530,
@@ -2591,9 +2591,9 @@
         }
       ],
       "demo_appid": 4334900,
-      "recommendations_total": 379,
-      "total_reviews": 382,
-      "total_positive": 373,
+      "recommendations_total": 382,
+      "total_reviews": 384,
+      "total_positive": 375,
       "total_negative": 9,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2618,7 +2618,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1240210,
@@ -2726,7 +2726,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2455920,
@@ -2820,7 +2820,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1617030,
@@ -2924,7 +2924,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3101040,
@@ -3009,9 +3009,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 24346,
-      "total_reviews": 27272,
-      "total_positive": 26411,
+      "recommendations_total": 24349,
+      "total_reviews": 27277,
+      "total_positive": 26416,
       "total_negative": 861,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "magical-girl-witch-trials",
@@ -3037,7 +3037,7 @@
         "Story Rich",
         "Sexual Content"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 489830,
@@ -3117,10 +3117,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 205883,
-      "total_reviews": 359288,
-      "total_positive": 331445,
-      "total_negative": 27843,
+      "recommendations_total": 205886,
+      "total_reviews": 359292,
+      "total_positive": 331448,
+      "total_negative": 27844,
       "review_score_desc": "Very Positive",
       "slug": "skyrim",
       "recommend": "all",
@@ -3144,7 +3144,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3900,
@@ -3231,7 +3231,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2142790,
@@ -3339,7 +3339,7 @@
         "Simulation",
         "Romance"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3213850,
@@ -3493,7 +3493,7 @@
         "3D",
         "Relaxing"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 262060,
@@ -3608,7 +3608,7 @@
         "Difficult",
         "Turn-Based"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 377160,
@@ -3732,9 +3732,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 282944,
-      "total_reviews": 419650,
-      "total_positive": 340284,
-      "total_negative": 79366,
+      "total_reviews": 419655,
+      "total_positive": 340288,
+      "total_negative": 79367,
       "review_score_desc": "Very Positive",
       "slug": "fallout-4",
       "recommend": "all",
@@ -3758,7 +3758,7 @@
         "Atmospheric",
         "Shooter"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 550,
@@ -3862,10 +3862,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 780135,
-      "total_reviews": 1016805,
-      "total_positive": 991713,
-      "total_negative": 25092,
+      "recommendations_total": 780142,
+      "total_reviews": 1016808,
+      "total_positive": 991715,
+      "total_negative": 25093,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "left-4-dead-2",
       "recommend": "all",
@@ -3891,7 +3891,7 @@
         "Action",
         "Survival"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1150690,
@@ -3978,7 +3978,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 76896,
+      "recommendations_total": 76899,
       "total_reviews": 85341,
       "total_positive": 82876,
       "total_negative": 2465,
@@ -4005,7 +4005,7 @@
         "Multiple Endings",
         "RPGMaker"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 420530,
@@ -4081,8 +4081,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 55186,
-      "total_reviews": 60699,
-      "total_positive": 59674,
+      "total_reviews": 60698,
+      "total_positive": 59673,
       "total_negative": 1025,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "oneshot",
@@ -4107,7 +4107,7 @@
         "Puzzle",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1243830,
@@ -4240,7 +4240,7 @@
         "Family Friendly",
         "Local Multiplayer"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 400,
@@ -4319,9 +4319,9 @@
         }
       ],
       "demo_appid": 410,
-      "recommendations_total": 165693,
-      "total_reviews": 190706,
-      "total_positive": 187875,
+      "recommendations_total": 165695,
+      "total_reviews": 190707,
+      "total_positive": 187876,
       "total_negative": 2831,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "portal",
@@ -4347,7 +4347,7 @@
         "Comedy",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 620,
@@ -4536,9 +4536,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 378647,
-      "total_reviews": 453869,
-      "total_positive": 447987,
+      "recommendations_total": 378648,
+      "total_reviews": 453871,
+      "total_positive": 447989,
       "total_negative": 5882,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "portal-2",
@@ -4564,7 +4564,7 @@
         "Funny",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 405710,
@@ -4687,7 +4687,7 @@
         "Relaxing",
         "Building"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1016920,
@@ -4810,7 +4810,7 @@
         "Local Multiplayer",
         "Action"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1647190,
@@ -4912,7 +4912,7 @@
         "Post-apocalyptic",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1933990,
@@ -5016,7 +5016,7 @@
         "City Builder",
         "2D"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1086940,
@@ -5138,10 +5138,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 726176,
-      "total_reviews": 824600,
-      "total_positive": 798307,
-      "total_negative": 26293,
+      "recommendations_total": 726185,
+      "total_reviews": 824608,
+      "total_positive": 798314,
+      "total_negative": 26294,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "baldurs-gate-3",
       "recommend": "all",
@@ -5165,7 +5165,7 @@
         "Sexual Content",
         "CRPG"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 1984790,
@@ -5266,7 +5266,7 @@
         "Life Sim",
         "Sandbox"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 427520,
@@ -5370,8 +5370,8 @@
       ],
       "demo_appid": 452280,
       "recommendations_total": 187452,
-      "total_reviews": 225065,
-      "total_positive": 219395,
+      "total_reviews": 225067,
+      "total_positive": 219397,
       "total_negative": 5670,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "factorio",
@@ -5397,7 +5397,7 @@
         "Multiplayer",
         "Survival"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 4045680,
@@ -5489,7 +5489,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 4371880,
@@ -5579,7 +5579,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2263010,
@@ -5679,7 +5679,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 2973410,
@@ -5774,7 +5774,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
     },
     {
       "appid": 3419430,
@@ -5864,9 +5864,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 90028,
-      "total_positive": 87832,
-      "total_negative": 2196,
+      "total_reviews": 90041,
+      "total_positive": 87840,
+      "total_negative": 2201,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "bongo-cat",
       "recommend": "all",
@@ -5891,7 +5891,635 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-17T13:39:55.351471"
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 431730,
+      "required_age": 0,
+      "name_ja": "Aseprite",
+      "name_en": "Aseprite",
+      "name": "Aseprite",
+      "short_description_ja": "Aseprite is a pixel-art tool to create 2D animations, sprites, and any kind of graphics for games.",
+      "short_description_en": "Aseprite is a pixel-art tool to create 2D animations, sprites, and any kind of graphics for games.",
+      "short_description": "Aseprite is a pixel-art tool to create 2D animations, sprites, and any kind of graphics for games.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/header.jpg?t=1749680273",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/capsule_231x87.jpg?t=1749680273",
+      "developers": [
+        "Igara Studio"
+      ],
+      "publishers": [
+        "Igara Studio"
+      ],
+      "genres_ja": [
+        "アニメーション & モデリング",
+        "デザイン & イラストレーション",
+        "ゲーム開発"
+      ],
+      "genres_en": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development"
+      ],
+      "genres": [
+        "アニメーション & モデリング",
+        "デザイン & イラストレーション",
+        "ゲーム開発"
+      ],
+      "categories": [],
+      "release_date_ja": "2016年2月22日",
+      "release_date_en": "22 Feb, 2016",
+      "release_date": "2016年2月22日",
+      "is_free": false,
+      "price_initial": 205000,
+      "price_final": 205000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,050",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, 韓国語, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, アラビア語, オランダ語, 日本語, ポルトガル語－ポルトガル, トルコ語, アフリカーンス語, ハンガリー語, インドネシア語, ノルウェー語, カタルーニャ語, タイ語",
+      "website": "https://www.aseprite.org/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/ss_46a7e00325c8e3b8cea2cfecc414a4b777827d8e.1920x1080.jpg?t=1749680273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/ss_20c98a0b69c60833512a5a04497968e045946f5b.1920x1080.jpg?t=1749680273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/ss_206049432a1d70f0a20070a2ffdb7debc705c949.1920x1080.jpg?t=1749680273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/ss_aefb5ce19a41ad4a02675fe113f3bc84d876872c.1920x1080.jpg?t=1749680273",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431730/ss_3247ba4b306462cffea875de8351e252476e87c3.1920x1080.jpg?t=1749680273"
+      ],
+      "movies": [
+        {
+          "name": "Aseprite v1.3",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836192/movie.293x165.jpg?t=1622056671",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "Aseprite v1.1.1 Features",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659444/movie.293x165.jpg?t=1455812111",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 19611,
+      "total_reviews": 24814,
+      "total_positive": 24566,
+      "total_negative": 248,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "aseprite",
+      "recommend": "all",
+      "tags_ja": [
+        "ドット絵",
+        "デザイン＆イラストレーション",
+        "アニメーション＆モデリング",
+        "ソフトウェア",
+        "ゲーム開発",
+        "2D",
+        "ユーティリティ",
+        "インディー"
+      ],
+      "tags_en": [
+        "Pixel Graphics",
+        "Design & Illustration",
+        "Animation & Modeling",
+        "Software",
+        "Game Development",
+        "2D",
+        "Utilities",
+        "Indie"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 1096900,
+      "required_age": 0,
+      "name_ja": "RPGツクールMZ",
+      "name_en": "RPG Maker MZ",
+      "name": "RPG Maker MZ",
+      "short_description_ja": "誰でも手軽にRPGが制作できるRPGツクールシリーズの最新作「RPGツクールMZ」が登場！新機能の追加や動作改善により、制作環境の向上や演出面の強化はもちろん、ゲームを遊ぶユーザーに対しても手厚いゲームが制作できるようになりました。",
+      "short_description_en": "You want to create an RPG, but every game making tool you have found was either too complex or too limited? RPG Maker MZ empowers you with simple tools to create your RPG right out of the box, yet is customizable enough to make the exact RPG you want!",
+      "short_description": "誰でも手軽にRPGが制作できるRPGツクールシリーズの最新作「RPGツクールMZ」が登場！新機能の追加や動作改善により、制作環境の向上や演出面の強化はもちろん、ゲームを遊ぶユーザーに対しても手厚いゲームが制作できるようになりました。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/header_japanese.jpg?t=1770864798",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/capsule_231x87_japanese.jpg?t=1770864798",
+      "developers": [
+        "Gotcha Gotcha Games",
+        "KADOKAWA",
+        "Yoji Ojima"
+      ],
+      "publishers": [
+        "Gotcha Gotcha Games"
+      ],
+      "genres_ja": [
+        "RPG",
+        "デザイン & イラストレーション",
+        "教育",
+        "Webパブリッシング",
+        "ゲーム開発"
+      ],
+      "genres_en": [
+        "RPG",
+        "Design & Illustration",
+        "Education",
+        "Web Publishing",
+        "Game Development"
+      ],
+      "genres": [
+        "RPG",
+        "デザイン & イラストレーション",
+        "教育",
+        "Webパブリッシング",
+        "ゲーム開発"
+      ],
+      "categories": [
+        "Steamワークショップ",
+        "部分的コントローラサポート"
+      ],
+      "release_date_ja": "2020年8月27日",
+      "release_date_en": "27 Aug, 2020",
+      "release_date": "2020年8月27日",
+      "is_free": false,
+      "price_initial": 877800,
+      "price_final": 351100,
+      "discount_percent": 60,
+      "price_formatted": "¥ 3,511",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, ポーランド語",
+      "website": "https://rpgmakerofficial.com/product/mz/?utm_source=Steam&amp;utm_medium=referral&amp;utm_content=Steam_OfficialPageClick",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/e1a4a916273cd624cfc17765940912281677ff75/ss_e1a4a916273cd624cfc17765940912281677ff75.1920x1080.jpg?t=1770864798",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/d7fb160ee9a769366f2e50cd96c6ea69009d40b5/ss_d7fb160ee9a769366f2e50cd96c6ea69009d40b5.1920x1080.jpg?t=1770864798",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/fb9002bedb19e8ec08dc92903dd19667db38c045/ss_fb9002bedb19e8ec08dc92903dd19667db38c045.1920x1080.jpg?t=1770864798",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/f5383ea099668a1679c2c9d2c529aefb0bbf8ff0/ss_f5383ea099668a1679c2c9d2c529aefb0bbf8ff0.1920x1080.jpg?t=1770864798",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/ss_5abc80133bfc14ff7057184af7896263716a930d.1920x1080.jpg?t=1770864798"
+      ],
+      "movies": [
+        {
+          "name": "PV1_JA_GGGedition",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257261408/fee6b252502cb62084e353d364488409ff3e607d/movie_600x337.jpg?t=1767850361",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "PV0_JA_GGGedition",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257261387/2ade64a3ce0d127fdf3271dc7810fda2b329d8ce/movie_600x337.jpg?t=1767850361",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "TPB",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256790769/movie.293x165.jpg?t=1593135683",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 1763,
+      "total_reviews": 2128,
+      "total_positive": 1816,
+      "total_negative": 312,
+      "review_score_desc": "Very Positive",
+      "slug": "rpg-maker-mz",
+      "recommend": "all",
+      "tags_ja": [
+        "RPG",
+        "RPG作成",
+        "ゲーム開発",
+        "アニメ",
+        "JRPG",
+        "2D",
+        "シングルプレイヤー",
+        "パーティー制RPG"
+      ],
+      "tags_en": [
+        "RPG",
+        "RPGMaker",
+        "Game Development",
+        "Anime",
+        "JRPG",
+        "2D",
+        "Singleplayer",
+        "Party-Based RPG"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 363890,
+      "required_age": 0,
+      "name_ja": "RPGツクールMV",
+      "name_en": "RPG Maker MV",
+      "name": "RPG Maker MV",
+      "short_description_ja": "初心者から開発者まで満足いただける、RPGツクールの名作！RPGツクールMVはスマホやMacを含むマルチデバイス出力対応。作ったゲームを、スマホ上でタッチ操作で遊んでもらうことも可能です。",
+      "short_description_en": "POWERFUL enough for a developer SIMPLE enough for a child VERSATILE enough for any platform!RPG MAKER MV allows you to make the RPG of your dreams! This latest version includes a host of new featuresand export options for MacOSX, Android, and iPhone!",
+      "short_description": "初心者から開発者まで満足いただける、RPGツクールの名作！RPGツクールMVはスマホやMacを含むマルチデバイス出力対応。作ったゲームを、スマホ上でタッチ操作で遊んでもらうことも可能です。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/header.jpg?t=1770864870",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/capsule_231x87.jpg?t=1770864870",
+      "developers": [
+        "Gotcha Gotcha Games",
+        "KADOKAWA",
+        "Yoji Ojima"
+      ],
+      "publishers": [
+        "Gotcha Gotcha Games"
+      ],
+      "genres_ja": [
+        "RPG",
+        "デザイン & イラストレーション",
+        "教育",
+        "Webパブリッシング",
+        "ゲーム開発"
+      ],
+      "genres_en": [
+        "RPG",
+        "Design & Illustration",
+        "Education",
+        "Web Publishing",
+        "Game Development"
+      ],
+      "genres": [
+        "RPG",
+        "デザイン & イラストレーション",
+        "教育",
+        "Webパブリッシング",
+        "ゲーム開発"
+      ],
+      "categories": [
+        "Steamトレーディングカード",
+        "Steamワークショップ",
+        "部分的コントローラサポート"
+      ],
+      "release_date_ja": "2017年1月19日",
+      "release_date_en": "19 Jan, 2017",
+      "release_date": "2017年1月19日",
+      "is_free": false,
+      "price_initial": 870000,
+      "price_final": 60900,
+      "discount_percent": 93,
+      "price_formatted": "¥ 609",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, 日本語, 韓国語, 中国語（繁体字）, アラビア語, 中国語（簡体字）",
+      "website": "https://rpgmakerofficial.com/product/mv/?utm_source=Steam&amp;utm_medium=referral&amp;utm_content=Steam_OfficialPageClick",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_1ed774c372d6e7568a9f25bca9f27fc1e9f5d081.1920x1080.jpg?t=1770864870",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_3931a5ce8245a36450f71a570a5f679b8e39fc06.1920x1080.jpg?t=1770864870",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_ed900c17009cd66b0ade4dba28a239ca73b6184e.1920x1080.jpg?t=1770864870",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_38fe62700e399ef784b02e4f135ca25a702d2f29.1920x1080.jpg?t=1770864870",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_4f6be133c84efd05a7b120b5d17f3cd3f3b81ac3.1920x1080.jpg?t=1770864870"
+      ],
+      "movies": [
+        {
+          "name": "RPG Maker MV Promo",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656866/movie.293x165.jpg?t=1450316186",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 7214,
+      "total_reviews": 8684,
+      "total_positive": 7888,
+      "total_negative": 796,
+      "review_score_desc": "Very Positive",
+      "slug": "rpg-maker-mv",
+      "recommend": "all",
+      "tags_ja": [
+        "RPG",
+        "RPG作成",
+        "ゲーム開発",
+        "アニメ",
+        "ゲーム作成",
+        "デザイン＆イラストレーション",
+        "Webパブリッシング",
+        "JRPG"
+      ],
+      "tags_en": [
+        "RPG",
+        "RPGMaker",
+        "Game Development",
+        "Anime",
+        "GameMaker",
+        "Design & Illustration",
+        "Web Publishing",
+        "JRPG"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 3511030,
+      "required_age": 0,
+      "name_ja": "ミニ・コージールーム：ローファイ",
+      "name_en": "Mini Cozy Room: Lo-Fi",
+      "name": "Mini Cozy Room: Lo-Fi",
+      "short_description_ja": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
+      "short_description_en": "Create Your Own Cozy Workspace! Mini Cozy Room : Lo-Fi is a productivity game blending relaxing Lo-Fi music with room decoration. Cute avatars, pets, desktop memos, to-do lists, and a Pomodoro timer help boost your focus. Feeling lonely? Work together with friends in multiplayer mode.",
+      "short_description": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/b1a278a64a03e7afd4bcd144088469ea5f613405/header_alt_assets_0_japanese.jpg?t=1771093344",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/4b9a63a9b297ce53e61e62e5ec935e1883aeb02f/capsule_231x87_alt_assets_0_japanese.jpg?t=1771093344",
+      "developers": [
+        "Tesseract Studio",
+        "Nugem Studio"
+      ],
+      "publishers": [
+        "Tesseract Studio"
+      ],
+      "genres_ja": [
+        "カジュアル",
+        "インディー"
+      ],
+      "genres_en": [
+        "Casual",
+        "Indie"
+      ],
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date_ja": "2025年3月30日",
+      "release_date_en": "30 Mar, 2025",
+      "release_date": "2025年3月30日",
+      "is_free": false,
+      "price_initial": 49000,
+      "price_final": 29400,
+      "discount_percent": 40,
+      "price_formatted": "¥ 294",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ロシア語<strong>*</strong>, ベトナム語<strong>*</strong>, ウクライナ語<strong>*</strong>, タイ語<strong>*</strong>, トルコ語<strong>*</strong>, ポーランド語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+      "website": "https://linktr.ee/TesseractStd",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/8a184cb5da79d8ca9856229f46740be16d367a2a/ss_8a184cb5da79d8ca9856229f46740be16d367a2a.1920x1080.jpg?t=1771093344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/176c3d7868955dfbbca0cabd5e2e38d104add3f6/ss_176c3d7868955dfbbca0cabd5e2e38d104add3f6.1920x1080.jpg?t=1771093344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7f27e125fefc26581656ba9275fb922d9d8f0810/ss_7f27e125fefc26581656ba9275fb922d9d8f0810.1920x1080.jpg?t=1771093344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/f58ec9d5351e6b10bd6b1c1169f91ba6f4fb08e0/ss_f58ec9d5351e6b10bd6b1c1169f91ba6f4fb08e0.1920x1080.jpg?t=1771093344",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/60b53360cc3084175bac99a4db9abe1559237303/ss_60b53360cc3084175bac99a4db9abe1559237303.1920x1080.jpg?t=1771093344"
+      ],
+      "movies": [
+        {
+          "name": "MCR_2nd Trailer_japanese",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257116875/47099679159817a8f985e789b150e38305090e2c/movie_600x337.jpg?t=1742491297",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 3550820,
+      "recommendations_total": 1903,
+      "total_reviews": 2035,
+      "total_positive": 1980,
+      "total_negative": 55,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "mini-cozy-room",
+      "recommend": "all",
+      "tags_ja": [
+        "心地よい",
+        "音ゲー",
+        "放置",
+        "ユーティリティ",
+        "キャラクターカスタマイズ",
+        "ドット絵",
+        "リラックス",
+        "インディー"
+      ],
+      "tags_en": [
+        "Cozy",
+        "Music",
+        "Idler",
+        "Utilities",
+        "Character Customization",
+        "Pixel Graphics",
+        "Relaxing",
+        "Indie"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 4301100,
+      "required_age": 0,
+      "name_ja": "EmoteLab",
+      "name_en": "EmoteLab",
+      "name": "EmoteLab",
+      "short_description_ja": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+      "short_description_en": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+      "short_description": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/8656f15899e0dd6d520ec971442d074853ea6906/header.jpg?t=1770019054",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/1f324d22e4548ae7f50824844e8c0c28e4a98b78/capsule_231x87.jpg?t=1770019054",
+      "developers": [
+        "0x4682B4"
+      ],
+      "publishers": [
+        "GlycoProduction"
+      ],
+      "genres_ja": [
+        "アニメーション & モデリング",
+        "ビデオ制作",
+        "早期アクセス"
+      ],
+      "genres_en": [
+        "Animation & Modeling",
+        "Video Production",
+        "Early Access"
+      ],
+      "genres": [
+        "アニメーション & モデリング",
+        "ビデオ制作",
+        "早期アクセス"
+      ],
+      "categories": [],
+      "release_date_ja": "2026年2月1日",
+      "release_date_en": "1 Feb, 2026",
+      "release_date": "2026年2月1日",
+      "is_free": false,
+      "price_initial": 100000,
+      "price_final": 100000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 1,000",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 中国語（簡体字）",
+      "website": "https://emotelab.app/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/f62a1a5ad8f075682808508d05d5b76117afaa07/ss_f62a1a5ad8f075682808508d05d5b76117afaa07.1920x1080.jpg?t=1770019054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/22cf1d7a8f1f14ba1db8e1b2a1fe09abc45c2ace/ss_22cf1d7a8f1f14ba1db8e1b2a1fe09abc45c2ace.1920x1080.jpg?t=1770019054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/2678422bb15aba28dc80cf1aaffa2f7c7777bd9c/ss_2678422bb15aba28dc80cf1aaffa2f7c7777bd9c.1920x1080.jpg?t=1770019054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/93a4b6f597aa24a0bbf4f8c2de15e2035dc7b2fd/ss_93a4b6f597aa24a0bbf4f8c2de15e2035dc7b2fd.1920x1080.jpg?t=1770019054",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/0d093eafd7096753953565d596e8eb99312f6d89/ss_0d093eafd7096753953565d596e8eb99312f6d89.1920x1080.jpg?t=1770019054"
+      ],
+      "movies": [
+        {
+          "name": "Intro",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257260757/660fcadcb0e3f103f00693269db8b3b8d1783abb/movie_600x337.jpg?t=1768334587",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "GettingStarted",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257274159/cd9da77f32f932c796d3596b4bf0c360c2891400/movie_600x337.jpg?t=1769539924",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": null,
+      "recommendations_total": 610,
+      "total_reviews": 640,
+      "total_positive": 627,
+      "total_negative": 13,
+      "review_score_desc": "Overwhelmingly Positive",
+      "slug": "emotelab",
+      "recommend": "all",
+      "tags_ja": [
+        "アニメーション＆モデリング",
+        "動画制作",
+        "早期アクセス",
+        "アニメ",
+        "ユーティリティ",
+        "かわいい",
+        "キャラクターカスタマイズ"
+      ],
+      "tags_en": [
+        "Animation & Modeling",
+        "Video Production",
+        "Early Access",
+        "Anime",
+        "Utilities",
+        "Cute",
+        "Character Customization"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
+    },
+    {
+      "appid": 1036640,
+      "required_age": 0,
+      "name_ja": "RPG Developer Bakin",
+      "name_en": "RPG Developer Bakin",
+      "name": "RPG Developer Bakin",
+      "short_description_ja": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
+      "short_description_en": "Zero programming required! A tool for anyone to create RPGs! &quot;RPG Developer Bakin&quot; is a tool that makes it easy to create various types of RPGs, adventure games and action games without any programming knowledge.",
+      "short_description": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/header.jpg?t=1769652143",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/capsule_231x87_japanese.jpg?t=1769652143",
+      "developers": [
+        "SmileBoom Co.Ltd."
+      ],
+      "publishers": [
+        "SmileBoom Co.Ltd."
+      ],
+      "genres_ja": [
+        "ゲーム開発"
+      ],
+      "genres_en": [
+        "Game Development"
+      ],
+      "genres": [
+        "ゲーム開発"
+      ],
+      "categories": [
+        "Steamワークショップ",
+        "部分的コントローラサポート"
+      ],
+      "release_date_ja": "2025年8月28日",
+      "release_date_en": "28 Aug, 2025",
+      "release_date": "2025年8月28日",
+      "is_free": false,
+      "price_initial": 920000,
+      "price_final": 920000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 9,200",
+      "currency": "JPY",
+      "metacritic_score": null,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）",
+      "website": "https://rpgbakin.com/",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_ab334f48af58445858e1a00d83fad50d20bca9ec.1920x1080.jpg?t=1769652143",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_fb8b8e08cd7a4a08addac44552128e1309443e00.1920x1080.jpg?t=1769652143",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_0983a48f4172061c7feb9ee6a32bace2b299a318.1920x1080.jpg?t=1769652143",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_10d8db0bd626583f66c14edba8d8b7a5eed56498.1920x1080.jpg?t=1769652143",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_b21c7d4f4aa210d4bcb3b5eed9ec4c6ee2670a7b.1920x1080.jpg?t=1769652143"
+      ],
+      "movies": [
+        {
+          "name": "RPGDeveloperBakin_PV_JP_20250828",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190098/7a355ff2d8bd623f602e16c0c7329a6b7947d666/movie_600x337.jpg?t=1756370169",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "RPGDeveloperBakin_Ver.1.3_JP_2023",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956157/movie.293x165.jpg?t=1709780566",
+          "url_480": "",
+          "url_max": ""
+        },
+        {
+          "name": "RPGDeveloperBakin_V1.10_PV_JP",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039170/movie.293x165.jpg?t=1721441555",
+          "url_480": "",
+          "url_max": ""
+        }
+      ],
+      "demo_appid": 3906850,
+      "recommendations_total": 313,
+      "total_reviews": 333,
+      "total_positive": 280,
+      "total_negative": 53,
+      "review_score_desc": "Very Positive",
+      "slug": "rpg-developer-bakin",
+      "recommend": "niche",
+      "tags_ja": [
+        "ゲーム開発",
+        "ソフトウェア",
+        "RPG",
+        "パーティー制RPG",
+        "3D",
+        "アニメ",
+        "シングルプレイヤー"
+      ],
+      "tags_en": [
+        "Game Development",
+        "Software",
+        "RPG",
+        "Party-Based RPG",
+        "3D",
+        "Anime",
+        "Singleplayer"
+      ],
+      "fetched_at": "2026-02-17T23:48:33.683521"
     }
   ]
 }

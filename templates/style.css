@@ -1478,6 +1478,21 @@ footer a {
   font-weight: 600;
 }
 
+.tool-badge {
+  display: inline-block;
+  width: fit-content;
+  padding: 0.1rem 0.5rem;
+  background: rgba(99, 179, 237, 0.15);
+  color: #63b3ed;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.tools-section {
+  margin-top: 2rem;
+}
+
 @media (max-width: 600px) {
   .wishlist-card {
     flex-direction: column;

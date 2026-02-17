@@ -1,0 +1,118 @@
+{
+  "appid": 1096900,
+  "required_age": 0,
+  "name_ja": "RPGツクールMZ",
+  "name_en": "RPG Maker MZ",
+  "name": "RPG Maker MZ",
+  "short_description_ja": "誰でも手軽にRPGが制作できるRPGツクールシリーズの最新作「RPGツクールMZ」が登場！新機能の追加や動作改善により、制作環境の向上や演出面の強化はもちろん、ゲームを遊ぶユーザーに対しても手厚いゲームが制作できるようになりました。",
+  "short_description_en": "You want to create an RPG, but every game making tool you have found was either too complex or too limited? RPG Maker MZ empowers you with simple tools to create your RPG right out of the box, yet is customizable enough to make the exact RPG you want!",
+  "short_description": "誰でも手軽にRPGが制作できるRPGツクールシリーズの最新作「RPGツクールMZ」が登場！新機能の追加や動作改善により、制作環境の向上や演出面の強化はもちろん、ゲームを遊ぶユーザーに対しても手厚いゲームが制作できるようになりました。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/header_japanese.jpg?t=1770864798",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/capsule_231x87_japanese.jpg?t=1770864798",
+  "developers": [
+    "Gotcha Gotcha Games",
+    "KADOKAWA",
+    "Yoji Ojima"
+  ],
+  "publishers": [
+    "Gotcha Gotcha Games"
+  ],
+  "genres_ja": [
+    "RPG",
+    "デザイン & イラストレーション",
+    "教育",
+    "Webパブリッシング",
+    "ゲーム開発"
+  ],
+  "genres_en": [
+    "RPG",
+    "Design & Illustration",
+    "Education",
+    "Web Publishing",
+    "Game Development"
+  ],
+  "genres": [
+    "RPG",
+    "デザイン & イラストレーション",
+    "教育",
+    "Webパブリッシング",
+    "ゲーム開発"
+  ],
+  "categories": [
+    "Steamワークショップ",
+    "部分的コントローラサポート"
+  ],
+  "release_date_ja": "2020年8月27日",
+  "release_date_en": "27 Aug, 2020",
+  "release_date": "2020年8月27日",
+  "is_free": false,
+  "price_initial": 877800,
+  "price_final": 351100,
+  "discount_percent": 60,
+  "price_formatted": "¥ 3,511",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, ポーランド語",
+  "website": "https://rpgmakerofficial.com/product/mz/?utm_source=Steam&amp;utm_medium=referral&amp;utm_content=Steam_OfficialPageClick",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/e1a4a916273cd624cfc17765940912281677ff75/ss_e1a4a916273cd624cfc17765940912281677ff75.1920x1080.jpg?t=1770864798",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/d7fb160ee9a769366f2e50cd96c6ea69009d40b5/ss_d7fb160ee9a769366f2e50cd96c6ea69009d40b5.1920x1080.jpg?t=1770864798",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/fb9002bedb19e8ec08dc92903dd19667db38c045/ss_fb9002bedb19e8ec08dc92903dd19667db38c045.1920x1080.jpg?t=1770864798",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/f5383ea099668a1679c2c9d2c529aefb0bbf8ff0/ss_f5383ea099668a1679c2c9d2c529aefb0bbf8ff0.1920x1080.jpg?t=1770864798",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096900/ss_5abc80133bfc14ff7057184af7896263716a930d.1920x1080.jpg?t=1770864798"
+  ],
+  "movies": [
+    {
+      "name": "PV1_JA_GGGedition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257261408/fee6b252502cb62084e353d364488409ff3e607d/movie_600x337.jpg?t=1767850361",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "PV0_JA_GGGedition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257261387/2ade64a3ce0d127fdf3271dc7810fda2b329d8ce/movie_600x337.jpg?t=1767850361",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "TPB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256790769/movie.293x165.jpg?t=1593135683",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 1763,
+  "total_reviews": 2128,
+  "total_positive": 1816,
+  "total_negative": 312,
+  "review_score_desc": "Very Positive",
+  "slug": "rpg-maker-mz",
+  "recommend": "all",
+  "tags_ja": [
+    "RPG",
+    "RPG作成",
+    "ゲーム開発",
+    "アニメ",
+    "JRPG",
+    "2D",
+    "シングルプレイヤー",
+    "パーティー制RPG"
+  ],
+  "tags_en": [
+    "RPG",
+    "RPGMaker",
+    "Game Development",
+    "Anime",
+    "JRPG",
+    "2D",
+    "Singleplayer",
+    "Party-Based RPG"
+  ],
+  "fetched_at": "2026-02-17T23:48:33.683521"
+}

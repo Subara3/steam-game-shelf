@@ -1,0 +1,101 @@
+{
+  "appid": 3511030,
+  "required_age": 0,
+  "name_ja": "ミニ・コージールーム：ローファイ",
+  "name_en": "Mini Cozy Room: Lo-Fi",
+  "name": "Mini Cozy Room: Lo-Fi",
+  "short_description_ja": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
+  "short_description_en": "Create Your Own Cozy Workspace! Mini Cozy Room : Lo-Fi is a productivity game blending relaxing Lo-Fi music with room decoration. Cute avatars, pets, desktop memos, to-do lists, and a Pomodoro timer help boost your focus. Feeling lonely? Work together with friends in multiplayer mode.",
+  "short_description": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/b1a278a64a03e7afd4bcd144088469ea5f613405/header_alt_assets_0_japanese.jpg?t=1771093344",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/4b9a63a9b297ce53e61e62e5ec935e1883aeb02f/capsule_231x87_alt_assets_0_japanese.jpg?t=1771093344",
+  "developers": [
+    "Tesseract Studio",
+    "Nugem Studio"
+  ],
+  "publishers": [
+    "Tesseract Studio"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "Steam実績",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2025年3月30日",
+  "release_date_en": "30 Mar, 2025",
+  "release_date": "2025年3月30日",
+  "is_free": false,
+  "price_initial": 49000,
+  "price_final": 29400,
+  "discount_percent": 40,
+  "price_formatted": "¥ 294",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ロシア語<strong>*</strong>, ベトナム語<strong>*</strong>, ウクライナ語<strong>*</strong>, タイ語<strong>*</strong>, トルコ語<strong>*</strong>, ポーランド語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "https://linktr.ee/TesseractStd",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/8a184cb5da79d8ca9856229f46740be16d367a2a/ss_8a184cb5da79d8ca9856229f46740be16d367a2a.1920x1080.jpg?t=1771093344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/176c3d7868955dfbbca0cabd5e2e38d104add3f6/ss_176c3d7868955dfbbca0cabd5e2e38d104add3f6.1920x1080.jpg?t=1771093344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/7f27e125fefc26581656ba9275fb922d9d8f0810/ss_7f27e125fefc26581656ba9275fb922d9d8f0810.1920x1080.jpg?t=1771093344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/f58ec9d5351e6b10bd6b1c1169f91ba6f4fb08e0/ss_f58ec9d5351e6b10bd6b1c1169f91ba6f4fb08e0.1920x1080.jpg?t=1771093344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/60b53360cc3084175bac99a4db9abe1559237303/ss_60b53360cc3084175bac99a4db9abe1559237303.1920x1080.jpg?t=1771093344"
+  ],
+  "movies": [
+    {
+      "name": "MCR_2nd Trailer_japanese",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257116875/47099679159817a8f985e789b150e38305090e2c/movie_600x337.jpg?t=1742491297",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 3550820,
+  "recommendations_total": 1903,
+  "total_reviews": 2035,
+  "total_positive": 1980,
+  "total_negative": 55,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "mini-cozy-room",
+  "recommend": "all",
+  "tags_ja": [
+    "心地よい",
+    "音ゲー",
+    "放置",
+    "ユーティリティ",
+    "キャラクターカスタマイズ",
+    "ドット絵",
+    "リラックス",
+    "インディー"
+  ],
+  "tags_en": [
+    "Cozy",
+    "Music",
+    "Idler",
+    "Utilities",
+    "Character Customization",
+    "Pixel Graphics",
+    "Relaxing",
+    "Indie"
+  ],
+  "fetched_at": "2026-02-17T23:48:33.683521"
+}

@@ -88,6 +88,10 @@ function dashboard() {
       return this.games.filter(g => g.free_section);
     },
 
+    get toolGames() {
+      return this.games.filter(g => g.tool);
+    },
+
     articlePath(slug) {
       return this.lang === 'en' ? `articles/en/${slug}.html` : `articles/${slug}.html`;
     },
@@ -103,7 +107,7 @@ function dashboard() {
         ? ['Indie', 'Early Access']
         : ['インディー', '早期アクセス'];
       const counts = {};
-      this.games.filter(g => !g.coming_soon && !g.free_section).forEach(g => {
+      this.games.filter(g => !g.coming_soon && !g.free_section && !g.tool).forEach(g => {
         const genres = (this.lang === 'en' ? g.genres_en : g.genres_ja) || g.genres || [];
         genres.forEach(genre => {
           if (!excluded.includes(genre)) counts[genre] = (counts[genre] || 0) + 1;
@@ -120,7 +124,7 @@ function dashboard() {
         ? ['Singleplayer', 'Multiplayer', 'Indie', 'Early Access', 'Replay Value', 'Moddable']
         : ['シングルプレイヤー', 'マルチプレイヤー', 'インディー', '早期アクセス', 'リプレイ性', 'MOD導入可能'];
       const counts = {};
-      this.games.filter(g => !g.coming_soon && !g.free_section).forEach(g => {
+      this.games.filter(g => !g.coming_soon && !g.free_section && !g.tool).forEach(g => {
         const tags = (this.lang === 'en' ? g.tags_en : g.tags_ja) || [];
         tags.forEach(tag => {
           if (!excluded.includes(tag) && !genreNames.has(tag)) {
@@ -140,7 +144,7 @@ function dashboard() {
     },
 
     get filteredGames() {
-      let result = this.games.filter(g => !g.coming_soon && !g.free_section);
+      let result = this.games.filter(g => !g.coming_soon && !g.free_section && !g.tool);
 
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();
