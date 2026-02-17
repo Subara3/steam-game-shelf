@@ -68,9 +68,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 282280,
-  "total_reviews": 314272,
-  "total_positive": 304132,
-  "total_negative": 10140,
+  "total_reviews": 314274,
+  "total_positive": 304133,
+  "total_negative": 10141,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "undertale",
   "recommend": "niche",
@@ -94,5 +94,5 @@
     "RPG",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-17T03:46:55.655373"
+  "fetched_at": "2026-02-17T04:15:44.864686"
 }
