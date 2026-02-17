@@ -57,7 +57,7 @@ pet_safety: minor
 
 > scala: 仕方がないので、私は王女と百合百合エンドを目指す。
 
-> scala: 私は[シルフェイド幻想譚](https://www.silversecond.com/WolfRPGEditor/Game/SilfadeStory/)でもフェザーを一番そういう目で見てるからな！！
+> scala: 私は[シルフェイド幻想譚](https://silversecond.net/contents/game/silfade_gensou/)でもフェザーを一番そういう目で見てるからな！！
 
 > kotori: どういう目で見てるんですか？
 
