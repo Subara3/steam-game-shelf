@@ -76,7 +76,7 @@
       <p class="site-description" x-text="t('siteDesc')"></p>
       <div class="header-meta">
         <span class="header-badge header-badge-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
-        <span class="header-badge header-badge-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length} ${t('titles')}`"></span>
+        <span class="header-badge header-badge-count" x-text="`${t('gameList')}: ${games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length} ${t('titles')}　${t('tools')}: ${toolGames.length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
