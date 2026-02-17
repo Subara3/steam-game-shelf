@@ -40,6 +40,9 @@ jobs:
       - name: Build site
         run: python build_site.py
 
+      - name: Run tests
+        run: python tests/test_build.py
+
       - name: Commit data
         if: ${{ github.event.inputs.skip_fetch != 'true' }}
         run: |
