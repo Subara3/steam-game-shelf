@@ -25,11 +25,11 @@ pet_safety: minor
 
 > kotori: Just buy a Steam Deck then.
 
-> kotori: But those are expensive!
+> scala: But those are expensive!
 
 ## Again and Again, to the Right
 
-> scala: Strategies that change with each class, items that vary every run. Pretty wide freedom in what you can do.
+> scala: Strategies that change with each class. Items you pick up. Pretty wide freedom to do whatever comes to mind.
 
 > scala: Ah, I just can't help getting stubborn and playing forever...
 
