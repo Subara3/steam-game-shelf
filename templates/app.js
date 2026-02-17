@@ -77,7 +77,7 @@ function dashboard() {
     },
 
     get onSaleGames() {
-      return this.games.filter(g => g.discount_percent > 0 && !g.coming_soon);
+      return this.games.filter(g => g.discount_percent > 0 && !g.coming_soon && !g.tool);
     },
 
     get comingSoonGames() {
