@@ -9,6 +9,7 @@ import shutil
 import urllib.request
 from datetime import datetime
 from pathlib import Path
+from typing import Optional
 
 BASE_DIR = Path(__file__).resolve().parent
 SNAPSHOTS_DIR = BASE_DIR / "data" / "snapshots"
@@ -26,7 +27,7 @@ def load_game_list() -> list[dict]:
         return json.load(f)["games"]
 
 
-def load_latest_snapshot() -> dict | None:
+def load_latest_snapshot() -> Optional[dict]:
     """最新の日次スナップショットを読み込む"""
     files = sorted(SNAPSHOTS_DIR.glob("2*-*-*.json"), reverse=True)
     if not files:
@@ -329,7 +330,7 @@ def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix:
     return articles
 
 
-def cleanup_orphaned_articles(articles: dict, articles_en: dict | None = None):
+def cleanup_orphaned_articles(articles: dict, articles_en: Optional[dict] = None):
     """content/ に対応する .md がない孤立した記事HTMLを削除"""
     cleaned = 0
     for articles_dir, valid_slugs in [
@@ -450,7 +451,7 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
         json.dump(article_list, f, ensure_ascii=False, indent=2)
 
 
-def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None = None):
+def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dict] = None):
     """Markdown記事をHTMLページとして出力（差分ビルド対応）"""
     # appid → header_image マップ構築
     header_images = {}
