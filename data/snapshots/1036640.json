@@ -1,0 +1,102 @@
+{
+  "appid": 1036640,
+  "required_age": 0,
+  "name_ja": "RPG Developer Bakin",
+  "name_en": "RPG Developer Bakin",
+  "name": "RPG Developer Bakin",
+  "short_description_ja": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
+  "short_description_en": "Zero programming required! A tool for anyone to create RPGs! &quot;RPG Developer Bakin&quot; is a tool that makes it easy to create various types of RPGs, adventure games and action games without any programming knowledge.",
+  "short_description": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/header.jpg?t=1769652143",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/capsule_231x87_japanese.jpg?t=1769652143",
+  "developers": [
+    "SmileBoom Co.Ltd."
+  ],
+  "publishers": [
+    "SmileBoom Co.Ltd."
+  ],
+  "genres_ja": [
+    "ゲーム開発"
+  ],
+  "genres_en": [
+    "Game Development"
+  ],
+  "genres": [
+    "ゲーム開発"
+  ],
+  "categories": [
+    "Steamワークショップ",
+    "部分的コントローラサポート"
+  ],
+  "release_date_ja": "2025年8月28日",
+  "release_date_en": "28 Aug, 2025",
+  "release_date": "2025年8月28日",
+  "is_free": false,
+  "price_initial": 920000,
+  "price_final": 920000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 9,200",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）",
+  "website": "https://rpgbakin.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_ab334f48af58445858e1a00d83fad50d20bca9ec.1920x1080.jpg?t=1769652143",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_fb8b8e08cd7a4a08addac44552128e1309443e00.1920x1080.jpg?t=1769652143",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_0983a48f4172061c7feb9ee6a32bace2b299a318.1920x1080.jpg?t=1769652143",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_10d8db0bd626583f66c14edba8d8b7a5eed56498.1920x1080.jpg?t=1769652143",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_b21c7d4f4aa210d4bcb3b5eed9ec4c6ee2670a7b.1920x1080.jpg?t=1769652143"
+  ],
+  "movies": [
+    {
+      "name": "RPGDeveloperBakin_PV_JP_20250828",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190098/7a355ff2d8bd623f602e16c0c7329a6b7947d666/movie_600x337.jpg?t=1756370169",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "RPGDeveloperBakin_Ver.1.3_JP_2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956157/movie.293x165.jpg?t=1709780566",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "RPGDeveloperBakin_V1.10_PV_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039170/movie.293x165.jpg?t=1721441555",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 3906850,
+  "recommendations_total": 313,
+  "total_reviews": 333,
+  "total_positive": 280,
+  "total_negative": 53,
+  "review_score_desc": "Very Positive",
+  "slug": "rpg-developer-bakin",
+  "recommend": "niche",
+  "tags_ja": [
+    "ゲーム開発",
+    "ソフトウェア",
+    "RPG",
+    "パーティー制RPG",
+    "3D",
+    "アニメ",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Game Development",
+    "Software",
+    "RPG",
+    "Party-Based RPG",
+    "3D",
+    "Anime",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-17T23:48:33.683521"
+}

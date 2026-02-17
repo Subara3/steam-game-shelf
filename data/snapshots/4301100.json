@@ -1,0 +1,99 @@
+{
+  "appid": 4301100,
+  "required_age": 0,
+  "name_ja": "EmoteLab",
+  "name_en": "EmoteLab",
+  "name": "EmoteLab",
+  "short_description_ja": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+  "short_description_en": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+  "short_description": "EmoteLab is a simple character and emote creation tool that lets you design custom characters and export animated emotes for Discord, Twitch, and everyday chats—no animation or content creation experience required.",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/8656f15899e0dd6d520ec971442d074853ea6906/header.jpg?t=1770019054",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/1f324d22e4548ae7f50824844e8c0c28e4a98b78/capsule_231x87.jpg?t=1770019054",
+  "developers": [
+    "0x4682B4"
+  ],
+  "publishers": [
+    "GlycoProduction"
+  ],
+  "genres_ja": [
+    "アニメーション & モデリング",
+    "ビデオ制作",
+    "早期アクセス"
+  ],
+  "genres_en": [
+    "Animation & Modeling",
+    "Video Production",
+    "Early Access"
+  ],
+  "genres": [
+    "アニメーション & モデリング",
+    "ビデオ制作",
+    "早期アクセス"
+  ],
+  "categories": [],
+  "release_date_ja": "2026年2月1日",
+  "release_date_en": "1 Feb, 2026",
+  "release_date": "2026年2月1日",
+  "is_free": false,
+  "price_initial": 100000,
+  "price_final": 100000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,000",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）",
+  "website": "https://emotelab.app/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/f62a1a5ad8f075682808508d05d5b76117afaa07/ss_f62a1a5ad8f075682808508d05d5b76117afaa07.1920x1080.jpg?t=1770019054",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/22cf1d7a8f1f14ba1db8e1b2a1fe09abc45c2ace/ss_22cf1d7a8f1f14ba1db8e1b2a1fe09abc45c2ace.1920x1080.jpg?t=1770019054",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/2678422bb15aba28dc80cf1aaffa2f7c7777bd9c/ss_2678422bb15aba28dc80cf1aaffa2f7c7777bd9c.1920x1080.jpg?t=1770019054",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/93a4b6f597aa24a0bbf4f8c2de15e2035dc7b2fd/ss_93a4b6f597aa24a0bbf4f8c2de15e2035dc7b2fd.1920x1080.jpg?t=1770019054",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4301100/0d093eafd7096753953565d596e8eb99312f6d89/ss_0d093eafd7096753953565d596e8eb99312f6d89.1920x1080.jpg?t=1770019054"
+  ],
+  "movies": [
+    {
+      "name": "Intro",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257260757/660fcadcb0e3f103f00693269db8b3b8d1783abb/movie_600x337.jpg?t=1768334587",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "GettingStarted",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257274159/cd9da77f32f932c796d3596b4bf0c360c2891400/movie_600x337.jpg?t=1769539924",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 610,
+  "total_reviews": 640,
+  "total_positive": 627,
+  "total_negative": 13,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "emotelab",
+  "recommend": "all",
+  "tags_ja": [
+    "アニメーション＆モデリング",
+    "動画制作",
+    "早期アクセス",
+    "アニメ",
+    "ユーティリティ",
+    "かわいい",
+    "キャラクターカスタマイズ"
+  ],
+  "tags_en": [
+    "Animation & Modeling",
+    "Video Production",
+    "Early Access",
+    "Anime",
+    "Utilities",
+    "Cute",
+    "Character Customization"
+  ],
+  "fetched_at": "2026-02-17T23:48:33.683521"
+}

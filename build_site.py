@@ -380,12 +380,14 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["by"] = master["by"]
         if master.get("featured"):
             g["featured"] = True
+        if master.get("tool"):
+            g["tool"] = True
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
     snapshot_appids = {g["appid"] for g in games}
     for appid, master in game_master.items():
-        if (master.get("coming_soon") or master.get("free_section")) and appid not in snapshot_appids:
+        if (master.get("coming_soon") or master.get("free_section") or master.get("tool")) and appid not in snapshot_appids:
             name = master.get("name_ja", master.get("comment", ""))
             entry = {
                 "appid": appid,
@@ -408,6 +410,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["multi"] = True
             if master.get("by"):
                 entry["by"] = master["by"]
+            if master.get("tool"):
+                entry["tool"] = True
             games.append(entry)
 
     games_data = {

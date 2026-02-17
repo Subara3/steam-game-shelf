@@ -31,7 +31,7 @@
     {"appid": 489830, "slug": "skyrim", "comment": "オープンワールドRPG", "recommend": "all"},
     {"appid": 3900, "slug": "civilization-iv", "comment": "ターン制文明シミュレーション", "recommend": "all"},
     {"appid": 2142790, "slug": "fields-of-mistria", "comment": "農場シミュレーションRPG", "recommend": "all"},
-    {"appid": 3213850, "slug": "gogh", "comment": "アバター集中タイマー", "recommend": "all"},
+    {"appid": 3213850, "slug": "gogh", "comment": "アバター集中タイマー", "recommend": "all", "tool": true},
     {"appid": 262060, "slug": "darkest-dungeon", "comment": "ゴシックダンジョンRPG", "recommend": "niche"},
     {"appid": 377160, "slug": "fallout-4", "comment": "ポストアポカリプスRPG", "recommend": "all"},
     {"appid": 550, "slug": "left-4-dead-2", "comment": "Co-opゾンビFPS", "recommend": "all", "multi": true, "by": "kotori"},
@@ -51,6 +51,12 @@
     {"appid": 4371880, "slug": "cyan-project", "comment": "謎解きADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true},
     {"appid": 2263010, "slug": "pineapple-on-pizza", "comment": "フリーゲーム", "recommend": "all", "free_section": true},
     {"appid": 2973410, "slug": "wanwan-human", "comment": "わんわんフリーゲーム", "recommend": "all", "free_section": true},
-    {"appid": 3419430, "slug": "bongo-cat", "comment": "デスクトップ猫", "recommend": "all", "free_section": true}
+    {"appid": 3419430, "slug": "bongo-cat", "comment": "デスクトップ猫", "recommend": "all", "free_section": true},
+    {"appid": 431730, "slug": "aseprite", "comment": "ドット絵エディタ", "recommend": "all", "tool": true},
+    {"appid": 1096900, "slug": "rpg-maker-mz", "comment": "RPG制作ツール", "recommend": "all", "tool": true},
+    {"appid": 363890, "slug": "rpg-maker-mv", "comment": "RPG制作ツール", "recommend": "all", "tool": true},
+    {"appid": 3511030, "slug": "mini-cozy-room", "comment": "Lo-Fiデスクトップカスタマイズ", "recommend": "all", "tool": true},
+    {"appid": 4301100, "slug": "emotelab", "comment": "表情アニメーション作成", "recommend": "all", "tool": true},
+    {"appid": 1036640, "slug": "rpg-developer-bakin", "comment": "3D RPG制作ツール", "recommend": "niche", "tool": true}
   ]
 }

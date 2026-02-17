@@ -1,0 +1,107 @@
+{
+  "appid": 363890,
+  "required_age": 0,
+  "name_ja": "RPGツクールMV",
+  "name_en": "RPG Maker MV",
+  "name": "RPG Maker MV",
+  "short_description_ja": "初心者から開発者まで満足いただける、RPGツクールの名作！RPGツクールMVはスマホやMacを含むマルチデバイス出力対応。作ったゲームを、スマホ上でタッチ操作で遊んでもらうことも可能です。",
+  "short_description_en": "POWERFUL enough for a developer SIMPLE enough for a child VERSATILE enough for any platform!RPG MAKER MV allows you to make the RPG of your dreams! This latest version includes a host of new featuresand export options for MacOSX, Android, and iPhone!",
+  "short_description": "初心者から開発者まで満足いただける、RPGツクールの名作！RPGツクールMVはスマホやMacを含むマルチデバイス出力対応。作ったゲームを、スマホ上でタッチ操作で遊んでもらうことも可能です。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/header.jpg?t=1770864870",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/capsule_231x87.jpg?t=1770864870",
+  "developers": [
+    "Gotcha Gotcha Games",
+    "KADOKAWA",
+    "Yoji Ojima"
+  ],
+  "publishers": [
+    "Gotcha Gotcha Games"
+  ],
+  "genres_ja": [
+    "RPG",
+    "デザイン & イラストレーション",
+    "教育",
+    "Webパブリッシング",
+    "ゲーム開発"
+  ],
+  "genres_en": [
+    "RPG",
+    "Design & Illustration",
+    "Education",
+    "Web Publishing",
+    "Game Development"
+  ],
+  "genres": [
+    "RPG",
+    "デザイン & イラストレーション",
+    "教育",
+    "Webパブリッシング",
+    "ゲーム開発"
+  ],
+  "categories": [
+    "Steamトレーディングカード",
+    "Steamワークショップ",
+    "部分的コントローラサポート"
+  ],
+  "release_date_ja": "2017年1月19日",
+  "release_date_en": "19 Jan, 2017",
+  "release_date": "2017年1月19日",
+  "is_free": false,
+  "price_initial": 870000,
+  "price_final": 60900,
+  "discount_percent": 93,
+  "price_formatted": "¥ 609",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル, ロシア語, 日本語, 韓国語, 中国語（繁体字）, アラビア語, 中国語（簡体字）",
+  "website": "https://rpgmakerofficial.com/product/mv/?utm_source=Steam&amp;utm_medium=referral&amp;utm_content=Steam_OfficialPageClick",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_1ed774c372d6e7568a9f25bca9f27fc1e9f5d081.1920x1080.jpg?t=1770864870",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_3931a5ce8245a36450f71a570a5f679b8e39fc06.1920x1080.jpg?t=1770864870",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_ed900c17009cd66b0ade4dba28a239ca73b6184e.1920x1080.jpg?t=1770864870",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_38fe62700e399ef784b02e4f135ca25a702d2f29.1920x1080.jpg?t=1770864870",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363890/ss_4f6be133c84efd05a7b120b5d17f3cd3f3b81ac3.1920x1080.jpg?t=1770864870"
+  ],
+  "movies": [
+    {
+      "name": "RPG Maker MV Promo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656866/movie.293x165.jpg?t=1450316186",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 7214,
+  "total_reviews": 8684,
+  "total_positive": 7888,
+  "total_negative": 796,
+  "review_score_desc": "Very Positive",
+  "slug": "rpg-maker-mv",
+  "recommend": "all",
+  "tags_ja": [
+    "RPG",
+    "RPG作成",
+    "ゲーム開発",
+    "アニメ",
+    "ゲーム作成",
+    "デザイン＆イラストレーション",
+    "Webパブリッシング",
+    "JRPG"
+  ],
+  "tags_en": [
+    "RPG",
+    "RPGMaker",
+    "Game Development",
+    "Anime",
+    "GameMaker",
+    "Design & Illustration",
+    "Web Publishing",
+    "JRPG"
+  ],
+  "fetched_at": "2026-02-17T23:48:33.683521"
+}

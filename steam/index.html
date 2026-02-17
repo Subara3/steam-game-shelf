@@ -31,7 +31,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Sora:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-<link rel="stylesheet" href="style.css?v=202602171344">
+<link rel="stylesheet" href="style.css?v=202602172354">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -51,7 +51,7 @@
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
      crossorigin="anonymous"></script>
-<script src="i18n-data.js?v=202602171344"></script>
+<script src="i18n-data.js?v=202602172354"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 </head>
 <body>
@@ -76,7 +76,7 @@
       <p class="site-description" x-text="t('siteDesc')"></p>
       <div class="header-meta">
         <span class="header-badge header-badge-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
-        <span class="header-badge header-badge-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section).length} ${t('titles')}`"></span>
+        <span class="header-badge header-badge-count" x-text="`${games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length} ${t('titles')}`"></span>
       </div>
     </div>
   </header>
@@ -175,7 +175,7 @@
         <div class="genre-list">
           <button class="genre-chip" :class="selectedGenres.length === 0 ? 'genre-active' : ''" @click="selectedGenres = []">
             <span x-text="t('genreAll')"></span>
-            <span class="genre-count" x-text="games.filter(g => !g.coming_soon && !g.free_section).length"></span>
+            <span class="genre-count" x-text="games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length"></span>
           </button>
           <template x-for="g in allMainGenres" :key="g.name">
             <button class="genre-chip" :class="selectedGenres.includes(g.name) ? 'genre-active' : ''" @click="toggleGenre(g.name)">
@@ -360,6 +360,28 @@
         </div>
       </section>
 
+      <section class="tools-section" x-show="toolGames.length > 0">
+        <h2 x-text="t('tools')"></h2>
+        <div class="wishlist-grid">
+          <template x-for="g in toolGames" :key="g.appid">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+              <div class="wishlist-body">
+                <span class="tool-badge" x-text="t('toolsBadge')"></span>
+                <h3 class="wishlist-name" x-text="gameName(g)"></h3>
+                <p class="wishlist-desc" x-text="gameDesc(g)"></p>
+                <div class="game-price-row" style="margin-top: 0.25rem;">
+                  <template x-if="g.discount_percent > 0">
+                    <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
+                  </template>
+                  <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                </div>
+              </div>
+            </a>
+          </template>
+        </div>
+      </section>
+
     </main>
   </div>
 </div>
@@ -402,6 +424,6 @@
   </p>
 </footer>
 
-<script src="app.js?v=202602171344"></script>
+<script src="app.js?v=202602172354"></script>
 </body>
 </html>
