@@ -1398,6 +1398,7 @@ footer a {
 
 .wishlist-card {
   display: flex;
+  flex-direction: column;
   background: var(--card-bg);
   backdrop-filter: blur(var(--glass-blur));
   -webkit-backdrop-filter: blur(var(--glass-blur));
@@ -1416,10 +1417,9 @@ footer a {
 }
 
 .wishlist-img {
-  width: 180px;
-  min-height: 84px;
+  width: 100%;
+  aspect-ratio: 460 / 215;
   object-fit: cover;
-  flex-shrink: 0;
 }
 
 .wishlist-body {
@@ -1493,12 +1493,3 @@ footer a {
   margin-top: 2rem;
 }
 
-@media (max-width: 600px) {
-  .wishlist-card {
-    flex-direction: column;
-  }
-  .wishlist-img {
-    width: 100%;
-    height: auto;
-  }
-}
