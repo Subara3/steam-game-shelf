@@ -185,9 +185,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 378647,
-  "total_reviews": 453869,
-  "total_positive": 447987,
+  "recommendations_total": 378648,
+  "total_reviews": 453871,
+  "total_positive": 447989,
   "total_negative": 5882,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
@@ -213,5 +213,5 @@
     "Funny",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-02-17T13:39:55.351471"
+  "fetched_at": "2026-02-17T15:01:00.725971"
 }

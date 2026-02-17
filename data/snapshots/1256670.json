@@ -78,9 +78,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 36028,
-  "total_reviews": 40042,
-  "total_positive": 37796,
+  "recommendations_total": 36030,
+  "total_reviews": 40043,
+  "total_positive": 37797,
   "total_negative": 2246,
   "review_score_desc": "Very Positive",
   "slug": "library-of-ruina",
@@ -105,5 +105,5 @@
     "Great Soundtrack",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-17T13:39:55.351471"
+  "fetched_at": "2026-02-17T15:01:00.725971"
 }
