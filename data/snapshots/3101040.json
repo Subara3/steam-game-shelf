@@ -47,9 +47,9 @@
   "release_date": "2025年7月18日",
   "is_free": false,
   "price_initial": 350000,
-  "price_final": 350000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,500",
+  "price_final": 280000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 2,800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24359,
-  "total_reviews": 27289,
-  "total_positive": 26428,
-  "total_negative": 861,
+  "recommendations_total": 24405,
+  "total_reviews": 27344,
+  "total_positive": 26479,
+  "total_negative": 865,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "magical-girl-witch-trials",
   "recommend": "niche",
@@ -109,5 +109,5 @@
     "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-02-17T19:27:15.007972"
+  "fetched_at": "2026-02-18T19:26:48.843643"
 }
