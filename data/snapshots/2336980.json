@@ -1,0 +1,102 @@
+{
+  "appid": 2336980,
+  "required_age": 0,
+  "name_ja": "ファミレスを享受せよ",
+  "name_en": "Enjoy the Diner",
+  "name": "Enjoy the Diner",
+  "short_description_ja": "なあ君、ファミレスを享受せよ。 月は満ちに満ちているし ドリンクバーだってあるんだ。",
+  "short_description_en": "Why not enjoy the diner? The moon is as full as it'll ever be, and there's even a drink fountain.",
+  "short_description": "なあ君、ファミレスを享受せよ。 月は満ちに満ちているし ドリンクバーだってあるんだ。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/header_japanese.jpg?t=1753428919",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/capsule_231x87_japanese.jpg?t=1753428919",
+  "developers": [
+    "月刊湿地帯",
+    "Studio Dragonet"
+  ],
+  "publishers": [
+    "Waku Waku Games"
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年7月31日",
+  "release_date_en": "31 Jul, 2023",
+  "release_date": "2023年7月31日",
+  "is_free": false,
+  "price_initial": 150000,
+  "price_final": 105000,
+  "discount_percent": 30,
+  "price_formatted": "¥ 1,050",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "日本語, 英語, 中国語（簡体字）, 中国語（繁体字）, 韓国語",
+  "website": "https://www.wakuwakugames.com/enjoythediner",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c005d443dc2fd51c22af1115b7659623d629c5b2.1920x1080.jpg?t=1753428919",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0bc5c00856e801c2ce9dccaafe6b23adba12e9ce.1920x1080.jpg?t=1753428919",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c02e6f38ac32a717fe9d60bc63cd3a91341b66b0.1920x1080.jpg?t=1753428919",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0ba2fd304cff29d2cded63ad1530493007cea089.1920x1080.jpg?t=1753428919",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_e2b84a0ea046f524d14c04ca3ecbf7c228216be8.1920x1080.jpg?t=1753428919"
+  ],
+  "movies": [
+    {
+      "name": "「ファミレスを享受せよ」トレーラー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980702/movie.293x165.jpg?t=1699546475",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947142/movie.293x165.jpg?t=1684573930",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 969,
+  "total_reviews": 1009,
+  "total_positive": 982,
+  "total_negative": 27,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "famires",
+  "recommend": "all",
+  "tags_ja": [
+    "アドベンチャー",
+    "ビジュアルノベル",
+    "ポイント＆クリック",
+    "ドット絵",
+    "選択方式アドベンチャー",
+    "雰囲気",
+    "リラックス",
+    "ドラマ"
+  ],
+  "tags_en": [
+    "Adventure",
+    "Visual Novel",
+    "Point & Click",
+    "Pixel Graphics",
+    "Choose Your Own Adventure",
+    "Atmospheric",
+    "Relaxing",
+    "Drama"
+  ],
+  "fetched_at": "2026-02-19T13:57:11.088899"
+}

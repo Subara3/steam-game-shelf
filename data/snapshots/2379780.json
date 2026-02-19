@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 148151,
-  "total_reviews": 183586,
-  "total_positive": 179773,
-  "total_negative": 3813,
+  "recommendations_total": 148228,
+  "total_reviews": 183681,
+  "total_positive": 179870,
+  "total_negative": 3811,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "Strategy",
     "Replay Value"
   ],
-  "fetched_at": "2026-02-18T19:26:48.843643"
+  "fetched_at": "2026-02-19T13:57:11.088899"
 }
