@@ -35,9 +35,9 @@
   "release_date": "2006年10月25日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 39600,
-  "discount_percent": 80,
-  "price_formatted": "¥ 396",
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
   "currency": "JPY",
   "metacritic_score": 94,
   "platforms": {
@@ -83,5 +83,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-02-19T13:57:11.088899"
+  "fetched_at": "2026-02-19T19:15:33.448344"
 }

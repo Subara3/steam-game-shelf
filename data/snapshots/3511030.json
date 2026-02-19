@@ -7,8 +7,8 @@
   "short_description_ja": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
   "short_description_en": "Create Your Own Cozy Workspace! Mini Cozy Room : Lo-Fi is a productivity game blending relaxing Lo-Fi music with room decoration. Cute avatars, pets, desktop memos, to-do lists, and a Pomodoro timer help boost your focus. Feeling lonely? Work together with friends in multiplayer mode.",
   "short_description": "あなただけのアットホームな作業空間を作りましょう！『ミニ・コージールーム：ローファイ』は、心を癒すLo-Fi音楽と部屋づくりを組み合わせた作業用ゲームです。かわいいアバターやペット、デスクトップで使えるメモやToDoリスト、ポモドーロタイマーが作業効率を高めます。寂しいときはマルチプレイで友達と一緒に作業できます。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/b1a278a64a03e7afd4bcd144088469ea5f613405/header_alt_assets_0_japanese.jpg?t=1771508199",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/4b9a63a9b297ce53e61e62e5ec935e1883aeb02f/capsule_231x87_alt_assets_0_japanese.jpg?t=1771508199",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/b1a278a64a03e7afd4bcd144088469ea5f613405/header_alt_assets_0_japanese.jpg?t=1771516344",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/4b9a63a9b297ce53e61e62e5ec935e1883aeb02f/capsule_231x87_alt_assets_0_japanese.jpg?t=1771516344",
   "developers": [
     "Tesseract Studio",
     "Nugem Studio"
@@ -55,11 +55,11 @@
   "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, ポルトガル語－ブラジル<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ロシア語<strong>*</strong>, ベトナム語<strong>*</strong>, ウクライナ語<strong>*</strong>, タイ語<strong>*</strong>, トルコ語<strong>*</strong>, ポーランド語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
   "website": "https://linktr.ee/TesseractStd",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/037e01e500dca6032158182d88c608ea085ec959/ss_037e01e500dca6032158182d88c608ea085ec959.1920x1080.jpg?t=1771508199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/e096b9a948e11a8468fda02989e9a77dfa05932c/ss_e096b9a948e11a8468fda02989e9a77dfa05932c.1920x1080.jpg?t=1771508199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/9ab383e1e9eb8b2157982d7186995071ea0474fd/ss_9ab383e1e9eb8b2157982d7186995071ea0474fd.1920x1080.jpg?t=1771508199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/24d292bb47a4fd96ac5bfb0cb62539ac718874f0/ss_24d292bb47a4fd96ac5bfb0cb62539ac718874f0.1920x1080.jpg?t=1771508199",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/d64aa15a5ea9bde215af78e559bcc16823ab8e4e/ss_d64aa15a5ea9bde215af78e559bcc16823ab8e4e.1920x1080.jpg?t=1771508199"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/037e01e500dca6032158182d88c608ea085ec959/ss_037e01e500dca6032158182d88c608ea085ec959.1920x1080.jpg?t=1771516344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/e096b9a948e11a8468fda02989e9a77dfa05932c/ss_e096b9a948e11a8468fda02989e9a77dfa05932c.1920x1080.jpg?t=1771516344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/9ab383e1e9eb8b2157982d7186995071ea0474fd/ss_9ab383e1e9eb8b2157982d7186995071ea0474fd.1920x1080.jpg?t=1771516344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/ec489267077d4c4f7eef16de61d81c0c421e3730/ss_ec489267077d4c4f7eef16de61d81c0c421e3730.1920x1080.jpg?t=1771516344",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3511030/a5a312e7cd0aa087ccb1cd19c87a7987eddd665c/ss_a5a312e7cd0aa087ccb1cd19c87a7987eddd665c.1920x1080.jpg?t=1771516344"
   ],
   "movies": [
     {
@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": 3550820,
-  "recommendations_total": 1914,
-  "total_reviews": 2046,
+  "recommendations_total": 1915,
+  "total_reviews": 2047,
   "total_positive": 1991,
-  "total_negative": 55,
+  "total_negative": 56,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "mini-cozy-room",
   "recommend": "all",
@@ -97,5 +97,5 @@
     "Relaxing",
     "Indie"
   ],
-  "fetched_at": "2026-02-19T13:57:11.088899"
+  "fetched_at": "2026-02-19T19:15:33.448344"
 }
