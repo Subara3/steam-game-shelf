@@ -92,9 +92,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3086,
-  "total_reviews": 4808,
-  "total_positive": 3779,
+  "recommendations_total": 3087,
+  "total_reviews": 4809,
+  "total_positive": 3780,
   "total_negative": 1029,
   "review_score_desc": "Mostly Positive",
   "slug": "staxel",
@@ -119,5 +119,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-02-19T19:15:33.448344"
+  "fetched_at": "2026-02-20T19:10:01.461903"
 }
