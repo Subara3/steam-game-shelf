@@ -1,0 +1,109 @@
+{
+  "appid": 2701440,
+  "required_age": 0,
+  "name_ja": "パラノマサイト FILE38 伊勢人魚物語",
+  "name_en": "PARANORMASIGHT: The Mermaid's Curse",
+  "name": "PARANORMASIGHT: The Mermaid's Curse",
+  "short_description_ja": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
+  "short_description_en": "Will you survive the curse together this summer? A new supernatural mystery adventure begins, telling a bittersweet story of the passions of youth featuring new locations, new legends and a new cast of characters.",
+  "short_description": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/70cf34e77e09a81fa940861f976ebcd2adc175ce/header_japanese.jpg?t=1771520817",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/90eed3734436b8bfc3d133ddbb66a65dca1ae357/capsule_231x87_japanese.jpg?t=1771520817",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "色のオプション",
+    "カスタム音量調整",
+    "キーボードのみのオプション",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2026年2月19日",
+  "release_date_en": "19 Feb, 2026",
+  "release_date": "2026年2月19日",
+  "is_free": false,
+  "price_initial": 248000,
+  "price_final": 248000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,480",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/64688d9b8896dd646460824dcfe1ac4c0b95e72f/ss_64688d9b8896dd646460824dcfe1ac4c0b95e72f.1920x1080.jpg?t=1771520817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/655f0d076c918ed1e1af82c357efd066ed836494/ss_655f0d076c918ed1e1af82c357efd066ed836494.1920x1080.jpg?t=1771520817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/8a883362ebb964a88af8f994efffcd7ff0eab01e/ss_8a883362ebb964a88af8f994efffcd7ff0eab01e.1920x1080.jpg?t=1771520817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/1973e6ba9b841d85fae48e6f363fb62403c43f9f/ss_1973e6ba9b841d85fae48e6f363fb62403c43f9f.1920x1080.jpg?t=1771520817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17ef2e9de5273edfffe4002fe7b08ba623e53991/ss_17ef2e9de5273edfffe4002fe7b08ba623e53991.1920x1080.jpg?t=1771520817"
+  ],
+  "movies": [
+    {
+      "name": "JP_announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257269783/40498e7a19af7aef872876b89477d78334b91fce/movie_600x337.jpg?t=1770306981",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 210,
+  "total_reviews": 263,
+  "total_positive": 250,
+  "total_negative": 13,
+  "review_score_desc": "Very Positive",
+  "slug": "paranormasight-file38",
+  "recommend": "niche",
+  "tags_ja": [
+    "アドベンチャー",
+    "シミュレーション",
+    "RPG",
+    "ゴア",
+    "暴力",
+    "ビジュアルノベル",
+    "ミステリー",
+    "マルチエンディング"
+  ],
+  "tags_en": [
+    "Adventure",
+    "Simulation",
+    "RPG",
+    "Gore",
+    "Violent",
+    "Visual Novel",
+    "Mystery",
+    "Multiple Endings"
+  ],
+  "fetched_at": "2026-02-21T15:31:21.696033"
+}

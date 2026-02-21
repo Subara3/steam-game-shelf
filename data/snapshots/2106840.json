@@ -1,0 +1,107 @@
+{
+  "appid": 2106840,
+  "required_age": 17,
+  "name_ja": "パラノマサイト FILE23 本所七不思議",
+  "name_en": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+  "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+  "short_description_ja": "本格謎解きホラーアドベンチャー パラノマサイト FILE23 本所七不思議 《蘇りの秘術》をめぐって”呪い合い”が始まる。",
+  "short_description_en": "How far would you go to bring someone back from the dead? Discover the depths that some will go to in this horror-adventure game.",
+  "short_description": "本格謎解きホラーアドベンチャー パラノマサイト FILE23 本所七不思議 《蘇りの秘術》をめぐって”呪い合い”が始まる。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/header_japanese.jpg?t=1751339920",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/capsule_231x87_japanese.jpg?t=1751339920",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年3月8日",
+  "release_date_en": "8 Mar, 2023",
+  "release_date": "2023年3月8日",
+  "is_free": false,
+  "price_initial": 198000,
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）",
+  "website": "https://Paranormasight.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_bbc7ab17bcec34bd552f49dd824c6a3cd94d6197.1920x1080.jpg?t=1751339920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_5a64a6e5006dea6b997236980f6b357232f41d0e.1920x1080.jpg?t=1751339920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_f8735cf07a3a8cec33f7cecf285cacabcbe65957.1920x1080.jpg?t=1751339920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_e0056c3082bdcf38dbae258a047123c3ce3846fa.1920x1080.jpg?t=1751339920",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_08b47f57c1c6130b058e60b1a3f6dd2562641044.1920x1080.jpg?t=1751339920"
+  ],
+  "movies": [
+    {
+      "name": "PEGI EN Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933646/movie.293x165.jpg?t=1678294763",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "JP Pre-Purchase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929514/movie.293x165.jpg?t=1675897048",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 5286,
+  "total_reviews": 6126,
+  "total_positive": 5847,
+  "total_negative": 279,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "paranormasight",
+  "recommend": "niche",
+  "tags_ja": [
+    "ビジュアルノベル",
+    "アドベンチャー",
+    "アニメ",
+    "ホラー",
+    "シミュレーション",
+    "テキストベース",
+    "超自然",
+    "手描き"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Adventure",
+    "Anime",
+    "Horror",
+    "Simulation",
+    "Text-Based",
+    "Supernatural",
+    "Hand-drawn"
+  ],
+  "fetched_at": "2026-02-21T15:31:21.696033"
+}

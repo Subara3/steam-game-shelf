@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 19640,
-  "total_reviews": 24851,
-  "total_positive": 24603,
+  "recommendations_total": 19644,
+  "total_reviews": 24855,
+  "total_positive": 24607,
   "total_negative": 248,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "aseprite",
@@ -97,5 +97,5 @@
     "Utilities",
     "Indie"
   ],
-  "fetched_at": "2026-02-20T19:10:01.461903"
+  "fetched_at": "2026-02-21T15:31:21.696033"
 }
