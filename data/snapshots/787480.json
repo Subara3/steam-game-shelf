@@ -1,0 +1,118 @@
+{
+  "appid": 787480,
+  "required_age": 0,
+  "name_ja": " 逆転裁判123 成歩堂セレクション",
+  "name_en": "Phoenix Wright: Ace Attorney Trilogy",
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "short_description_ja": "法廷を舞台に熱いバトルが繰り広げられるアドベンチャーゲーム。弁護士“成歩堂 龍一（なるほどう りゅういち）”となって、無実の依頼人のため裁判に挑む。本作はシリーズの原点となる「逆転裁判 蘇る逆転」「逆転裁判２」「逆転裁判３」の３作品全14話を、グラフィックをパワーアップし１本に収録。",
+  "short_description_en": "Become Phoenix Wright and experience the thrill of battle as you fight to save your innocent clients in a court of law. Play all 14 episodes, spanning the first three games, in one gorgeous collection.",
+  "short_description": "法廷を舞台に熱いバトルが繰り広げられるアドベンチャーゲーム。弁護士“成歩堂 龍一（なるほどう りゅういち）”となって、無実の依頼人のため裁判に挑む。本作はシリーズの原点となる「逆転裁判 蘇る逆転」「逆転裁判２」「逆転裁判３」の３作品全14話を、グラフィックをパワーアップし１本に収録。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header_japanese.jpg?t=1768866317",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/capsule_231x87_japanese.jpg?t=1768866317",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "カメラの快適性",
+    "カスタム音量調整",
+    "キーボードのみのオプション",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "タッチのみのオプション",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年4月9日",
+  "release_date_en": "9 Apr, 2019",
+  "release_date": "2019年4月9日",
+  "is_free": false,
+  "price_initial": 299000,
+  "price_final": 98600,
+  "discount_percent": 67,
+  "price_formatted": "¥ 986",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "日本語, 英語, フランス語, ドイツ語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, ポルトガル語－ブラジル",
+  "website": "https://www.capcom.co.jp/gyakutensaiban/123/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/ss_8145f428f4554abbb7bd85f252f7ea1e2303ff3a.1920x1080.jpg?t=1768866317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/8dfc87eda3defa610a842b456dfacb0724c426d1/ss_8dfc87eda3defa610a842b456dfacb0724c426d1.1920x1080.jpg?t=1768866317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/ss_b013fd51470b82b2436f90238f522f9a3f548b73.1920x1080.jpg?t=1768866317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/9f5ac5e88bc20f03d4063020462f7f23656c9ae0/ss_9f5ac5e88bc20f03d4063020462f7f23656c9ae0.1920x1080.jpg?t=1768866317",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/35cc124897f88ecae2112a69ad290d5f77a5e8c5/ss_35cc124897f88ecae2112a69ad290d5f77a5e8c5.1920x1080.jpg?t=1768866317"
+  ],
+  "movies": [
+    {
+      "name": "01_AAT_UpdateShowcasePV_Multi_JP_CERO",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257228050/f54964df2391c700385a6af41890b007fd9f631b/movie_600x337.jpg?t=1763515517",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "逆転裁判123_ローンチPV_STEAM_4月10日発売【FIX】.mp4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743296/movie.293x165.jpg?t=1551286848",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "01_AA_BrandMovie_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060194/d31318bb714c46f4e56018bdc7b4fa82077937be/movie_600x337.jpg?t=1727757683",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 33412,
+  "total_reviews": 42062,
+  "total_positive": 41041,
+  "total_negative": 1021,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "ace-attorney-trilogy",
+  "recommend": "all",
+  "tags_ja": [
+    "探偵",
+    "ビジュアルノベル",
+    "物語性",
+    "ミステリー",
+    "良質サントラ",
+    "アニメ",
+    "シングルプレイヤー",
+    "犯罪"
+  ],
+  "tags_en": [
+    "Detective",
+    "Visual Novel",
+    "Story Rich",
+    "Mystery",
+    "Great Soundtrack",
+    "Anime",
+    "Singleplayer",
+    "Crime"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}

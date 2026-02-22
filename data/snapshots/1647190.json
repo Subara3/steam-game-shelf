@@ -43,9 +43,9 @@
   "release_date": "2025年2月3日",
   "is_free": false,
   "price_initial": 152000,
-  "price_final": 121600,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,216",
+  "price_final": 152000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,520",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 404,
-  "total_reviews": 416,
-  "total_positive": 391,
+  "recommendations_total": 405,
+  "total_reviews": 417,
+  "total_positive": 392,
   "total_negative": 25,
   "review_score_desc": "Very Positive",
   "slug": "world-end-diner",
@@ -98,5 +98,5 @@
     "Post-apocalyptic",
     "Agriculture"
   ],
-  "fetched_at": "2026-02-21T18:58:06.237868"
+  "fetched_at": "2026-02-22T13:10:10.474741"
 }

@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": 3550820,
-  "recommendations_total": 1933,
-  "total_reviews": 2066,
-  "total_positive": 2004,
-  "total_negative": 62,
+  "recommendations_total": 1942,
+  "total_reviews": 2075,
+  "total_positive": 2014,
+  "total_negative": 61,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "mini-cozy-room",
   "recommend": "all",
@@ -97,5 +97,5 @@
     "Relaxing",
     "Indie"
   ],
-  "fetched_at": "2026-02-21T18:58:06.237868"
+  "fetched_at": "2026-02-22T13:10:10.474741"
 }

@@ -1,0 +1,105 @@
+{
+  "appid": 413410,
+  "required_age": 0,
+  "name_ja": "ダンガンロンパ 希望の学園と絶望の高校生",
+  "name_en": "Danganronpa: Trigger Happy Havoc",
+  "name": "Danganronpa: Trigger Happy Havoc",
+  "short_description_ja": "「学級裁判」に向け、学園内を捜査して、言葉巧みに騙そうとしてくる犯人との命懸けの論争！ 相手の発言の嘘や矛盾を見抜き「論破」しろ！",
+  "short_description_en": "Investigate murders, search for clues and talk to your classmates to prepare for trial. There, you'll engage in deadly wordplay, going back and forth with suspects. Dissect their statements and fire their words back at them to expose their lies! There's only one way to survive—pull the trigger.",
+  "short_description": "「学級裁判」に向け、学園内を捜査して、言葉巧みに騙そうとしてくる犯人との命懸けの論争！ 相手の発言の嘘や矛盾を見抜き「論破」しろ！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/header_japanese.jpg?t=1750134092",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/capsule_231x87_japanese.jpg?t=1750134092",
+  "developers": [
+    "Spike Chunsoft Co., Ltd.",
+    "Abstraction Games"
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年2月18日",
+  "release_date_en": "18 Feb, 2016",
+  "release_date": "2016年2月18日",
+  "is_free": false,
+  "price_initial": 213800,
+  "price_final": 213800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,138",
+  "currency": "JPY",
+  "metacritic_score": 82,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_04c49bc091618c1d7d86448af24cab1a7bc4ba38.1920x1080.jpg?t=1750134092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_ddc141961c400d1beee316414b00f1968de8a3c3.1920x1080.jpg?t=1750134092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_085c4996a9e33219104a0beedcf607dc7b79ceee.1920x1080.jpg?t=1750134092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_dbbbd686eb16982b93639ee045463530b0f13b87.1920x1080.jpg?t=1750134092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_ad542e0c38aa6878a3211ed5c617598212293230.1920x1080.jpg?t=1750134092"
+  ],
+  "movies": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660841/movie.293x165.jpg?t=1455822699",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659737/movie.293x165.jpg?t=1453107649",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 31924,
+  "total_reviews": 34074,
+  "total_positive": 32700,
+  "total_negative": 1374,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "danganronpa-thh",
+  "recommend": "niche",
+  "tags_ja": [
+    "アニメ",
+    "ビジュアルノベル",
+    "探偵",
+    "ミステリー",
+    "物語性",
+    "良質サントラ",
+    "シングルプレイヤー",
+    "精神的恐怖"
+  ],
+  "tags_en": [
+    "Anime",
+    "Visual Novel",
+    "Detective",
+    "Mystery",
+    "Story Rich",
+    "Great Soundtrack",
+    "Singleplayer",
+    "Psychological Horror"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}

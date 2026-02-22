@@ -1,0 +1,105 @@
+{
+  "appid": 413420,
+  "required_age": 0,
+  "name_ja": "スーパーダンガンロンパ2 さよなら絶望学園",
+  "name_en": "Danganronpa 2: Goodbye Despair",
+  "name": "Danganronpa 2: Goodbye Despair",
+  "short_description_ja": "ジャバウォック島でモノクマの陰謀によって絶望的なコロシアイを強いられる！ 生き残る手段は島の謎を解き明かすことだけだ。",
+  "short_description_en": "Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.",
+  "short_description": "ジャバウォック島でモノクマの陰謀によって絶望的なコロシアイを強いられる！ 生き残る手段は島の謎を解き明かすことだけだ。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header_japanese.jpg?t=1750134103",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/capsule_231x87_japanese.jpg?t=1750134103",
+  "developers": [
+    "Spike Chunsoft Co., Ltd.",
+    "Abstraction Games"
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2016年4月18日",
+  "release_date_en": "18 Apr, 2016",
+  "release_date": "2016年4月18日",
+  "is_free": false,
+  "price_initial": 213800,
+  "price_final": 213800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,138",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_ae539881f039547bd54a406cb077cf2d4f62fdee.1920x1080.jpg?t=1750134103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_46a1f84049a33f21967ed33f66c971f399e2d744.1920x1080.jpg?t=1750134103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_a2ea3324d77860ef71e92d388281dfaf77197796.1920x1080.jpg?t=1750134103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_f1869e4e5f21bfccd43f1c496c3a2a1928dcfe8b.1920x1080.jpg?t=1750134103",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_07f8b56ca168eba9a06f4d77b0f97a2ebe1378aa.1920x1080.jpg?t=1750134103"
+  ],
+  "movies": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661640/movie.293x165.jpg?t=1457935520",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663124/movie.293x165.jpg?t=1470375887",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 27422,
+  "total_reviews": 29062,
+  "total_positive": 27908,
+  "total_negative": 1154,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "danganronpa-2",
+  "recommend": "niche",
+  "tags_ja": [
+    "アニメ",
+    "探偵",
+    "ビジュアルノベル",
+    "ミステリー",
+    "物語性",
+    "良質サントラ",
+    "シングルプレイヤー",
+    "精神的恐怖"
+  ],
+  "tags_en": [
+    "Anime",
+    "Detective",
+    "Visual Novel",
+    "Mystery",
+    "Story Rich",
+    "Great Soundtrack",
+    "Singleplayer",
+    "Psychological Horror"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}
