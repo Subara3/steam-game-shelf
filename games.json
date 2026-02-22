@@ -67,6 +67,7 @@
     {"appid": 413420, "slug": "danganronpa-2", "comment": "学級裁判デスゲームADV続編", "name_ja": "スーパーダンガンロンパ2", "recommend": "niche"},
     {"appid": 567640, "slug": "danganronpa-v3", "comment": "学級裁判デスゲームADV完結編", "name_ja": "ニューダンガンロンパV3", "recommend": "niche"},
     {"appid": 1967430, "slug": "ghost-trick", "comment": "死者の魂で運命を変えるADV", "name_ja": "ゴーストトリック", "recommend": "all"},
-    {"appid": 653530, "slug": "return-of-the-obra-dinn", "comment": "死因推理ADV", "recommend": "all"}
+    {"appid": 653530, "slug": "return-of-the-obra-dinn", "comment": "死因推理ADV", "recommend": "all"},
+    {"appid": 1695000, "slug": "rainbow-sea", "comment": "七福神マルチエンディングADV", "name_ja": "虹の降る海", "recommend": "niche"}
   ]
 }
