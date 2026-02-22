@@ -1,0 +1,107 @@
+{
+  "appid": 1695000,
+  "required_age": 0,
+  "name_ja": "虹の降る海",
+  "name_en": "Rainbow Sea",
+  "name": "Rainbow Sea",
+  "short_description_ja": "神さま候補の「人間さん」と、彼女に心を開いていない様子の七福神の宝船での一年間が描かれるドット絵マルチエンドアドベンチャー。寂しく切なく優しい22種類のエンディングすべてがトゥルーエンドであり、プレイしているあなただけが各ルートに散りばめられた伏線から本当の物語を知る。",
+  "short_description_en": "Rainbow Sea is a multi-ending adventure with pixel-art style based on the myth of the traditional Japanese gods — Seven Lucky Gods. You explore inside a treasure ship and make choices to change the storyline. All twenty two endings are true endings, and only you can know the authentic story.",
+  "short_description": "神さま候補の「人間さん」と、彼女に心を開いていない様子の七福神の宝船での一年間が描かれるドット絵マルチエンドアドベンチャー。寂しく切なく優しい22種類のエンディングすべてがトゥルーエンドであり、プレイしているあなただけが各ルートに散りばめられた伏線から本当の物語を知る。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/header_japanese.jpg?t=1766366906",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/8eeaca08557391cc169f67b04553069f4e36b6c9/capsule_231x87_japanese.jpg?t=1766366906",
+  "developers": [
+    "paochanz"
+  ],
+  "publishers": [
+    "G-MODE"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年9月19日",
+  "release_date_en": "19 Sep, 2024",
+  "release_date": "2024年9月19日",
+  "is_free": false,
+  "price_initial": 180000,
+  "price_final": 180000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,800",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "日本語, 英語, 中国語（繁体字）, 韓国語, 中国語（簡体字）",
+  "website": "https://shirokurohitsuji.studio/products/rainbowsea/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/ss_819ca1d24063d26ae98636363202db3850e4bb82.1920x1080.jpg?t=1766366906",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/ss_ec93520b0e1e5cfa09f0bafd2ee8bd1f14de6c1d.1920x1080.jpg?t=1766366906",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/ss_2d8b0855c19ec8fee72940d41b4a085c5db69ee1.1920x1080.jpg?t=1766366906",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/ss_6a9be594ad5877486146aaaf253cae5ef0e569ba.1920x1080.jpg?t=1766366906",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1695000/ss_48602651f49b022efdd0c90e169fd1865a420890.1920x1080.jpg?t=1766366906"
+  ],
+  "movies": [
+    {
+      "name": "紹介動画_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136201/13240f80c471c38f1cfab1be22bfbc9214f01164/movie_600x337.jpg?t=1747972756",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "PV_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057252/movie.293x165.jpg?t=1726980036",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 1695020,
+  "recommendations_total": 0,
+  "total_reviews": 39,
+  "total_positive": 37,
+  "total_negative": 2,
+  "review_score_desc": "Positive",
+  "slug": "rainbow-sea",
+  "recommend": "niche",
+  "tags_ja": [
+    "優れたストーリー",
+    "選択方式アドベンチャー",
+    "インタラクティブフィクション",
+    "女性主人公",
+    "没入シミュレーション",
+    "ビジュアルノベル",
+    "物語性",
+    "かわいい"
+  ],
+  "tags_en": [
+    "Well-Written",
+    "Choose Your Own Adventure",
+    "Interactive Fiction",
+    "Female Protagonist",
+    "Immersive Sim",
+    "Visual Novel",
+    "Story Rich",
+    "Cute"
+  ],
+  "fetched_at": "2026-02-22T16:29:37.592909"
+}
