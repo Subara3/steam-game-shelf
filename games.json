@@ -60,6 +60,13 @@
     {"appid": 363890, "slug": "rpg-maker-mv", "comment": "RPG制作ツール", "recommend": "all", "tool": true},
     {"appid": 3511030, "slug": "mini-cozy-room", "comment": "Lo-Fiデスクトップカスタマイズ", "recommend": "all", "tool": true},
     {"appid": 4301100, "slug": "emotelab", "comment": "表情アニメーション作成", "recommend": "all", "tool": true},
-    {"appid": 1036640, "slug": "rpg-developer-bakin", "comment": "3D RPG制作ツール", "recommend": "niche", "tool": true}
+    {"appid": 1036640, "slug": "rpg-developer-bakin", "comment": "3D RPG制作ツール", "recommend": "niche", "tool": true},
+    {"appid": 787480, "slug": "ace-attorney-trilogy", "comment": "法廷バトルADV", "name_ja": "逆転裁判123 成歩堂セレクション", "recommend": "all"},
+    {"appid": 1158850, "slug": "great-ace-attorney-chronicles", "comment": "明治時代の法廷バトルADV", "name_ja": "大逆転裁判1&2", "recommend": "all"},
+    {"appid": 413410, "slug": "danganronpa-thh", "comment": "学級裁判デスゲームADV", "name_ja": "ダンガンロンパ 希望の学園と絶望の高校生", "recommend": "niche"},
+    {"appid": 413420, "slug": "danganronpa-2", "comment": "学級裁判デスゲームADV続編", "name_ja": "スーパーダンガンロンパ2", "recommend": "niche"},
+    {"appid": 567640, "slug": "danganronpa-v3", "comment": "学級裁判デスゲームADV完結編", "name_ja": "ニューダンガンロンパV3", "recommend": "niche"},
+    {"appid": 1967430, "slug": "ghost-trick", "comment": "死者の魂で運命を変えるADV", "name_ja": "ゴーストトリック", "recommend": "all"},
+    {"appid": 653530, "slug": "return-of-the-obra-dinn", "comment": "死因推理ADV", "recommend": "all"}
   ]
 }
