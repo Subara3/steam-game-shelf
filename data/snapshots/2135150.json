@@ -88,10 +88,10 @@
     }
   ],
   "demo_appid": 3288620,
-  "recommendations_total": 7672,
-  "total_reviews": 8410,
-  "total_positive": 7878,
-  "total_negative": 532,
+  "recommendations_total": 7679,
+  "total_reviews": 8418,
+  "total_positive": 7885,
+  "total_negative": 533,
   "review_score_desc": "Very Positive",
   "slug": "elin",
   "recommend": "niche",
@@ -115,5 +115,5 @@
     "Traditional Roguelike",
     "Pixel Graphics"
   ],
-  "fetched_at": "2026-02-21T18:58:06.237868"
+  "fetched_at": "2026-02-22T13:10:10.474741"
 }

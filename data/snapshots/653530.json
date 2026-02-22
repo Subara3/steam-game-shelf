@@ -1,0 +1,99 @@
+{
+  "appid": 653530,
+  "required_age": 0,
+  "name_ja": "Return of the Obra Dinn",
+  "name_en": "Return of the Obra Dinn",
+  "name": "Return of the Obra Dinn",
+  "short_description_ja": "「オブラ・ディン号」 情報、求む 1803年、航海中に消息を絶つ",
+  "short_description_en": "Lost at sea 1803 ~ The good ship Obra Dinn.",
+  "short_description": "「オブラ・ディン号」 情報、求む 1803年、航海中に消息を絶つ",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg?t=1686697594",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/capsule_231x87.jpg?t=1686697594",
+  "developers": [
+    "Lucas Pope"
+  ],
+  "publishers": [
+    "3909"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2018年10月18日",
+  "release_date_en": "18 Oct, 2018",
+  "release_date": "2018年10月18日",
+  "is_free": false,
+  "price_initial": 230000,
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
+  "currency": "JPY",
+  "metacritic_score": 89,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 韓国語, 中国語（簡体字）, 中国語（繁体字）, アラビア語, ウクライナ語<br><strong>*</strong>フル音声対応言語",
+  "website": "https://obradinn.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_7dd3476ace2170e134141e487f9491d4c9d094f3.1920x1080.jpg?t=1686697594",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_380dc35237fde7d3863a44270abafc37924d1db4.1920x1080.jpg?t=1686697594",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_69b3c98eda3c3476a4dee6a1a220169ac70dcb6d.1920x1080.jpg?t=1686697594",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_4f555f01fa82723c28fcce8f0909570caaee8e8f.1920x1080.jpg?t=1686697594",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_7a8824f581b399abc52f598966b339fada982349.1920x1080.jpg?t=1686697594"
+  ],
+  "movies": [
+    {
+      "name": "Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256728392/movie.293x165.jpg?t=1686697587",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 30316,
+  "total_reviews": 33041,
+  "total_positive": 31965,
+  "total_negative": 1076,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "return-of-the-obra-dinn",
+  "recommend": "all",
+  "tags_ja": [
+    "探偵",
+    "ミステリー",
+    "パズル",
+    "物語性",
+    "雰囲気",
+    "シングルプレイヤー",
+    "インディー",
+    "良質サントラ"
+  ],
+  "tags_en": [
+    "Detective",
+    "Mystery",
+    "Puzzle",
+    "Story Rich",
+    "Atmospheric",
+    "Singleplayer",
+    "Indie",
+    "Great Soundtrack"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}

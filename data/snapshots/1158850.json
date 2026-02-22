@@ -1,0 +1,114 @@
+{
+  "appid": 1158850,
+  "required_age": 0,
+  "name_ja": "大逆転裁判1＆2　-成歩堂龍ノ介の冒險と覺悟-",
+  "name_en": "The Great Ace Attorney Chronicles",
+  "name": "The Great Ace Attorney Chronicles",
+  "short_description_ja": "「異議あり!」でおなじみの“法廷バトル”ゲーム、『逆転裁判』シリーズの『大逆転裁判』と『大逆転裁判2』2つの作品を1本に収録。プレイ時間約50時間を超える程のボリューム性、高画質化や遊びやすさの最適化などの細かい調整により誕生した、法廷ミステリーエンターテインメントの決定版。",
+  "short_description_en": "Immerse yourself in a dramatic yet charming and witty world of evidence-gathering, deduction and courtroom battles with this double-pack of the adventures of rookie lawyer Ryunosuke.",
+  "short_description": "「異議あり!」でおなじみの“法廷バトル”ゲーム、『逆転裁判』シリーズの『大逆転裁判』と『大逆転裁判2』2つの作品を1本に収録。プレイ時間約50時間を超える程のボリューム性、高画質化や遊びやすさの最適化などの細かい調整により誕生した、法廷ミステリーエンターテインメントの決定版。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/header_japanese.jpg?t=1768866214",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/capsule_231x87_japanese.jpg?t=1768866214",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2021年7月28日",
+  "release_date_en": "28 Jul, 2021",
+  "release_date": "2021年7月28日",
+  "is_free": false,
+  "price_initial": 499000,
+  "price_final": 199600,
+  "discount_percent": 60,
+  "price_formatted": "¥ 1,996",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語",
+  "website": "https://www.ace-attorney.com/great1-2/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_9b642f49498c306849d22f50d3fdb040c707c267.1920x1080.jpg?t=1768866214",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_2f8ad14ddc424d0edb7c0da2b5fab610276327b6.1920x1080.jpg?t=1768866214",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_fd3b0e5350517d94d4ed1ebb0203ea5fbcfa21a3.1920x1080.jpg?t=1768866214",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_98670ef36933ca1507cfac26e494661514c3bfca.1920x1080.jpg?t=1768866214",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_e2d9f9a0ebd62b11fc194181fd5927c41f586d2c.1920x1080.jpg?t=1768866214"
+  ],
+  "movies": [
+    {
+      "name": "15_大逆転裁判1&2_PV3_STEAM_CERO.mp4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844660/movie.293x165.jpg?t=1627524746",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "15_大逆転裁判1&2_PV2_STEAM_CERO.mp4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839944/movie.293x165.jpg?t=1624374121",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "16_大逆転裁判1&2_PV1_STEAM_CERO.mp4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831864/movie.293x165.jpg?t=1620863888",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "01_AA_BrandMovie_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060240/d31318bb714c46f4e56018bdc7b4fa82077937be/movie_600x337.jpg?t=1727757774",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 4864,
+  "total_reviews": 8941,
+  "total_positive": 8433,
+  "total_negative": 508,
+  "review_score_desc": "Very Positive",
+  "slug": "great-ace-attorney-chronicles",
+  "recommend": "all",
+  "tags_ja": [
+    "ビジュアルノベル",
+    "アドベンチャー",
+    "探偵",
+    "アニメ",
+    "ミステリー",
+    "テキストベース",
+    "3D",
+    "物語性"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Adventure",
+    "Detective",
+    "Anime",
+    "Mystery",
+    "Text-Based",
+    "3D",
+    "Story Rich"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}

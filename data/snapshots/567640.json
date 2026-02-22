@@ -1,0 +1,99 @@
+{
+  "appid": 567640,
+  "required_age": 0,
+  "name_ja": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+  "name_en": "Danganronpa V3: Killing Harmony",
+  "name": "Danganronpa V3: Killing Harmony",
+  "short_description_ja": "新章開幕！！嘘、ハッタリ、騙し合い、もてる言葉の全てを使って論破せよ！！ 学級裁判で相手の矛盾を論破し、殺人事件の犯人を暴いていくハイスピード推理アクション『ダンガンロンパ』シリーズの最新作。",
+  "short_description_en": "A new cast of 16 characters find themselves kidnapped and imprisoned in a school. Inside, some will kill, some will die, and some will be punished. Reimagine what you thought high-stakes, fast-paced investigation was as you investigate twisted murder cases and condemn your new friends to death.",
+  "short_description": "新章開幕！！嘘、ハッタリ、騙し合い、もてる言葉の全てを使って論破せよ！！ 学級裁判で相手の矛盾を論破し、殺人事件の犯人を暴いていくハイスピード推理アクション『ダンガンロンパ』シリーズの最新作。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/header_japanese.jpg?t=1750134757",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/capsule_231x87_japanese.jpg?t=1750134757",
+  "developers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "genres_ja": [
+    "アドベンチャー"
+  ],
+  "genres_en": [
+    "Adventure"
+  ],
+  "genres": [
+    "アドベンチャー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2017年9月25日",
+  "release_date_en": "25 Sep, 2017",
+  "release_date": "2017年9月25日",
+  "is_free": false,
+  "price_initial": 419000,
+  "price_final": 419000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,190",
+  "currency": "JPY",
+  "metacritic_score": 80,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, 日本語<strong>*</strong>, 中国語（簡体字）, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.spike-chunsoft.co.jp/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_8ba683238c5ff9de9bf8856457d763da391f87aa.1920x1080.jpg?t=1750134757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_298b5b5d9ad04b57610f035a8e144b16cd9dae8a.1920x1080.jpg?t=1750134757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_2dfc1b68ad62de51d231daf2ac4ab93534143403.1920x1080.jpg?t=1750134757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_90fcec894b2209d6d7d1234c731c61c84bf6e6aa.1920x1080.jpg?t=1750134757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_fe8f9bb7cc15978b2453379512c7d7bc203d13f1.1920x1080.jpg?t=1750134757"
+  ],
+  "movies": [
+    {
+      "name": "アナウンストレーラー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686809/movie.293x165.jpg?t=1500945426",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 589120,
+  "recommendations_total": 20152,
+  "total_reviews": 21398,
+  "total_positive": 17794,
+  "total_negative": 3604,
+  "review_score_desc": "Very Positive",
+  "slug": "danganronpa-v3",
+  "recommend": "niche",
+  "tags_ja": [
+    "ビジュアルノベル",
+    "探偵",
+    "女性主人公",
+    "アニメ",
+    "物語性",
+    "ミステリー",
+    "良質サントラ",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Visual Novel",
+    "Detective",
+    "Female Protagonist",
+    "Anime",
+    "Story Rich",
+    "Mystery",
+    "Great Soundtrack",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-22T13:10:10.474741"
+}
