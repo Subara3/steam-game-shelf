@@ -7774,6 +7774,20 @@
       ],
       "fetched_at": "2026-02-22T18:58:06.158402",
       "has_article": false
+    },
+    {
+      "appid": 4213590,
+      "slug": "tiling-forest-tiling-town-demo",
+      "name_ja": "Tiling Forest - Tiling Town Demo",
+      "name_en": "Tiling Forest - Tiling Town Demo",
+      "name": "Tiling Forest - Tiling Town Demo",
+      "short_description_ja": "街づくりパズル体験版",
+      "short_description_en": "街づくりパズル体験版",
+      "short_description": "街づくりパズル体験版",
+      "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/4213590/header.jpg",
+      "recommend": "niche",
+      "has_article": false,
+      "free_section": true
     }
   ]
 }
