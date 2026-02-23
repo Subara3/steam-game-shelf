@@ -47,9 +47,9 @@
   "release_date": "2020年8月27日",
   "is_free": false,
   "price_initial": 877800,
-  "price_final": 351100,
-  "discount_percent": 60,
-  "price_formatted": "¥ 3,511",
+  "price_final": 877800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,778",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -114,5 +114,5 @@
     "Singleplayer",
     "Party-Based RPG"
   ],
-  "fetched_at": "2026-02-23T16:25:17.870164"
+  "fetched_at": "2026-02-23T19:37:06.162507"
 }
