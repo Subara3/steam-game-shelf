@@ -1,73 +1,507 @@
 {
   "games": [
-    {"appid": 2379780, "slug": "balatro", "comment": "ローグライクデッキビルダー", "recommend": "all"},
-    {"appid": 413150, "slug": "stardew-valley", "comment": "牧場シミュレーション", "recommend": "all"},
-    {"appid": 2135150, "slug": "elin", "comment": "Elona後継オープンワールドRPG", "recommend": "niche"},
-    {"appid": 391540, "slug": "undertale", "comment": "弾幕RPG", "recommend": "niche"},
-    {"appid": 568220, "slug": "lobotomy-corporation", "comment": "アブノーマリティ管理シミュレーション", "recommend": "niche"},
-    {"appid": 266210, "slug": "one-way-heroics", "comment": "強制横スクロールRPG", "recommend": "niche"},
-    {"appid": 1256670, "slug": "library-of-ruina", "comment": "カードバトルRPG", "recommend": "niche"},
-    {"appid": 1404850, "slug": "luck-be-a-landlord", "comment": "ローグライクスロット", "recommend": "all"},
-    {"appid": 3314790, "slug": "cloverpit", "comment": "ローグライトスロットホラー", "recommend": "niche"},
-    {"appid": 294100, "slug": "rimworld", "comment": "コロニーシミュレーション", "recommend": "niche"},
-    {"appid": 632470, "slug": "disco-elysium", "comment": "テキストアドベンチャーRPG", "recommend": "niche"},
-    {"appid": 2106840, "slug": "paranormasight", "comment": "本格謎解きホラーADV", "name_ja": "パラノマサイト FILE23 本所七不思議", "recommend": "niche"},
-    {"appid": 2701440, "slug": "paranormasight-file38", "comment": "伊勢志摩舞台の続編ホラーADV", "name_ja": "パラノマサイト FILE38 伊勢人魚物語", "recommend": "niche"},
-    {"appid": 1222140, "slug": "detroit-become-human", "comment": "選択型アドベンチャー", "recommend": "all"},
-    {"appid": 1054490, "slug": "wingspan", "comment": "鳥類テーマのボードゲーム", "recommend": "all"},
-    {"appid": 1599600, "slug": "plateup", "comment": "レストラン経営ローグライク", "recommend": "all", "multi": true},
-    {"appid": 913740, "slug": "world-of-horror", "comment": "伊藤潤二風ホラーRPG", "recommend": "niche"},
-    {"appid": 1092790, "slug": "inscryption", "comment": "カードゲーム×脱出ホラー", "recommend": "niche"},
-    {"appid": 239030, "slug": "papers-please", "comment": "入国審査シミュレーション", "recommend": "all"},
-    {"appid": 1669980, "slug": "volcano-princess", "comment": "育成シミュレーション", "recommend": "niche"},
-    {"appid": 2676840, "slug": "no-case-should-remain-unsolved", "comment": "推理アドベンチャー", "recommend": "all"},
-    {"appid": 3117820, "slug": "sultans-game", "comment": "資源管理サバイバルRPG", "recommend": "niche"},
-    {"appid": 1794680, "slug": "vampire-survivors", "comment": "ローグライクサバイバル", "recommend": "all"},
-    {"appid": 447530, "slug": "va11halla", "comment": "サイバーパンクバーテンダーADV", "recommend": "niche"},
-    {"appid": 2336980, "slug": "famires", "comment": "ファミレスADV", "name_ja": "ファミレスを享受せよ", "recommend": "all"},
-    {"appid": 1515210, "slug": "the-past-within", "comment": "協力型パズルADV", "recommend": "all", "multi": true},
-    {"appid": 4327530, "slug": "guild-tankyudan", "comment": "推理パズル", "recommend": "all", "featured": true},
-    {"appid": 1240210, "slug": "there-is-no-game", "comment": "メタパズルADV", "recommend": "all"},
-    {"appid": 2455920, "slug": "mimic-logic", "comment": "論理パズルローグライク", "recommend": "all", "by": "kotori"},
-    {"appid": 1617030, "slug": "terrorbane", "comment": "メタRPGバグアドベンチャー", "recommend": "all", "by": "kotori"},
-    {"appid": 3101040, "slug": "magical-girl-witch-trials", "comment": "魔法少女×裁判ADV", "recommend": "niche", "by": "both"},
-    {"appid": 489830, "slug": "skyrim", "comment": "オープンワールドRPG", "recommend": "all"},
-    {"appid": 3900, "slug": "civilization-iv", "comment": "ターン制文明シミュレーション", "recommend": "all"},
-    {"appid": 2142790, "slug": "fields-of-mistria", "comment": "農場シミュレーションRPG", "recommend": "all"},
-    {"appid": 3213850, "slug": "gogh", "comment": "アバター集中タイマー", "recommend": "all", "tool": true},
-    {"appid": 262060, "slug": "darkest-dungeon", "comment": "ゴシックダンジョンRPG", "recommend": "niche"},
-    {"appid": 377160, "slug": "fallout-4", "comment": "ポストアポカリプスRPG", "recommend": "all"},
-    {"appid": 550, "slug": "left-4-dead-2", "comment": "Co-opゾンビFPS", "recommend": "all", "multi": true, "by": "kotori"},
-    {"appid": 1150690, "slug": "omori", "comment": "心理ホラーRPG", "recommend": "niche"},
-    {"appid": 420530, "slug": "oneshot", "comment": "メタナラティブADV", "recommend": "niche"},
-    {"appid": 1243830, "slug": "overcooked-ayce", "comment": "協力クッキングアクション", "recommend": "all", "multi": true},
-    {"appid": 400, "slug": "portal", "comment": "ポータルパズルFPS", "recommend": "all", "by": "kotori"},
-    {"appid": 620, "slug": "portal-2", "comment": "ポータルパズルFPS", "recommend": "all", "by": "kotori"},
-    {"appid": 405710, "slug": "staxel", "comment": "ボクセル農場シミュレーション", "recommend": "all"},
-    {"appid": 1016920, "slug": "unrailed", "comment": "協力線路敷設アクション", "recommend": "all", "multi": true, "by": "kotori"},
-    {"appid": 1647190, "slug": "world-end-diner", "comment": "終末レストランADV", "recommend": "niche"},
-    {"appid": 1933990, "slug": "burger-bistro-story", "comment": "ハンバーガー経営シミュレーション", "recommend": "all"},
-    {"appid": 1086940, "slug": "baldurs-gate-3", "comment": "大型RPG", "recommend": "all"},
-    {"appid": 1984790, "slug": "drago-noka", "comment": "竜の背中で村運営シミュレーション", "recommend": "niche"},
-    {"appid": 427520, "slug": "factorio", "comment": "工場自動化シミュレーション", "recommend": "all", "by": "kotori"},
-    {"appid": 4045680, "slug": "kanmuri", "comment": "育成シミュレーションADV", "name_ja": "冠を持つ神の手", "recommend": "niche", "coming_soon": true},
-    {"appid": 4371880, "slug": "cyan-project", "comment": "謎解きADV", "name_ja": "CYAN PROJECT", "recommend": "niche", "coming_soon": true},
-    {"appid": 2263010, "slug": "pineapple-on-pizza", "comment": "フリーゲーム", "recommend": "all", "free_section": true},
-    {"appid": 2973410, "slug": "wanwan-human", "comment": "わんわんフリーゲーム", "recommend": "all", "free_section": true},
-    {"appid": 3419430, "slug": "bongo-cat", "comment": "デスクトップ猫", "recommend": "all", "free_section": true},
-    {"appid": 431730, "slug": "aseprite", "comment": "ドット絵エディタ", "recommend": "all", "tool": true},
-    {"appid": 1096900, "slug": "rpg-maker-mz", "comment": "RPG制作ツール", "recommend": "all", "tool": true},
-    {"appid": 363890, "slug": "rpg-maker-mv", "comment": "RPG制作ツール", "recommend": "all", "tool": true},
-    {"appid": 3511030, "slug": "mini-cozy-room", "comment": "Lo-Fiデスクトップカスタマイズ", "recommend": "all", "tool": true},
-    {"appid": 4301100, "slug": "emotelab", "comment": "表情アニメーション作成", "recommend": "all", "tool": true},
-    {"appid": 1036640, "slug": "rpg-developer-bakin", "comment": "3D RPG制作ツール", "recommend": "niche", "tool": true},
-    {"appid": 787480, "slug": "ace-attorney-trilogy", "comment": "法廷バトルADV", "name_ja": "逆転裁判123 成歩堂セレクション", "recommend": "all"},
-    {"appid": 1158850, "slug": "great-ace-attorney-chronicles", "comment": "明治時代の法廷バトルADV", "name_ja": "大逆転裁判1&2", "recommend": "all"},
-    {"appid": 413410, "slug": "danganronpa-thh", "comment": "学級裁判デスゲームADV", "name_ja": "ダンガンロンパ 希望の学園と絶望の高校生", "recommend": "niche"},
-    {"appid": 413420, "slug": "danganronpa-2", "comment": "学級裁判デスゲームADV続編", "name_ja": "スーパーダンガンロンパ2", "recommend": "niche"},
-    {"appid": 567640, "slug": "danganronpa-v3", "comment": "学級裁判デスゲームADV完結編", "name_ja": "ニューダンガンロンパV3", "recommend": "niche"},
-    {"appid": 1967430, "slug": "ghost-trick", "comment": "死者の魂で運命を変えるADV", "name_ja": "ゴーストトリック", "recommend": "all"},
-    {"appid": 653530, "slug": "return-of-the-obra-dinn", "comment": "死因推理ADV", "recommend": "all"},
-    {"appid": 1695000, "slug": "rainbow-sea", "comment": "七福神マルチエンディングADV", "name_ja": "虹の降る海", "recommend": "niche"}
+    {
+      "appid": 2379780,
+      "slug": "balatro",
+      "comment": "ローグライクデッキビルダー",
+      "recommend": "all"
+    },
+    {
+      "appid": 413150,
+      "slug": "stardew-valley",
+      "comment": "牧場シミュレーション",
+      "recommend": "all"
+    },
+    {
+      "appid": 2135150,
+      "slug": "elin",
+      "comment": "Elona後継オープンワールドRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 391540,
+      "slug": "undertale",
+      "comment": "弾幕RPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 568220,
+      "slug": "lobotomy-corporation",
+      "comment": "アブノーマリティ管理シミュレーション",
+      "recommend": "niche"
+    },
+    {
+      "appid": 266210,
+      "slug": "one-way-heroics",
+      "comment": "強制横スクロールRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1256670,
+      "slug": "library-of-ruina",
+      "comment": "カードバトルRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1404850,
+      "slug": "luck-be-a-landlord",
+      "comment": "ローグライクスロット",
+      "recommend": "all"
+    },
+    {
+      "appid": 3314790,
+      "slug": "cloverpit",
+      "comment": "ローグライトスロットホラー",
+      "recommend": "niche"
+    },
+    {
+      "appid": 294100,
+      "slug": "rimworld",
+      "comment": "コロニーシミュレーション",
+      "recommend": "niche"
+    },
+    {
+      "appid": 632470,
+      "slug": "disco-elysium",
+      "comment": "テキストアドベンチャーRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 2106840,
+      "slug": "paranormasight",
+      "comment": "本格謎解きホラーADV",
+      "name_ja": "パラノマサイト FILE23 本所七不思議",
+      "recommend": "niche"
+    },
+    {
+      "appid": 2701440,
+      "slug": "paranormasight-file38",
+      "comment": "伊勢志摩舞台の続編ホラーADV",
+      "name_ja": "パラノマサイト FILE38 伊勢人魚物語",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1222140,
+      "slug": "detroit-become-human",
+      "comment": "選択型アドベンチャー",
+      "recommend": "all"
+    },
+    {
+      "appid": 1054490,
+      "slug": "wingspan",
+      "comment": "鳥類テーマのボードゲーム",
+      "recommend": "all"
+    },
+    {
+      "appid": 1599600,
+      "slug": "plateup",
+      "comment": "レストラン経営ローグライク",
+      "recommend": "all",
+      "multi": true
+    },
+    {
+      "appid": 913740,
+      "slug": "world-of-horror",
+      "comment": "伊藤潤二風ホラーRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1092790,
+      "slug": "inscryption",
+      "comment": "カードゲーム×脱出ホラー",
+      "recommend": "niche"
+    },
+    {
+      "appid": 239030,
+      "slug": "papers-please",
+      "comment": "入国審査シミュレーション",
+      "recommend": "all"
+    },
+    {
+      "appid": 1669980,
+      "slug": "volcano-princess",
+      "comment": "育成シミュレーション",
+      "recommend": "niche"
+    },
+    {
+      "appid": 2676840,
+      "slug": "no-case-should-remain-unsolved",
+      "comment": "推理アドベンチャー",
+      "recommend": "all"
+    },
+    {
+      "appid": 3117820,
+      "slug": "sultans-game",
+      "comment": "資源管理サバイバルRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1794680,
+      "slug": "vampire-survivors",
+      "comment": "ローグライクサバイバル",
+      "recommend": "all"
+    },
+    {
+      "appid": 447530,
+      "slug": "va11halla",
+      "comment": "サイバーパンクバーテンダーADV",
+      "recommend": "niche"
+    },
+    {
+      "appid": 2336980,
+      "slug": "famires",
+      "comment": "ファミレスADV",
+      "name_ja": "ファミレスを享受せよ",
+      "recommend": "all"
+    },
+    {
+      "appid": 1515210,
+      "slug": "the-past-within",
+      "comment": "協力型パズルADV",
+      "recommend": "all",
+      "multi": true
+    },
+    {
+      "appid": 4327530,
+      "slug": "guild-tankyudan",
+      "comment": "推理パズル",
+      "recommend": "all",
+      "featured": true
+    },
+    {
+      "appid": 1240210,
+      "slug": "there-is-no-game",
+      "comment": "メタパズルADV",
+      "recommend": "all"
+    },
+    {
+      "appid": 2455920,
+      "slug": "mimic-logic",
+      "comment": "論理パズルローグライク",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 1617030,
+      "slug": "terrorbane",
+      "comment": "メタRPGバグアドベンチャー",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 3101040,
+      "slug": "magical-girl-witch-trials",
+      "comment": "魔法少女×裁判ADV",
+      "recommend": "niche",
+      "by": "both"
+    },
+    {
+      "appid": 489830,
+      "slug": "skyrim",
+      "comment": "オープンワールドRPG",
+      "recommend": "all"
+    },
+    {
+      "appid": 3900,
+      "slug": "civilization-iv",
+      "comment": "ターン制文明シミュレーション",
+      "recommend": "all"
+    },
+    {
+      "appid": 2142790,
+      "slug": "fields-of-mistria",
+      "comment": "農場シミュレーションRPG",
+      "recommend": "all"
+    },
+    {
+      "appid": 3213850,
+      "slug": "gogh",
+      "comment": "アバター集中タイマー",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 262060,
+      "slug": "darkest-dungeon",
+      "comment": "ゴシックダンジョンRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 377160,
+      "slug": "fallout-4",
+      "comment": "ポストアポカリプスRPG",
+      "recommend": "all"
+    },
+    {
+      "appid": 550,
+      "slug": "left-4-dead-2",
+      "comment": "Co-opゾンビFPS",
+      "recommend": "all",
+      "multi": true,
+      "by": "kotori"
+    },
+    {
+      "appid": 1150690,
+      "slug": "omori",
+      "comment": "心理ホラーRPG",
+      "recommend": "niche"
+    },
+    {
+      "appid": 420530,
+      "slug": "oneshot",
+      "comment": "メタナラティブADV",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1243830,
+      "slug": "overcooked-ayce",
+      "comment": "協力クッキングアクション",
+      "recommend": "all",
+      "multi": true
+    },
+    {
+      "appid": 400,
+      "slug": "portal",
+      "comment": "ポータルパズルFPS",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 620,
+      "slug": "portal-2",
+      "comment": "ポータルパズルFPS",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 405710,
+      "slug": "staxel",
+      "comment": "ボクセル農場シミュレーション",
+      "recommend": "all"
+    },
+    {
+      "appid": 1016920,
+      "slug": "unrailed",
+      "comment": "協力線路敷設アクション",
+      "recommend": "all",
+      "multi": true,
+      "by": "kotori"
+    },
+    {
+      "appid": 1647190,
+      "slug": "world-end-diner",
+      "comment": "終末レストランADV",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1933990,
+      "slug": "burger-bistro-story",
+      "comment": "ハンバーガー経営シミュレーション",
+      "recommend": "all"
+    },
+    {
+      "appid": 1086940,
+      "slug": "baldurs-gate-3",
+      "comment": "大型RPG",
+      "recommend": "all"
+    },
+    {
+      "appid": 1984790,
+      "slug": "drago-noka",
+      "comment": "竜の背中で村運営シミュレーション",
+      "recommend": "niche"
+    },
+    {
+      "appid": 427520,
+      "slug": "factorio",
+      "comment": "工場自動化シミュレーション",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 4045680,
+      "slug": "kanmuri",
+      "comment": "育成シミュレーションADV",
+      "name_ja": "冠を持つ神の手",
+      "recommend": "niche",
+      "coming_soon": true
+    },
+    {
+      "appid": 4371880,
+      "slug": "cyan-project",
+      "comment": "謎解きADV",
+      "name_ja": "CYAN PROJECT",
+      "recommend": "niche",
+      "coming_soon": true
+    },
+    {
+      "appid": 2263010,
+      "slug": "pineapple-on-pizza",
+      "comment": "フリーゲーム",
+      "recommend": "all",
+      "free_section": true
+    },
+    {
+      "appid": 2973410,
+      "slug": "wanwan-human",
+      "comment": "わんわんフリーゲーム",
+      "recommend": "all",
+      "free_section": true
+    },
+    {
+      "appid": 3419430,
+      "slug": "bongo-cat",
+      "comment": "デスクトップ猫",
+      "recommend": "all",
+      "free_section": true
+    },
+    {
+      "appid": 431730,
+      "slug": "aseprite",
+      "comment": "ドット絵エディタ",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 1096900,
+      "slug": "rpg-maker-mz",
+      "comment": "RPG制作ツール",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 363890,
+      "slug": "rpg-maker-mv",
+      "comment": "RPG制作ツール",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 3511030,
+      "slug": "mini-cozy-room",
+      "comment": "Lo-Fiデスクトップカスタマイズ",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 4301100,
+      "slug": "emotelab",
+      "comment": "表情アニメーション作成",
+      "recommend": "all",
+      "tool": true
+    },
+    {
+      "appid": 1036640,
+      "slug": "rpg-developer-bakin",
+      "comment": "3D RPG制作ツール",
+      "recommend": "niche",
+      "tool": true
+    },
+    {
+      "appid": 787480,
+      "slug": "ace-attorney-trilogy",
+      "comment": "法廷バトルADV",
+      "name_ja": "逆転裁判123 成歩堂セレクション",
+      "recommend": "all"
+    },
+    {
+      "appid": 1158850,
+      "slug": "great-ace-attorney-chronicles",
+      "comment": "明治時代の法廷バトルADV",
+      "name_ja": "大逆転裁判1&2",
+      "recommend": "all"
+    },
+    {
+      "appid": 413410,
+      "slug": "danganronpa-thh",
+      "comment": "学級裁判デスゲームADV",
+      "name_ja": "ダンガンロンパ 希望の学園と絶望の高校生",
+      "recommend": "niche"
+    },
+    {
+      "appid": 413420,
+      "slug": "danganronpa-2",
+      "comment": "学級裁判デスゲームADV続編",
+      "name_ja": "スーパーダンガンロンパ2",
+      "recommend": "niche"
+    },
+    {
+      "appid": 567640,
+      "slug": "danganronpa-v3",
+      "comment": "学級裁判デスゲームADV完結編",
+      "name_ja": "ニューダンガンロンパV3",
+      "recommend": "niche"
+    },
+    {
+      "appid": 1967430,
+      "slug": "ghost-trick",
+      "comment": "死者の魂で運命を変えるADV",
+      "name_ja": "ゴーストトリック",
+      "recommend": "all"
+    },
+    {
+      "appid": 653530,
+      "slug": "return-of-the-obra-dinn",
+      "comment": "死因推理ADV",
+      "recommend": "all"
+    },
+    {
+      "appid": 1695000,
+      "slug": "rainbow-sea",
+      "comment": "七福神マルチエンディングADV",
+      "name_ja": "虹の降る海",
+      "recommend": "niche"
+    },
+    {
+      "appid": 4213590,
+      "slug": "tiling-forest-tiling-town-demo",
+      "comment": "街づくりパズル体験版",
+      "name_ja": "Tiling Forest - Tiling Town Demo",
+      "recommend": "niche",
+      "free_section": true
+    },
+    {
+      "appid": 990080,
+      "slug": "hogwarts-legacy",
+      "comment": "魔法学校オープンワールドRPG",
+      "name_ja": "ホグワーツ・レガシー",
+      "recommend": "all"
+    },
+    {
+      "appid": 1210320,
+      "slug": "potion-craft",
+      "comment": "錬金術シミュレーション",
+      "name_ja": "Potion Craft: Alchemist Simulator",
+      "recommend": "all"
+    },
+    {
+      "appid": 3146520,
+      "slug": "webfishing",
+      "comment": "ゆる釣りマルチプレイ",
+      "name_ja": "WEBFISHING",
+      "recommend": "all",
+      "multi": true
+    },
+    {
+      "appid": 2623190,
+      "slug": "oblivion-remastered",
+      "comment": "名作オープンワールドRPGリマスター",
+      "name_ja": "The Elder Scrolls IV: Oblivion Remastered",
+      "recommend": "all"
+    },
+    {
+      "appid": 3151270,
+      "slug": "one-turn-kill",
+      "comment": "ワンターン制デッキ構築ローグライト",
+      "name_ja": "One Turn Kill",
+      "recommend": "niche"
+    },
+    {
+      "appid": 3344320,
+      "slug": "lethal-dungeon",
+      "comment": "高難度ダンジョンアクション",
+      "name_ja": "Lethal Dungeon",
+      "recommend": "niche"
+    }
   ]
 }
