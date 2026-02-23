@@ -1,0 +1,95 @@
+{
+  "appid": 3151270,
+  "required_age": 0,
+  "name_ja": "One Turn Kill",
+  "name_en": "One Turn Kill",
+  "name": "One Turn Kill",
+  "short_description_ja": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
+  "short_description_en": "One Turn Kill is a PvE card game where card drawing and deck control are the keys to victory. Engage in battles limited to a single turn for an exhilarating, suspenseful experience.Join the protagonist in a pixel art wasteland to face off with the strongest of enemies and see what story awaits.",
+  "short_description": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1768491573",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/5568e19d2d54aaf15e3e5d47aa61e07ec722aa1e/capsule_231x87.jpg?t=1768491573",
+  "developers": [
+    "DenDen"
+  ],
+  "publishers": [
+    "Waku Waku Games"
+  ],
+  "genres_ja": [
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Strategy"
+  ],
+  "genres": [
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "カスタム音量調整",
+    "マウスのみのオプション",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2026年1月15日",
+  "release_date_en": "15 Jan, 2026",
+  "release_date": "2026年1月15日",
+  "is_free": false,
+  "price_initial": 120000,
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
+  "website": "https://www.wakuwakugames.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.1920x1080.jpg?t=1768491573",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.1920x1080.jpg?t=1768491573",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.1920x1080.jpg?t=1768491573",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c0a3e24e33748078600f86248b1a8a394e6d6b8b/ss_c0a3e24e33748078600f86248b1a8a394e6d6b8b.1920x1080.jpg?t=1768491573",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/a4b823b6e53574857042bb94eb2769ca393a8a4c/ss_a4b823b6e53574857042bb94eb2769ca393a8a4c.1920x1080.jpg?t=1768491573"
+  ],
+  "movies": [
+    {
+      "name": "demo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152832/5c678c3bf3964883d294620497d7283f75490c6c/movie_600x337.jpg?t=1749393188",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 987,
+  "total_reviews": 989,
+  "total_positive": 950,
+  "total_negative": 39,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "one-turn-kill",
+  "recommend": "niche",
+  "tags_ja": [
+    "ストラテジー",
+    "カードゲーム",
+    "デッキ構築",
+    "ドット絵",
+    "カードバトル",
+    "2D",
+    "ソリティア",
+    "女性主人公"
+  ],
+  "tags_en": [
+    "Strategy",
+    "Card Game",
+    "Deckbuilding",
+    "Pixel Graphics",
+    "Card Battler",
+    "2D",
+    "Solitaire",
+    "Female Protagonist"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}

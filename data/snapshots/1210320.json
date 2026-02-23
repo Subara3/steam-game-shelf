@@ -1,0 +1,123 @@
+{
+  "appid": 1210320,
+  "required_age": 0,
+  "name_ja": "Potion Craft: Alchemist Simulator",
+  "name_en": "Potion Craft: Alchemist Simulator",
+  "name": "Potion Craft: Alchemist Simulator",
+  "short_description_ja": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
+  "short_description_en": "Potion Craft is an alchemist simulator where you physically interact with your tools and ingredients to brew potions. You're in full control of the whole shop: invent new recipes, attract customers and experiment to your heart's content. Just remember: the whole town is counting on you.",
+  "short_description": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1765364005",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1765364005",
+  "developers": [
+    "niceplay games"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "genres_ja": [
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2022年12月13日",
+  "release_date_en": "13 Dec, 2022",
+  "release_date": "2022年12月13日",
+  "is_free": false,
+  "price_initial": 230000,
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, ロシア語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, タイ語, トルコ語, 中国語（簡体字）",
+  "website": "https://www.potioncraft.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1765364005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1765364005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1765364005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1765364005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1765364005"
+  ],
+  "movies": [
+    {
+      "name": "Garden 2.0 update trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079614/965f3123685ccd2402f33c964510348a86e5109e/movie_600x337.jpg?t=1733507740",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Early Access Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852510/80c40305bd5e0d7eaade61ac884bbd5251e471ae/movie_600x337.jpg?t=1733855035",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "1.0 Release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920774/619f1a98761560cfacd4239460b8280cc2d2792c/movie_600x337.jpg?t=1733855038",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Gameplay Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844822/eac09e083d83d88181b384321912609240edd5ca/movie_600x337.jpg?t=1733855042",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Potion Craft Early Access Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850135/4f6b6201258b976c50fe443e309b46f689afe6d4/movie_600x337.jpg?t=1733855046",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 35938,
+  "total_reviews": 42450,
+  "total_positive": 39391,
+  "total_negative": 3059,
+  "review_score_desc": "Very Positive",
+  "slug": "potion-craft",
+  "recommend": "all",
+  "tags_ja": [
+    "クラフト",
+    "シングルプレイヤー",
+    "リラックス",
+    "シミュレーション",
+    "中世",
+    "管理",
+    "インディー",
+    "2D"
+  ],
+  "tags_en": [
+    "Crafting",
+    "Singleplayer",
+    "Relaxing",
+    "Simulation",
+    "Medieval",
+    "Management",
+    "Indie",
+    "2D"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}
