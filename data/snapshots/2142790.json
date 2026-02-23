@@ -7,8 +7,8 @@
   "short_description_ja": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "short_description_en": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "short_description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1759939537",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg?t=1759939537",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/5bb0938ddc2921aa1856ff1678886bee1b1aa9e6/header_alt_assets_3.jpg?t=1771865130",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/e28eceb228fa401fbc82d3a67912b505ed8ab6fe/capsule_231x87_alt_assets_3.jpg?t=1771865130",
   "developers": [
     "NPC Studio"
   ],
@@ -56,16 +56,16 @@
   "supported_languages": "英語",
   "website": "https://fieldsofmistria.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_468560d6cc336409644cfc1891e73d1ea26cb56e.1920x1080.jpg?t=1759939537",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_980c227a20de85c9a39bcdf574b77e9d43a9d2e4.1920x1080.jpg?t=1759939537",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_11800c6902cd77d6363e9e64118a84af55d7c75b.1920x1080.jpg?t=1759939537",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_64185ab6bada96e82d4e7c311ac13c52808d10dc.1920x1080.jpg?t=1759939537",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f2592c4bdf482b43e2dacb9880c0f80b032602f2.1920x1080.jpg?t=1759939537"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_468560d6cc336409644cfc1891e73d1ea26cb56e.1920x1080.jpg?t=1771865130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_980c227a20de85c9a39bcdf574b77e9d43a9d2e4.1920x1080.jpg?t=1771865130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_11800c6902cd77d6363e9e64118a84af55d7c75b.1920x1080.jpg?t=1771865130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_64185ab6bada96e82d4e7c311ac13c52808d10dc.1920x1080.jpg?t=1771865130",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f2592c4bdf482b43e2dacb9880c0f80b032602f2.1920x1080.jpg?t=1771865130"
   ],
   "movies": [
     {
-      "name": "Major Update 3",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257173055/cd40f302cb0d08738781478365a0437530fa7c1f/movie_600x337.jpg?t=1753302306",
+      "name": "Major Update 4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257292405/2ed55565f23642d85fd143aa3ddf4ff4905443c8/movie_600x337.jpg?t=1771865128",
       "url_480": "",
       "url_max": ""
     },
@@ -77,10 +77,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23726,
-  "total_reviews": 26014,
-  "total_positive": 25459,
-  "total_negative": 555,
+  "recommendations_total": 23745,
+  "total_reviews": 26036,
+  "total_positive": 25483,
+  "total_negative": 553,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -104,5 +104,5 @@
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-02-23T16:25:17.870164"
+  "fetched_at": "2026-02-23T19:37:06.162507"
 }

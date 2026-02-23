@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24719,
-  "total_reviews": 27753,
-  "total_positive": 26868,
-  "total_negative": 885,
+  "recommendations_total": 24738,
+  "total_reviews": 27771,
+  "total_positive": 26885,
+  "total_negative": 886,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "magical-girl-witch-trials",
   "recommend": "niche",
@@ -109,5 +109,5 @@
     "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-02-23T16:25:17.870164"
+  "fetched_at": "2026-02-23T19:37:06.162507"
 }
