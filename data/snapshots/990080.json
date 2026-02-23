@@ -1,0 +1,110 @@
+{
+  "appid": 990080,
+  "required_age": 0,
+  "name_ja": "ホグワーツ・レガシー",
+  "name_en": "Hogwarts Legacy",
+  "name": "Hogwarts Legacy",
+  "short_description_ja": "『ホグワーツ・レガシー』は、没入感の高いオープンワールド・アクションRPGです。キャラクターを操作して、魔法界を巡るあなただけの冒険を繰り広げましょう。",
+  "short_description_en": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+  "short_description": "『ホグワーツ・レガシー』は、没入感の高いオープンワールド・アクションRPGです。キャラクターを操作して、魔法界を巡るあなただけの冒険を繰り広げましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1765473525",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg?t=1765473525",
+  "developers": [
+    "Avalanche Software"
+  ],
+  "publishers": [
+    "Warner Bros. Games"
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "アプリ内購入",
+    "テキストサイズの調整",
+    "カメラの快適性",
+    "カスタム音量調整",
+    "ナレーション付きゲームメニュー",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "サラウンドサウンド",
+    "Steamクラウド",
+    "HDR使用可能",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2023年2月10日",
+  "release_date_en": "10 Feb, 2023",
+  "release_date": "2023年2月10日",
+  "is_free": false,
+  "price_initial": 877800,
+  "price_final": 877800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,778",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, アラビア語, 日本語<strong>*</strong>, 韓国語, ポーランド語, ポルトガル語－ブラジル<strong>*</strong>, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ<strong>*</strong>, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "https://www.hogwartslegacy.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1765473525",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1765473525",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1765473525",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1765473525",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1765473525"
+  ],
+  "movies": [
+    {
+      "name": "Hogwarts Legacy Launch Trailer WW",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930504/movie.293x165.jpg?t=1676412591",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 264333,
+  "total_reviews": 360825,
+  "total_positive": 324442,
+  "total_negative": 36383,
+  "review_score_desc": "Very Positive",
+  "slug": "hogwarts-legacy",
+  "recommend": "all",
+  "tags_ja": [
+    "魔法",
+    "オープンワールド",
+    "ファンタジー",
+    "シングルプレイヤー",
+    "アドベンチャー",
+    "RPG",
+    "キャラクターカスタマイズ",
+    "探検"
+  ],
+  "tags_en": [
+    "Magic",
+    "Open World",
+    "Fantasy",
+    "Singleplayer",
+    "Adventure",
+    "RPG",
+    "Character Customization",
+    "Exploration"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}

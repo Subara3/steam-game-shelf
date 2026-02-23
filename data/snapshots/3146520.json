@@ -1,0 +1,102 @@
+{
+  "appid": 3146520,
+  "required_age": 0,
+  "name_ja": "WEBFISHING",
+  "name_en": "WEBFISHING",
+  "name": "WEBFISHING",
+  "short_description_ja": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+  "short_description_en": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+  "short_description": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg?t=1728673229",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/capsule_231x87.jpg?t=1728673229",
+  "developers": [
+    "lamedeveloper"
+  ],
+  "publishers": [
+    "lamedeveloper"
+  ],
+  "genres_ja": [
+    "カジュアル",
+    "インディー",
+    "MM（Massively Multiplayer）"
+  ],
+  "genres_en": [
+    "Casual",
+    "Indie",
+    "Massively Multiplayer"
+  ],
+  "genres": [
+    "カジュアル",
+    "インディー",
+    "MM（Massively Multiplayer）"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年10月11日",
+  "release_date_en": "11 Oct, 2024",
+  "release_date": "2024年10月11日",
+  "is_free": false,
+  "price_initial": 58000,
+  "price_final": 58000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 580",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_d1fdc753a7dc005896e239ea5ea055618a744bb6.1920x1080.jpg?t=1728673229",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_93c1c90ce81dbf0fd3ca2aada73e1ff4c5e62a9a.1920x1080.jpg?t=1728673229",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_8f5fe32a52b871c584f11416baf40634d17e72ee.1920x1080.jpg?t=1728673229",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_15bdf6913c68f13e4769d950ac563e2d5706022b.1920x1080.jpg?t=1728673229",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_70029d85f6aef4143b58a55b27824c278e14cbd9.1920x1080.jpg?t=1728673229"
+  ],
+  "movies": [
+    {
+      "name": "Webfishing Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057787/movie.293x165.jpg?t=1727142651",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 56603,
+  "total_reviews": 69476,
+  "total_positive": 67756,
+  "total_negative": 1720,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "webfishing",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "釣り",
+    "マルチプレイヤー",
+    "カジュアル",
+    "かわいい",
+    "キャラクターカスタマイズ",
+    "クリーチャーコレクター",
+    "インディー",
+    "オンライン協力プレイ"
+  ],
+  "tags_en": [
+    "Fishing",
+    "Multiplayer",
+    "Casual",
+    "Cute",
+    "Character Customization",
+    "Creature Collector",
+    "Indie",
+    "Online Co-Op"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}

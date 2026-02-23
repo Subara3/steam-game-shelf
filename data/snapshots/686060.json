@@ -1,0 +1,123 @@
+{
+  "appid": 686060,
+  "required_age": 0,
+  "name_ja": "Mewgenics",
+  "name_en": "Mewgenics",
+  "name": "Mewgenics",
+  "short_description_ja": "戦略的に繁殖して作り上げた究極の猫軍団を、ディープでチャレンジングなターン制アドベンチャーへと送り込め。『The Binding of Isaac』と『The End is Nigh』のクリエイターが送るこのローグライク戦術ゲームで、能力を選び抜き、アイテムを集め、世代を超えた遺伝子操作を行え。",
+  "short_description_en": "Build the ultimate cat army through tactical breeding and send them into deep, challenging turn-based adventures. Draft abilities, collect items, and manipulate genetics across generations in this roguelike tactics game from the creators of The Binding of Isaac and The End is Nigh.",
+  "short_description": "戦略的に繁殖して作り上げた究極の猫軍団を、ディープでチャレンジングなターン制アドベンチャーへと送り込め。『The Binding of Isaac』と『The End is Nigh』のクリエイターが送るこのローグライク戦術ゲームで、能力を選び抜き、アイテムを集め、世代を超えた遺伝子操作を行え。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/aa8075d11165fef4d4d0d09c156f0da0623b5da1/header.jpg?t=1771573546",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b00ca313f3ac970c3e412280ecc8a5ed65813a0e/capsule_231x87.jpg?t=1771573546",
+  "developers": [
+    "Edmund McMillen",
+    "Tyler Glaiel"
+  ],
+  "publishers": [
+    "Edmund McMillen",
+    "Tyler Glaiel"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "フルコントローラサポート",
+    "テキストサイズの調整",
+    "カメラの快適性",
+    "色のオプション",
+    "カスタム音量調整",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2026年2月10日",
+  "release_date_en": "10 Feb, 2026",
+  "release_date": "2026年2月10日",
+  "is_free": false,
+  "price_initial": 340000,
+  "price_final": 306000,
+  "discount_percent": 10,
+  "price_formatted": "¥ 3,060",
+  "currency": "JPY",
+  "metacritic_score": 88,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル",
+  "website": "http://mewgenics.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b76bf94de0b466797f9455a6da347507020a9966/ss_b76bf94de0b466797f9455a6da347507020a9966.1920x1080.jpg?t=1771573546",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/a49301637adf55a2fad26305272829a0f47b478d/ss_a49301637adf55a2fad26305272829a0f47b478d.1920x1080.jpg?t=1771573546",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/129c23d40964c3f0a7e766182179333a19f422b9/ss_129c23d40964c3f0a7e766182179333a19f422b9.1920x1080.jpg?t=1771573546",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/54d33c8cd2e23c2a278367b487449077d5f0bc49/ss_54d33c8cd2e23c2a278367b487449077d5f0bc49.1920x1080.jpg?t=1771573546",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/99ad52d7d60acd283b9c1dc361324de70ed9f8f1/ss_99ad52d7d60acd283b9c1dc361324de70ed9f8f1.1920x1080.jpg?t=1771573546"
+  ],
+  "movies": [
+    {
+      "name": "Mewgenics launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283662/a75ed3de9d42026cf27d7c4a8b30005e85b8baee/movie_600x337.jpg?t=1770734758",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Mewgenics Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153663/1eb6f0baf29570284e4b3d90b87fe81af9b4fdff/movie_600x337.jpg?t=1749419242",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 25829,
+  "total_reviews": 27256,
+  "total_positive": 25206,
+  "total_negative": 2050,
+  "review_score_desc": "Very Positive",
+  "slug": "mewgenics",
+  "recommend": "niche",
+  "tags_ja": [
+    "ターン制戦略",
+    "ローグライト",
+    "ターン制ストラテジー",
+    "毒のあるユーモア",
+    "RPG",
+    "ターン制コンバット",
+    "猫",
+    "かわいい"
+  ],
+  "tags_en": [
+    "Turn-Based Tactics",
+    "Roguelite",
+    "Turn-Based Strategy",
+    "Dark Humor",
+    "RPG",
+    "Turn-Based Combat",
+    "Cats",
+    "Cute"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}

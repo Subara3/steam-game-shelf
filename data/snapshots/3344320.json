@@ -1,0 +1,96 @@
+{
+  "appid": 3344320,
+  "required_age": 0,
+  "name_ja": "Lethal Dungeon",
+  "name_en": "Lethal Dungeon",
+  "name": "Lethal Dungeon",
+  "short_description_ja": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
+  "short_description_en": "Lethal Dungeon is a roguelike card game. Win every battle using only the cards in your opening hand to defeat all enemies in a single turn.",
+  "short_description": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/12cd4d7ed23cfa5629a792724b82b34c3cfff733/header.jpg?t=1771657622",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6043a5caf6eba2e25819328d63175593f1e0aab0/capsule_231x87.jpg?t=1771657622",
+  "developers": [
+    "Nihohe Soft"
+  ],
+  "publishers": [
+    "Nihohe Soft"
+  ],
+  "genres_ja": [
+    "インディー",
+    "ストラテジー"
+  ],
+  "genres_en": [
+    "Indie",
+    "Strategy"
+  ],
+  "genres": [
+    "インディー",
+    "ストラテジー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2026年2月19日",
+  "release_date_en": "19 Feb, 2026",
+  "release_date": "2026年2月19日",
+  "is_free": false,
+  "price_initial": 58000,
+  "price_final": 52200,
+  "discount_percent": 10,
+  "price_formatted": "¥ 522",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "英語, 中国語（簡体字）, 日本語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6a788c8072184955dba0f7523aa76f812e934714/ss_6a788c8072184955dba0f7523aa76f812e934714.1920x1080.jpg?t=1771657622",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/e01285b4bd3a5dae31aadc05b02e63df1b4f2487/ss_e01285b4bd3a5dae31aadc05b02e63df1b4f2487.1920x1080.jpg?t=1771657622",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273/ss_44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273.1920x1080.jpg?t=1771657622",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe/ss_f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe.1920x1080.jpg?t=1771657622",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8eb580919673b7409b51e2cc7d1a7aeb826e17fe/ss_8eb580919673b7409b51e2cc7d1a7aeb826e17fe.1920x1080.jpg?t=1771657622"
+  ],
+  "movies": [
+    {
+      "name": "steamJp",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257174795/488e5cafa0c6232d025975726f998cc7a36b559e/movie_600x337.jpg?t=1768857605",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": 3921080,
+  "recommendations_total": 0,
+  "total_reviews": 71,
+  "total_positive": 70,
+  "total_negative": 1,
+  "review_score_desc": "Very Positive",
+  "slug": "lethal-dungeon",
+  "recommend": "niche",
+  "tags_ja": [
+    "ストラテジー",
+    "ローグライク",
+    "カードバトル",
+    "ローグライト",
+    "2D",
+    "ドット絵",
+    "レトロ",
+    "女性主人公"
+  ],
+  "tags_en": [
+    "Strategy",
+    "Roguelike",
+    "Card Battler",
+    "Roguelite",
+    "2D",
+    "Pixel Graphics",
+    "Retro",
+    "Female Protagonist"
+  ],
+  "fetched_at": "2026-02-23T16:25:17.870164"
+}

@@ -123,10 +123,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3991,
-  "total_reviews": 4484,
-  "total_positive": 4050,
-  "total_negative": 434,
+  "recommendations_total": 4000,
+  "total_reviews": 4495,
+  "total_positive": 4059,
+  "total_negative": 436,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -137,8 +137,8 @@
     "マルチプレイヤー",
     "ユーティリティ",
     "心地よい",
-    "3D",
-    "リラックス"
+    "リラックス",
+    "3D"
   ],
   "tags_en": [
     "Character Customization",
@@ -147,8 +147,8 @@
     "Multiplayer",
     "Utilities",
     "Cozy",
-    "3D",
-    "Relaxing"
+    "Relaxing",
+    "3D"
   ],
-  "fetched_at": "2026-02-22T18:58:06.158402"
+  "fetched_at": "2026-02-23T16:25:17.870164"
 }
