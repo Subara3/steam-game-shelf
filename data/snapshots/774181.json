@@ -1,0 +1,131 @@
+{
+  "appid": 774181,
+  "required_age": 0,
+  "name_ja": "Rhythm Doctor",
+  "name_en": "Rhythm Doctor",
+  "name": "Rhythm Doctor",
+  "short_description_ja": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
+  "short_description_en": "Save patients with your rhythm mastery! Rhythm Doctor is a rhythm game where you heal patients by defibrillating in time to their heartbeats. Learn each patient's unique heartbeat and defeat boss viruses trying to sabotage your rhythm, all set to heart-pumping, soul-soothing music.",
+  "short_description": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1769200761",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1769200761",
+  "developers": [
+    "7th Beat Games"
+  ],
+  "publishers": [
+    "7th Beat Games",
+    "indienova"
+  ],
+  "genres_ja": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "ストラテジー",
+    "無料プレイ"
+  ],
+  "genres_en": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Strategy",
+    "Free To Play"
+  ],
+  "genres": [
+    "アクション",
+    "カジュアル",
+    "インディー",
+    "ストラテジー",
+    "無料プレイ"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamワークショップ",
+    "カスタム音量調整",
+    "難易度の調整",
+    "ナレーション付きゲームメニュー",
+    "Steamクラウド",
+    "レベル編集可能",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2025年12月6日",
+  "release_date_en": "6 Dec, 2025",
+  "release_date": "2025年12月6日",
+  "is_free": false,
+  "price_initial": 230000,
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
+  "currency": "JPY",
+  "metacritic_score": 89,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語, スペイン語－ラテンアメリカ, ポルトガル語－ブラジル, 日本語, ドイツ語, ポーランド語, フランス語<br><strong>*</strong>フル音声対応言語",
+  "website": "https://rhythmdr.com/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1769200761",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1769200761",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1769200761",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1769200761",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1769200761"
+  ],
+  "movies": [
+    {
+      "name": "Official Release Date Trailer English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206268/ba493727e18b022954d09ae5cd69e7969379ca6c/movie_600x337.jpg?t=1763401206",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Rhythm Doctor Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871484/movie.293x165.jpg?t=1643651631",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Rhythm Doctor Boss Level Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704134/movie.293x165.jpg?t=1513788656",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 23588,
+  "total_reviews": 25506,
+  "total_positive": 25060,
+  "total_negative": 446,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "rhythm-doctor",
+  "recommend": "all",
+  "by": "kotori",
+  "tags_ja": [
+    "リズム",
+    "音ゲー",
+    "ドット絵",
+    "レベルエディター",
+    "物語性",
+    "インディー",
+    "アクション",
+    "シングルプレイヤー"
+  ],
+  "tags_en": [
+    "Rhythm",
+    "Music",
+    "Pixel Graphics",
+    "Level Editor",
+    "Story Rich",
+    "Indie",
+    "Action",
+    "Singleplayer"
+  ],
+  "fetched_at": "2026-02-24T23:32:13.232123"
+}

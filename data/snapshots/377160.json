@@ -119,10 +119,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 283595,
-  "total_reviews": 420461,
-  "total_positive": 340982,
-  "total_negative": 79479,
+  "recommendations_total": 283606,
+  "total_reviews": 420475,
+  "total_positive": 340998,
+  "total_negative": 79477,
   "review_score_desc": "Very Positive",
   "slug": "fallout-4",
   "recommend": "all",
@@ -146,5 +146,5 @@
     "Atmospheric",
     "Shooter"
   ],
-  "fetched_at": "2026-02-24T19:29:43.683233"
+  "fetched_at": "2026-02-24T23:32:13.232123"
 }
