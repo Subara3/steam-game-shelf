@@ -66,9 +66,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 61,
-  "total_positive": 60,
-  "total_negative": 1,
+  "total_reviews": 89,
+  "total_positive": 86,
+  "total_negative": 3,
   "review_score_desc": "Very Positive",
   "slug": "tiling-forest-tiling-town-demo",
   "recommend": "niche",
@@ -93,5 +93,5 @@
     "2D",
     "Cute"
   ],
-  "fetched_at": "2026-02-23T19:37:06.162507"
+  "fetched_at": "2026-02-24T19:29:43.683233"
 }
