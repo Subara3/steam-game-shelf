@@ -1,0 +1,101 @@
+{
+  "appid": 1013750,
+  "required_age": 0,
+  "name_ja": "Legal Dungeon",
+  "name_en": "Legal Dungeon",
+  "name": "Legal Dungeon",
+  "short_description_ja": "『リーガルダンジョン』は警察官になり、捜査書類を作成するゲームです。あなたは窃盗、殺人など8つの事件と関係のある捜査書類を読み、関連法令と判例に従い最終的な捜査意見を作成していきます。個人の人生を天秤にかけながら、すべてのアイテムを手に入れてみましょう。",
+  "short_description_en": "Legal Dungeon is a game about organizing Police Investigation Documents. The player must review and provide an Investigation Verdict on reports ranging from petty theft to murder, in eight different criminal cases. Weigh the value of people’s lives to unlock all the collectables.",
+  "short_description": "『リーガルダンジョン』は警察官になり、捜査書類を作成するゲームです。あなたは窃盗、殺人など8つの事件と関係のある捜査書類を読み、関連法令と判例に従い最終的な捜査意見を作成していきます。個人の人生を天秤にかけながら、すべてのアイテムを手に入れてみましょう。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/header.jpg?t=1728623971",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/capsule_231x87.jpg?t=1728623971",
+  "developers": [
+    "Somi"
+  ],
+  "publishers": [
+    "Somi"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "インディー",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "Steamトレーディングカード",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2019年5月6日",
+  "release_date_en": "6 May, 2019",
+  "release_date": "2019年5月6日",
+  "is_free": false,
+  "price_initial": 80000,
+  "price_final": 80000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 800",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+  },
+  "supported_languages": "英語, 日本語, 韓国語, 中国語（簡体字）",
+  "website": "http://SomiGames.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_2b2f92405c747608277c3aa300626e06941725c4.1920x1080.jpg?t=1728623971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_40a35663157ebbb06f91c19129ea986b870ca87d.1920x1080.jpg?t=1728623971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_edc3f196c5fb66982130db08c3a786e53cf8dbcd.1920x1080.jpg?t=1728623971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_4d8ac06db18ff50d69b3e1ec718a5f2bb76bb78d.1920x1080.jpg?t=1728623971",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_85cd47c784d9ebeb2fa80019ea23baf344263dc9.1920x1080.jpg?t=1728623971"
+  ],
+  "movies": [
+    {
+      "name": "Legal Dungeon Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741508/movie.293x165.jpg?t=1549287296",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 547,
+  "total_reviews": 578,
+  "total_positive": 452,
+  "total_negative": 126,
+  "review_score_desc": "Mostly Positive",
+  "slug": "legal-dungeon",
+  "recommend": "niche",
+  "tags_ja": [
+    "シミュレーション",
+    "インディー",
+    "アドベンチャー",
+    "探偵",
+    "ドット絵",
+    "テキストベース",
+    "政治的",
+    "物語性"
+  ],
+  "tags_en": [
+    "Simulation",
+    "Indie",
+    "Adventure",
+    "Detective",
+    "Pixel Graphics",
+    "Text-Based",
+    "Political",
+    "Story Rich"
+  ],
+  "fetched_at": "2026-02-24T23:32:13.232123"
+}

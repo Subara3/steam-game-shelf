@@ -1,0 +1,143 @@
+{
+  "appid": 247080,
+  "required_age": 0,
+  "name_ja": "Crypt of the NecroDancer",
+  "name_en": "Crypt of the NecroDancer",
+  "name": "Crypt of the NecroDancer",
+  "short_description_ja": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
+  "short_description_en": "Crypt of the NecroDancer is an award winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or select songs from your own MP3 collection!",
+  "short_description": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/header.jpg?t=1765990722",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/capsule_231x87.jpg?t=1765990722",
+  "developers": [
+    "Brace Yourself Games"
+  ],
+  "publishers": [
+    "Brace Yourself Games",
+    "Klei Entertainment"
+  ],
+  "genres_ja": [
+    "アクション",
+    "インディー",
+    "RPG"
+  ],
+  "genres_en": [
+    "Action",
+    "Indie",
+    "RPG"
+  ],
+  "genres": [
+    "アクション",
+    "インディー",
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "Steam実績",
+    "フルコントローラサポート",
+    "Steamトレーディングカード",
+    "キャプション使用可能",
+    "Steamワークショップ",
+    "カメラの快適性",
+    "色のオプション",
+    "カスタム音量調整",
+    "難易度の調整",
+    "キーボードのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "ステレオサウンド",
+    "字幕オプション",
+    "Steamクラウド",
+    "Steamランキング",
+    "レベル編集可能",
+    "スマホでRemote Play",
+    "タブレットでRemote Play",
+    "テレビでRemote Play",
+    "Remote Play Together",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2015年4月23日",
+  "release_date_en": "23 Apr, 2015",
+  "release_date": "2015年4月23日",
+  "is_free": false,
+  "price_initial": 170000,
+  "price_final": 170000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,700",
+  "currency": "JPY",
+  "metacritic_score": 87,
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポルトガル語－ブラジル, ロシア語, 韓国語, 中国語（簡体字）, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
+  "website": "http://necrodancer.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_849069b2208a21d5adfc00d67e5b8b428e2d0677.1920x1080.jpg?t=1765990722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_86591e5d71b79241d14efcae0c8bfd5a676081b6.1920x1080.jpg?t=1765990722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_7c7ec846300d524cb1c29ad6bc9287428d1c5fb5.1920x1080.jpg?t=1765990722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_af4bc1439cd01a1a583b44d26103722c27bfbf75.1920x1080.jpg?t=1765990722",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_c545fb29bf4ad7e481299c37bddc80a69cc39cd3.1920x1080.jpg?t=1765990722"
+  ],
+  "movies": [
+    {
+      "name": "Shovel Knight Character DLC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257224772/54167039770dbd30021ac3a0a45d0a21f9173a23/movie_600x337.jpg?t=1761848868",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659755/movie.293x165.jpg?t=1452791194",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038591/movie.293x165.jpg?t=1452794019",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Behind the scenes minidocumentary",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038794/movie.293x165.jpg?t=1447373419",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 23316,
+  "total_reviews": 26200,
+  "total_positive": 25026,
+  "total_negative": 1174,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "crypt-of-the-necrodancer",
+  "recommend": "all",
+  "multi": true,
+  "by": "kotori",
+  "tags_ja": [
+    "リズム",
+    "ローグライク",
+    "良質サントラ",
+    "ドット絵",
+    "ダンジョンクロウル",
+    "インディー",
+    "高難易度",
+    "女性主人公"
+  ],
+  "tags_en": [
+    "Rhythm",
+    "Roguelike",
+    "Great Soundtrack",
+    "Pixel Graphics",
+    "Dungeon Crawler",
+    "Indie",
+    "Difficult",
+    "Female Protagonist"
+  ],
+  "fetched_at": "2026-02-24T23:32:13.232123"
+}

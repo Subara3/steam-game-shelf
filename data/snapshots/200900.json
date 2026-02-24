@@ -1,0 +1,102 @@
+{
+  "appid": 200900,
+  "required_age": 0,
+  "name_ja": "Cave Story+",
+  "name_en": "Cave Story+",
+  "name": "Cave Story+",
+  "short_description_ja": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
+  "short_description_en": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
+  "short_description": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/header.jpg?t=1591664460",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/capsule_231x87.jpg?t=1591664460",
+  "developers": [
+    "Nicalis, Inc.",
+    "Studio Pixel"
+  ],
+  "publishers": [
+    "Nicalis, Inc."
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー",
+    "インディー"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "部分的コントローラサポート",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2011年11月22日",
+  "release_date_en": "22 Nov, 2011",
+  "release_date": "2011年11月22日",
+  "is_free": false,
+  "price_initial": 148000,
+  "price_final": 148000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,480",
+  "currency": "JPY",
+  "metacritic_score": 83,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "website": "http://www.nicalis.com",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_68f8531e30d2060be3473f75135f02f2b4bce722.1920x1080.jpg?t=1591664460",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_e20fc59171c7431ad566537a38e635e6a199f63d.1920x1080.jpg?t=1591664460",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_9298452bd6036a9be9c12fbf96a1ab0a5a04ce2d.1920x1080.jpg?t=1591664460",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_f3657ac2df729de96408702a4894b28f0a24d889.1920x1080.jpg?t=1591664460",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_4e42c40d9bb05521a8a5b771da2387957f24d7a0.1920x1080.jpg?t=1591664460"
+  ],
+  "movies": [
+    {
+      "name": "Cave Story+ Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81296/movie.293x165.jpg?t=1447355068",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 4866,
+  "total_reviews": 7903,
+  "total_positive": 7332,
+  "total_negative": 571,
+  "review_score_desc": "Very Positive",
+  "slug": "cave-story",
+  "recommend": "all",
+  "by": "both",
+  "tags_ja": [
+    "プラットフォーム",
+    "メトロイドヴァニア",
+    "インディー",
+    "良質サントラ",
+    "ドット絵",
+    "アクション",
+    "アドベンチャー",
+    "2D"
+  ],
+  "tags_en": [
+    "Platformer",
+    "Metroidvania",
+    "Indie",
+    "Great Soundtrack",
+    "Pixel Graphics",
+    "Action",
+    "Adventure",
+    "2D"
+  ],
+  "fetched_at": "2026-02-24T23:32:13.232123"
+}
