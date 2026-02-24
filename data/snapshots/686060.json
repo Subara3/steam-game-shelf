@@ -58,9 +58,9 @@
   "release_date": "2026年2月10日",
   "is_free": false,
   "price_initial": 340000,
-  "price_final": 306000,
-  "discount_percent": 10,
-  "price_formatted": "¥ 3,060",
+  "price_final": 340000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,400",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 25959,
-  "total_reviews": 27408,
-  "total_positive": 25345,
-  "total_negative": 2063,
+  "recommendations_total": 26941,
+  "total_reviews": 28434,
+  "total_positive": 26301,
+  "total_negative": 2133,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +119,5 @@
     "Cats",
     "Cute"
   ],
-  "fetched_at": "2026-02-23T19:37:06.162507"
+  "fetched_at": "2026-02-24T19:29:43.683233"
 }

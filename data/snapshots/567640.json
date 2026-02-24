@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": 589120,
-  "recommendations_total": 20156,
-  "total_reviews": 21403,
-  "total_positive": 17797,
-  "total_negative": 3606,
+  "recommendations_total": 20165,
+  "total_reviews": 21414,
+  "total_positive": 17807,
+  "total_negative": 3607,
   "review_score_desc": "Very Positive",
   "slug": "danganronpa-v3",
   "recommend": "niche",
@@ -95,5 +95,5 @@
     "Great Soundtrack",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-23T19:37:06.162507"
+  "fetched_at": "2026-02-24T19:29:43.683233"
 }

@@ -1,7 +1,7 @@
 {
   "appid": 3344320,
   "required_age": 0,
-  "name_ja": "Lethal Dungeon",
+  "name_ja": "リーサルダンジョン",
   "name_en": "Lethal Dungeon",
   "name": "Lethal Dungeon",
   "short_description_ja": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
@@ -66,8 +66,8 @@
   ],
   "demo_appid": 3921080,
   "recommendations_total": 0,
-  "total_reviews": 74,
-  "total_positive": 73,
+  "total_reviews": 78,
+  "total_positive": 77,
   "total_negative": 1,
   "review_score_desc": "Very Positive",
   "slug": "lethal-dungeon",
@@ -92,5 +92,5 @@
     "Retro",
     "Indie"
   ],
-  "fetched_at": "2026-02-23T19:37:06.162507"
+  "fetched_at": "2026-02-24T19:29:43.683233"
 }
