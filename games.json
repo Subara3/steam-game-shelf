@@ -516,6 +516,46 @@
       "comment": "猫ローグライク育成RPG",
       "name_ja": "Mewgenics",
       "recommend": "niche"
+    },
+    {
+      "appid": 1013750,
+      "slug": "legal-dungeon",
+      "comment": "捜査資料を読む法廷ミステリー",
+      "name_ja": "リーガルダンジョン",
+      "recommend": "niche"
+    },
+    {
+      "appid": 247080,
+      "slug": "crypt-of-the-necrodancer",
+      "comment": "リズムで潜るローグライク",
+      "name_ja": "Crypt of the NecroDancer",
+      "recommend": "all",
+      "multi": true,
+      "by": "kotori"
+    },
+    {
+      "appid": 774181,
+      "slug": "rhythm-doctor",
+      "comment": "1ボタン心拍リズムアクション",
+      "name_ja": "Rhythm Doctor",
+      "recommend": "all",
+      "by": "kotori"
+    },
+    {
+      "appid": 398330,
+      "slug": "old-school-musical",
+      "comment": "8bit演出の高難度リズムゲーム",
+      "name_ja": "Old School Musical",
+      "recommend": "niche",
+      "by": "kotori"
+    },
+    {
+      "appid": 200900,
+      "slug": "cave-story",
+      "comment": "探索2Dアクションの名作",
+      "name_ja": "洞窟物語+",
+      "recommend": "all",
+      "by": "both"
     }
   ]
 }
