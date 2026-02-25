@@ -7,8 +7,8 @@
   "short_description_ja": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
   "short_description_en": "Save patients with your rhythm mastery! Rhythm Doctor is a rhythm game where you heal patients by defibrillating in time to their heartbeats. Learn each patient's unique heartbeat and defeat boss viruses trying to sabotage your rhythm, all set to heart-pumping, soul-soothing music.",
   "short_description": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1769200761",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1769200761",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1772041407",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1772041407",
   "developers": [
     "7th Beat Games"
   ],
@@ -72,11 +72,11 @@
   "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語, スペイン語－ラテンアメリカ, ポルトガル語－ブラジル, 日本語, ドイツ語, ポーランド語, フランス語<br><strong>*</strong>フル音声対応言語",
   "website": "https://rhythmdr.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1769200761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1769200761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1769200761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1769200761",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1769200761"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1772041407",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1772041407",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1772041407",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1772041407",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1772041407"
   ],
   "movies": [
     {
@@ -99,9 +99,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23588,
-  "total_reviews": 25506,
-  "total_positive": 25060,
+  "recommendations_total": 23594,
+  "total_reviews": 25512,
+  "total_positive": 25066,
   "total_negative": 446,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
@@ -127,5 +127,5 @@
     "Action",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-24T23:32:13.232123"
+  "fetched_at": "2026-02-25T19:31:04.824539"
 }

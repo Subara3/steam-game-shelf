@@ -48,9 +48,9 @@
   "release_date": "2024年2月20日",
   "is_free": false,
   "price_initial": 170000,
-  "price_final": 136000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,360",
+  "price_final": 170000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,700",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 148825,
-  "total_reviews": 184369,
-  "total_positive": 180533,
-  "total_negative": 3836,
+  "recommendations_total": 148914,
+  "total_reviews": 184479,
+  "total_positive": 180638,
+  "total_negative": 3841,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "Pixel Graphics",
     "Replay Value"
   ],
-  "fetched_at": "2026-02-24T23:32:13.232123"
+  "fetched_at": "2026-02-25T19:31:04.824539"
 }
