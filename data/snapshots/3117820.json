@@ -50,9 +50,9 @@
   "release_date": "2025年3月30日",
   "is_free": false,
   "price_initial": 280000,
-  "price_final": 224000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 2,240",
+  "price_final": 280000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,800",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -108,10 +108,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 22946,
-  "total_reviews": 32191,
-  "total_positive": 30638,
-  "total_negative": 1553,
+  "recommendations_total": 22962,
+  "total_reviews": 32211,
+  "total_positive": 30656,
+  "total_negative": 1555,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "sultans-game",
   "recommend": "niche",
@@ -135,5 +135,5 @@
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-02-24T23:32:13.232123"
+  "fetched_at": "2026-02-25T19:31:04.824539"
 }

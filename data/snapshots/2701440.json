@@ -7,8 +7,8 @@
   "short_description_ja": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
   "short_description_en": "Will you survive the curse together this summer? A new supernatural mystery adventure begins, telling a bittersweet story of the passions of youth featuring new locations, new legends and a new cast of characters.",
   "short_description": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/70cf34e77e09a81fa940861f976ebcd2adc175ce/header_japanese.jpg?t=1771520817",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/90eed3734436b8bfc3d133ddbb66a65dca1ae357/capsule_231x87_japanese.jpg?t=1771520817",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/70cf34e77e09a81fa940861f976ebcd2adc175ce/header_japanese.jpg?t=1772015373",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/90eed3734436b8bfc3d133ddbb66a65dca1ae357/capsule_231x87_japanese.jpg?t=1772015373",
   "developers": [
     "Square Enix"
   ],
@@ -63,11 +63,11 @@
   "supported_languages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/64688d9b8896dd646460824dcfe1ac4c0b95e72f/ss_64688d9b8896dd646460824dcfe1ac4c0b95e72f.1920x1080.jpg?t=1771520817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/655f0d076c918ed1e1af82c357efd066ed836494/ss_655f0d076c918ed1e1af82c357efd066ed836494.1920x1080.jpg?t=1771520817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/8a883362ebb964a88af8f994efffcd7ff0eab01e/ss_8a883362ebb964a88af8f994efffcd7ff0eab01e.1920x1080.jpg?t=1771520817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/1973e6ba9b841d85fae48e6f363fb62403c43f9f/ss_1973e6ba9b841d85fae48e6f363fb62403c43f9f.1920x1080.jpg?t=1771520817",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17ef2e9de5273edfffe4002fe7b08ba623e53991/ss_17ef2e9de5273edfffe4002fe7b08ba623e53991.1920x1080.jpg?t=1771520817"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/64688d9b8896dd646460824dcfe1ac4c0b95e72f/ss_64688d9b8896dd646460824dcfe1ac4c0b95e72f.1920x1080.jpg?t=1772015373",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/655f0d076c918ed1e1af82c357efd066ed836494/ss_655f0d076c918ed1e1af82c357efd066ed836494.1920x1080.jpg?t=1772015373",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/8a883362ebb964a88af8f994efffcd7ff0eab01e/ss_8a883362ebb964a88af8f994efffcd7ff0eab01e.1920x1080.jpg?t=1772015373",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/1973e6ba9b841d85fae48e6f363fb62403c43f9f/ss_1973e6ba9b841d85fae48e6f363fb62403c43f9f.1920x1080.jpg?t=1772015373",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17ef2e9de5273edfffe4002fe7b08ba623e53991/ss_17ef2e9de5273edfffe4002fe7b08ba623e53991.1920x1080.jpg?t=1772015373"
   ],
   "movies": [
     {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 721,
-  "total_reviews": 878,
-  "total_positive": 848,
-  "total_negative": 30,
+  "recommendations_total": 795,
+  "total_reviews": 970,
+  "total_positive": 938,
+  "total_negative": 32,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "paranormasight-file38",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Mystery",
     "Multiple Endings"
   ],
-  "fetched_at": "2026-02-24T23:32:13.232123"
+  "fetched_at": "2026-02-25T19:31:04.824539"
 }
