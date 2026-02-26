@@ -7,8 +7,8 @@
   "short_description_ja": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
   "short_description_en": "Zero programming required! A tool for anyone to create RPGs! &quot;RPG Developer Bakin&quot; is a tool that makes it easy to create various types of RPGs, adventure games and action games without any programming knowledge.",
   "short_description": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/header.jpg?t=1769652143",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/capsule_231x87_japanese.jpg?t=1769652143",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/header.jpg?t=1772065778",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/capsule_231x87_japanese.jpg?t=1772065778",
   "developers": [
     "SmileBoom Co.Ltd."
   ],
@@ -46,11 +46,11 @@
   "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）",
   "website": "https://rpgbakin.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_ab334f48af58445858e1a00d83fad50d20bca9ec.1920x1080.jpg?t=1769652143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_fb8b8e08cd7a4a08addac44552128e1309443e00.1920x1080.jpg?t=1769652143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_0983a48f4172061c7feb9ee6a32bace2b299a318.1920x1080.jpg?t=1769652143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_10d8db0bd626583f66c14edba8d8b7a5eed56498.1920x1080.jpg?t=1769652143",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_b21c7d4f4aa210d4bcb3b5eed9ec4c6ee2670a7b.1920x1080.jpg?t=1769652143"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_ab334f48af58445858e1a00d83fad50d20bca9ec.1920x1080.jpg?t=1772065778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_fb8b8e08cd7a4a08addac44552128e1309443e00.1920x1080.jpg?t=1772065778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_0983a48f4172061c7feb9ee6a32bace2b299a318.1920x1080.jpg?t=1772065778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_10d8db0bd626583f66c14edba8d8b7a5eed56498.1920x1080.jpg?t=1772065778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_b21c7d4f4aa210d4bcb3b5eed9ec4c6ee2670a7b.1920x1080.jpg?t=1772065778"
   ],
   "movies": [
     {
@@ -98,5 +98,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-02-25T19:31:04.824539"
+  "fetched_at": "2026-02-27T00:11:09.868085+09:00"
 }

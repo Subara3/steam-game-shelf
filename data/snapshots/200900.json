@@ -71,8 +71,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 4866,
-  "total_reviews": 7903,
-  "total_positive": 7332,
+  "total_reviews": 7904,
+  "total_positive": 7333,
   "total_negative": 571,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
@@ -98,5 +98,5 @@
     "Adventure",
     "2D"
   ],
-  "fetched_at": "2026-02-25T19:31:04.824539"
+  "fetched_at": "2026-02-27T00:11:09.868085+09:00"
 }
