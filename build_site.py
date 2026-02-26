@@ -10,6 +10,7 @@ import urllib.request
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
+from zoneinfo import ZoneInfo
 
 BASE_DIR = Path(__file__).resolve().parent
 SNAPSHOTS_DIR = BASE_DIR / "data" / "snapshots"
@@ -705,7 +706,7 @@ def main():
 
     # sitemap.xml 生成
     base_url = "https://steam.subara3.com"
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d")
     sitemap_urls = [
         {"loc": f"{base_url}/", "priority": "1.0", "changefreq": "daily"},
     ]
@@ -748,7 +749,7 @@ def main():
                     shutil.copytree(f, dest)
 
     # Cache busting: add ?v=timestamp to CSS/JS references
-    ver = datetime.now().strftime("%Y%m%d%H%M")
+    ver = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y%m%d%H%M")
     index_path = SITE_DIR / "index.html"
     if index_path.exists():
         html = index_path.read_text(encoding="utf-8")

@@ -11,6 +11,7 @@ import urllib.request
 import urllib.error
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 BASE_DIR = Path(__file__).resolve().parent
 GAMES_PATH = BASE_DIR / "games.json"
@@ -171,7 +172,7 @@ def main():
     games = load_games()
     SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    now = datetime.now()
+    now = datetime.now(ZoneInfo("Asia/Tokyo"))
     today = now.strftime("%Y-%m-%d")
     timestamp = now.isoformat()
 
