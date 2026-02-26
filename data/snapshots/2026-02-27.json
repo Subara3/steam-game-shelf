@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "timestamp": "2026-02-27T00:11:09.868085+09:00",
+  "timestamp": "2026-02-27T04:16:43.892649+09:00",
   "games": [
     {
       "appid": 2379780,
@@ -80,9 +80,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 148987,
-      "total_reviews": 184572,
-      "total_positive": 180728,
+      "recommendations_total": 149002,
+      "total_reviews": 184590,
+      "total_positive": 180746,
       "total_negative": 3844,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "balatro",
@@ -107,7 +107,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 413150,
@@ -191,10 +191,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 841309,
-      "total_reviews": 980088,
-      "total_positive": 965100,
-      "total_negative": 14988,
+      "recommendations_total": 841368,
+      "total_reviews": 980145,
+      "total_positive": 965160,
+      "total_negative": 14985,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "stardew-valley",
       "recommend": "all",
@@ -218,7 +218,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2135150,
@@ -310,9 +310,9 @@
         }
       ],
       "demo_appid": 3288620,
-      "recommendations_total": 7693,
-      "total_reviews": 8433,
-      "total_positive": 7899,
+      "recommendations_total": 7694,
+      "total_reviews": 8434,
+      "total_positive": 7900,
       "total_negative": 534,
       "review_score_desc": "Very Positive",
       "slug": "elin",
@@ -337,7 +337,7 @@
         "Traditional Roguelike",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 391540,
@@ -408,10 +408,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 283030,
-      "total_reviews": 315077,
-      "total_positive": 304911,
-      "total_negative": 10166,
+      "recommendations_total": 283038,
+      "total_reviews": 315086,
+      "total_positive": 304921,
+      "total_negative": 10165,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "undertale",
       "recommend": "niche",
@@ -435,7 +435,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 568220,
@@ -503,9 +503,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 47341,
-      "total_reviews": 51488,
-      "total_positive": 48464,
+      "recommendations_total": 47342,
+      "total_reviews": 51490,
+      "total_positive": 48466,
       "total_negative": 3024,
       "review_score_desc": "Very Positive",
       "slug": "lobotomy-corporation",
@@ -530,7 +530,7 @@
         "Gore",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 266210,
@@ -629,7 +629,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1256670,
@@ -711,9 +711,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 36214,
-      "total_reviews": 40248,
-      "total_positive": 38000,
+      "recommendations_total": 36216,
+      "total_reviews": 40250,
+      "total_positive": 38002,
       "total_negative": 2248,
       "review_score_desc": "Very Positive",
       "slug": "library-of-ruina",
@@ -738,7 +738,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1404850,
@@ -851,7 +851,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3314790,
@@ -934,9 +934,9 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 20266,
-      "total_reviews": 21237,
-      "total_positive": 19177,
+      "recommendations_total": 20267,
+      "total_reviews": 21238,
+      "total_positive": 19178,
       "total_negative": 2060,
       "review_score_desc": "Very Positive",
       "slug": "cloverpit",
@@ -961,7 +961,7 @@
         "Dark Humor",
         "3D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 294100,
@@ -1043,10 +1043,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 198526,
-      "total_reviews": 234264,
-      "total_positive": 229337,
-      "total_negative": 4927,
+      "recommendations_total": 198537,
+      "total_reviews": 234282,
+      "total_positive": 229354,
+      "total_negative": 4928,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "rimworld",
       "recommend": "niche",
@@ -1070,7 +1070,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 632470,
@@ -1152,10 +1152,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 111959,
-      "total_reviews": 123780,
-      "total_positive": 114791,
-      "total_negative": 8989,
+      "recommendations_total": 111964,
+      "total_reviews": 123789,
+      "total_positive": 114799,
+      "total_negative": 8990,
       "review_score_desc": "Very Positive",
       "slug": "disco-elysium",
       "recommend": "niche",
@@ -1179,7 +1179,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2106840,
@@ -1259,10 +1259,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 5325,
+      "recommendations_total": 5326,
       "total_reviews": 6184,
-      "total_positive": 5905,
-      "total_negative": 279,
+      "total_positive": 5906,
+      "total_negative": 278,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "paranormasight",
       "recommend": "niche",
@@ -1286,7 +1286,7 @@
         "Supernatural",
         "Hand-drawn"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2701440,
@@ -1297,8 +1297,8 @@
       "short_description_ja": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
       "short_description_en": "Will you survive the curse together this summer? A new supernatural mystery adventure begins, telling a bittersweet story of the passions of youth featuring new locations, new legends and a new cast of characters.",
       "short_description": "パラノマサイト FILE38 伊勢人魚物語「この夏 きみと生き残る呪い」新たな土地、新たな伝承、新たな登場人物で始まる青春群像伝奇ミステリーアドベンチャー",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/70cf34e77e09a81fa940861f976ebcd2adc175ce/header_japanese.jpg?t=1772015373",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/90eed3734436b8bfc3d133ddbb66a65dca1ae357/capsule_231x87_japanese.jpg?t=1772015373",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/70cf34e77e09a81fa940861f976ebcd2adc175ce/header_japanese.jpg?t=1772133362",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/90eed3734436b8bfc3d133ddbb66a65dca1ae357/capsule_231x87_japanese.jpg?t=1772133362",
       "developers": [
         "Square Enix"
       ],
@@ -1353,11 +1353,11 @@
       "supported_languages": "英語, 中国語（簡体字）, 中国語（繁体字）, 日本語",
       "website": null,
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/64688d9b8896dd646460824dcfe1ac4c0b95e72f/ss_64688d9b8896dd646460824dcfe1ac4c0b95e72f.1920x1080.jpg?t=1772015373",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/655f0d076c918ed1e1af82c357efd066ed836494/ss_655f0d076c918ed1e1af82c357efd066ed836494.1920x1080.jpg?t=1772015373",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/8a883362ebb964a88af8f994efffcd7ff0eab01e/ss_8a883362ebb964a88af8f994efffcd7ff0eab01e.1920x1080.jpg?t=1772015373",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/1973e6ba9b841d85fae48e6f363fb62403c43f9f/ss_1973e6ba9b841d85fae48e6f363fb62403c43f9f.1920x1080.jpg?t=1772015373",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17ef2e9de5273edfffe4002fe7b08ba623e53991/ss_17ef2e9de5273edfffe4002fe7b08ba623e53991.1920x1080.jpg?t=1772015373"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/64688d9b8896dd646460824dcfe1ac4c0b95e72f/ss_64688d9b8896dd646460824dcfe1ac4c0b95e72f.1920x1080.jpg?t=1772133362",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/655f0d076c918ed1e1af82c357efd066ed836494/ss_655f0d076c918ed1e1af82c357efd066ed836494.1920x1080.jpg?t=1772133362",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/8a883362ebb964a88af8f994efffcd7ff0eab01e/ss_8a883362ebb964a88af8f994efffcd7ff0eab01e.1920x1080.jpg?t=1772133362",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/1973e6ba9b841d85fae48e6f363fb62403c43f9f/ss_1973e6ba9b841d85fae48e6f363fb62403c43f9f.1920x1080.jpg?t=1772133362",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17ef2e9de5273edfffe4002fe7b08ba623e53991/ss_17ef2e9de5273edfffe4002fe7b08ba623e53991.1920x1080.jpg?t=1772133362"
       ],
       "movies": [
         {
@@ -1368,9 +1368,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 835,
-      "total_reviews": 1019,
-      "total_positive": 987,
+      "recommendations_total": 856,
+      "total_reviews": 1043,
+      "total_positive": 1011,
       "total_negative": 32,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "paranormasight-file38",
@@ -1395,7 +1395,7 @@
         "Mystery",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1222140,
@@ -1467,10 +1467,10 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 196574,
-      "total_reviews": 227934,
-      "total_positive": 219278,
-      "total_negative": 8656,
+      "recommendations_total": 196624,
+      "total_reviews": 227993,
+      "total_positive": 219338,
+      "total_negative": 8655,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "detroit-become-human",
       "recommend": "all",
@@ -1494,7 +1494,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1054490,
@@ -1592,8 +1592,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 9339,
-      "total_reviews": 11434,
-      "total_positive": 10781,
+      "total_reviews": 11433,
+      "total_positive": 10780,
       "total_negative": 653,
       "review_score_desc": "Very Positive",
       "slug": "wingspan",
@@ -1618,7 +1618,7 @@
         "Nature",
         "Casual"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1599600,
@@ -1704,9 +1704,9 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 17474,
-      "total_reviews": 25681,
-      "total_positive": 24339,
+      "recommendations_total": 17477,
+      "total_reviews": 25684,
+      "total_positive": 24342,
       "total_negative": 1342,
       "review_score_desc": "Very Positive",
       "slug": "plateup",
@@ -1732,7 +1732,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 913740,
@@ -1834,7 +1834,7 @@
         "Roguelite",
         "2D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1092790,
@@ -1914,9 +1914,9 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 129626,
-      "total_reviews": 142382,
-      "total_positive": 137925,
+      "recommendations_total": 129630,
+      "total_reviews": 142385,
+      "total_positive": 137928,
       "total_negative": 4457,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "inscryption",
@@ -1941,7 +1941,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 239030,
@@ -2016,9 +2016,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 71250,
-      "total_reviews": 78214,
-      "total_positive": 76095,
+      "recommendations_total": 71253,
+      "total_reviews": 78217,
+      "total_positive": 76098,
       "total_negative": 2119,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "papers-please",
@@ -2043,7 +2043,7 @@
         "Dystopian ",
         "Multiple Endings"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1669980,
@@ -2129,9 +2129,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 43341,
-      "total_reviews": 46948,
-      "total_positive": 45923,
+      "recommendations_total": 43343,
+      "total_reviews": 46950,
+      "total_positive": 45925,
       "total_negative": 1025,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "volcano-princess",
@@ -2156,7 +2156,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2676840,
@@ -2227,8 +2227,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 9234,
-      "total_reviews": 9552,
-      "total_positive": 9222,
+      "total_reviews": 9551,
+      "total_positive": 9221,
       "total_negative": 330,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "no-case-should-remain-unsolved",
@@ -2253,7 +2253,7 @@
         "Adventure",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3117820,
@@ -2365,9 +2365,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 22971,
-      "total_reviews": 32226,
-      "total_positive": 30671,
+      "recommendations_total": 22976,
+      "total_reviews": 32228,
+      "total_positive": 30673,
       "total_negative": 1555,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "sultans-game",
@@ -2392,7 +2392,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1794680,
@@ -2486,9 +2486,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 246451,
-      "total_reviews": 259983,
-      "total_positive": 255746,
+      "recommendations_total": 246455,
+      "total_reviews": 259987,
+      "total_positive": 255750,
       "total_negative": 4237,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "vampire-survivors",
@@ -2513,7 +2513,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 447530,
@@ -2590,9 +2590,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 33001,
-      "total_reviews": 37809,
-      "total_positive": 36812,
+      "recommendations_total": 33002,
+      "total_reviews": 37810,
+      "total_positive": 36813,
       "total_negative": 997,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "va11halla",
@@ -2617,7 +2617,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2336980,
@@ -2692,9 +2692,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 981,
-      "total_reviews": 1021,
-      "total_positive": 994,
+      "recommendations_total": 983,
+      "total_reviews": 1023,
+      "total_positive": 996,
       "total_negative": 27,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "famires",
@@ -2719,7 +2719,7 @@
         "Relaxing",
         "Drama"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1515210,
@@ -2838,7 +2838,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 4327530,
@@ -2909,9 +2909,9 @@
         }
       ],
       "demo_appid": 4334900,
-      "recommendations_total": 492,
-      "total_reviews": 494,
-      "total_positive": 484,
+      "recommendations_total": 494,
+      "total_reviews": 497,
+      "total_positive": 487,
       "total_negative": 10,
       "review_score_desc": "Very Positive",
       "slug": "guild-tankyudan",
@@ -2936,7 +2936,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1240210,
@@ -3018,8 +3018,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 23044,
-      "total_reviews": 24928,
-      "total_positive": 24364,
+      "total_reviews": 24927,
+      "total_positive": 24363,
       "total_negative": 564,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "there-is-no-game",
@@ -3044,7 +3044,7 @@
         "Casual",
         "Comedy"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2455920,
@@ -3138,7 +3138,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1617030,
@@ -3242,7 +3242,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3101040,
@@ -3327,10 +3327,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 24920,
-      "total_reviews": 28008,
-      "total_positive": 27108,
-      "total_negative": 900,
+      "recommendations_total": 24942,
+      "total_reviews": 28029,
+      "total_positive": 27127,
+      "total_negative": 902,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "magical-girl-witch-trials",
       "recommend": "niche",
@@ -3355,7 +3355,7 @@
         "LGBTQ+",
         "Sexual Content"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 489830,
@@ -3435,10 +3435,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 206611,
-      "total_reviews": 360209,
-      "total_positive": 332346,
-      "total_negative": 27863,
+      "recommendations_total": 206621,
+      "total_reviews": 360229,
+      "total_positive": 332365,
+      "total_negative": 27864,
       "review_score_desc": "Very Positive",
       "slug": "skyrim",
       "recommend": "all",
@@ -3462,7 +3462,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3900,
@@ -3549,7 +3549,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2142790,
@@ -3630,9 +3630,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 23851,
-      "total_reviews": 26154,
-      "total_positive": 25600,
+      "recommendations_total": 23858,
+      "total_reviews": 26159,
+      "total_positive": 25605,
       "total_negative": 554,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "fields-of-mistria",
@@ -3657,7 +3657,7 @@
         "Romance",
         "Simulation"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3213850,
@@ -3784,10 +3784,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 4010,
-      "total_reviews": 4508,
-      "total_positive": 4073,
-      "total_negative": 435,
+      "recommendations_total": 4014,
+      "total_reviews": 4511,
+      "total_positive": 4075,
+      "total_negative": 436,
       "review_score_desc": "Very Positive",
       "slug": "gogh",
       "recommend": "all",
@@ -3811,7 +3811,7 @@
         "Relaxing",
         "3D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 262060,
@@ -3900,9 +3900,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 136549,
-      "total_reviews": 157436,
+      "total_reviews": 157438,
       "total_positive": 144370,
-      "total_negative": 13066,
+      "total_negative": 13068,
       "review_score_desc": "Very Positive",
       "slug": "darkest-dungeon",
       "recommend": "niche",
@@ -3926,7 +3926,7 @@
         "Difficult",
         "Turn-Based"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 377160,
@@ -4049,9 +4049,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 283719,
-      "total_reviews": 420601,
-      "total_positive": 341111,
+      "recommendations_total": 283728,
+      "total_reviews": 420616,
+      "total_positive": 341126,
       "total_negative": 79490,
       "review_score_desc": "Very Positive",
       "slug": "fallout-4",
@@ -4076,7 +4076,7 @@
         "Atmospheric",
         "Shooter"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 550,
@@ -4180,9 +4180,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 781492,
-      "total_reviews": 1018386,
-      "total_positive": 993272,
+      "recommendations_total": 781514,
+      "total_reviews": 1018413,
+      "total_positive": 993299,
       "total_negative": 25114,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "left-4-dead-2",
@@ -4209,7 +4209,7 @@
         "Action",
         "Survival"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1150690,
@@ -4296,9 +4296,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 77043,
-      "total_reviews": 85502,
-      "total_positive": 83034,
+      "recommendations_total": 77044,
+      "total_reviews": 85503,
+      "total_positive": 83035,
       "total_negative": 2468,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "omori",
@@ -4323,7 +4323,7 @@
         "Multiple Endings",
         "RPGMaker"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 420530,
@@ -4398,10 +4398,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 55303,
-      "total_reviews": 60831,
+      "recommendations_total": 55305,
+      "total_reviews": 60832,
       "total_positive": 59799,
-      "total_negative": 1032,
+      "total_negative": 1033,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "oneshot",
       "recommend": "niche",
@@ -4425,7 +4425,7 @@
         "Puzzle",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1243830,
@@ -4558,7 +4558,7 @@
         "Family Friendly",
         "Local Multiplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 400,
@@ -4637,9 +4637,9 @@
         }
       ],
       "demo_appid": 410,
-      "recommendations_total": 165965,
-      "total_reviews": 191004,
-      "total_positive": 188172,
+      "recommendations_total": 165969,
+      "total_reviews": 191011,
+      "total_positive": 188179,
       "total_negative": 2832,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "portal",
@@ -4665,7 +4665,7 @@
         "Comedy",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 620,
@@ -4854,9 +4854,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 379143,
-      "total_reviews": 454423,
-      "total_positive": 448541,
+      "recommendations_total": 379151,
+      "total_reviews": 454433,
+      "total_positive": 448551,
       "total_negative": 5882,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "portal-2",
@@ -4882,7 +4882,7 @@
         "Funny",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 405710,
@@ -4978,10 +4978,10 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 3088,
-      "total_reviews": 4810,
+      "recommendations_total": 3089,
+      "total_reviews": 4811,
       "total_positive": 3781,
-      "total_negative": 1029,
+      "total_negative": 1030,
       "review_score_desc": "Mostly Positive",
       "slug": "staxel",
       "recommend": "all",
@@ -5005,7 +5005,7 @@
         "Relaxing",
         "Building"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1016920,
@@ -5128,7 +5128,7 @@
         "Local Multiplayer",
         "Action"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1647190,
@@ -5230,7 +5230,7 @@
         "Post-apocalyptic",
         "Agriculture"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1933990,
@@ -5334,7 +5334,7 @@
         "City Builder",
         "2D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1086940,
@@ -5398,9 +5398,9 @@
       "release_date": "2023年8月3日",
       "is_free": false,
       "price_initial": 849900,
-      "price_final": 849900,
-      "discount_percent": 0,
-      "price_formatted": "¥ 8,499",
+      "price_final": 637400,
+      "discount_percent": 25,
+      "price_formatted": "¥ 6,374",
       "currency": "JPY",
       "metacritic_score": 96,
       "platforms": {
@@ -5456,9 +5456,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 727646,
-      "total_reviews": 826308,
-      "total_positive": 799960,
+      "recommendations_total": 727671,
+      "total_reviews": 826340,
+      "total_positive": 799992,
       "total_negative": 26348,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "baldurs-gate-3",
@@ -5483,7 +5483,7 @@
         "Sexual Content",
         "CRPG"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1984790,
@@ -5584,7 +5584,7 @@
         "Life Sim",
         "Sandbox"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 427520,
@@ -5687,10 +5687,10 @@
         }
       ],
       "demo_appid": 452280,
-      "recommendations_total": 187839,
-      "total_reviews": 225520,
-      "total_positive": 219843,
-      "total_negative": 5677,
+      "recommendations_total": 187846,
+      "total_reviews": 225527,
+      "total_positive": 219849,
+      "total_negative": 5678,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "factorio",
       "recommend": "all",
@@ -5715,7 +5715,7 @@
         "Multiplayer",
         "Survival"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 4045680,
@@ -5807,7 +5807,7 @@
         "2D",
         "Choices Matter"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 4371880,
@@ -5897,7 +5897,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2263010,
@@ -5970,8 +5970,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 25418,
-      "total_positive": 24845,
+      "total_reviews": 25420,
+      "total_positive": 24847,
       "total_negative": 573,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "pineapple-on-pizza",
@@ -5997,7 +5997,7 @@
         "Walking Simulator",
         "Dark Humor"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 2973410,
@@ -6092,7 +6092,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3419430,
@@ -6182,9 +6182,9 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 91497,
-      "total_positive": 88823,
-      "total_negative": 2674,
+      "total_reviews": 91523,
+      "total_positive": 88846,
+      "total_negative": 2677,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "bongo-cat",
       "recommend": "all",
@@ -6209,7 +6209,7 @@
         "Typing",
         "2D"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 431730,
@@ -6284,8 +6284,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 19704,
-      "total_reviews": 24934,
-      "total_positive": 24686,
+      "total_reviews": 24936,
+      "total_positive": 24688,
       "total_negative": 248,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "aseprite",
@@ -6310,7 +6310,7 @@
         "Utilities",
         "Indie"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1096900,
@@ -6428,7 +6428,7 @@
         "Singleplayer",
         "Party-Based RPG"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 363890,
@@ -6508,9 +6508,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 7227,
-      "total_reviews": 8699,
-      "total_positive": 7900,
+      "recommendations_total": 7228,
+      "total_reviews": 8700,
+      "total_positive": 7901,
       "total_negative": 799,
       "review_score_desc": "Very Positive",
       "slug": "rpg-maker-mv",
@@ -6535,7 +6535,7 @@
         "Web Publishing",
         "JRPG"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 3511030,
@@ -6609,9 +6609,9 @@
         }
       ],
       "demo_appid": 3550820,
-      "recommendations_total": 1992,
-      "total_reviews": 2129,
-      "total_positive": 2066,
+      "recommendations_total": 1998,
+      "total_reviews": 2135,
+      "total_positive": 2072,
       "total_negative": 63,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "mini-cozy-room",
@@ -6636,7 +6636,7 @@
         "Relaxing",
         "Indie"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 4301100,
@@ -6710,9 +6710,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 671,
-      "total_reviews": 702,
-      "total_positive": 685,
+      "recommendations_total": 670,
+      "total_reviews": 701,
+      "total_positive": 684,
       "total_negative": 17,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "emotelab",
@@ -6735,7 +6735,7 @@
         "Cute",
         "Character Customization"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1036640,
@@ -6837,7 +6837,7 @@
         "Anime",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 787480,
@@ -6888,9 +6888,9 @@
       "release_date": "2019年4月9日",
       "is_free": false,
       "price_initial": 299000,
-      "price_final": 98600,
-      "discount_percent": 67,
-      "price_formatted": "¥ 986",
+      "price_final": 299000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,990",
       "currency": "JPY",
       "metacritic_score": 80,
       "platforms": {
@@ -6928,9 +6928,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 33521,
-      "total_reviews": 42201,
-      "total_positive": 41176,
+      "recommendations_total": 33524,
+      "total_reviews": 42204,
+      "total_positive": 41179,
       "total_negative": 1025,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "ace-attorney-trilogy",
@@ -6955,7 +6955,7 @@
         "Singleplayer",
         "Crime"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1158850,
@@ -6996,9 +6996,9 @@
       "release_date": "2021年7月28日",
       "is_free": false,
       "price_initial": 499000,
-      "price_final": 199600,
-      "discount_percent": 60,
-      "price_formatted": "¥ 1,996",
+      "price_final": 499000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 4,990",
       "currency": "JPY",
       "metacritic_score": 83,
       "platforms": {
@@ -7042,9 +7042,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 4869,
-      "total_reviews": 8956,
-      "total_positive": 8446,
+      "recommendations_total": 4870,
+      "total_reviews": 8957,
+      "total_positive": 8447,
       "total_negative": 510,
       "review_score_desc": "Very Positive",
       "slug": "great-ace-attorney-chronicles",
@@ -7069,7 +7069,7 @@
         "3D",
         "Story Rich"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 413410,
@@ -7147,9 +7147,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 32041,
-      "total_reviews": 34197,
-      "total_positive": 32822,
+      "recommendations_total": 32042,
+      "total_reviews": 34198,
+      "total_positive": 32823,
       "total_negative": 1375,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "danganronpa-thh",
@@ -7174,7 +7174,7 @@
         "Singleplayer",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 413420,
@@ -7279,7 +7279,7 @@
         "Singleplayer",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 567640,
@@ -7351,10 +7351,10 @@
         }
       ],
       "demo_appid": 589120,
-      "recommendations_total": 20185,
-      "total_reviews": 21432,
-      "total_positive": 17814,
-      "total_negative": 3618,
+      "recommendations_total": 20186,
+      "total_reviews": 21434,
+      "total_positive": 17815,
+      "total_negative": 3619,
       "review_score_desc": "Very Positive",
       "slug": "danganronpa-v3",
       "recommend": "niche",
@@ -7378,7 +7378,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1967430,
@@ -7422,9 +7422,9 @@
       "release_date": "2023年6月29日",
       "is_free": false,
       "price_initial": 299000,
-      "price_final": 98600,
-      "discount_percent": 67,
-      "price_formatted": "¥ 986",
+      "price_final": 299000,
+      "discount_percent": 0,
+      "price_formatted": "¥ 2,990",
       "currency": "JPY",
       "metacritic_score": 90,
       "platforms": {
@@ -7456,9 +7456,9 @@
         }
       ],
       "demo_appid": 1971230,
-      "recommendations_total": 5820,
-      "total_reviews": 7650,
-      "total_positive": 7469,
+      "recommendations_total": 5821,
+      "total_reviews": 7651,
+      "total_positive": 7470,
       "total_negative": 181,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "ghost-trick",
@@ -7483,7 +7483,7 @@
         "Singleplayer",
         "Visual Novel"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 653530,
@@ -7555,9 +7555,9 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 30361,
-      "total_reviews": 33090,
-      "total_positive": 32014,
+      "recommendations_total": 30365,
+      "total_reviews": 33093,
+      "total_positive": 32017,
       "total_negative": 1076,
       "review_score_desc": "Overwhelmingly Positive",
       "slug": "return-of-the-obra-dinn",
@@ -7582,7 +7582,7 @@
         "Indie",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 1695000,
@@ -7689,7 +7689,7 @@
         "Story Rich",
         "Cute"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     },
     {
       "appid": 4213590,
@@ -7759,8 +7759,8 @@
       ],
       "demo_appid": null,
       "recommendations_total": 0,
-      "total_reviews": 132,
-      "total_positive": 126,
+      "total_reviews": 137,
+      "total_positive": 131,
       "total_negative": 6,
       "review_score_desc": "Very Positive",
       "slug": "tiling-forest-tiling-town-demo",
@@ -7786,1351 +7786,7 @@
         "2D",
         "Cute"
       ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 990080,
-      "required_age": 0,
-      "name_ja": "ホグワーツ・レガシー",
-      "name_en": "Hogwarts Legacy",
-      "name": "Hogwarts Legacy",
-      "short_description_ja": "『ホグワーツ・レガシー』は、没入感の高いオープンワールド・アクションRPGです。キャラクターを操作して、魔法界を巡るあなただけの冒険を繰り広げましょう。",
-      "short_description_en": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
-      "short_description": "『ホグワーツ・レガシー』は、没入感の高いオープンワールド・アクションRPGです。キャラクターを操作して、魔法界を巡るあなただけの冒険を繰り広げましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1765473525",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg?t=1765473525",
-      "developers": [
-        "Avalanche Software"
-      ],
-      "publishers": [
-        "Warner Bros. Games"
-      ],
-      "genres_ja": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "genres_en": [
-        "Action",
-        "Adventure",
-        "RPG"
-      ],
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "アプリ内購入",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "カスタム音量調整",
-        "ナレーション付きゲームメニュー",
-        "いつでもセーブ可能",
-        "ステレオサウンド",
-        "サラウンドサウンド",
-        "Steamクラウド",
-        "HDR使用可能",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2023年2月10日",
-      "release_date_en": "10 Feb, 2023",
-      "release_date": "2023年2月10日",
-      "is_free": false,
-      "price_initial": 877800,
-      "price_final": 877800,
-      "discount_percent": 0,
-      "price_formatted": "¥ 8,778",
-      "currency": "JPY",
-      "metacritic_score": 83,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, アラビア語, 日本語<strong>*</strong>, 韓国語, ポーランド語, ポルトガル語－ブラジル<strong>*</strong>, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ<strong>*</strong>, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
-      "website": "https://www.hogwartslegacy.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1765473525",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1765473525",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1765473525",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1765473525",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1765473525"
-      ],
-      "movies": [
-        {
-          "name": "Hogwarts Legacy Launch Trailer WW",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930504/movie.293x165.jpg?t=1676412591",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 264484,
-      "total_reviews": 361005,
-      "total_positive": 324601,
-      "total_negative": 36404,
-      "review_score_desc": "Very Positive",
-      "slug": "hogwarts-legacy",
-      "recommend": "all",
-      "tags_ja": [
-        "魔法",
-        "オープンワールド",
-        "ファンタジー",
-        "シングルプレイヤー",
-        "アドベンチャー",
-        "RPG",
-        "キャラクターカスタマイズ",
-        "探検"
-      ],
-      "tags_en": [
-        "Magic",
-        "Open World",
-        "Fantasy",
-        "Singleplayer",
-        "Adventure",
-        "RPG",
-        "Character Customization",
-        "Exploration"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 1210320,
-      "required_age": 0,
-      "name_ja": "Potion Craft: Alchemist Simulator",
-      "name_en": "Potion Craft: Alchemist Simulator",
-      "name": "Potion Craft: Alchemist Simulator",
-      "short_description_ja": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
-      "short_description_en": "Potion Craft is an alchemist simulator where you physically interact with your tools and ingredients to brew potions. You're in full control of the whole shop: invent new recipes, attract customers and experiment to your heart's content. Just remember: the whole town is counting on you.",
-      "short_description": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1765364005",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1765364005",
-      "developers": [
-        "niceplay games"
-      ],
-      "publishers": [
-        "tinyBuild"
-      ],
-      "genres_ja": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "genres_en": [
-        "Indie",
-        "Simulation"
-      ],
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "部分的コントローラサポート",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2022年12月13日",
-      "release_date_en": "13 Dec, 2022",
-      "release_date": "2022年12月13日",
-      "is_free": false,
-      "price_initial": 230000,
-      "price_final": 230000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 2,300",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語, ロシア語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, タイ語, トルコ語, 中国語（簡体字）",
-      "website": "https://www.potioncraft.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1765364005",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1765364005",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1765364005",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1765364005",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1765364005"
-      ],
-      "movies": [
-        {
-          "name": "Garden 2.0 update trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079614/965f3123685ccd2402f33c964510348a86e5109e/movie_600x337.jpg?t=1733507740",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Early Access Release Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852510/80c40305bd5e0d7eaade61ac884bbd5251e471ae/movie_600x337.jpg?t=1733855035",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "1.0 Release trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920774/619f1a98761560cfacd4239460b8280cc2d2792c/movie_600x337.jpg?t=1733855038",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Gameplay Overview Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844822/eac09e083d83d88181b384321912609240edd5ca/movie_600x337.jpg?t=1733855042",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Potion Craft Early Access Announcement Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850135/4f6b6201258b976c50fe443e309b46f689afe6d4/movie_600x337.jpg?t=1733855046",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 35966,
-      "total_reviews": 42484,
-      "total_positive": 39425,
-      "total_negative": 3059,
-      "review_score_desc": "Very Positive",
-      "slug": "potion-craft",
-      "recommend": "all",
-      "tags_ja": [
-        "クラフト",
-        "シングルプレイヤー",
-        "リラックス",
-        "シミュレーション",
-        "中世",
-        "管理",
-        "インディー",
-        "2D"
-      ],
-      "tags_en": [
-        "Crafting",
-        "Singleplayer",
-        "Relaxing",
-        "Simulation",
-        "Medieval",
-        "Management",
-        "Indie",
-        "2D"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 3146520,
-      "required_age": 0,
-      "name_ja": "WEBFISHING",
-      "name_en": "WEBFISHING",
-      "name": "WEBFISHING",
-      "short_description_ja": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
-      "short_description_en": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
-      "short_description": "WEBFISHING a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/header.jpg?t=1728673229",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/capsule_231x87.jpg?t=1728673229",
-      "developers": [
-        "lamedeveloper"
-      ],
-      "publishers": [
-        "lamedeveloper"
-      ],
-      "genres_ja": [
-        "カジュアル",
-        "インディー",
-        "MM（Massively Multiplayer）"
-      ],
-      "genres_en": [
-        "Casual",
-        "Indie",
-        "Massively Multiplayer"
-      ],
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "MM（Massively Multiplayer）"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2024年10月11日",
-      "release_date_en": "11 Oct, 2024",
-      "release_date": "2024年10月11日",
-      "is_free": false,
-      "price_initial": 58000,
-      "price_final": 58000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 580",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語",
-      "website": null,
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_d1fdc753a7dc005896e239ea5ea055618a744bb6.1920x1080.jpg?t=1728673229",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_93c1c90ce81dbf0fd3ca2aada73e1ff4c5e62a9a.1920x1080.jpg?t=1728673229",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_8f5fe32a52b871c584f11416baf40634d17e72ee.1920x1080.jpg?t=1728673229",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_15bdf6913c68f13e4769d950ac563e2d5706022b.1920x1080.jpg?t=1728673229",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3146520/ss_70029d85f6aef4143b58a55b27824c278e14cbd9.1920x1080.jpg?t=1728673229"
-      ],
-      "movies": [
-        {
-          "name": "Webfishing Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057787/movie.293x165.jpg?t=1727142651",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 56615,
-      "total_reviews": 69492,
-      "total_positive": 67765,
-      "total_negative": 1727,
-      "review_score_desc": "Overwhelmingly Positive",
-      "slug": "webfishing",
-      "recommend": "all",
-      "multi": true,
-      "tags_ja": [
-        "釣り",
-        "マルチプレイヤー",
-        "カジュアル",
-        "かわいい",
-        "キャラクターカスタマイズ",
-        "クリーチャーコレクター",
-        "インディー",
-        "オンライン協力プレイ"
-      ],
-      "tags_en": [
-        "Fishing",
-        "Multiplayer",
-        "Casual",
-        "Cute",
-        "Character Customization",
-        "Creature Collector",
-        "Indie",
-        "Online Co-Op"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 2623190,
-      "required_age": 0,
-      "name_ja": "The Elder Scrolls IV: Oblivion Remastered",
-      "name_en": "The Elder Scrolls IV: Oblivion Remastered",
-      "name": "The Elder Scrolls IV: Oblivion Remastered",
-      "short_description_ja": "『The Elder Scrolls IV: Oblivion™ Remastered』の驚くべき新ビジュアルとより洗練されたゲームプレイとともに、かつてないシロディールを探索しましょう。",
-      "short_description_en": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion™ Remastered.",
-      "short_description": "『The Elder Scrolls IV: Oblivion™ Remastered』の驚くべき新ビジュアルとより洗練されたゲームプレイとともに、かつてないシロディールを探索しましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/a7cee9165bb1bfc092c390c5cff215ce0e381dfc/header.jpg?t=1761681073",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/4efc3257aabd776d4624da40146fb021d1ef5b38/capsule_231x87.jpg?t=1761681073",
-      "developers": [
-        "Bethesda Game Studios",
-        "Virtuos"
-      ],
-      "publishers": [
-        "Bethesda Softworks"
-      ],
-      "genres_ja": [
-        "RPG"
-      ],
-      "genres_en": [
-        "RPG"
-      ],
-      "genres": [
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "カスタム音量調整",
-        "時間制限付き入力なしでプレイ可能",
-        "ステレオサウンド",
-        "サラウンドサウンド",
-        "部分的コントローラサポート",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2025年4月22日",
-      "release_date_en": "22 Apr, 2025",
-      "release_date": "2025年4月22日",
-      "is_free": false,
-      "price_initial": 693000,
-      "price_final": 693000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 6,930",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
-      "website": "http://www.elderscrolls.com",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/3cfe517f1464aa4d77df744c1e3d96e506da378d/ss_3cfe517f1464aa4d77df744c1e3d96e506da378d.1920x1080.jpg?t=1761681073",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/27619a5ffb8d3b41d807a0387dc0a3d3616d4b48/ss_27619a5ffb8d3b41d807a0387dc0a3d3616d4b48.1920x1080.jpg?t=1761681073",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5d342842ed33010aac7dfa9e04b350a3a8911ef3/ss_5d342842ed33010aac7dfa9e04b350a3a8911ef3.1920x1080.jpg?t=1761681073",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e/ss_c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e.1920x1080.jpg?t=1761681073",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2/ss_5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2.1920x1080.jpg?t=1761681073"
-      ],
-      "movies": [
-        {
-          "name": "Launch Trailer JP",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257127868/ce882792e273145c5491a75d19c9c4ea817dad99/movie_600x337.jpg?t=1745342172",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 56764,
-      "total_reviews": 66513,
-      "total_positive": 51410,
-      "total_negative": 15103,
-      "review_score_desc": "Mostly Positive",
-      "slug": "oblivion-remastered",
-      "recommend": "all",
-      "tags_ja": [
-        "RPG",
-        "オープンワールド",
-        "ファンタジー",
-        "シングルプレイヤー",
-        "アドベンチャー",
-        "探検",
-        "キャラクターカスタマイズ",
-        "ファーストパーソン"
-      ],
-      "tags_en": [
-        "RPG",
-        "Open World",
-        "Fantasy",
-        "Singleplayer",
-        "Adventure",
-        "Exploration",
-        "Character Customization",
-        "First-Person"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 3151270,
-      "required_age": 0,
-      "name_ja": "One Turn Kill",
-      "name_en": "One Turn Kill",
-      "name": "One Turn Kill",
-      "short_description_ja": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
-      "short_description_en": "One Turn Kill is a PvE card game where card drawing and deck control are the keys to victory. Engage in battles limited to a single turn for an exhilarating, suspenseful experience.Join the protagonist in a pixel art wasteland to face off with the strongest of enemies and see what story awaits.",
-      "short_description": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1768491573",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/5568e19d2d54aaf15e3e5d47aa61e07ec722aa1e/capsule_231x87.jpg?t=1768491573",
-      "developers": [
-        "DenDen"
-      ],
-      "publishers": [
-        "Waku Waku Games"
-      ],
-      "genres_ja": [
-        "ストラテジー"
-      ],
-      "genres_en": [
-        "Strategy"
-      ],
-      "genres": [
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "カスタム音量調整",
-        "マウスのみのオプション",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2026年1月15日",
-      "release_date_en": "15 Jan, 2026",
-      "release_date": "2026年1月15日",
-      "is_free": false,
-      "price_initial": 120000,
-      "price_final": 120000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 1,200",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
-      "website": "https://www.wakuwakugames.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.1920x1080.jpg?t=1768491573",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.1920x1080.jpg?t=1768491573",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.1920x1080.jpg?t=1768491573",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c0a3e24e33748078600f86248b1a8a394e6d6b8b/ss_c0a3e24e33748078600f86248b1a8a394e6d6b8b.1920x1080.jpg?t=1768491573",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/a4b823b6e53574857042bb94eb2769ca393a8a4c/ss_a4b823b6e53574857042bb94eb2769ca393a8a4c.1920x1080.jpg?t=1768491573"
-      ],
-      "movies": [
-        {
-          "name": "demo",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152832/5c678c3bf3964883d294620497d7283f75490c6c/movie_600x337.jpg?t=1749393188",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 996,
-      "total_reviews": 1000,
-      "total_positive": 961,
-      "total_negative": 39,
-      "review_score_desc": "Overwhelmingly Positive",
-      "slug": "one-turn-kill",
-      "recommend": "niche",
-      "tags_ja": [
-        "ストラテジー",
-        "カードゲーム",
-        "デッキ構築",
-        "ドット絵",
-        "カードバトル",
-        "2D",
-        "ソリティア",
-        "女性主人公"
-      ],
-      "tags_en": [
-        "Strategy",
-        "Card Game",
-        "Deckbuilding",
-        "Pixel Graphics",
-        "Card Battler",
-        "2D",
-        "Solitaire",
-        "Female Protagonist"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 3344320,
-      "required_age": 0,
-      "name_ja": "リーサルダンジョン",
-      "name_en": "Lethal Dungeon",
-      "name": "Lethal Dungeon",
-      "short_description_ja": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
-      "short_description_en": "Lethal Dungeon is a roguelike card game. Win every battle using only the cards in your opening hand to defeat all enemies in a single turn.",
-      "short_description": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/12cd4d7ed23cfa5629a792724b82b34c3cfff733/header.jpg?t=1771657622",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6043a5caf6eba2e25819328d63175593f1e0aab0/capsule_231x87.jpg?t=1771657622",
-      "developers": [
-        "Nihohe Soft"
-      ],
-      "publishers": [
-        "Nihohe Soft"
-      ],
-      "genres_ja": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "genres_en": [
-        "Indie",
-        "Strategy"
-      ],
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2026年2月19日",
-      "release_date_en": "19 Feb, 2026",
-      "release_date": "2026年2月19日",
-      "is_free": false,
-      "price_initial": 58000,
-      "price_final": 52200,
-      "discount_percent": 10,
-      "price_formatted": "¥ 522",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語, 中国語（簡体字）, 日本語",
-      "website": null,
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6a788c8072184955dba0f7523aa76f812e934714/ss_6a788c8072184955dba0f7523aa76f812e934714.1920x1080.jpg?t=1771657622",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/e01285b4bd3a5dae31aadc05b02e63df1b4f2487/ss_e01285b4bd3a5dae31aadc05b02e63df1b4f2487.1920x1080.jpg?t=1771657622",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273/ss_44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273.1920x1080.jpg?t=1771657622",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe/ss_f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe.1920x1080.jpg?t=1771657622",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8eb580919673b7409b51e2cc7d1a7aeb826e17fe/ss_8eb580919673b7409b51e2cc7d1a7aeb826e17fe.1920x1080.jpg?t=1771657622"
-      ],
-      "movies": [
-        {
-          "name": "steamJp",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257174795/488e5cafa0c6232d025975726f998cc7a36b559e/movie_600x337.jpg?t=1768857605",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": 3921080,
-      "recommendations_total": 0,
-      "total_reviews": 94,
-      "total_positive": 93,
-      "total_negative": 1,
-      "review_score_desc": "Very Positive",
-      "slug": "lethal-dungeon",
-      "recommend": "niche",
-      "tags_ja": [
-        "ストラテジー",
-        "ローグライク",
-        "カードバトル",
-        "ローグライト",
-        "2D",
-        "ドット絵",
-        "レトロ",
-        "インディー"
-      ],
-      "tags_en": [
-        "Strategy",
-        "Roguelike",
-        "Card Battler",
-        "Roguelite",
-        "2D",
-        "Pixel Graphics",
-        "Retro",
-        "Indie"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 1677770,
-      "required_age": 0,
-      "name_ja": "The Case of the Golden Idol",
-      "name_en": "The Case of the Golden Idol",
-      "name": "The Case of the Golden Idol",
-      "short_description_ja": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
-      "short_description_en": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
-      "short_description": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/header.jpg?t=1758227116",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/capsule_231x87.jpg?t=1758227116",
-      "developers": [
-        "Color Gray Games"
-      ],
-      "publishers": [
-        "Playstack"
-      ],
-      "genres_ja": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "genres_en": [
-        "Adventure",
-        "Indie"
-      ],
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2022年10月13日",
-      "release_date_en": "13 Oct, 2022",
-      "release_date": "2022年10月13日",
-      "is_free": false,
-      "price_initial": 184000,
-      "price_final": 184000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 1,840",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, スペイン語－ラテンアメリカ, 中国語（繁体字）, トルコ語<br><strong>*</strong>フル音声対応言語",
-      "website": "https://www.thegoldenidol.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_d817a8158f79e7881241f0d4470cd010f2fbe44f.1920x1080.jpg?t=1758227116",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_e9593cf60f8e7fd96d205f5be6b45a487365fa29.1920x1080.jpg?t=1758227116",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_ca307de7f24032327368d7d1718833331e481cc8.1920x1080.jpg?t=1758227116",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_14f8ca6a582b71760770efdfac6cb38f7fcf4a98.1920x1080.jpg?t=1758227116",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_003c853ecd98156ac5cc7378c16385fe5a677efd.1920x1080.jpg?t=1758227116"
-      ],
-      "movies": [
-        {
-          "name": "The Case of the Golden Idol Gameplay",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910694/movie.293x165.jpg?t=1684338125",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Golden Idol Mysteries: The Lemurian Vampire DLC",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967035/movie.293x165.jpg?t=1693497058",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Golden Idol Mysteries: The Spider of Lanka DLC",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945165/movie.293x165.jpg?t=1693497062",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "The Case of the Golden Idol Launch Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910701/movie.293x165.jpg?t=1684338121",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": 1678010,
-      "recommendations_total": 8868,
-      "total_reviews": 9952,
-      "total_positive": 9745,
-      "total_negative": 207,
-      "review_score_desc": "Overwhelmingly Positive",
-      "slug": "the-case-of-the-golden-idol",
-      "recommend": "all",
-      "tags_ja": [
-        "ミステリー",
-        "探偵",
-        "調査",
-        "パズル",
-        "陰謀",
-        "ポイント＆クリック",
-        "物語性",
-        "2D"
-      ],
-      "tags_en": [
-        "Mystery",
-        "Detective",
-        "Investigation",
-        "Puzzle",
-        "Conspiracy",
-        "Point & Click",
-        "Story Rich",
-        "2D"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 686060,
-      "required_age": 0,
-      "name_ja": "Mewgenics",
-      "name_en": "Mewgenics",
-      "name": "Mewgenics",
-      "short_description_ja": "戦略的に繁殖して作り上げた究極の猫軍団を、ディープでチャレンジングなターン制アドベンチャーへと送り込め。『The Binding of Isaac』と『The End is Nigh』のクリエイターが送るこのローグライク戦術ゲームで、能力を選び抜き、アイテムを集め、世代を超えた遺伝子操作を行え。",
-      "short_description_en": "Build the ultimate cat army through tactical breeding and send them into deep, challenging turn-based adventures. Draft abilities, collect items, and manipulate genetics across generations in this roguelike tactics game from the creators of The Binding of Isaac and The End is Nigh.",
-      "short_description": "戦略的に繁殖して作り上げた究極の猫軍団を、ディープでチャレンジングなターン制アドベンチャーへと送り込め。『The Binding of Isaac』と『The End is Nigh』のクリエイターが送るこのローグライク戦術ゲームで、能力を選び抜き、アイテムを集め、世代を超えた遺伝子操作を行え。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/aa8075d11165fef4d4d0d09c156f0da0623b5da1/header.jpg?t=1771573546",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b00ca313f3ac970c3e412280ecc8a5ed65813a0e/capsule_231x87.jpg?t=1771573546",
-      "developers": [
-        "Edmund McMillen",
-        "Tyler Glaiel"
-      ],
-      "publishers": [
-        "Edmund McMillen",
-        "Tyler Glaiel"
-      ],
-      "genres_ja": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "genres_en": [
-        "Adventure",
-        "Indie",
-        "RPG",
-        "Simulation",
-        "Strategy"
-      ],
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "色のオプション",
-        "カスタム音量調整",
-        "マウスのみのオプション",
-        "時間制限付き入力なしでプレイ可能",
-        "いつでもセーブ可能",
-        "ステレオサウンド",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2026年2月10日",
-      "release_date_en": "10 Feb, 2026",
-      "release_date": "2026年2月10日",
-      "is_free": false,
-      "price_initial": 340000,
-      "price_final": 340000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 3,400",
-      "currency": "JPY",
-      "metacritic_score": 88,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ポルトガル語－ブラジル",
-      "website": "http://mewgenics.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b76bf94de0b466797f9455a6da347507020a9966/ss_b76bf94de0b466797f9455a6da347507020a9966.1920x1080.jpg?t=1771573546",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/a49301637adf55a2fad26305272829a0f47b478d/ss_a49301637adf55a2fad26305272829a0f47b478d.1920x1080.jpg?t=1771573546",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/129c23d40964c3f0a7e766182179333a19f422b9/ss_129c23d40964c3f0a7e766182179333a19f422b9.1920x1080.jpg?t=1771573546",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/54d33c8cd2e23c2a278367b487449077d5f0bc49/ss_54d33c8cd2e23c2a278367b487449077d5f0bc49.1920x1080.jpg?t=1771573546",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/99ad52d7d60acd283b9c1dc361324de70ed9f8f1/ss_99ad52d7d60acd283b9c1dc361324de70ed9f8f1.1920x1080.jpg?t=1771573546"
-      ],
-      "movies": [
-        {
-          "name": "Mewgenics launch trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283662/a75ed3de9d42026cf27d7c4a8b30005e85b8baee/movie_600x337.jpg?t=1770734758",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Mewgenics Release Date Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153663/1eb6f0baf29570284e4b3d90b87fe81af9b4fdff/movie_600x337.jpg?t=1749419242",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 28354,
-      "total_reviews": 29956,
-      "total_positive": 27718,
-      "total_negative": 2238,
-      "review_score_desc": "Very Positive",
-      "slug": "mewgenics",
-      "recommend": "niche",
-      "tags_ja": [
-        "ターン制戦略",
-        "ローグライト",
-        "ターン制ストラテジー",
-        "毒のあるユーモア",
-        "RPG",
-        "ターン制コンバット",
-        "猫",
-        "かわいい"
-      ],
-      "tags_en": [
-        "Turn-Based Tactics",
-        "Roguelite",
-        "Turn-Based Strategy",
-        "Dark Humor",
-        "RPG",
-        "Turn-Based Combat",
-        "Cats",
-        "Cute"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 1013750,
-      "required_age": 0,
-      "name_ja": "Legal Dungeon",
-      "name_en": "Legal Dungeon",
-      "name": "Legal Dungeon",
-      "short_description_ja": "『リーガルダンジョン』は警察官になり、捜査書類を作成するゲームです。あなたは窃盗、殺人など8つの事件と関係のある捜査書類を読み、関連法令と判例に従い最終的な捜査意見を作成していきます。個人の人生を天秤にかけながら、すべてのアイテムを手に入れてみましょう。",
-      "short_description_en": "Legal Dungeon is a game about organizing Police Investigation Documents. The player must review and provide an Investigation Verdict on reports ranging from petty theft to murder, in eight different criminal cases. Weigh the value of people’s lives to unlock all the collectables.",
-      "short_description": "『リーガルダンジョン』は警察官になり、捜査書類を作成するゲームです。あなたは窃盗、殺人など8つの事件と関係のある捜査書類を読み、関連法令と判例に従い最終的な捜査意見を作成していきます。個人の人生を天秤にかけながら、すべてのアイテムを手に入れてみましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/header.jpg?t=1728623971",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/capsule_231x87.jpg?t=1728623971",
-      "developers": [
-        "Somi"
-      ],
-      "publishers": [
-        "Somi"
-      ],
-      "genres_ja": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "genres_en": [
-        "Adventure",
-        "Indie",
-        "Simulation"
-      ],
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2019年5月6日",
-      "release_date_en": "6 May, 2019",
-      "release_date": "2019年5月6日",
-      "is_free": false,
-      "price_initial": 80000,
-      "price_final": 80000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 800",
-      "currency": "JPY",
-      "metacritic_score": null,
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": false
-      },
-      "supported_languages": "英語, 日本語, 韓国語, 中国語（簡体字）",
-      "website": "http://SomiGames.com",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_2b2f92405c747608277c3aa300626e06941725c4.1920x1080.jpg?t=1728623971",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_40a35663157ebbb06f91c19129ea986b870ca87d.1920x1080.jpg?t=1728623971",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_edc3f196c5fb66982130db08c3a786e53cf8dbcd.1920x1080.jpg?t=1728623971",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_4d8ac06db18ff50d69b3e1ec718a5f2bb76bb78d.1920x1080.jpg?t=1728623971",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_85cd47c784d9ebeb2fa80019ea23baf344263dc9.1920x1080.jpg?t=1728623971"
-      ],
-      "movies": [
-        {
-          "name": "Legal Dungeon Official Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741508/movie.293x165.jpg?t=1549287296",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 547,
-      "total_reviews": 578,
-      "total_positive": 452,
-      "total_negative": 126,
-      "review_score_desc": "Mostly Positive",
-      "slug": "legal-dungeon",
-      "recommend": "niche",
-      "tags_ja": [
-        "シミュレーション",
-        "インディー",
-        "アドベンチャー",
-        "探偵",
-        "ドット絵",
-        "テキストベース",
-        "政治的",
-        "物語性"
-      ],
-      "tags_en": [
-        "Simulation",
-        "Indie",
-        "Adventure",
-        "Detective",
-        "Pixel Graphics",
-        "Text-Based",
-        "Political",
-        "Story Rich"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 247080,
-      "required_age": 0,
-      "name_ja": "Crypt of the NecroDancer",
-      "name_en": "Crypt of the NecroDancer",
-      "name": "Crypt of the NecroDancer",
-      "short_description_ja": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
-      "short_description_en": "Crypt of the NecroDancer is an award winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or select songs from your own MP3 collection!",
-      "short_description": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/header.jpg?t=1765990722",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/capsule_231x87.jpg?t=1765990722",
-      "developers": [
-        "Brace Yourself Games"
-      ],
-      "publishers": [
-        "Brace Yourself Games",
-        "Klei Entertainment"
-      ],
-      "genres_ja": [
-        "アクション",
-        "インディー",
-        "RPG"
-      ],
-      "genres_en": [
-        "Action",
-        "Indie",
-        "RPG"
-      ],
-      "genres": [
-        "アクション",
-        "インディー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "共有／分割画面での協力プレイ",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "キャプション使用可能",
-        "Steamワークショップ",
-        "カメラの快適性",
-        "色のオプション",
-        "カスタム音量調整",
-        "難易度の調整",
-        "キーボードのみのオプション",
-        "時間制限付き入力なしでプレイ可能",
-        "いつでもセーブ可能",
-        "ステレオサウンド",
-        "字幕オプション",
-        "Steamクラウド",
-        "Steamランキング",
-        "レベル編集可能",
-        "スマホでRemote Play",
-        "タブレットでRemote Play",
-        "テレビでRemote Play",
-        "Remote Play Together",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2015年4月23日",
-      "release_date_en": "23 Apr, 2015",
-      "release_date": "2015年4月23日",
-      "is_free": false,
-      "price_initial": 170000,
-      "price_final": 170000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 1,700",
-      "currency": "JPY",
-      "metacritic_score": 87,
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポルトガル語－ブラジル, ロシア語, 韓国語, 中国語（簡体字）, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
-      "website": "http://necrodancer.com",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_849069b2208a21d5adfc00d67e5b8b428e2d0677.1920x1080.jpg?t=1765990722",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_86591e5d71b79241d14efcae0c8bfd5a676081b6.1920x1080.jpg?t=1765990722",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_7c7ec846300d524cb1c29ad6bc9287428d1c5fb5.1920x1080.jpg?t=1765990722",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_af4bc1439cd01a1a583b44d26103722c27bfbf75.1920x1080.jpg?t=1765990722",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_c545fb29bf4ad7e481299c37bddc80a69cc39cd3.1920x1080.jpg?t=1765990722"
-      ],
-      "movies": [
-        {
-          "name": "Shovel Knight Character DLC",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257224772/54167039770dbd30021ac3a0a45d0a21f9173a23/movie_600x337.jpg?t=1761848868",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659755/movie.293x165.jpg?t=1452791194",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Launch Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038591/movie.293x165.jpg?t=1452794019",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Behind the scenes minidocumentary",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038794/movie.293x165.jpg?t=1447373419",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 23318,
-      "total_reviews": 26203,
-      "total_positive": 25029,
-      "total_negative": 1174,
-      "review_score_desc": "Overwhelmingly Positive",
-      "slug": "crypt-of-the-necrodancer",
-      "recommend": "all",
-      "multi": true,
-      "by": "kotori",
-      "tags_ja": [
-        "リズム",
-        "ローグライク",
-        "良質サントラ",
-        "ドット絵",
-        "ダンジョンクロウル",
-        "インディー",
-        "高難易度",
-        "女性主人公"
-      ],
-      "tags_en": [
-        "Rhythm",
-        "Roguelike",
-        "Great Soundtrack",
-        "Pixel Graphics",
-        "Dungeon Crawler",
-        "Indie",
-        "Difficult",
-        "Female Protagonist"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 774181,
-      "required_age": 0,
-      "name_ja": "Rhythm Doctor",
-      "name_en": "Rhythm Doctor",
-      "name": "Rhythm Doctor",
-      "short_description_ja": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
-      "short_description_en": "Save patients with your rhythm mastery! Rhythm Doctor is a rhythm game where you heal patients by defibrillating in time to their heartbeats. Learn each patient's unique heartbeat and defeat boss viruses trying to sabotage your rhythm, all set to heart-pumping, soul-soothing music.",
-      "short_description": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1772041407",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1772041407",
-      "developers": [
-        "7th Beat Games"
-      ],
-      "publishers": [
-        "7th Beat Games",
-        "indienova"
-      ],
-      "genres_ja": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "ストラテジー",
-        "無料プレイ"
-      ],
-      "genres_en": [
-        "Action",
-        "Casual",
-        "Indie",
-        "Strategy",
-        "Free To Play"
-      ],
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "ストラテジー",
-        "無料プレイ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "共有／分割画面での協力プレイ",
-        "共有／分割画面",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamワークショップ",
-        "カスタム音量調整",
-        "難易度の調整",
-        "ナレーション付きゲームメニュー",
-        "Steamクラウド",
-        "レベル編集可能",
-        "Remote Play Together",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2025年12月6日",
-      "release_date_en": "6 Dec, 2025",
-      "release_date": "2025年12月6日",
-      "is_free": false,
-      "price_initial": 230000,
-      "price_final": 230000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 2,300",
-      "currency": "JPY",
-      "metacritic_score": 89,
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語, スペイン語－ラテンアメリカ, ポルトガル語－ブラジル, 日本語, ドイツ語, ポーランド語, フランス語<br><strong>*</strong>フル音声対応言語",
-      "website": "https://rhythmdr.com/",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1772041407",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1772041407",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1772041407",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1772041407",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1772041407"
-      ],
-      "movies": [
-        {
-          "name": "Official Release Date Trailer English",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206268/ba493727e18b022954d09ae5cd69e7969379ca6c/movie_600x337.jpg?t=1763401206",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Rhythm Doctor Official Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871484/movie.293x165.jpg?t=1643651631",
-          "url_480": "",
-          "url_max": ""
-        },
-        {
-          "name": "Rhythm Doctor Boss Level Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704134/movie.293x165.jpg?t=1513788656",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 23601,
-      "total_reviews": 25521,
-      "total_positive": 25074,
-      "total_negative": 447,
-      "review_score_desc": "Overwhelmingly Positive",
-      "slug": "rhythm-doctor",
-      "recommend": "all",
-      "by": "kotori",
-      "tags_ja": [
-        "リズム",
-        "音ゲー",
-        "ドット絵",
-        "レベルエディター",
-        "物語性",
-        "インディー",
-        "アクション",
-        "シングルプレイヤー"
-      ],
-      "tags_en": [
-        "Rhythm",
-        "Music",
-        "Pixel Graphics",
-        "Level Editor",
-        "Story Rich",
-        "Indie",
-        "Action",
-        "Singleplayer"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
-    },
-    {
-      "appid": 200900,
-      "required_age": 0,
-      "name_ja": "Cave Story+",
-      "name_en": "Cave Story+",
-      "name": "Cave Story+",
-      "short_description_ja": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-      "short_description_en": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-      "short_description": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/header.jpg?t=1591664460",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/capsule_231x87.jpg?t=1591664460",
-      "developers": [
-        "Nicalis, Inc.",
-        "Studio Pixel"
-      ],
-      "publishers": [
-        "Nicalis, Inc."
-      ],
-      "genres_ja": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "genres_en": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "部分的コントローラサポート",
-        "ファミリーシェアリング"
-      ],
-      "release_date_ja": "2011年11月22日",
-      "release_date_en": "22 Nov, 2011",
-      "release_date": "2011年11月22日",
-      "is_free": false,
-      "price_initial": 148000,
-      "price_final": 148000,
-      "discount_percent": 0,
-      "price_formatted": "¥ 1,480",
-      "currency": "JPY",
-      "metacritic_score": 83,
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": true
-      },
-      "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
-      "website": "http://www.nicalis.com",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_68f8531e30d2060be3473f75135f02f2b4bce722.1920x1080.jpg?t=1591664460",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_e20fc59171c7431ad566537a38e635e6a199f63d.1920x1080.jpg?t=1591664460",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_9298452bd6036a9be9c12fbf96a1ab0a5a04ce2d.1920x1080.jpg?t=1591664460",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_f3657ac2df729de96408702a4894b28f0a24d889.1920x1080.jpg?t=1591664460",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_4e42c40d9bb05521a8a5b771da2387957f24d7a0.1920x1080.jpg?t=1591664460"
-      ],
-      "movies": [
-        {
-          "name": "Cave Story+ Launch Trailer",
-          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81296/movie.293x165.jpg?t=1447355068",
-          "url_480": "",
-          "url_max": ""
-        }
-      ],
-      "demo_appid": null,
-      "recommendations_total": 4866,
-      "total_reviews": 7904,
-      "total_positive": 7333,
-      "total_negative": 571,
-      "review_score_desc": "Very Positive",
-      "slug": "cave-story",
-      "recommend": "all",
-      "by": "both",
-      "tags_ja": [
-        "プラットフォーム",
-        "メトロイドヴァニア",
-        "インディー",
-        "良質サントラ",
-        "ドット絵",
-        "アクション",
-        "アドベンチャー",
-        "2D"
-      ],
-      "tags_en": [
-        "Platformer",
-        "Metroidvania",
-        "Indie",
-        "Great Soundtrack",
-        "Pixel Graphics",
-        "Action",
-        "Adventure",
-        "2D"
-      ],
-      "fetched_at": "2026-02-27T00:11:09.868085+09:00"
+      "fetched_at": "2026-02-27T04:16:43.892649+09:00"
     }
   ]
 }
