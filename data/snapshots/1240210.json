@@ -77,9 +77,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23044,
-  "total_reviews": 24927,
-  "total_positive": 24363,
+  "recommendations_total": 23048,
+  "total_reviews": 24932,
+  "total_positive": 24368,
   "total_negative": 564,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "there-is-no-game",
@@ -91,8 +91,8 @@
     "アドベンチャー",
     "ドット絵",
     "笑える",
-    "カジュアル",
-    "コメディ"
+    "コメディ",
+    "カジュアル"
   ],
   "tags_en": [
     "Indie",
@@ -101,8 +101,8 @@
     "Adventure",
     "Pixel Graphics",
     "Funny",
-    "Casual",
-    "Comedy"
+    "Comedy",
+    "Casual"
   ],
-  "fetched_at": "2026-02-27T04:16:43.892649+09:00"
+  "fetched_at": "2026-02-28T04:07:14.820193+09:00"
 }
