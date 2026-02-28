@@ -79,10 +79,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 20298,
-  "total_reviews": 21271,
-  "total_positive": 19209,
-  "total_negative": 2062,
+  "recommendations_total": 20332,
+  "total_reviews": 21306,
+  "total_positive": 19241,
+  "total_negative": 2065,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -106,5 +106,5 @@
     "Dark Humor",
     "3D"
   ],
-  "fetched_at": "2026-02-28T04:07:14.820193+09:00"
+  "fetched_at": "2026-03-01T03:53:14.829107+09:00"
 }
