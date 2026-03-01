@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 25073,
-  "total_reviews": 28198,
-  "total_positive": 27290,
-  "total_negative": 908,
+  "recommendations_total": 25122,
+  "total_reviews": 28246,
+  "total_positive": 27337,
+  "total_negative": 909,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "magical-girl-witch-trials",
   "recommend": "niche",
@@ -95,8 +95,8 @@
     "かわいい",
     "探偵",
     "ミステリー",
-    "物語性",
     "LGBTQ+",
+    "物語性",
     "性的表現"
   ],
   "tags_en": [
@@ -105,9 +105,9 @@
     "Cute",
     "Detective",
     "Mystery",
-    "Story Rich",
     "LGBTQ+",
+    "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-03-01T03:53:14.829107+09:00"
+  "fetched_at": "2026-03-01T22:53:08.500716+09:00"
 }

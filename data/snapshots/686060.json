@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 29774,
-  "total_reviews": 31511,
-  "total_positive": 29136,
-  "total_negative": 2375,
+  "recommendations_total": 30248,
+  "total_reviews": 32007,
+  "total_positive": 29572,
+  "total_negative": 2435,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +119,5 @@
     "Cats",
     "Funny"
   ],
-  "fetched_at": "2026-03-01T03:53:14.829107+09:00"
+  "fetched_at": "2026-03-01T22:53:08.500716+09:00"
 }
