@@ -1,5 +1,5 @@
 ---
-title: "[DE:]Fanastasis - 隠し通路の数は、君が思っている２０倍はある"
+title: ［DE:］Fanastasis - 隠し通路の数は、君が思っている２０倍はある
 appid: 2882080
 tags: [RPG, 探索, インディー, ツクール]
 pet_safety: mixed
