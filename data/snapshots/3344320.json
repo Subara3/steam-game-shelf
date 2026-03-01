@@ -65,10 +65,10 @@
     }
   ],
   "demo_appid": 3921080,
-  "recommendations_total": 119,
-  "total_reviews": 120,
-  "total_positive": 119,
-  "total_negative": 1,
+  "recommendations_total": 127,
+  "total_reviews": 128,
+  "total_positive": 125,
+  "total_negative": 3,
   "review_score_desc": "Very Positive",
   "slug": "lethal-dungeon",
   "recommend": "niche",
@@ -92,5 +92,5 @@
     "Retro",
     "Indie"
   ],
-  "fetched_at": "2026-03-01T03:53:14.829107+09:00"
+  "fetched_at": "2026-03-01T22:53:08.500716+09:00"
 }
