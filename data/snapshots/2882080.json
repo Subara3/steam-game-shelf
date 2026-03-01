@@ -1,0 +1,94 @@
+{
+  "appid": 2882080,
+  "required_age": 0,
+  "name_ja": "[DE:]Fanastasis",
+  "name_en": "[DE:]Fanastasis",
+  "name": "[DE:]Fanastasis",
+  "short_description_ja": "「発見」に満ちた、マップ探索メインの長編RPG。無数の隠し通路、隠し扉が存在する荒廃した王国。 死者の残留思念を覗いて手掛かりを掴み、隠された宝箱のアイテムで探索範囲を広げよう。 各地で得た断片的な情報はいずれ繋がり合い、自らの記憶のみならず、隠された「真実」を暴くかもしれない。",
+  "short_description_en": "「発見」に満ちた、マップ探索メインの長編RPG。無数の隠し通路、隠し扉が存在する荒廃した王国。 死者の残留思念を覗いて手掛かりを掴み、隠された宝箱のアイテムで探索範囲を広げよう。 各地で得た断片的な情報はいずれ繋がり合い、自らの記憶のみならず、隠された「真実」を暴くかもしれない。",
+  "short_description": "「発見」に満ちた、マップ探索メインの長編RPG。無数の隠し通路、隠し扉が存在する荒廃した王国。 死者の残留思念を覗いて手掛かりを掴み、隠された宝箱のアイテムで探索範囲を広げよう。 各地で得た断片的な情報はいずれ繋がり合い、自らの記憶のみならず、隠された「真実」を暴くかもしれない。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/header_japanese.jpg?t=1715683757",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/capsule_231x87_japanese.jpg?t=1715683757",
+  "developers": [
+    "Mosamosa"
+  ],
+  "publishers": [
+    "Mosamosa"
+  ],
+  "genres_ja": [
+    "RPG"
+  ],
+  "genres_en": [
+    "RPG"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "部分的コントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年4月29日",
+  "release_date_en": "29 Apr, 2024",
+  "release_date": "2024年4月29日",
+  "is_free": false,
+  "price_initial": 218000,
+  "price_final": 141700,
+  "discount_percent": 35,
+  "price_formatted": "¥ 1,417",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "日本語",
+  "website": "https://aidman6.wixsite.com/mosamosa",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/ss_54cea5364984964db265c62080ef000a9a39f895.1920x1080.jpg?t=1715683757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/ss_f1a826504850d53fee5a5a8939769df881b13002.1920x1080.jpg?t=1715683757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/ss_a683d53d7ac917da0e511a24d3cc3317e20659fc.1920x1080.jpg?t=1715683757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/ss_03b18feac22eab5cdec31edf2912e753d70e6f4b.1920x1080.jpg?t=1715683757",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2882080/ss_2f075d918b0596c66cd36daed507a12a24223222.1920x1080.jpg?t=1715683757"
+  ],
+  "movies": [
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016194/movie.293x165.jpg?t=1713220221",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 138,
+  "total_reviews": 143,
+  "total_positive": 138,
+  "total_negative": 5,
+  "review_score_desc": "Very Positive",
+  "slug": "fanastasis",
+  "recommend": "niche",
+  "tags_ja": [
+    "探検",
+    "ポストアポカリプス",
+    "ノンリニア",
+    "ステルス",
+    "ダークファンタジー",
+    "宝探し",
+    "収集ゲーム",
+    "物語性"
+  ],
+  "tags_en": [
+    "Exploration",
+    "Post-apocalyptic",
+    "Nonlinear",
+    "Stealth",
+    "Dark Fantasy",
+    "Loot",
+    "Collectathon",
+    "Story Rich"
+  ],
+  "fetched_at": "2026-03-01T23:35:42.556775+09:00"
+}
