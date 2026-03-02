@@ -40,9 +40,9 @@
   "release_date": "2020年6月18日",
   "is_free": false,
   "price_initial": 450000,
-  "price_final": 90000,
-  "discount_percent": 80,
-  "price_formatted": "¥ 900",
+  "price_final": 450000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,500",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": 1224230,
-  "recommendations_total": 197372,
-  "total_reviews": 228813,
-  "total_positive": 220137,
-  "total_negative": 8676,
+  "recommendations_total": 197623,
+  "total_reviews": 229097,
+  "total_positive": 220415,
+  "total_negative": 8682,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "detroit-become-human",
   "recommend": "all",
@@ -95,5 +95,5 @@
     "Robots",
     "Futuristic"
   ],
-  "fetched_at": "2026-03-02T03:54:47.239833+09:00"
+  "fetched_at": "2026-03-03T04:09:32.409688+09:00"
 }

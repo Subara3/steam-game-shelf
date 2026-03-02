@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 986,
-  "total_reviews": 1027,
-  "total_positive": 1000,
-  "total_negative": 27,
+  "recommendations_total": 988,
+  "total_reviews": 1029,
+  "total_positive": 1001,
+  "total_negative": 28,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Relaxing",
     "Drama"
   ],
-  "fetched_at": "2026-03-02T03:54:47.239833+09:00"
+  "fetched_at": "2026-03-03T04:09:32.409688+09:00"
 }
