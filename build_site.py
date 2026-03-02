@@ -9,8 +9,6 @@ import shutil
 import urllib.request
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
-from zoneinfo import ZoneInfo
 
 BASE_DIR = Path(__file__).resolve().parent
 SNAPSHOTS_DIR = BASE_DIR / "data" / "snapshots"
@@ -28,7 +26,7 @@ def load_game_list() -> list[dict]:
         return json.load(f)["games"]
 
 
-def load_latest_snapshot() -> Optional[dict]:
+def load_latest_snapshot() -> dict | None:
     """最新の日次スナップショットを読み込む"""
     files = sorted(SNAPSHOTS_DIR.glob("2*-*-*.json"), reverse=True)
     if not files:
@@ -235,22 +233,8 @@ def simple_markdown_to_html(md: str, lang: str = "ja", img_prefix: str = "../", 
             s_name = steam_match.group(2)
             html_lines.append(
                 f'<a href="https://store.steampowered.com/app/{s_appid}/" target="_blank" class="steam-ogp-card">'
-                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img"'
-                f" onerror=\"this.style.display='none';this.parentElement.classList.add('link-card')\">"
+                f'<img src="https://cdn.akamai.steamstatic.com/steam/apps/{s_appid}/header.jpg" alt="{s_name}" class="steam-ogp-img">'
                 f'<span class="steam-ogp-name">{s_name}</span>'
-                f'</a>'
-            )
-            continue
-
-        # 汎用リンクカード: !link[url](タイトル)
-        link_match = re.match(r'^!link\[(.+?)\]\((.+?)\)\s*$', stripped)
-        if link_match:
-            close_paragraph()
-            l_url = link_match.group(1)
-            l_title = link_match.group(2)
-            html_lines.append(
-                f'<a href="{l_url}" target="_blank" class="steam-ogp-card link-card">'
-                f'<span class="steam-ogp-name">{l_title}</span>'
                 f'</a>'
             )
             continue
@@ -331,7 +315,7 @@ def load_articles(content_dir: Path = CONTENT_DIR, lang: str = "ja", img_prefix:
     return articles
 
 
-def cleanup_orphaned_articles(articles: dict, articles_en: Optional[dict] = None):
+def cleanup_orphaned_articles(articles: dict, articles_en: dict | None = None):
     """content/ に対応する .md がない孤立した記事HTMLを削除"""
     cleaned = 0
     for articles_dir, valid_slugs in [
@@ -381,14 +365,12 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["by"] = master["by"]
         if master.get("featured"):
             g["featured"] = True
-        if master.get("tool"):
-            g["tool"] = True
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
     snapshot_appids = {g["appid"] for g in games}
     for appid, master in game_master.items():
-        if (master.get("coming_soon") or master.get("free_section") or master.get("tool")) and appid not in snapshot_appids:
+        if (master.get("coming_soon") or master.get("free_section")) and appid not in snapshot_appids:
             name = master.get("name_ja", master.get("comment", ""))
             entry = {
                 "appid": appid,
@@ -411,8 +393,6 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["multi"] = True
             if master.get("by"):
                 entry["by"] = master["by"]
-            if master.get("tool"):
-                entry["tool"] = True
             games.append(entry)
 
     games_data = {
@@ -430,33 +410,27 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
     # 記事一覧
     article_list = []
     for slug, art in articles.items():
-        entry = {
+        article_list.append({
             "slug": slug,
             "title": art["meta"].get("title", slug),
             "appid": art["meta"].get("appid", ""),
             "tags": art["meta"].get("tags", []),
             "lang": "ja",
-        }
-        if art["meta"].get("order"):
-            entry["order"] = int(art["meta"]["order"])
-        article_list.append(entry)
+        })
     if articles_en:
         for slug, art in articles_en.items():
-            entry = {
+            article_list.append({
                 "slug": slug,
                 "title": art["meta"].get("title", slug),
                 "appid": art["meta"].get("appid", ""),
                 "tags": art["meta"].get("tags", []),
                 "lang": "en",
-            }
-            if art["meta"].get("order"):
-                entry["order"] = int(art["meta"]["order"])
-            article_list.append(entry)
+            })
     with open(data_dir / "articles.json", "w", encoding="utf-8") as f:
         json.dump(article_list, f, ensure_ascii=False, indent=2)
 
 
-def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dict] = None):
+def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None = None, other_lang_slugs: set | None = None):
     """Markdown記事をHTMLページとして出力（差分ビルド対応）"""
     # appid → header_image マップ構築
     header_images = {}
@@ -492,14 +466,6 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dic
             out_mtime = out_path.stat().st_mtime
             if md_path.stat().st_mtime < out_mtime and build_script_mtime < out_mtime:
                 continue
-
-        # 記事内の !steam OGP画像URLをスナップショットの正しいURLに置換
-        article_html = art["html"]
-        for aid, img_url in header_images.items():
-            if img_url and aid:
-                placeholder = f"https://cdn.akamai.steamstatic.com/steam/apps/{aid}/header.jpg"
-                article_html = article_html.replace(placeholder, img_url)
-
         meta = art["meta"]
         title = meta.get("title", slug)
         appid = meta.get("appid", "")
@@ -542,7 +508,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dic
 
         # SEO: description を最初の対話行から抽出
         desc_text = ""
-        for dline in article_html.split("\n"):
+        for dline in art["html"].split("\n"):
             if "dialogue-bubble" in dline:
                 # dialogue-name タグを除去してからテキスト抽出
                 text = re.sub(r'<span class="dialogue-name">.*?</span>', '', dline)
@@ -561,7 +527,24 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dic
         else:
             og_image = "https://steam.subara3.com/img/ogp.png"
 
-        canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
+        if lang == "en":
+            canonical_url = f"https://steam.subara3.com/articles/en/{slug}.html"
+            ja_url = f"https://steam.subara3.com/articles/{slug}.html"
+            en_url = canonical_url
+        else:
+            canonical_url = f"https://steam.subara3.com/articles/{slug}.html"
+            ja_url = canonical_url
+            en_url = f"https://steam.subara3.com/articles/en/{slug}.html"
+
+        # hreflang: 対応する他言語版が存在する場合のみ出力
+        hreflang_tags = ""
+        if other_lang_slugs and slug in other_lang_slugs:
+            hreflang_tags = (
+                f'\n<link rel="alternate" hreflang="ja" href="{ja_url}">'
+                f'\n<link rel="alternate" hreflang="en" href="{en_url}">'
+                f'\n<link rel="alternate" hreflang="x-default" href="{ja_url}">'
+            )
+
         og_image_tag = f'\n<meta property="og:image" content="{og_image}">'
         og_locale = "ja_JP" if lang == "ja" else "en_US"
         twitter_card = "summary_large_image"
@@ -612,7 +595,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dic
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} | {site_name}</title>
 <meta name="description" content="{desc_text}">{keywords_tag}
-<link rel="canonical" href="{canonical_url}">
+<link rel="canonical" href="{canonical_url}">{hreflang_tags}
 <link rel="sitemap" type="application/xml" href="https://steam.subara3.com/sitemap.xml">
 <meta name="theme-color" content="#1b2838">
 <meta property="og:type" content="article">
@@ -643,7 +626,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: Optional[dic
       <h1>{title}</h1>
       {ogp_card}
     </header>
-    {article_html}
+    {art["html"]}
   </article>
 
   {art.get("pet_html", "")}
@@ -690,10 +673,12 @@ def main():
     cleanup_orphaned_articles(articles, articles_en)
 
     # 記事ページ生成（差分ビルド）
+    en_slugs = set(articles_en.keys()) if articles_en else set()
+    ja_slugs = set(articles.keys()) if articles else set()
     if articles:
-        build_article_pages(articles, lang="ja", snapshot=snapshot)
+        build_article_pages(articles, lang="ja", snapshot=snapshot, other_lang_slugs=en_slugs)
     if articles_en:
-        build_article_pages(articles_en, lang="en", snapshot=snapshot)
+        build_article_pages(articles_en, lang="en", snapshot=snapshot, other_lang_slugs=ja_slugs)
 
     # i18n インライン JS 生成
     i18n_path = TEMPLATE_DIR / "i18n.json"
@@ -706,7 +691,7 @@ def main():
 
     # sitemap.xml 生成
     base_url = "https://steam.subara3.com"
-    today = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%Y-%m-%d")
     sitemap_urls = [
         {"loc": f"{base_url}/", "priority": "1.0", "changefreq": "daily"},
     ]
@@ -714,6 +699,12 @@ def main():
         sitemap_urls.append({
             "loc": f"{base_url}/articles/{slug}.html",
             "priority": "0.8",
+            "changefreq": "weekly",
+        })
+    for slug in articles_en:
+        sitemap_urls.append({
+            "loc": f"{base_url}/articles/en/{slug}.html",
+            "priority": "0.7",
             "changefreq": "weekly",
         })
     sitemap_xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -749,13 +740,31 @@ def main():
                     shutil.copytree(f, dest)
 
     # Cache busting: add ?v=timestamp to CSS/JS references
-    ver = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y%m%d%H%M")
+    ver = datetime.now().strftime("%Y%m%d%H%M")
     index_path = SITE_DIR / "index.html"
     if index_path.exists():
         html = index_path.read_text(encoding="utf-8")
         html = html.replace('href="style.css"', f'href="style.css?v={ver}"')
         html = html.replace('src="app.js"', f'src="app.js?v={ver}"')
         html = html.replace('src="i18n-data.js"', f'src="i18n-data.js?v={ver}"')
+
+        # noscript にゲーム一覧を注入（SEO/AI検索対策）
+        noscript_items = []
+        games_json_path = SITE_DIR / "data" / "games.json"
+        _games_data = json.loads(games_json_path.read_text(encoding="utf-8")) if games_json_path.exists() else {}
+        for g in _games_data.get("games", []):
+            name = g.get("name", "")
+            appid = g.get("appid", "")
+            price = g.get("price_formatted", "")
+            discount = g.get("discount_percent", 0)
+            price_info = f" ({price}" + (f", -{discount}%" if discount else "") + ")" if price else ""
+            noscript_items.append(
+                f'<li><a href="https://store.steampowered.com/app/{appid}/">{name}</a>{price_info}</li>'
+            )
+        if noscript_items:
+            noscript_html = "<ul>\n    " + "\n    ".join(noscript_items) + "\n  </ul>"
+            html = html.replace("<!-- __NOSCRIPT_GAMES__ -->", noscript_html)
+
         index_path.write_text(html, encoding="utf-8")
 
     for articles_dir in [SITE_DIR / "articles", SITE_DIR / "articles" / "en"]:
