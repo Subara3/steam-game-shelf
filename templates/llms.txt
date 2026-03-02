@@ -1,0 +1,40 @@
+# すばらしきSteamゲームの本棚 / The Wonderful Steam Game Shelf
+
+> Steamのおすすめインディーゲームを紹介するダッシュボード。割引情報、レビュースコア、プレイ時間などを一覧表示。毎日自動更新。
+
+## Site Info
+
+- URL: https://steam.subara3.com/
+- Author: 頻子 (Hinko) / 栖王ヴァルハラ３丁目
+- Languages: Japanese, English
+- Update frequency: Daily (automated via Steam API)
+- Content type: Game reviews, price tracking, discount alerts
+
+## Main Content
+
+### Game Dashboard
+A curated list of 50+ recommended Steam games with real-time pricing, discount information, review scores, and metacritic ratings.
+- https://steam.subara3.com/
+
+### Game Reviews (Articles)
+Character dialogue-style game reviews featuring unique perspectives on each game. Available in Japanese and English.
+- https://steam.subara3.com/articles/balatro.html
+- https://steam.subara3.com/articles/stardew-valley.html
+- https://steam.subara3.com/articles/undertale.html
+- (and more - see sitemap.xml for full list)
+
+### English Articles
+- https://steam.subara3.com/articles/en/balatro.html
+- https://steam.subara3.com/articles/en/stardew-valley.html
+- https://steam.subara3.com/articles/en/undertale.html
+
+## Data Sources
+
+- Game data: Steam Web API (daily snapshots)
+- Pricing: Steam Store API
+- Reviews: Steam user reviews aggregation
+
+## Related Sites
+
+- Main site: https://subara3.com/
+- Kindle Sale Shelf: https://books.subara3.com/
