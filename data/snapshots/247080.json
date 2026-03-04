@@ -7,8 +7,8 @@
   "short_description_ja": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
   "short_description_en": "Crypt of the NecroDancer is an award winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or select songs from your own MP3 collection!",
   "short_description": "クリプト・オブ・ネクロダンサーは、数々の受賞歴に輝く、ハードコアなローグライム・リズムゲーム。音楽に合わせてキャラクターを動かし、モンスターを撃破！ Danny Baranowskyによるサウンドトラックのリズムに乗って、ダンジョンを踏破しよう！ 自分のMP3ファイルを設定することもできるぞ！",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/header.jpg?t=1765990722",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/capsule_231x87.jpg?t=1765990722",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/header.jpg?t=1772562444",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/capsule_231x87.jpg?t=1772562444",
   "developers": [
     "Brace Yourself Games"
   ],
@@ -77,11 +77,11 @@
   "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポルトガル語－ブラジル, ロシア語, 韓国語, 中国語（簡体字）, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
   "website": "http://necrodancer.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_849069b2208a21d5adfc00d67e5b8b428e2d0677.1920x1080.jpg?t=1765990722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_86591e5d71b79241d14efcae0c8bfd5a676081b6.1920x1080.jpg?t=1765990722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_7c7ec846300d524cb1c29ad6bc9287428d1c5fb5.1920x1080.jpg?t=1765990722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_af4bc1439cd01a1a583b44d26103722c27bfbf75.1920x1080.jpg?t=1765990722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_c545fb29bf4ad7e481299c37bddc80a69cc39cd3.1920x1080.jpg?t=1765990722"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_849069b2208a21d5adfc00d67e5b8b428e2d0677.1920x1080.jpg?t=1772562444",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_86591e5d71b79241d14efcae0c8bfd5a676081b6.1920x1080.jpg?t=1772562444",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_7c7ec846300d524cb1c29ad6bc9287428d1c5fb5.1920x1080.jpg?t=1772562444",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_af4bc1439cd01a1a583b44d26103722c27bfbf75.1920x1080.jpg?t=1772562444",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247080/ss_c545fb29bf4ad7e481299c37bddc80a69cc39cd3.1920x1080.jpg?t=1772562444"
   ],
   "movies": [
     {
@@ -110,9 +110,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23322,
-  "total_reviews": 26207,
-  "total_positive": 25033,
+  "recommendations_total": 23325,
+  "total_reviews": 26211,
+  "total_positive": 25037,
   "total_negative": 1174,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "crypt-of-the-necrodancer",
@@ -139,5 +139,5 @@
     "Difficult",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-03-03T08:05:21.733206+09:00"
+  "fetched_at": "2026-03-05T04:10:09.657939+09:00"
 }

@@ -66,8 +66,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 239,
-  "total_positive": 229,
+  "total_reviews": 269,
+  "total_positive": 259,
   "total_negative": 10,
   "review_score_desc": "Very Positive",
   "slug": "tiling-forest-tiling-town-demo",
@@ -77,8 +77,8 @@
     "パズル",
     "論理",
     "オープンワールド",
-    "インディー",
     "高難易度",
+    "インディー",
     "ドット絵",
     "2D",
     "かわいい"
@@ -87,11 +87,11 @@
     "Puzzle",
     "Logic",
     "Open World",
-    "Indie",
     "Difficult",
+    "Indie",
     "Pixel Graphics",
     "2D",
     "Cute"
   ],
-  "fetched_at": "2026-03-03T08:05:21.733206+09:00"
+  "fetched_at": "2026-03-05T04:10:09.657939+09:00"
 }
