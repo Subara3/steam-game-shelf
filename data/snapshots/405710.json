@@ -46,9 +46,9 @@
   "release_date": "2019年4月11日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 198000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,980",
+  "price_final": 49500,
+  "discount_percent": 75,
+  "price_formatted": "¥ 495",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -119,5 +119,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-03-05T20:46:57.760149+09:00"
+  "fetched_at": "2026-03-06T04:39:27.969899+09:00"
 }
