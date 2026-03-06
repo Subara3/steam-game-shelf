@@ -7,8 +7,8 @@
   "short_description_ja": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
   "short_description_en": "Potion Craft is an alchemist simulator where you physically interact with your tools and ingredients to brew potions. You're in full control of the whole shop: invent new recipes, attract customers and experiment to your heart's content. Just remember: the whole town is counting on you.",
   "short_description": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1765364005",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1765364005",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1772794977",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1772794977",
   "developers": [
     "niceplay games"
   ],
@@ -31,6 +31,14 @@
     "シングルプレイヤー",
     "Steam実績",
     "Steamトレーディングカード",
+    "カメラの快適性",
+    "色のオプション",
+    "カスタム音量調整",
+    "難易度の調整",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
+    "タッチのみのオプション",
     "部分的コントローラサポート",
     "Steamクラウド",
     "ファミリーシェアリング"
@@ -53,11 +61,11 @@
   "supported_languages": "英語, ロシア語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, タイ語, トルコ語, 中国語（簡体字）",
   "website": "https://www.potioncraft.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1765364005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1765364005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1765364005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1765364005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1765364005"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1772794977",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1772794977",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1772794977",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1772794977",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1772794977"
   ],
   "movies": [
     {
@@ -92,10 +100,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 36007,
-  "total_reviews": 42533,
-  "total_positive": 39476,
-  "total_negative": 3057,
+  "recommendations_total": 36027,
+  "total_reviews": 42555,
+  "total_positive": 39499,
+  "total_negative": 3056,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
   "recommend": "all",
@@ -119,5 +127,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-03-06T04:39:27.969899+09:00"
+  "fetched_at": "2026-03-07T04:07:05.396309+09:00"
 }

@@ -185,33 +185,33 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 379438,
-  "total_reviews": 454757,
-  "total_positive": 448865,
+  "recommendations_total": 379473,
+  "total_reviews": 454793,
+  "total_positive": 448901,
   "total_negative": 5892,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
   "recommend": "all",
   "by": "kotori",
   "tags_ja": [
+    "シングルプレイヤー",
     "プラットフォーム",
     "パズル",
     "ファーストパーソン",
     "毒のあるユーモア",
     "物語性",
     "パズルプラットフォーム",
-    "笑える",
-    "女性主人公"
+    "笑える"
   ],
   "tags_en": [
+    "Singleplayer",
     "Platformer",
     "Puzzle",
     "First-Person",
     "Dark Humor",
     "Story Rich",
     "Puzzle Platformer",
-    "Funny",
-    "Female Protagonist"
+    "Funny"
   ],
-  "fetched_at": "2026-03-06T04:39:27.969899+09:00"
+  "fetched_at": "2026-03-07T04:07:05.396309+09:00"
 }
