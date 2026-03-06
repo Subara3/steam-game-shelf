@@ -82,9 +82,9 @@
     }
   ],
   "demo_appid": 1755940,
-  "recommendations_total": 17495,
-  "total_reviews": 25719,
-  "total_positive": 24378,
+  "recommendations_total": 17500,
+  "total_reviews": 25724,
+  "total_positive": 24383,
   "total_negative": 1341,
   "review_score_desc": "Very Positive",
   "slug": "plateup",
@@ -110,5 +110,5 @@
     "Roguelike",
     "Cute"
   ],
-  "fetched_at": "2026-03-06T04:39:27.969899+09:00"
+  "fetched_at": "2026-03-07T04:07:05.396309+09:00"
 }
