@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 129800,
-  "total_reviews": 142582,
-  "total_positive": 138118,
-  "total_negative": 4464,
+  "recommendations_total": 129827,
+  "total_reviews": 142613,
+  "total_positive": 138144,
+  "total_negative": 4469,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "inscryption",
   "recommend": "niche",
@@ -89,8 +89,8 @@
     "物語性",
     "デッキ構築",
     "ホラー",
-    "ダーク",
     "パズル",
+    "ダーク",
     "ローグライク"
   ],
   "tags_en": [
@@ -99,9 +99,9 @@
     "Story Rich",
     "Deckbuilding",
     "Horror",
-    "Dark",
     "Puzzle",
+    "Dark",
     "Roguelike"
   ],
-  "fetched_at": "2026-03-08T03:54:08.652690+09:00"
+  "fetched_at": "2026-03-09T03:55:55.226827+09:00"
 }
