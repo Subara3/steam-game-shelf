@@ -79,18 +79,18 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 20527,
-  "total_reviews": 21514,
-  "total_positive": 19436,
-  "total_negative": 2078,
+  "recommendations_total": 20549,
+  "total_reviews": 21543,
+  "total_positive": 19463,
+  "total_negative": 2080,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
   "tags_ja": [
     "ギャンブル",
     "ローグライト",
-    "ローグライク",
     "精神的恐怖",
+    "ローグライク",
     "ストラテジー",
     "ファーストパーソン",
     "毒のあるユーモア",
@@ -99,12 +99,12 @@
   "tags_en": [
     "Gambling",
     "Roguelite",
-    "Roguelike",
     "Psychological Horror",
+    "Roguelike",
     "Strategy",
     "First-Person",
     "Dark Humor",
     "3D"
   ],
-  "fetched_at": "2026-03-08T03:54:08.652690+09:00"
+  "fetched_at": "2026-03-09T03:55:55.226827+09:00"
 }
