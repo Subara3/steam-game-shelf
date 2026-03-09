@@ -73,8 +73,8 @@
   "demo_appid": null,
   "recommendations_total": 8864,
   "total_reviews": 9713,
-  "total_positive": 8716,
-  "total_negative": 997,
+  "total_positive": 8717,
+  "total_negative": 996,
   "review_score_desc": "Very Positive",
   "slug": "world-of-horror",
   "recommend": "niche",
@@ -98,5 +98,5 @@
     "Roguelite",
     "2D"
   ],
-  "fetched_at": "2026-03-09T03:55:55.226827+09:00"
+  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
 }

@@ -56,9 +56,9 @@
   "release_date": "2020年9月23日",
   "is_free": false,
   "price_initial": 280000,
-  "price_final": 280000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,800",
+  "price_final": 42000,
+  "discount_percent": 85,
+  "price_formatted": "¥ 420",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -90,7 +90,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13529,
+  "recommendations_total": 13528,
   "total_reviews": 19426,
   "total_positive": 18117,
   "total_negative": 1309,
@@ -119,5 +119,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-03-09T03:55:55.226827+09:00"
+  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
 }

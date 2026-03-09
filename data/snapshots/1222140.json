@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": 1224230,
-  "recommendations_total": 198705,
-  "total_reviews": 230353,
-  "total_positive": 221644,
-  "total_negative": 8709,
+  "recommendations_total": 198847,
+  "total_reviews": 230520,
+  "total_positive": 221804,
+  "total_negative": 8716,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "detroit-become-human",
   "recommend": "all",
@@ -82,8 +82,8 @@
     "映画的",
     "シングルプレイヤー",
     "感動的",
-    "未来的",
-    "ロボット"
+    "ロボット",
+    "未来的"
   ],
   "tags_en": [
     "Choices Matter",
@@ -92,8 +92,8 @@
     "Cinematic",
     "Singleplayer",
     "Emotional",
-    "Futuristic",
-    "Robots"
+    "Robots",
+    "Futuristic"
   ],
-  "fetched_at": "2026-03-09T03:55:55.226827+09:00"
+  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
 }
