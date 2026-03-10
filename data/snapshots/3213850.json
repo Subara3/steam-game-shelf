@@ -7,8 +7,8 @@
   "short_description_ja": "gogh: Focus with Your Avatarは『マルチプレイ・オンライン・作業用ゲーム』です。理想の作業部屋とかわいいアバターをカスタマイズして、互いの部屋に集まって一緒に集中しよう。タイマーやToDo、Lofi音楽や美しい環境音で、あなたのデスクワークをもっと楽しく！",
   "short_description_en": "gogh: Focus with Your Avatar is a multiplayer online focus game for work. Customize your ideal workspace and cute avatars, gather in each other’s rooms, and focus together. Timers and To-Dos, lo-fi music, and beautiful ambience make desk work more fun!",
   "short_description": "gogh: Focus with Your Avatarは『マルチプレイ・オンライン・作業用ゲーム』です。理想の作業部屋とかわいいアバターをカスタマイズして、互いの部屋に集まって一緒に集中しよう。タイマーやToDo、Lofi音楽や美しい環境音で、あなたのデスクワークをもっと楽しく！",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0a8609a466c3b85f06b27b1477bf0c650a10cedf/header.jpg?t=1771042976",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1771042976",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0a8609a466c3b85f06b27b1477bf0c650a10cedf/header.jpg?t=1773135032",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1773135032",
   "developers": [
     "ambr"
   ],
@@ -16,33 +16,21 @@
     "ambr"
   ],
   "genres_ja": [
-    "アクション",
-    "アドベンチャー",
     "カジュアル",
     "インディー",
-    "RPG",
     "シミュレーション",
-    "スポーツ",
     "無料プレイ"
   ],
   "genres_en": [
-    "Action",
-    "Adventure",
     "Casual",
     "Indie",
-    "RPG",
     "Simulation",
-    "Sports",
     "Free To Play"
   ],
   "genres": [
-    "アクション",
-    "アドベンチャー",
     "カジュアル",
     "インディー",
-    "RPG",
     "シミュレーション",
-    "スポーツ",
     "無料プレイ"
   ],
   "categories": [
@@ -72,11 +60,11 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, インドネシア語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）",
   "website": "https://gogh.gg/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1771042976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/954d5d5834c1450494368bcd12123cbc8093a467/ss_954d5d5834c1450494368bcd12123cbc8093a467.1920x1080.jpg?t=1771042976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edb5434e9ccea304409fb3a5746e410c71beec0b/ss_edb5434e9ccea304409fb3a5746e410c71beec0b.1920x1080.jpg?t=1771042976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edeea01eedd80f70dfe7219c85e058d5717c6e2e/ss_edeea01eedd80f70dfe7219c85e058d5717c6e2e.1920x1080.jpg?t=1771042976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/68ad1d6dd5981b207f0c6496d84aa455aaf361fb/ss_68ad1d6dd5981b207f0c6496d84aa455aaf361fb.1920x1080.jpg?t=1771042976"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1773135032",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/954d5d5834c1450494368bcd12123cbc8093a467/ss_954d5d5834c1450494368bcd12123cbc8093a467.1920x1080.jpg?t=1773135032",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edb5434e9ccea304409fb3a5746e410c71beec0b/ss_edb5434e9ccea304409fb3a5746e410c71beec0b.1920x1080.jpg?t=1773135032",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edeea01eedd80f70dfe7219c85e058d5717c6e2e/ss_edeea01eedd80f70dfe7219c85e058d5717c6e2e.1920x1080.jpg?t=1773135032",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/68ad1d6dd5981b207f0c6496d84aa455aaf361fb/ss_68ad1d6dd5981b207f0c6496d84aa455aaf361fb.1920x1080.jpg?t=1773135032"
   ],
   "movies": [
     {
@@ -123,10 +111,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4066,
-  "total_reviews": 4572,
-  "total_positive": 4134,
-  "total_negative": 438,
+  "recommendations_total": 4073,
+  "total_reviews": 4579,
+  "total_positive": 4139,
+  "total_negative": 440,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -150,5 +138,5 @@
     "Relaxing",
     "3D"
   ],
-  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
+  "fetched_at": "2026-03-11T04:11:47.927936+09:00"
 }
