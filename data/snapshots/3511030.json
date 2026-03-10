@@ -70,16 +70,16 @@
     }
   ],
   "demo_appid": 3550820,
-  "recommendations_total": 2073,
-  "total_reviews": 2218,
-  "total_positive": 2154,
-  "total_negative": 64,
+  "recommendations_total": 2078,
+  "total_reviews": 2224,
+  "total_positive": 2159,
+  "total_negative": 65,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "mini-cozy-room",
   "recommend": "all",
   "tags_ja": [
-    "心地よい",
     "音ゲー",
+    "心地よい",
     "放置",
     "ユーティリティ",
     "キャラクターカスタマイズ",
@@ -88,8 +88,8 @@
     "インディー"
   ],
   "tags_en": [
-    "Cozy",
     "Music",
+    "Cozy",
     "Idler",
     "Utilities",
     "Character Customization",
@@ -97,5 +97,5 @@
     "Relaxing",
     "Indie"
   ],
-  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
+  "fetched_at": "2026-03-11T04:11:47.927936+09:00"
 }

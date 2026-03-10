@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 199101,
-  "total_reviews": 234940,
-  "total_positive": 230011,
-  "total_negative": 4929,
+  "recommendations_total": 199155,
+  "total_reviews": 235007,
+  "total_positive": 230075,
+  "total_negative": 4932,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-03-10T04:13:20.280294+09:00"
+  "fetched_at": "2026-03-11T04:11:47.927936+09:00"
 }
