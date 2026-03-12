@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 71362,
-  "total_reviews": 78336,
-  "total_positive": 76214,
-  "total_negative": 2122,
+  "recommendations_total": 71371,
+  "total_reviews": 78344,
+  "total_positive": 76223,
+  "total_negative": 2121,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "papers-please",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Dystopian ",
     "Multiple Endings"
   ],
-  "fetched_at": "2026-03-12T04:13:56.121126+09:00"
+  "fetched_at": "2026-03-13T04:14:35.396361+09:00"
 }
