@@ -7,8 +7,8 @@
   "short_description_ja": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
   "short_description_en": "Lethal Dungeon is a roguelike card game. Win every battle using only the cards in your opening hand to defeat all enemies in a single turn.",
   "short_description": "「リーサルダンジョン」はローグライクカードゲームです。 戦闘では毎回、最初に配られた手札だけで敵を全滅させなければなりません。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/12cd4d7ed23cfa5629a792724b82b34c3cfff733/header.jpg?t=1771657622",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6043a5caf6eba2e25819328d63175593f1e0aab0/capsule_231x87.jpg?t=1771657622",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/12cd4d7ed23cfa5629a792724b82b34c3cfff733/header.jpg?t=1773335579",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6043a5caf6eba2e25819328d63175593f1e0aab0/capsule_231x87.jpg?t=1773335579",
   "developers": [
     "Nihohe Soft"
   ],
@@ -50,11 +50,11 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6a788c8072184955dba0f7523aa76f812e934714/ss_6a788c8072184955dba0f7523aa76f812e934714.1920x1080.jpg?t=1771657622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/e01285b4bd3a5dae31aadc05b02e63df1b4f2487/ss_e01285b4bd3a5dae31aadc05b02e63df1b4f2487.1920x1080.jpg?t=1771657622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273/ss_44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273.1920x1080.jpg?t=1771657622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe/ss_f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe.1920x1080.jpg?t=1771657622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8eb580919673b7409b51e2cc7d1a7aeb826e17fe/ss_8eb580919673b7409b51e2cc7d1a7aeb826e17fe.1920x1080.jpg?t=1771657622"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/6a788c8072184955dba0f7523aa76f812e934714/ss_6a788c8072184955dba0f7523aa76f812e934714.1920x1080.jpg?t=1773335579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/e01285b4bd3a5dae31aadc05b02e63df1b4f2487/ss_e01285b4bd3a5dae31aadc05b02e63df1b4f2487.1920x1080.jpg?t=1773335579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273/ss_44e86ae90ac4c5c86dfe5c15e51ba6f12eeef273.1920x1080.jpg?t=1773335579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe/ss_f6a1d2435b3b49385ecbcfbbe43c4b65416c1cfe.1920x1080.jpg?t=1773335579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3344320/8eb580919673b7409b51e2cc7d1a7aeb826e17fe/ss_8eb580919673b7409b51e2cc7d1a7aeb826e17fe.1920x1080.jpg?t=1773335579"
   ],
   "movies": [
     {
@@ -65,9 +65,9 @@
     }
   ],
   "demo_appid": 3921080,
-  "recommendations_total": 165,
-  "total_reviews": 166,
-  "total_positive": 162,
+  "recommendations_total": 168,
+  "total_reviews": 169,
+  "total_positive": 165,
   "total_negative": 4,
   "review_score_desc": "Very Positive",
   "slug": "lethal-dungeon",
@@ -92,5 +92,5 @@
     "Retro",
     "Indie"
   ],
-  "fetched_at": "2026-03-12T04:13:56.121126+09:00"
+  "fetched_at": "2026-03-13T04:14:35.396361+09:00"
 }
