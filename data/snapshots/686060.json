@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 35448,
-  "total_reviews": 37675,
-  "total_positive": 34716,
-  "total_negative": 2959,
+  "recommendations_total": 35779,
+  "total_reviews": 38034,
+  "total_positive": 35046,
+  "total_negative": 2988,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +119,5 @@
     "Turn-Based Combat",
     "Funny"
   ],
-  "fetched_at": "2026-03-14T04:05:38.562942+09:00"
+  "fetched_at": "2026-03-15T04:01:43.189823+09:00"
 }
