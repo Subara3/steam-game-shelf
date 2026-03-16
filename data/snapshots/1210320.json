@@ -7,8 +7,8 @@
   "short_description_ja": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
   "short_description_en": "Potion Craft is an alchemist simulator where you physically interact with your tools and ingredients to brew potions. You're in full control of the whole shop: invent new recipes, attract customers and experiment to your heart's content. Just remember: the whole town is counting on you.",
   "short_description": "『Potion Craft』は、錬金術師シミュレーターです。道具や材料を実際に動かし、ポーションを調合しましょう。新しい処方の発明、お客さんが魅力を感じる店づくり、心ゆくまで行える実験など、店のすべてが思い通りに使えます。町のみんながあなたに期待していることを忘れずに。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1772794977",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1772794977",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/header.jpg?t=1773661443",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_231x87.jpg?t=1773661443",
   "developers": [
     "niceplay games"
   ],
@@ -61,22 +61,22 @@
   "supported_languages": "英語, ロシア語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, チェコ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, タイ語, トルコ語, 中国語（簡体字）",
   "website": "https://www.potioncraft.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1772794977",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1772794977",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1772794977",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1772794977",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1772794977"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a5197ad5bb35e9899c9e751820cdb9dbc0ceb308.1920x1080.jpg?t=1773661443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_594f4f435a27c625e0f5c8d3603883c9e293b967.1920x1080.jpg?t=1773661443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_a0c1d496af8071557b72dae3dc3f7c01aa9d9c0a.1920x1080.jpg?t=1773661443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_f447d0b33536c3c8137eff3fd21be5126955c8b3.1920x1080.jpg?t=1773661443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210320/ss_8f4f9d55123855952e4c83710b6801f6ffab1965.1920x1080.jpg?t=1773661443"
   ],
   "movies": [
     {
-      "name": "Garden 2.0 update trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079614/965f3123685ccd2402f33c964510348a86e5109e/movie_600x337.jpg?t=1733507740",
+      "name": "Early Access Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852510/80c40305bd5e0d7eaade61ac884bbd5251e471ae/movie_600x337.jpg?t=1733855035",
       "url_480": "",
       "url_max": ""
     },
     {
-      "name": "Early Access Release Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852510/80c40305bd5e0d7eaade61ac884bbd5251e471ae/movie_600x337.jpg?t=1733855035",
+      "name": "Garden 2.0 update trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079614/965f3123685ccd2402f33c964510348a86e5109e/movie_600x337.jpg?t=1733507740",
       "url_480": "",
       "url_max": ""
     },
@@ -100,9 +100,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 36165,
-  "total_reviews": 42713,
-  "total_positive": 39647,
+  "recommendations_total": 36174,
+  "total_reviews": 42723,
+  "total_positive": 39657,
   "total_negative": 3066,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
@@ -127,5 +127,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-03-16T04:03:02.443447+09:00"
+  "fetched_at": "2026-03-17T04:32:41.294529+09:00"
 }
