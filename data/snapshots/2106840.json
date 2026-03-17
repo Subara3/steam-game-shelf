@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5426,
-  "total_reviews": 6324,
-  "total_positive": 6040,
-  "total_negative": 284,
+  "recommendations_total": 5437,
+  "total_reviews": 6337,
+  "total_positive": 6051,
+  "total_negative": 286,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "paranormasight",
   "recommend": "niche",
@@ -103,5 +103,5 @@
     "Supernatural",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-03-17T04:32:41.294529+09:00"
+  "fetched_at": "2026-03-18T04:32:06.251291+09:00"
 }
