@@ -7,13 +7,13 @@
   "short_description_ja": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
   "short_description_en": "Grow your farm, meet the villagers, and join your friends online in building your world.",
   "short_description": "牧場を運営、村人と交流、そしてオンラインで友達と一緒にオリジナルの世界を築き上げよう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/header.jpg?t=1659690961",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/capsule_231x87.jpg?t=1659690961",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/header.jpg?t=1773697681",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/capsule_231x87.jpg?t=1773697681",
   "developers": [
     "Plukit"
   ],
   "publishers": [
-    "Humble Games"
+    "Balor Games"
   ],
   "genres_ja": [
     "インディー",
@@ -59,11 +59,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, 日本語, 中国語（簡体字）, オランダ語",
   "website": "http://playstaxel.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1659690961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.1920x1080.jpg?t=1659690961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1659690961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1659690961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1659690961"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1773697681",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.1920x1080.jpg?t=1773697681",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1773697681",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1773697681",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1773697681"
   ],
   "movies": [
     {
@@ -92,9 +92,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3089,
-  "total_reviews": 4812,
-  "total_positive": 3781,
+  "recommendations_total": 3090,
+  "total_reviews": 4815,
+  "total_positive": 3784,
   "total_negative": 1031,
   "review_score_desc": "Mostly Positive",
   "slug": "staxel",
@@ -119,5 +119,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-03-17T04:32:41.294529+09:00"
+  "fetched_at": "2026-03-18T04:32:06.251291+09:00"
 }
