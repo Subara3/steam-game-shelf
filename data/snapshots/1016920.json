@@ -7,8 +7,8 @@
   "short_description_ja": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
   "short_description_en": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
   "short_description": "「Unrailed!」は、協力マルチプレイヤーゲームです。友達と一緒にタッグを組んで、自動でどこまでも生成されていく世界中に電車の線路を敷きましょう。ランダムな住人と出会い、電車をアップグレードして、脱線を防ぎましょう！",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1770912082",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/capsule_231x87.jpg?t=1770912082",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1773842519",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/capsule_231x87.jpg?t=1773842519",
   "developers": [
     "Indoor Astronaut"
   ],
@@ -69,11 +69,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, 中国語（簡体字）, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）, イタリア語, スペイン語 - スペイン, 日本語, ポーランド語, トルコ語, スペイン語－ラテンアメリカ, チェコ語",
   "website": "https://unrailed-game.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_718c17d9145a8f11eb99de457d513fc79bd82979.1920x1080.jpg?t=1770912082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_60264335a97af2987159e787635f39cb9f19f648.1920x1080.jpg?t=1770912082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_8496602ef1f242770f079665740f542aaa4eb638.1920x1080.jpg?t=1770912082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_71511b260173d62f1fbc43b56b97611335f08c60.1920x1080.jpg?t=1770912082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_674eeece8947149f96dadf6624aea741b4ac5264.1920x1080.jpg?t=1770912082"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_718c17d9145a8f11eb99de457d513fc79bd82979.1920x1080.jpg?t=1773842519",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_60264335a97af2987159e787635f39cb9f19f648.1920x1080.jpg?t=1773842519",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_8496602ef1f242770f079665740f542aaa4eb638.1920x1080.jpg?t=1773842519",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_71511b260173d62f1fbc43b56b97611335f08c60.1920x1080.jpg?t=1773842519",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_674eeece8947149f96dadf6624aea741b4ac5264.1920x1080.jpg?t=1773842519"
   ],
   "movies": [
     {
@@ -91,8 +91,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 13538,
-  "total_reviews": 19436,
-  "total_positive": 18126,
+  "total_reviews": 19437,
+  "total_positive": 18127,
   "total_negative": 1310,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
@@ -119,5 +119,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-03-18T04:32:06.251291+09:00"
+  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
 }

@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 7249,
-  "total_reviews": 8723,
-  "total_positive": 7925,
-  "total_negative": 798,
+  "recommendations_total": 7251,
+  "total_reviews": 8725,
+  "total_positive": 7926,
+  "total_negative": 799,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mv",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "Web Publishing",
     "JRPG"
   ],
-  "fetched_at": "2026-03-18T04:32:06.251291+09:00"
+  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
 }
