@@ -99,10 +99,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23756,
-  "total_reviews": 25692,
-  "total_positive": 25237,
-  "total_negative": 455,
+  "recommendations_total": 23763,
+  "total_reviews": 25700,
+  "total_positive": 25244,
+  "total_negative": 456,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -127,5 +127,5 @@
     "Action",
     "Singleplayer"
   ],
-  "fetched_at": "2026-03-18T04:32:06.251291+09:00"
+  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
 }
