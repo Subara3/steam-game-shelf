@@ -58,9 +58,9 @@
   "release_date": "2026年2月10日",
   "is_free": false,
   "price_initial": 340000,
-  "price_final": 340000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,400",
+  "price_final": 306000,
+  "discount_percent": 10,
+  "price_formatted": "¥ 3,060",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 36835,
-  "total_reviews": 39209,
-  "total_positive": 36112,
-  "total_negative": 3097,
+  "recommendations_total": 37069,
+  "total_reviews": 39488,
+  "total_positive": 36370,
+  "total_negative": 3118,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +119,5 @@
     "Turn-Based Combat",
     "Funny"
   ],
-  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
+  "fetched_at": "2026-03-20T04:25:53.761788+09:00"
 }

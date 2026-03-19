@@ -60,9 +60,9 @@
   "release_date": "2009年11月16日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 120000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,200",
+  "price_final": 24000,
+  "discount_percent": 80,
+  "price_formatted": "¥ 240",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -100,10 +100,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 784153,
-  "total_reviews": 1021484,
-  "total_positive": 996280,
-  "total_negative": 25204,
+  "recommendations_total": 784275,
+  "total_reviews": 1021625,
+  "total_positive": 996415,
+  "total_negative": 25210,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "left-4-dead-2",
   "recommend": "all",
@@ -129,5 +129,5 @@
     "Action",
     "Survival"
   ],
-  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
+  "fetched_at": "2026-03-20T04:25:53.761788+09:00"
 }
