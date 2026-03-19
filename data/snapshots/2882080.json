@@ -35,9 +35,9 @@
   "release_date": "2024年4月29日",
   "is_free": false,
   "price_initial": 218000,
-  "price_final": 218000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,180",
+  "price_final": 126400,
+  "discount_percent": 42,
+  "price_formatted": "¥ 1,264",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -90,5 +90,5 @@
     "Collectathon",
     "Story Rich"
   ],
-  "fetched_at": "2026-03-19T04:27:56.391646+09:00"
+  "fetched_at": "2026-03-20T04:25:53.761788+09:00"
 }
