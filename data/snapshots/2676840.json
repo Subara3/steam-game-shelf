@@ -66,9 +66,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9341,
-  "total_reviews": 9661,
-  "total_positive": 9327,
+  "recommendations_total": 9354,
+  "total_reviews": 9672,
+  "total_positive": 9338,
   "total_negative": 334,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
@@ -93,5 +93,5 @@
     "Adventure",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-03-20T04:25:53.761788+09:00"
+  "fetched_at": "2026-03-21T04:09:39.135282+09:00"
 }
