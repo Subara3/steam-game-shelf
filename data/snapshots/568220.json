@@ -64,18 +64,18 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 47876,
-  "total_reviews": 52077,
-  "total_positive": 49026,
-  "total_negative": 3051,
+  "recommendations_total": 47923,
+  "total_reviews": 52133,
+  "total_positive": 49078,
+  "total_negative": 3055,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
   "tags_ja": [
     "管理",
     "高難易度",
-    "物語性",
     "精神的恐怖",
+    "物語性",
     "シミュレーション",
     "ホラー",
     "ゴア",
@@ -84,12 +84,12 @@
   "tags_en": [
     "Management",
     "Difficult",
-    "Story Rich",
     "Psychological Horror",
+    "Story Rich",
     "Simulation",
     "Horror",
     "Gore",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-03-22T03:57:55.501452+09:00"
+  "fetched_at": "2026-03-23T03:59:58.338061+09:00"
 }
