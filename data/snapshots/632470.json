@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 112731,
-  "total_reviews": 124679,
-  "total_positive": 115581,
-  "total_negative": 9098,
+  "recommendations_total": 112762,
+  "total_reviews": 124722,
+  "total_positive": 115619,
+  "total_negative": 9103,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Point & Click"
   ],
-  "fetched_at": "2026-03-23T03:59:58.338061+09:00"
+  "fetched_at": "2026-03-24T04:25:14.756034+09:00"
 }

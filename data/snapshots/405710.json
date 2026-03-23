@@ -83,19 +83,13 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706166/movie.293x165.jpg?t=1554994816",
       "url_480": "",
       "url_max": ""
-    },
-    {
-      "name": "Friendship Update Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723203/movie.293x165.jpg?t=1532096177",
-      "url_480": "",
-      "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3090,
-  "total_reviews": 4814,
+  "recommendations_total": 3091,
+  "total_reviews": 4815,
   "total_positive": 3784,
-  "total_negative": 1030,
+  "total_negative": 1031,
   "review_score_desc": "Mostly Positive",
   "slug": "staxel",
   "recommend": "all",
@@ -119,5 +113,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-03-23T03:59:58.338061+09:00"
+  "fetched_at": "2026-03-24T04:25:14.756034+09:00"
 }
