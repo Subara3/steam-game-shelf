@@ -71,6 +71,12 @@
   ],
   "movies": [
     {
+      "name": "Refreshed Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964120/movie.293x165.jpg?t=1692280956",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "October 2022 - v1.0 Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911886/movie.293x165.jpg?t=1692280960",
       "url_480": "",
@@ -84,9 +90,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 246976,
-  "total_reviews": 260599,
-  "total_positive": 256344,
+  "recommendations_total": 247003,
+  "total_reviews": 260623,
+  "total_positive": 256368,
   "total_negative": 4255,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
@@ -111,5 +117,5 @@
     "Indie",
     "Singleplayer"
   ],
-  "fetched_at": "2026-03-25T04:32:45.331664+09:00"
+  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
 }

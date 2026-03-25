@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 77326,
-  "total_reviews": 85841,
-  "total_positive": 83355,
-  "total_negative": 2486,
+  "recommendations_total": 77337,
+  "total_reviews": 85852,
+  "total_positive": 83367,
+  "total_negative": 2485,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "omori",
   "recommend": "niche",
@@ -110,5 +110,5 @@
     "Multiple Endings",
     "RPGMaker"
   ],
-  "fetched_at": "2026-03-25T04:32:45.331664+09:00"
+  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
 }
