@@ -93,9 +93,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9375,
-  "total_reviews": 11482,
-  "total_positive": 10828,
+  "recommendations_total": 9379,
+  "total_reviews": 11487,
+  "total_positive": 10833,
   "total_negative": 654,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
@@ -120,5 +120,5 @@
     "Nature",
     "Casual"
   ],
-  "fetched_at": "2026-03-25T04:32:45.331664+09:00"
+  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
 }
