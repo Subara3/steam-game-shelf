@@ -58,9 +58,9 @@
   "release_date": "2026年2月10日",
   "is_free": false,
   "price_initial": 340000,
-  "price_final": 306000,
-  "discount_percent": 10,
-  "price_formatted": "¥ 3,060",
+  "price_final": 340000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,400",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 38372,
-  "total_reviews": 40929,
-  "total_positive": 37716,
-  "total_negative": 3213,
+  "recommendations_total": 38603,
+  "total_reviews": 41166,
+  "total_positive": 37932,
+  "total_negative": 3234,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +119,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

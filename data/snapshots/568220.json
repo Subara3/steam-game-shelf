@@ -36,9 +36,9 @@
   "release_date": "2018年4月9日",
   "is_free": false,
   "price_initial": 257000,
-  "price_final": 87300,
-  "discount_percent": 66,
-  "price_formatted": "¥ 873",
+  "price_final": 257000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,570",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -64,9 +64,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 48064,
-  "total_reviews": 52281,
-  "total_positive": 49223,
+  "recommendations_total": 48099,
+  "total_reviews": 52318,
+  "total_positive": 49260,
   "total_negative": 3058,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
@@ -91,5 +91,5 @@
     "Gore",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

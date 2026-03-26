@@ -36,9 +36,9 @@
   "release_date": "2016年2月22日",
   "is_free": false,
   "price_initial": 205000,
-  "price_final": 143500,
-  "discount_percent": 30,
-  "price_formatted": "¥ 1,435",
+  "price_final": 205000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,050",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 19912,
-  "total_reviews": 25197,
-  "total_positive": 24943,
+  "recommendations_total": 19917,
+  "total_reviews": 25203,
+  "total_positive": 24949,
   "total_negative": 254,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "aseprite",
@@ -97,5 +97,5 @@
     "2D",
     "Indie"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }
