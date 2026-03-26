@@ -38,9 +38,9 @@
   "release_date": "2024年1月17日",
   "is_free": false,
   "price_initial": 80000,
-  "price_final": 56000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 560",
+  "price_final": 80000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -66,9 +66,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9402,
-  "total_reviews": 9719,
-  "total_positive": 9378,
+  "recommendations_total": 9407,
+  "total_reviews": 9725,
+  "total_positive": 9384,
   "total_negative": 341,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
@@ -93,5 +93,5 @@
     "Adventure",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

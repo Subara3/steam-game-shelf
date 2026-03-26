@@ -46,9 +46,9 @@
   "release_date": "2019年4月11日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 49500,
-  "discount_percent": 75,
-  "price_formatted": "¥ 495",
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -86,9 +86,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3092,
-  "total_reviews": 4816,
-  "total_positive": 3784,
+  "recommendations_total": 3091,
+  "total_reviews": 4815,
+  "total_positive": 3783,
   "total_negative": 1032,
   "review_score_desc": "Mostly Positive",
   "slug": "staxel",
@@ -113,5 +113,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

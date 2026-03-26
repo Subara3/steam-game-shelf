@@ -42,9 +42,9 @@
   "release_date": "2024年9月19日",
   "is_free": false,
   "price_initial": 180000,
-  "price_final": 108000,
-  "discount_percent": 40,
-  "price_formatted": "¥ 1,080",
+  "price_final": 180000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -103,5 +103,5 @@
     "Story Rich",
     "Cute"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

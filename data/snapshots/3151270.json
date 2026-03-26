@@ -36,9 +36,9 @@
   "release_date": "2026年1月15日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 96000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 960",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -64,9 +64,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1103,
-  "total_reviews": 1112,
-  "total_positive": 1073,
+  "recommendations_total": 1111,
+  "total_reviews": 1119,
+  "total_positive": 1080,
   "total_negative": 39,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "one-turn-kill",
@@ -91,5 +91,5 @@
     "Female Protagonist",
     "Solitaire"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

@@ -51,9 +51,9 @@
   "release_date": "2023年2月10日",
   "is_free": false,
   "price_initial": 877800,
-  "price_final": 131600,
-  "discount_percent": 85,
-  "price_formatted": "¥ 1,316",
+  "price_final": 877800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,778",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -79,10 +79,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 266162,
-  "total_reviews": 363038,
-  "total_positive": 326351,
-  "total_negative": 36687,
+  "recommendations_total": 266239,
+  "total_reviews": 363139,
+  "total_positive": 326447,
+  "total_negative": 36692,
   "review_score_desc": "Very Positive",
   "slug": "hogwarts-legacy",
   "recommend": "all",
@@ -106,5 +106,5 @@
     "Character Customization",
     "Exploration"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }

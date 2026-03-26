@@ -50,9 +50,9 @@
   "release_date": "2022年10月20日",
   "is_free": false,
   "price_initial": 49900,
-  "price_final": 37400,
-  "discount_percent": 25,
-  "price_formatted": "¥ 374",
+  "price_final": 49900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 499",
   "currency": "JPY",
   "metacritic_score": 86,
   "platforms": {
@@ -90,10 +90,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 247003,
-  "total_reviews": 260623,
-  "total_positive": 256368,
-  "total_negative": 4255,
+  "recommendations_total": 247027,
+  "total_reviews": 260649,
+  "total_positive": 256392,
+  "total_negative": 4257,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
@@ -117,5 +117,5 @@
     "Indie",
     "Singleplayer"
   ],
-  "fetched_at": "2026-03-26T04:14:56.704354+09:00"
+  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
 }
