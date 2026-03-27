@@ -397,6 +397,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["by"] = master["by"]
             if master.get("tool"):
                 entry["tool"] = True
+            if master.get("featured"):
+                entry["featured"] = True
             games.append(entry)
 
     games_data = {
@@ -577,7 +579,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
   "url": "{canonical_url}",
   "publisher": {{
     "@type": "Organization",
-    "name": "すばらしきSteamゲームの本棚",
+    "name": "{site_name}",
     "url": "https://steam.subara3.com/"
   }},
   "mainEntityOfPage": "{canonical_url}"

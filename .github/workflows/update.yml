@@ -20,6 +20,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-game-data
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -54,8 +58,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git pull --rebase origin master || true
-            git commit -m "data: $(date -u +%Y-%m-%d) steam update" || true
+            git pull --rebase origin master
+            git commit -m "data: $(date -u +%Y-%m-%d) steam update"
             git push
           fi
 

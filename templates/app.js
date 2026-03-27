@@ -177,14 +177,14 @@ function dashboard() {
       result = [...result].sort((a, b) => {
         switch (this.sortKey) {
           case 'name':
-            return (this.gameName(a)).localeCompare(this.gameName(b));
+            return (this.gameName(a)).localeCompare(this.gameName(b), this.lang);
           case 'price_asc':
             return (a.price_final || 0) - (b.price_final || 0);
           case 'price_desc':
             return (b.price_final || 0) - (a.price_final || 0);
           case 'review':
-            const aRate = a.total_reviews ? a.total_positive / a.total_reviews : 0;
-            const bRate = b.total_reviews ? b.total_positive / b.total_reviews : 0;
+            const aRate = a.total_reviews ? a.total_positive / a.total_reviews : -1;
+            const bRate = b.total_reviews ? b.total_positive / b.total_reviews : -1;
             return bRate - aRate;
           case 'discount':
             return (b.discount_percent || 0) - (a.discount_percent || 0);
@@ -247,7 +247,7 @@ function dashboard() {
           });
         });
       } catch (e) {
-        this.error = 'データの読み込みに失敗しました';
+        this.error = this.t('loadError');
         console.error(e);
       }
     },
