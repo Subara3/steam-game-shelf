@@ -83,6 +83,12 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706166/movie.293x165.jpg?t=1554994816",
       "url_480": "",
       "url_max": ""
+    },
+    {
+      "name": "Friendship Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723203/movie.293x165.jpg?t=1532096177",
+      "url_480": "",
+      "url_max": ""
     }
   ],
   "demo_appid": null,
@@ -113,5 +119,5 @@
     "Relaxing",
     "Building"
   ],
-  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
+  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
 }
