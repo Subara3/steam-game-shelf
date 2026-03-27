@@ -80,6 +80,12 @@
   ],
   "movies": [
     {
+      "name": "Teaser 2020",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796273/movie.293x165.jpg?t=1597395499",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Gameplay Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660593/movie.293x165.jpg?t=1456427081",
       "url_480": "",
@@ -93,9 +99,9 @@
     }
   ],
   "demo_appid": 452280,
-  "recommendations_total": 188972,
-  "total_reviews": 226858,
-  "total_positive": 221153,
+  "recommendations_total": 188978,
+  "total_reviews": 226870,
+  "total_positive": 221165,
   "total_negative": 5705,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "factorio",
@@ -121,5 +127,5 @@
     "Multiplayer",
     "Survival"
   ],
-  "fetched_at": "2026-03-27T04:35:35.244105+09:00"
+  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
 }
