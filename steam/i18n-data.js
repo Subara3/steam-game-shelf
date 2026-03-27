@@ -8,7 +8,6 @@ window.__i18n={
     "onSale": "セール中！",
     "gameList": "イチオシのゲーム",
     "articles": "記事",
-    "articlesWip": "記事は準備中です。",
     "search": "検索",
     "searchPlaceholder": "ゲーム名で検索...",
     "genre": "ジャンル",
@@ -56,7 +55,8 @@ window.__i18n={
     "featured": "直近のマイベスト！",
     "featuredReadArticle": "記事を読む",
     "tools": "おすすめツール",
-    "toolsBadge": "ツール"
+    "toolsBadge": "ツール",
+    "loadError": "データの読み込みに失敗しました"
   },
   "en": {
     "siteTitle": "The Wonderful Steam Game Shelf",
@@ -67,7 +67,6 @@ window.__i18n={
     "onSale": "On Sale!",
     "gameList": "Our Picks",
     "articles": "Articles",
-    "articlesWip": "Articles coming soon.",
     "search": "Search",
     "searchPlaceholder": "Search by title...",
     "genre": "Genre",
@@ -115,7 +114,8 @@ window.__i18n={
     "featured": "My Recent Best!",
     "featuredReadArticle": "Read article",
     "tools": "Recommended Tools",
-    "toolsBadge": "Tool"
+    "toolsBadge": "Tool",
+    "loadError": "Failed to load data"
   },
   "reviewScoreJa": {
     "Overwhelmingly Positive": "圧倒的に好評",

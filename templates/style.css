@@ -137,7 +137,8 @@ h1, h2, h3, h4, h5, h6,
   text-align: left;
 }
 
-.genre-chip:hover {
+.genre-chip:hover,
+.genre-chip:focus-visible {
   background: var(--accent-dim);
   color: var(--accent);
 }
@@ -257,7 +258,8 @@ h1, h2, h3, h4, h5, h6,
   cursor: pointer;
 }
 
-.clear-filter:hover {
+.clear-filter:hover,
+.clear-filter:focus-visible {
   background: var(--steam-blue);
   color: var(--steam-darker);
 }
@@ -794,7 +796,8 @@ h1, h2, h3, h4, h5, h6,
   transition: background 0.2s;
 }
 
-.btn-age-yes:hover {
+.btn-age-yes:hover,
+.btn-age-yes:focus-visible {
   background: #e53935;
 }
 
@@ -810,44 +813,13 @@ h1, h2, h3, h4, h5, h6,
   transition: all 0.2s;
 }
 
-.btn-age-no:hover {
+.btn-age-no:hover,
+.btn-age-no:focus-visible {
   color: #fff;
   border-color: #fff;
 }
 
 /* ゲームリンク */
-.game-links {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.btn-steam,
-.btn-article {
-  display: inline-block;
-  padding: 0.3rem 0.8rem;
-  border-radius: 4px;
-  font-size: 0.8rem;
-  text-decoration: none;
-  font-weight: 600;
-  transition: opacity 0.2s;
-}
-
-.btn-steam {
-  background: var(--steam-dark);
-  color: var(--steam-blue);
-  border: 1px solid var(--steam-blue);
-}
-
-.btn-article {
-  background: var(--steam-blue-dark);
-  color: #fff;
-}
-
-.btn-steam:hover,
-.btn-article:hover {
-  opacity: 0.8;
-}
-
 /* ===== 記事リンクバー（ゲームカード下） ===== */
 .article-link-bar {
   display: flex;
@@ -885,11 +857,6 @@ h1, h2, h3, h4, h5, h6,
   font-size: 1.2rem;
   margin-bottom: 1rem;
   color: var(--accent);
-}
-
-.no-articles {
-  color: var(--pico-muted-color);
-  font-style: italic;
 }
 
 .article-grid {
@@ -966,11 +933,6 @@ h1, h2, h3, h4, h5, h6,
 .article-content h1 {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
-}
-
-.steam-link {
-  font-size: 0.85rem;
-  color: var(--steam-blue);
 }
 
 /* ===== 対話スタイル ===== */
@@ -1280,7 +1242,8 @@ footer a {
   transition: color 0.15s, border-color 0.15s;
 }
 
-.sidebar-close:hover {
+.sidebar-close:hover,
+.sidebar-close:focus-visible {
   color: var(--steam-blue);
   border-color: var(--steam-blue);
 }
