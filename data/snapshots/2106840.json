@@ -7,8 +7,8 @@
   "short_description_ja": "本格謎解きホラーアドベンチャー パラノマサイト FILE23 本所七不思議 《蘇りの秘術》をめぐって”呪い合い”が始まる。",
   "short_description_en": "How far would you go to bring someone back from the dead? Discover the depths that some will go to in this horror-adventure game.",
   "short_description": "本格謎解きホラーアドベンチャー パラノマサイト FILE23 本所七不思議 《蘇りの秘術》をめぐって”呪い合い”が始まる。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/header_japanese.jpg?t=1773825618",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/capsule_231x87_japanese.jpg?t=1773825618",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/header_japanese.jpg?t=1776154854",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/capsule_231x87_japanese.jpg?t=1776154854",
   "developers": [
     "Square Enix"
   ],
@@ -33,6 +33,13 @@
   "categories": [
     "シングルプレイヤー",
     "Steam実績",
+    "カメラの快適性",
+    "色のオプション",
+    "カスタム音量調整",
+    "キーボードのみのオプション",
+    "マウスのみのオプション",
+    "時間制限付き入力なしでプレイ可能",
+    "いつでもセーブ可能",
     "部分的コントローラサポート",
     "Steamクラウド",
     "ファミリーシェアリング"
@@ -55,11 +62,11 @@
   "supported_languages": "英語, 日本語, 中国語（簡体字）, 中国語（繁体字）",
   "website": "https://Paranormasight.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_bbc7ab17bcec34bd552f49dd824c6a3cd94d6197.1920x1080.jpg?t=1773825618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_5a64a6e5006dea6b997236980f6b357232f41d0e.1920x1080.jpg?t=1773825618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_f8735cf07a3a8cec33f7cecf285cacabcbe65957.1920x1080.jpg?t=1773825618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_e0056c3082bdcf38dbae258a047123c3ce3846fa.1920x1080.jpg?t=1773825618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_08b47f57c1c6130b058e60b1a3f6dd2562641044.1920x1080.jpg?t=1773825618"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_bbc7ab17bcec34bd552f49dd824c6a3cd94d6197.1920x1080.jpg?t=1776154854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_5a64a6e5006dea6b997236980f6b357232f41d0e.1920x1080.jpg?t=1776154854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_f8735cf07a3a8cec33f7cecf285cacabcbe65957.1920x1080.jpg?t=1776154854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_e0056c3082bdcf38dbae258a047123c3ce3846fa.1920x1080.jpg?t=1776154854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/ss_08b47f57c1c6130b058e60b1a3f6dd2562641044.1920x1080.jpg?t=1776154854"
   ],
   "movies": [
     {
@@ -76,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5539,
-  "total_reviews": 6467,
-  "total_positive": 6178,
-  "total_negative": 289,
+  "recommendations_total": 5659,
+  "total_reviews": 6627,
+  "total_positive": 6332,
+  "total_negative": 295,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "paranormasight",
   "recommend": "niche",
@@ -103,5 +110,5 @@
     "Supernatural",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

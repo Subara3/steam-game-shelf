@@ -78,11 +78,11 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1426,
-  "total_reviews": 1756,
-  "total_positive": 1673,
-  "total_negative": 83,
-  "review_score_desc": "Overwhelmingly Positive",
+  "recommendations_total": 1561,
+  "total_reviews": 1927,
+  "total_positive": 1826,
+  "total_negative": 101,
+  "review_score_desc": "Very Positive",
   "slug": "paranormasight-file38",
   "recommend": "niche",
   "tags_ja": [
@@ -90,9 +90,9 @@
     "RPG",
     "シミュレーション",
     "ビジュアルノベル",
-    "ゴア",
-    "暴力",
     "ミステリー",
+    "暴力",
+    "ゴア",
     "ホラー"
   ],
   "tags_en": [
@@ -100,10 +100,10 @@
     "RPG",
     "Simulation",
     "Visual Novel",
-    "Gore",
-    "Violent",
     "Mystery",
+    "Violent",
+    "Gore",
     "Horror"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }
