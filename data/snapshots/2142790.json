@@ -7,8 +7,8 @@
   "short_description_ja": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "short_description_en": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
   "short_description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/5bb0938ddc2921aa1856ff1678886bee1b1aa9e6/header_alt_assets_3.jpg?t=1771865130",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/e28eceb228fa401fbc82d3a67912b505ed8ab6fe/capsule_231x87_alt_assets_3.jpg?t=1771865130",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg?t=1771865130",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg?t=1771865130",
   "developers": [
     "NPC Studio"
   ],
@@ -77,10 +77,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24524,
-  "total_reviews": 26892,
-  "total_positive": 26311,
-  "total_negative": 581,
+  "recommendations_total": 24968,
+  "total_reviews": 27374,
+  "total_positive": 26774,
+  "total_negative": 600,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -88,8 +88,8 @@
     "早期アクセス",
     "農場シミュレーション",
     "恋愛シミュレーション",
-    "人生シミュレーション",
     "RPG",
+    "人生シミュレーション",
     "ドット絵",
     "ロマンス",
     "シミュレーション"
@@ -98,11 +98,11 @@
     "Early Access",
     "Farming Sim",
     "Dating Sim",
-    "Life Sim",
     "RPG",
+    "Life Sim",
     "Pixel Graphics",
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

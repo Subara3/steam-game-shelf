@@ -7,8 +7,8 @@
   "short_description_ja": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description_en": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/header.jpg?t=1591664460",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/capsule_231x87.jpg?t=1591664460",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/23d8972e068689b1d688f20972fa343813e0431f/header.jpg?t=1776323422",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/b33f9c291f8b710eb7f61ca0241a88541ff56438/capsule_231x87.jpg?t=1776323422",
   "developers": [
     "Nicalis, Inc.",
     "Studio Pixel"
@@ -42,9 +42,9 @@
   "release_date": "2011年11月22日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 148000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,480",
+  "price_final": 97600,
+  "discount_percent": 34,
+  "price_formatted": "¥ 976",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -55,11 +55,11 @@
   "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
   "website": "http://www.nicalis.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_68f8531e30d2060be3473f75135f02f2b4bce722.1920x1080.jpg?t=1591664460",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_e20fc59171c7431ad566537a38e635e6a199f63d.1920x1080.jpg?t=1591664460",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_9298452bd6036a9be9c12fbf96a1ab0a5a04ce2d.1920x1080.jpg?t=1591664460",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_f3657ac2df729de96408702a4894b28f0a24d889.1920x1080.jpg?t=1591664460",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_4e42c40d9bb05521a8a5b771da2387957f24d7a0.1920x1080.jpg?t=1591664460"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_68f8531e30d2060be3473f75135f02f2b4bce722.1920x1080.jpg?t=1776323422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_e20fc59171c7431ad566537a38e635e6a199f63d.1920x1080.jpg?t=1776323422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_9298452bd6036a9be9c12fbf96a1ab0a5a04ce2d.1920x1080.jpg?t=1776323422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_f3657ac2df729de96408702a4894b28f0a24d889.1920x1080.jpg?t=1776323422",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/ss_4e42c40d9bb05521a8a5b771da2387957f24d7a0.1920x1080.jpg?t=1776323422"
   ],
   "movies": [
     {
@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4883,
-  "total_reviews": 7927,
-  "total_positive": 7353,
-  "total_negative": 574,
+  "recommendations_total": 4930,
+  "total_reviews": 7997,
+  "total_positive": 7424,
+  "total_negative": 573,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Adventure",
     "2D"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

@@ -38,9 +38,9 @@
   "release_date": "2022年4月1日",
   "is_free": false,
   "price_initial": 164000,
-  "price_final": 164000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,640",
+  "price_final": 49200,
+  "discount_percent": 70,
+  "price_formatted": "¥ 492",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 333,
-  "total_reviews": 375,
-  "total_positive": 331,
-  "total_negative": 44,
+  "recommendations_total": 336,
+  "total_reviews": 378,
+  "total_positive": 332,
+  "total_negative": 46,
   "review_score_desc": "Very Positive",
   "slug": "terrorbane",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Exploration",
     "Comedy"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

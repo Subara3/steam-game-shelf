@@ -7,8 +7,8 @@
   "short_description_ja": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
   "short_description_en": "Survive a mad Sultan's reign in this brutal resource management RPG. Draw a card every seven days and complete its challenge. Make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement?",
   "short_description": "スルタンは邪悪な魔法使いに惑わされ、あなたに残酷なゲームを命じました。毎週、あなたは4種類のカードから1枚を引かなければなりません。色欲のカードは情事を求め、散財のカードは金銭を浪費させ、征服のカードは危険な冒険を強制し、殺戮のカードは命を捧げることを要求します……",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/header_japanese.jpg?t=1774519528",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/f2719fdcb3d4a3ad36d6e5c635e7a1f6a563c639/capsule_231x87_japanese.jpg?t=1774519528",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/header_japanese.jpg?t=1776329702",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/59bd41e8f43fc198b6eb7f708dc667b9bcf173a1/capsule_231x87_japanese.jpg?t=1776329702",
   "developers": [
     "Double Cross"
   ],
@@ -63,13 +63,19 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/25def93936d3d502a3c34ae58a5455aabefeee74/ss_25def93936d3d502a3c34ae58a5455aabefeee74.1920x1080.jpg?t=1774519528",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/5345af0a4b29b70f492693ff06dece09ec177bdf/ss_5345af0a4b29b70f492693ff06dece09ec177bdf.1920x1080.jpg?t=1774519528",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/81493bc183e1d137cdbdf166de5d36037f67d9c9/ss_81493bc183e1d137cdbdf166de5d36037f67d9c9.1920x1080.jpg?t=1774519528",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/6a2df2a2db981cba4c71a9905b185a7776b2cbc2/ss_6a2df2a2db981cba4c71a9905b185a7776b2cbc2.1920x1080.jpg?t=1774519528",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/24ef00fa73a2c712344d14367bf482c38abd562b/ss_24ef00fa73a2c712344d14367bf482c38abd562b.1920x1080.jpg?t=1774519528"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/25def93936d3d502a3c34ae58a5455aabefeee74/ss_25def93936d3d502a3c34ae58a5455aabefeee74.1920x1080.jpg?t=1776329702",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/5345af0a4b29b70f492693ff06dece09ec177bdf/ss_5345af0a4b29b70f492693ff06dece09ec177bdf.1920x1080.jpg?t=1776329702",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/81493bc183e1d137cdbdf166de5d36037f67d9c9/ss_81493bc183e1d137cdbdf166de5d36037f67d9c9.1920x1080.jpg?t=1776329702",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/6a2df2a2db981cba4c71a9905b185a7776b2cbc2/ss_6a2df2a2db981cba4c71a9905b185a7776b2cbc2.1920x1080.jpg?t=1776329702",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/24ef00fa73a2c712344d14367bf482c38abd562b/ss_24ef00fa73a2c712344d14367bf482c38abd562b.1920x1080.jpg?t=1776329702"
   ],
   "movies": [
+    {
+      "name": "New Update Trailer JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257311465/558f9681728ec4f4756cc1e0a00f749e243b56fe/movie_600x337.jpg?t=1774922697",
+      "url_480": "",
+      "url_max": ""
+    },
     {
       "name": "Story Trailer JP",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229465/11fc1415c73e11fa87208109789eacc2d7b81981/movie_600x337.jpg?t=1762850819",
@@ -108,11 +114,11 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23301,
-  "total_reviews": 32741,
-  "total_positive": 31135,
-  "total_negative": 1606,
-  "review_score_desc": "Overwhelmingly Positive",
+  "recommendations_total": 23859,
+  "total_reviews": 33563,
+  "total_positive": 31544,
+  "total_negative": 2019,
+  "review_score_desc": "Very Positive",
   "slug": "sultans-game",
   "recommend": "niche",
   "tags_ja": [
@@ -135,5 +141,5 @@
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

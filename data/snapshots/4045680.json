@@ -7,8 +7,8 @@
   "short_description_ja": "「冠を持つ神の手」は、主人公の育成を行いながら目当てのキャラと親交を深めていくタイプの育成系ADVです。非常に分岐が多く、難易度は高めです。貴方の選択は物語に細やかに反映されていきます。プレイ時間は一周二時間程度。",
   "short_description_en": "“The Hand of the Crown-Bearer” is a character-training adventure game where you develop the protagonist while building relationships with specific characters. With numerous branching paths and a higher difficulty level, your choices shape the story. One playthrough lasts about two hours.",
   "short_description": "「冠を持つ神の手」は、主人公の育成を行いながら目当てのキャラと親交を深めていくタイプの育成系ADVです。非常に分岐が多く、難易度は高めです。貴方の選択は物語に細やかに反映されていきます。プレイ時間は一周二時間程度。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header_japanese.jpg?t=1773389165",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/ec96affd0be11fca8ac2d880eded7bb07bc87c19/capsule_231x87_japanese.jpg?t=1773389165",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/0cdc1f3d3279c50b88ded1862573340926058793/header_japanese.jpg?t=1775716020",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/ec96affd0be11fca8ac2d880eded7bb07bc87c19/capsule_231x87_japanese.jpg?t=1775716020",
   "developers": [
     "WheatField studio"
   ],
@@ -52,13 +52,20 @@
   "supported_languages": "日本語",
   "website": "https://kamokate.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/b45aa9c4580700c4ab998441859f125df1b91a58/ss_b45aa9c4580700c4ab998441859f125df1b91a58.1920x1080.jpg?t=1773389165",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/6c09663ebd77518cda6b67aca3633924baea0249/ss_6c09663ebd77518cda6b67aca3633924baea0249.1920x1080.jpg?t=1773389165",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/b661d38c205c260aee0ea376ad1e60e87736b2c4/ss_b661d38c205c260aee0ea376ad1e60e87736b2c4.1920x1080.jpg?t=1773389165",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/ca6d8276b1fb839b868079e701a487a89aaaff33/ss_ca6d8276b1fb839b868079e701a487a89aaaff33.1920x1080.jpg?t=1773389165",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/259baef5aec92198388e103cb9c4c7eafc28601c/ss_259baef5aec92198388e103cb9c4c7eafc28601c.1920x1080.jpg?t=1773389165"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/b45aa9c4580700c4ab998441859f125df1b91a58/ss_b45aa9c4580700c4ab998441859f125df1b91a58.1920x1080.jpg?t=1775716020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/6c09663ebd77518cda6b67aca3633924baea0249/ss_6c09663ebd77518cda6b67aca3633924baea0249.1920x1080.jpg?t=1775716020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/b661d38c205c260aee0ea376ad1e60e87736b2c4/ss_b661d38c205c260aee0ea376ad1e60e87736b2c4.1920x1080.jpg?t=1775716020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/ca6d8276b1fb839b868079e701a487a89aaaff33/ss_ca6d8276b1fb839b868079e701a487a89aaaff33.1920x1080.jpg?t=1775716020",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045680/259baef5aec92198388e103cb9c4c7eafc28601c/ss_259baef5aec92198388e103cb9c4c7eafc28601c.1920x1080.jpg?t=1775716020"
   ],
-  "movies": [],
+  "movies": [
+    {
+      "name": "pre_movie_jp",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316541/9502eac85e506f322e01d1e75c61e94031c8e546/movie_600x337.jpg?t=1775716019",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
   "demo_appid": null,
   "recommendations_total": 0,
   "total_reviews": 0,
@@ -88,5 +95,5 @@
     "2D",
     "Choices Matter"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }

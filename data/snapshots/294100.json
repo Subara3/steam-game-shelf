@@ -7,8 +7,8 @@
   "short_description_ja": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
   "short_description_en": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
   "short_description": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1774369681",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/capsule_231x87.jpg?t=1774369681",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1776194377",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a805ac5e3ceb54a2d7d3e1c1049907f1ef8bbb89/capsule_231x87.jpg?t=1776194377",
   "developers": [
     "Ludeon Studios"
   ],
@@ -50,9 +50,9 @@
   "release_date": "2018年10月17日",
   "is_free": false,
   "price_initial": 390000,
-  "price_final": 390000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,900",
+  "price_final": 312000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 3,120",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -63,11 +63,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, ポーランド語, ロシア語, イタリア語, スペイン語 - スペイン, チェコ語, デンマーク語, オランダ語, ハンガリー語, 日本語, ノルウェー語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, 中国語（簡体字）, スウェーデン語, 中国語（繁体字）, トルコ語, ウクライナ語, フィンランド語, 韓国語, ルーマニア語, スペイン語－ラテンアメリカ",
   "website": "https://ludeon.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1774369681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1774369681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/57c3e8d556d47bb5ad048699643528aefc652aa6/ss_57c3e8d556d47bb5ad048699643528aefc652aa6.1920x1080.jpg?t=1774369681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.1920x1080.jpg?t=1774369681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/71f1f380e10d46e7355469b93ec60dcd81af03c6/ss_71f1f380e10d46e7355469b93ec60dcd81af03c6.1920x1080.jpg?t=1774369681"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1776194377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.1920x1080.jpg?t=1776194377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1776194377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/57c3e8d556d47bb5ad048699643528aefc652aa6/ss_57c3e8d556d47bb5ad048699643528aefc652aa6.1920x1080.jpg?t=1776194377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/59a1400eff99e2b620d623d3d76a02c1592a72e7/ss_59a1400eff99e2b620d623d3d76a02c1592a72e7.1920x1080.jpg?t=1776194377"
   ],
   "movies": [
     {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 200024,
-  "total_reviews": 236030,
-  "total_positive": 231073,
-  "total_negative": 4957,
+  "recommendations_total": 201332,
+  "total_reviews": 237586,
+  "total_positive": 232569,
+  "total_negative": 5017,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-03-27T11:26:39.001893+09:00"
+  "fetched_at": "2026-04-20T09:18:18.959828+09:00"
 }
