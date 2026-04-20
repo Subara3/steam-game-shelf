@@ -58,8 +58,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git pull --rebase origin master
             git commit -m "data: $(date -u +%Y-%m-%d) steam update"
+            git pull --rebase origin master
             git push
           fi
 
