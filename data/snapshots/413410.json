@@ -40,9 +40,9 @@
   "release_date": "2016年2月18日",
   "is_free": false,
   "price_initial": 213800,
-  "price_final": 213800,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,138",
+  "price_final": 106900,
+  "discount_percent": 50,
+  "price_formatted": "¥ 1,069",
   "currency": "JPY",
   "metacritic_score": 82,
   "platforms": {
@@ -74,10 +74,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 33955,
-  "total_reviews": 36213,
-  "total_positive": 34776,
-  "total_negative": 1437,
+  "recommendations_total": 33971,
+  "total_reviews": 36231,
+  "total_positive": 34793,
+  "total_negative": 1438,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-thh",
   "recommend": "niche",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-04-21T04:38:07.494470+09:00"
+  "fetched_at": "2026-04-22T04:42:50.767610+09:00"
 }

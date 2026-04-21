@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 553,
-  "total_reviews": 584,
+  "recommendations_total": 554,
+  "total_reviews": 585,
   "total_positive": 458,
-  "total_negative": 126,
+  "total_negative": 127,
   "review_score_desc": "Mostly Positive",
   "slug": "legal-dungeon",
   "recommend": "niche",
@@ -97,5 +97,5 @@
     "Political",
     "Story Rich"
   ],
-  "fetched_at": "2026-04-21T04:38:07.494470+09:00"
+  "fetched_at": "2026-04-22T04:42:50.767610+09:00"
 }
