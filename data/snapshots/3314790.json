@@ -51,9 +51,9 @@
   "release_date": "2025年9月26日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 84000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 840",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -79,10 +79,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 22075,
-  "total_reviews": 23148,
-  "total_positive": 20887,
-  "total_negative": 2261,
+  "recommendations_total": 22109,
+  "total_reviews": 23187,
+  "total_positive": 20919,
+  "total_negative": 2268,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -106,5 +106,5 @@
     "Dark Humor",
     "3D"
   ],
-  "fetched_at": "2026-04-23T04:45:14.007027+09:00"
+  "fetched_at": "2026-04-24T04:47:23.243570+09:00"
 }
