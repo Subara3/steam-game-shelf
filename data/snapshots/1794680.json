@@ -7,8 +7,8 @@
   "short_description_ja": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
   "short_description_en": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
   "short_description": "何千もの恐ろしい夜の化け物を退治して、夜明けまで生き延びよう！ 『Vampire Survivors』は、ローグライト要素を持つゴシックホラーカジュアルゲーム。プレイヤーの選択次第で、迫りくる数百のモンスターを素早く撃破できます。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1776782968",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg?t=1776782968",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/header.jpg?t=1777022378",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/capsule_231x87.jpg?t=1777022378",
   "developers": [
     "poncle"
   ],
@@ -60,14 +60,14 @@
     "mac": true,
     "linux": false
   },
-  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, トルコ語, ウクライナ語",
+  "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, トルコ語, ウクライナ語, 中国語（繁体字）",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1776782968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1776782968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1776782968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1776782968",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1776782968"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1777022378",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1777022378",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1777022378",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1777022378",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1777022378"
   ],
   "movies": [
     {
@@ -90,10 +90,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 247579,
-  "total_reviews": 261282,
-  "total_positive": 256990,
-  "total_negative": 4292,
+  "recommendations_total": 247617,
+  "total_reviews": 261323,
+  "total_positive": 257028,
+  "total_negative": 4295,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
@@ -117,5 +117,5 @@
     "Indie",
     "Singleplayer"
   ],
-  "fetched_at": "2026-04-24T04:47:23.243570+09:00"
+  "fetched_at": "2026-04-25T04:25:25.237473+09:00"
 }
