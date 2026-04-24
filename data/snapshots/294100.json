@@ -50,9 +50,9 @@
   "release_date": "2018年10月17日",
   "is_free": false,
   "price_initial": 390000,
-  "price_final": 312000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 3,120",
+  "price_final": 390000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,900",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 201506,
-  "total_reviews": 237799,
-  "total_positive": 232786,
-  "total_negative": 5013,
+  "recommendations_total": 201542,
+  "total_reviews": 237843,
+  "total_positive": 232829,
+  "total_negative": 5014,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-04-24T04:47:23.243570+09:00"
+  "fetched_at": "2026-04-25T04:25:25.237473+09:00"
 }

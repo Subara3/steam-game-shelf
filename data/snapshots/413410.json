@@ -74,16 +74,16 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 34006,
-  "total_reviews": 36268,
-  "total_positive": 34827,
-  "total_negative": 1441,
+  "recommendations_total": 34025,
+  "total_reviews": 36285,
+  "total_positive": 34846,
+  "total_negative": 1439,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-thh",
   "recommend": "niche",
   "tags_ja": [
-    "アニメ",
     "ビジュアルノベル",
+    "アニメ",
     "探偵",
     "ミステリー",
     "物語性",
@@ -92,8 +92,8 @@
     "精神的恐怖"
   ],
   "tags_en": [
-    "Anime",
     "Visual Novel",
+    "Anime",
     "Detective",
     "Mystery",
     "Story Rich",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-04-24T04:47:23.243570+09:00"
+  "fetched_at": "2026-04-25T04:25:25.237473+09:00"
 }
