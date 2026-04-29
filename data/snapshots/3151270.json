@@ -7,8 +7,8 @@
   "short_description_ja": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
   "short_description_en": "One Turn Kill is a PvE card game where card drawing and deck control are the keys to victory. Engage in battles limited to a single turn for an exhilarating, suspenseful experience.Join the protagonist in a pixel art wasteland to face off with the strongest of enemies and see what story awaits.",
   "short_description": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1768491573",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/5568e19d2d54aaf15e3e5d47aa61e07ec722aa1e/capsule_231x87.jpg?t=1768491573",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1777464950",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/5568e19d2d54aaf15e3e5d47aa61e07ec722aa1e/capsule_231x87.jpg?t=1777464950",
   "developers": [
     "DenDen"
   ],
@@ -49,11 +49,11 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語, 中国語（繁体字）",
   "website": "https://www.wakuwakugames.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.1920x1080.jpg?t=1768491573",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.1920x1080.jpg?t=1768491573",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.1920x1080.jpg?t=1768491573",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c0a3e24e33748078600f86248b1a8a394e6d6b8b/ss_c0a3e24e33748078600f86248b1a8a394e6d6b8b.1920x1080.jpg?t=1768491573",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/a4b823b6e53574857042bb94eb2769ca393a8a4c/ss_a4b823b6e53574857042bb94eb2769ca393a8a4c.1920x1080.jpg?t=1768491573"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.1920x1080.jpg?t=1777464950",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.1920x1080.jpg?t=1777464950",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.1920x1080.jpg?t=1777464950",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c0a3e24e33748078600f86248b1a8a394e6d6b8b/ss_c0a3e24e33748078600f86248b1a8a394e6d6b8b.1920x1080.jpg?t=1777464950",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/a4b823b6e53574857042bb94eb2769ca393a8a4c/ss_a4b823b6e53574857042bb94eb2769ca393a8a4c.1920x1080.jpg?t=1777464950"
   ],
   "movies": [
     {
@@ -91,5 +91,5 @@
     "Female Protagonist",
     "Solitaire"
   ],
-  "fetched_at": "2026-04-29T04:59:47.984971+09:00"
+  "fetched_at": "2026-04-30T04:58:04.324129+09:00"
 }
