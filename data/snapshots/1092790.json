@@ -7,8 +7,8 @@
   "short_description_ja": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
   "short_description_en": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
   "short_description": "『Inscryption』はデッキ構築型ローグライトと脱出ゲームスタイルのパズル、さらにサイコロジカルホラーを血で混ぜ合わせた暗い旅へあなたを招待する。しかし、カードたちにはそれよりも遥かに暗い秘密が刻まれている…。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1768517864",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1768517864",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg?t=1777572925",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1777572925",
   "developers": [
     "Daniel Mullins Games"
   ],
@@ -55,11 +55,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ロシア語, 中国語（簡体字）, イタリア語, ポルトガル語－ブラジル, 中国語（繁体字）, トルコ語",
   "website": "https://www.inscryption-game.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_0191a69b0e94a9a7784f5b81e27f06379910645a.1920x1080.jpg?t=1768517864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_3b714682e9e0a214df1630a234e9f6764528eece.1920x1080.jpg?t=1768517864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_7bfe728822807d232398df1cb1a5d64addd3d8fb.1920x1080.jpg?t=1768517864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_79a146c36a3f0b728a8e0085327cec8c7fba82d6.1920x1080.jpg?t=1768517864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_738220c84b63522c4ca8c77fbff1ddb252ea0fe9.1920x1080.jpg?t=1768517864"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_0191a69b0e94a9a7784f5b81e27f06379910645a.1920x1080.jpg?t=1777572925",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_3b714682e9e0a214df1630a234e9f6764528eece.1920x1080.jpg?t=1777572925",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_7bfe728822807d232398df1cb1a5d64addd3d8fb.1920x1080.jpg?t=1777572925",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_79a146c36a3f0b728a8e0085327cec8c7fba82d6.1920x1080.jpg?t=1777572925",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_738220c84b63522c4ca8c77fbff1ddb252ea0fe9.1920x1080.jpg?t=1777572925"
   ],
   "movies": [
     {
@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 130844,
-  "total_reviews": 143817,
-  "total_positive": 139311,
-  "total_negative": 4506,
+  "recommendations_total": 130864,
+  "total_reviews": 143839,
+  "total_positive": 139331,
+  "total_negative": 4508,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "inscryption",
   "recommend": "niche",
@@ -103,5 +103,5 @@
     "Dark",
     "Roguelike"
   ],
-  "fetched_at": "2026-04-30T04:58:04.324129+09:00"
+  "fetched_at": "2026-05-01T04:54:30.707987+09:00"
 }
