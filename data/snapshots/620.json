@@ -82,12 +82,6 @@
   ],
   "movies": [
     {
-      "name": "Portal 2 E3 Demo (Excursion Funnels)",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5787/movie.293x165.jpg?t=1682715616",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Portal 2 Remix Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80822/movie.293x165.jpg?t=1683129612",
       "url_480": "",
@@ -185,9 +179,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 382868,
-  "total_reviews": 458481,
-  "total_positive": 452536,
+  "recommendations_total": 382920,
+  "total_reviews": 458535,
+  "total_positive": 452590,
   "total_negative": 5945,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
@@ -213,5 +207,5 @@
     "Puzzle Platformer",
     "Funny"
   ],
-  "fetched_at": "2026-05-01T04:54:30.707987+09:00"
+  "fetched_at": "2026-05-02T04:45:58.769897+09:00"
 }
