@@ -62,12 +62,6 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976685/movie.293x165.jpg?t=1697736379",
       "url_480": "",
       "url_max": ""
-    },
-    {
-      "name": "V1.0 Release Date Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965893/movie.293x165.jpg?t=1694779794",
-      "url_480": "",
-      "url_max": ""
     }
   ],
   "demo_appid": null,
@@ -98,5 +92,5 @@
     "Roguelite",
     "2D"
   ],
-  "fetched_at": "2026-05-01T04:54:30.707987+09:00"
+  "fetched_at": "2026-05-02T04:45:58.769897+09:00"
 }
