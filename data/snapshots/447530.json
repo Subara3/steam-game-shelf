@@ -45,9 +45,9 @@
   "release_date": "2016年6月21日",
   "is_free": false,
   "price_initial": 150000,
-  "price_final": 100500,
-  "discount_percent": 33,
-  "price_formatted": "¥ 1,005",
+  "price_final": 150000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,500",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -73,9 +73,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 33246,
-  "total_reviews": 38086,
-  "total_positive": 37065,
+  "recommendations_total": 33249,
+  "total_reviews": 38090,
+  "total_positive": 37069,
   "total_negative": 1021,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "va11halla",
@@ -100,5 +100,5 @@
     "LGBTQ+",
     "Choices Matter"
   ],
-  "fetched_at": "2026-05-02T04:45:58.769897+09:00"
+  "fetched_at": "2026-05-03T04:31:08.886419+09:00"
 }
