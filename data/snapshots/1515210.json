@@ -74,6 +74,12 @@
       "url_max": ""
     },
     {
+      "name": "The Past Within - Official Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914083/movie.293x165.jpg?t=1667390078",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Teaser Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819623/movie.293x165.jpg?t=1637072941",
       "url_480": "",
@@ -81,10 +87,10 @@
     }
   ],
   "demo_appid": 1905120,
-  "recommendations_total": 14264,
-  "total_reviews": 16403,
-  "total_positive": 15540,
-  "total_negative": 863,
+  "recommendations_total": 14266,
+  "total_reviews": 16406,
+  "total_positive": 15542,
+  "total_negative": 864,
   "review_score_desc": "Very Positive",
   "slug": "the-past-within",
   "recommend": "all",
@@ -109,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-05-02T04:45:58.769897+09:00"
+  "fetched_at": "2026-05-03T04:31:08.886419+09:00"
 }

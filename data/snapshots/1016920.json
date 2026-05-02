@@ -56,9 +56,9 @@
   "release_date": "2020年9月23日",
   "is_free": false,
   "price_initial": 280000,
-  "price_final": 42000,
-  "discount_percent": 85,
-  "price_formatted": "¥ 420",
+  "price_final": 280000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,800",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -90,9 +90,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13598,
-  "total_reviews": 19518,
-  "total_positive": 18198,
+  "recommendations_total": 13603,
+  "total_reviews": 19523,
+  "total_positive": 18203,
   "total_negative": 1320,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
@@ -119,5 +119,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-05-02T04:45:58.769897+09:00"
+  "fetched_at": "2026-05-03T04:31:08.886419+09:00"
 }
