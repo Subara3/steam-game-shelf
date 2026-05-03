@@ -61,9 +61,9 @@
   ],
   "movies": [],
   "demo_appid": null,
-  "recommendations_total": 3478,
-  "total_reviews": 4119,
-  "total_positive": 3873,
+  "recommendations_total": 3479,
+  "total_reviews": 4121,
+  "total_positive": 3875,
   "total_negative": 246,
   "review_score_desc": "Very Positive",
   "slug": "one-way-heroics",
@@ -88,5 +88,5 @@
     "Turn-Based",
     "JRPG"
   ],
-  "fetched_at": "2026-05-03T04:31:08.886419+09:00"
+  "fetched_at": "2026-05-04T04:31:30.348306+09:00"
 }
