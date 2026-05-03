@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 20226,
-  "total_reviews": 25574,
-  "total_positive": 25316,
+  "recommendations_total": 20233,
+  "total_reviews": 25583,
+  "total_positive": 25325,
   "total_negative": 258,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "aseprite",
@@ -83,8 +83,8 @@
     "アニメーション＆モデリング",
     "ソフトウェア",
     "ゲーム開発",
-    "2D",
     "ユーティリティ",
+    "2D",
     "インディー"
   ],
   "tags_en": [
@@ -93,9 +93,9 @@
     "Animation & Modeling",
     "Software",
     "Game Development",
-    "2D",
     "Utilities",
+    "2D",
     "Indie"
   ],
-  "fetched_at": "2026-05-03T04:31:08.886419+09:00"
+  "fetched_at": "2026-05-04T04:31:30.348306+09:00"
 }
