@@ -60,9 +60,9 @@
   "release_date": "2023年8月3日",
   "is_free": false,
   "price_initial": 849900,
-  "price_final": 849900,
-  "discount_percent": 0,
-  "price_formatted": "¥ 8,499",
+  "price_final": 637400,
+  "discount_percent": 25,
+  "price_formatted": "¥ 6,374",
   "currency": "JPY",
   "metacritic_score": 96,
   "platforms": {
@@ -118,10 +118,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 736813,
-  "total_reviews": 836863,
-  "total_positive": 810162,
-  "total_negative": 26701,
+  "recommendations_total": 736940,
+  "total_reviews": 837001,
+  "total_positive": 810297,
+  "total_negative": 26704,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -145,5 +145,5 @@
     "Sexual Content",
     "CRPG"
   ],
-  "fetched_at": "2026-05-04T04:31:30.348306+09:00"
+  "fetched_at": "2026-05-05T04:59:30.943504+09:00"
 }
