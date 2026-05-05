@@ -75,13 +75,19 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036155/movie.293x165.jpg?t=1747999029",
       "url_480": "",
       "url_max": ""
+    },
+    {
+      "name": "Official Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036992/movie.293x165.jpg?t=1447368566",
+      "url_480": "",
+      "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 137795,
-  "total_reviews": 158951,
-  "total_positive": 145762,
-  "total_negative": 13189,
+  "recommendations_total": 137809,
+  "total_reviews": 158968,
+  "total_positive": 145776,
+  "total_negative": 13192,
   "review_score_desc": "Very Positive",
   "slug": "darkest-dungeon",
   "recommend": "niche",
@@ -105,5 +111,5 @@
     "Difficult",
     "Turn-Based"
   ],
-  "fetched_at": "2026-05-05T04:59:30.943504+09:00"
+  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
 }
