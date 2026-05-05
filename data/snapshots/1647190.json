@@ -43,9 +43,9 @@
   "release_date": "2025年2月3日",
   "is_free": false,
   "price_initial": 152000,
-  "price_final": 121600,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,216",
+  "price_final": 152000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,520",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -98,5 +98,5 @@
     "Post-apocalyptic",
     "Agriculture"
   ],
-  "fetched_at": "2026-05-05T04:59:30.943504+09:00"
+  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
 }

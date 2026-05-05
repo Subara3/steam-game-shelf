@@ -40,9 +40,9 @@
   "release_date": "2017年9月25日",
   "is_free": false,
   "price_initial": 419000,
-  "price_final": 125700,
-  "discount_percent": 70,
-  "price_formatted": "¥ 1,257",
+  "price_final": 419000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,190",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": 589120,
-  "recommendations_total": 20882,
-  "total_reviews": 22165,
-  "total_positive": 18401,
-  "total_negative": 3764,
+  "recommendations_total": 20892,
+  "total_reviews": 22175,
+  "total_positive": 18409,
+  "total_negative": 3766,
   "review_score_desc": "Very Positive",
   "slug": "danganronpa-v3",
   "recommend": "niche",
@@ -95,5 +95,5 @@
     "Great Soundtrack",
     "Singleplayer"
   ],
-  "fetched_at": "2026-05-05T04:59:30.943504+09:00"
+  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
 }
