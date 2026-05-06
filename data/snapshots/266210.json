@@ -59,7 +59,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_1e761694d32a94f7905f67c1967f5da2a8e94489.1920x1080.jpg?t=1728470787",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266210/ss_6e2235a9c8df377514472f4e2659365132eb41bc.1920x1080.jpg?t=1728470787"
   ],
-  "movies": [],
+  "movies": [
+    {
+      "name": "One Way Heroics / 片道勇者  - Trailer -",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031022/movie.293x165.jpg?t=1447360504",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
   "demo_appid": null,
   "recommendations_total": 3479,
   "total_reviews": 4121,
@@ -88,5 +95,5 @@
     "Turn-Based",
     "JRPG"
   ],
-  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
+  "fetched_at": "2026-05-07T05:06:54.738625+09:00"
 }

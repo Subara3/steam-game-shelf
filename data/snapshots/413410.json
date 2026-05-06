@@ -74,10 +74,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 34255,
-  "total_reviews": 36526,
-  "total_positive": 35070,
-  "total_negative": 1456,
+  "recommendations_total": 34279,
+  "total_reviews": 36548,
+  "total_positive": 35091,
+  "total_negative": 1457,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-thh",
   "recommend": "niche",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
+  "fetched_at": "2026-05-07T05:06:54.738625+09:00"
 }

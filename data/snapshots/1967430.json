@@ -65,12 +65,18 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929705/movie.293x165.jpg?t=1678399297",
       "url_480": "",
       "url_max": ""
+    },
+    {
+      "name": "01_AA_BrandMovie_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060223/d31318bb714c46f4e56018bdc7b4fa82077937be/movie_600x337.jpg?t=1727757984",
+      "url_480": "",
+      "url_max": ""
     }
   ],
   "demo_appid": 1971230,
-  "recommendations_total": 6056,
-  "total_reviews": 8012,
-  "total_positive": 7822,
+  "recommendations_total": 6058,
+  "total_reviews": 8015,
+  "total_positive": 7825,
   "total_negative": 190,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "ghost-trick",
@@ -95,5 +101,5 @@
     "Singleplayer",
     "Visual Novel"
   ],
-  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
+  "fetched_at": "2026-05-07T05:06:54.738625+09:00"
 }
