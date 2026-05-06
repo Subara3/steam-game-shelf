@@ -88,9 +88,9 @@
     }
   ],
   "demo_appid": 3288620,
-  "recommendations_total": 7991,
-  "total_reviews": 8754,
-  "total_positive": 8192,
+  "recommendations_total": 7994,
+  "total_reviews": 8757,
+  "total_positive": 8195,
   "total_negative": 562,
   "review_score_desc": "Very Positive",
   "slug": "elin",
@@ -101,8 +101,8 @@
     "オープンワールド",
     "ローグライク",
     "RPG",
-    "JRPG",
     "ドット絵",
+    "JRPG",
     "伝統的ローグライク"
   ],
   "tags_en": [
@@ -111,9 +111,9 @@
     "Open World",
     "Roguelike",
     "RPG",
-    "JRPG",
     "Pixel Graphics",
+    "JRPG",
     "Traditional Roguelike"
   ],
-  "fetched_at": "2026-05-06T04:56:12.001344+09:00"
+  "fetched_at": "2026-05-07T05:06:54.738625+09:00"
 }
