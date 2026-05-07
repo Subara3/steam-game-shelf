@@ -7,8 +7,8 @@
   "short_description_ja": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
   "short_description_en": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
   "short_description": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/f9e9b212e2d5a11bb049e31639c80e49b231f427/header_alt_assets_1.jpg?t=1777913138",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/155ad421612945f71647fab095f8229d364aa21d/capsule_231x87_alt_assets_1.jpg?t=1777913138",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/f9e9b212e2d5a11bb049e31639c80e49b231f427/header_alt_assets_1.jpg?t=1778132039",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/155ad421612945f71647fab095f8229d364aa21d/capsule_231x87_alt_assets_1.jpg?t=1778132039",
   "developers": [
     "Panik Arcade"
   ],
@@ -64,11 +64,11 @@
   "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
   "website": "https://www.panikarcade.games/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1777913138",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1777913138",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1777913138",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1777913138",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1777913138"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1778132039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1778132039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1778132039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1778132039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1778132039"
   ],
   "movies": [
     {
@@ -79,10 +79,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 22422,
-  "total_reviews": 23516,
-  "total_positive": 21218,
-  "total_negative": 2298,
+  "recommendations_total": 22453,
+  "total_reviews": 23550,
+  "total_positive": 21250,
+  "total_negative": 2300,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -106,5 +106,5 @@
     "Dark Humor",
     "3D"
   ],
-  "fetched_at": "2026-05-07T05:06:54.738625+09:00"
+  "fetched_at": "2026-05-08T04:57:43.034031+09:00"
 }
