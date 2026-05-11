@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 43949,
-  "total_reviews": 47761,
-  "total_positive": 46718,
-  "total_negative": 1043,
+  "recommendations_total": 43954,
+  "total_reviews": 47767,
+  "total_positive": 46725,
+  "total_negative": 1042,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "volcano-princess",
   "recommend": "niche",
@@ -109,5 +109,5 @@
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-05-11T04:38:40.396771+09:00"
+  "fetched_at": "2026-05-12T05:11:20.582241+09:00"
 }
