@@ -42,9 +42,9 @@
   "release_date": "2021年10月19日",
   "is_free": false,
   "price_initial": 205000,
-  "price_final": 82000,
-  "discount_percent": 60,
-  "price_formatted": "¥ 820",
+  "price_final": 205000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,050",
   "currency": "JPY",
   "metacritic_score": 85,
   "platforms": {
@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 131273,
-  "total_reviews": 144286,
-  "total_positive": 139749,
-  "total_negative": 4537,
+  "recommendations_total": 131331,
+  "total_reviews": 144351,
+  "total_positive": 139810,
+  "total_negative": 4541,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "inscryption",
   "recommend": "niche",
@@ -103,5 +103,5 @@
     "Puzzle",
     "Roguelike"
   ],
-  "fetched_at": "2026-05-11T04:38:40.396771+09:00"
+  "fetched_at": "2026-05-12T05:11:20.582241+09:00"
 }
