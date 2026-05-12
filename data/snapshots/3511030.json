@@ -42,9 +42,9 @@
   "release_date": "2025年3月30日",
   "is_free": false,
   "price_initial": 49000,
-  "price_final": 49000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 490",
+  "price_final": 29400,
+  "discount_percent": 40,
+  "price_formatted": "¥ 294",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -97,5 +97,5 @@
     "Relaxing",
     "Indie"
   ],
-  "fetched_at": "2026-05-12T05:11:20.582241+09:00"
+  "fetched_at": "2026-05-13T05:12:39.163502+09:00"
 }
