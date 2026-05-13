@@ -118,10 +118,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 738031,
-  "total_reviews": 838269,
-  "total_positive": 811499,
-  "total_negative": 26770,
+  "recommendations_total": 738175,
+  "total_reviews": 838415,
+  "total_positive": 811633,
+  "total_negative": 26782,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -145,5 +145,5 @@
     "Sexual Content",
     "CRPG"
   ],
-  "fetched_at": "2026-05-13T05:12:39.163502+09:00"
+  "fetched_at": "2026-05-14T05:15:58.421304+09:00"
 }

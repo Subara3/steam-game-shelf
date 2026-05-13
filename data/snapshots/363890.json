@@ -48,9 +48,9 @@
   "release_date": "2017年1月19日",
   "is_free": false,
   "price_initial": 870000,
-  "price_final": 870000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 8,700",
+  "price_final": 130500,
+  "discount_percent": 85,
+  "price_formatted": "¥ 1,305",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -76,9 +76,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 7316,
-  "total_reviews": 8796,
-  "total_positive": 7990,
+  "recommendations_total": 7317,
+  "total_reviews": 8797,
+  "total_positive": 7991,
   "total_negative": 806,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mv",
@@ -103,5 +103,5 @@
     "Web Publishing",
     "JRPG"
   ],
-  "fetched_at": "2026-05-13T05:12:39.163502+09:00"
+  "fetched_at": "2026-05-14T05:15:58.421304+09:00"
 }
