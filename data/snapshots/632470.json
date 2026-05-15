@@ -7,8 +7,8 @@
   "short_description_ja": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
   "short_description_en": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
   "short_description": "Disco Elysium は画期的なロールプレイング ゲームです。 あなたは独自のスキル システムを自由に使える探偵であり、街のブロック全体を切り開いて道を切り開いていきます。 忘れられない人物を尋問し、殺人を犯し、賄賂を受け取ります。 ヒーローになるか、人間の絶対的な災害になります。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1776259942",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/capsule_231x87.jpg?t=1776259942",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1778854831",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/capsule_231x87.jpg?t=1778854831",
   "developers": [
     "ZA/UM"
   ],
@@ -51,11 +51,11 @@
   "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）, スペイン語 - スペイン, 韓国語, ポルトガル語－ブラジル, フランス語, ドイツ語, 中国語（繁体字）, ロシア語, ポーランド語, 日本語, トルコ語, アラビア語<br><strong>*</strong>フル音声対応言語",
   "website": "http://www.zaumstudio.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b3694e99ffdb686d1bbbbe16a540d3d2ccd509c4.1920x1080.jpg?t=1776259942",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_9125a718ee9ba85386ae5d4eb820f3266073fc97.1920x1080.jpg?t=1776259942",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_4f5fdc3cf42feca8dafb1f7d2910ef96e62708a2.1920x1080.jpg?t=1776259942",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fc6969799ebf19fd2a2c8a986c9419e053606a17.1920x1080.jpg?t=1776259942",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_dec29c440fab2f7817d68c1380c019290eb1755e.1920x1080.jpg?t=1776259942"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b3694e99ffdb686d1bbbbe16a540d3d2ccd509c4.1920x1080.jpg?t=1778854831",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_9125a718ee9ba85386ae5d4eb820f3266073fc97.1920x1080.jpg?t=1778854831",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_4f5fdc3cf42feca8dafb1f7d2910ef96e62708a2.1920x1080.jpg?t=1778854831",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fc6969799ebf19fd2a2c8a986c9419e053606a17.1920x1080.jpg?t=1778854831",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_dec29c440fab2f7817d68c1380c019290eb1755e.1920x1080.jpg?t=1778854831"
   ],
   "movies": [
     {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 114164,
-  "total_reviews": 126378,
-  "total_positive": 117117,
-  "total_negative": 9261,
+  "recommendations_total": 114185,
+  "total_reviews": 126408,
+  "total_positive": 117144,
+  "total_negative": 9264,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Point & Click"
   ],
-  "fetched_at": "2026-05-15T05:11:19.679836+09:00"
+  "fetched_at": "2026-05-16T04:57:46.594795+09:00"
 }

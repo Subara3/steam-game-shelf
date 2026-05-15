@@ -118,18 +118,18 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 738282,
-  "total_reviews": 838539,
-  "total_positive": 811748,
-  "total_negative": 26791,
+  "recommendations_total": 738423,
+  "total_reviews": 838701,
+  "total_positive": 811901,
+  "total_negative": 26800,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
   "tags_ja": [
     "RPG",
     "キャラクターカスタマイズ",
-    "選択型進行",
     "ダンジョンズ＆ドラゴンズ",
+    "選択型進行",
     "ターン制コンバット",
     "物語性",
     "性的表現",
@@ -138,12 +138,12 @@
   "tags_en": [
     "RPG",
     "Character Customization",
-    "Choices Matter",
     "Dungeons & Dragons",
+    "Choices Matter",
     "Turn-Based Combat",
     "Story Rich",
     "Sexual Content",
     "CRPG"
   ],
-  "fetched_at": "2026-05-15T05:11:19.679836+09:00"
+  "fetched_at": "2026-05-16T04:57:46.594795+09:00"
 }
