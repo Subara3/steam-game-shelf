@@ -87,9 +87,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1861,
-  "total_reviews": 2240,
-  "total_positive": 1920,
+  "recommendations_total": 1864,
+  "total_reviews": 2243,
+  "total_positive": 1923,
   "total_negative": 320,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mz",
@@ -114,5 +114,5 @@
     "Singleplayer",
     "Party-Based RPG"
   ],
-  "fetched_at": "2026-05-16T04:57:46.594795+09:00"
+  "fetched_at": "2026-05-17T04:37:14.365369+09:00"
 }
