@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4381,
-  "total_reviews": 4923,
-  "total_positive": 4464,
-  "total_negative": 459,
+  "recommendations_total": 4385,
+  "total_reviews": 4928,
+  "total_positive": 4470,
+  "total_negative": 458,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -109,5 +109,5 @@
     "Relaxing",
     "3D"
   ],
-  "fetched_at": "2026-05-17T04:37:14.365369+09:00"
+  "fetched_at": "2026-05-18T04:42:48.566566+09:00"
 }
