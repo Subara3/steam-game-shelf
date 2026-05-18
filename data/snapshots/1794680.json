@@ -90,32 +90,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 248403,
-  "total_reviews": 262207,
-  "total_positive": 257878,
-  "total_negative": 4329,
+  "recommendations_total": 248439,
+  "total_reviews": 262246,
+  "total_positive": 257914,
+  "total_negative": 4332,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
   "tags_ja": [
+    "Bullet Heaven",
     "ローグライクアクション",
     "弾幕",
+    "吸血鬼",
     "ローグライト",
     "ドット絵",
-    "吸血鬼",
     "2D",
-    "インディー",
-    "シングルプレイヤー"
+    "インディー"
   ],
   "tags_en": [
+    "Bullet Heaven",
     "Action Roguelike",
     "Bullet Hell",
+    "Vampires",
     "Roguelite",
     "Pixel Graphics",
-    "Vampire",
     "2D",
-    "Indie",
-    "Singleplayer"
+    "Indie"
   ],
-  "fetched_at": "2026-05-18T04:42:48.566566+09:00"
+  "fetched_at": "2026-05-19T05:09:17.141075+09:00"
 }

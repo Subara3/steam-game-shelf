@@ -76,32 +76,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 7321,
-  "total_reviews": 8801,
-  "total_positive": 7994,
+  "recommendations_total": 7322,
+  "total_reviews": 8802,
+  "total_positive": 7995,
   "total_negative": 807,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mv",
   "recommend": "all",
   "tags_ja": [
     "RPG",
-    "RPG作成",
     "ゲーム開発",
     "アニメ",
-    "ゲーム作成",
     "デザイン＆イラストレーション",
-    "Webパブリッシング",
-    "JRPG"
+    "JRPG",
+    "ソフトウェア",
+    "2D",
+    "シングルプレイヤー"
   ],
   "tags_en": [
     "RPG",
-    "RPGMaker",
     "Game Development",
     "Anime",
-    "GameMaker",
     "Design & Illustration",
-    "Web Publishing",
-    "JRPG"
+    "JRPG",
+    "Software",
+    "2D",
+    "Singleplayer"
   ],
-  "fetched_at": "2026-05-18T04:42:48.566566+09:00"
+  "fetched_at": "2026-05-19T05:09:17.141075+09:00"
 }

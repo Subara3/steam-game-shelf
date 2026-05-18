@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 8909,
-  "total_reviews": 9765,
+  "recommendations_total": 8908,
+  "total_reviews": 9764,
   "total_positive": 8770,
-  "total_negative": 995,
+  "total_negative": 994,
   "review_score_desc": "Very Positive",
   "slug": "world-of-horror",
   "recommend": "niche",
@@ -86,7 +86,7 @@
     "精神的恐怖",
     "ポイント＆クリック",
     "ローグライト",
-    "2D"
+    "高難易度"
   ],
   "tags_en": [
     "Horror",
@@ -96,7 +96,7 @@
     "Psychological Horror",
     "Point & Click",
     "Roguelite",
-    "2D"
+    "Difficult"
   ],
-  "fetched_at": "2026-05-18T04:42:48.566566+09:00"
+  "fetched_at": "2026-05-19T05:09:17.141075+09:00"
 }

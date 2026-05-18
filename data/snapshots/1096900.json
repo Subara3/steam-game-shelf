@@ -96,23 +96,23 @@
   "recommend": "all",
   "tags_ja": [
     "RPG",
-    "RPG作成",
     "ゲーム開発",
     "アニメ",
     "JRPG",
     "2D",
     "シングルプレイヤー",
-    "パーティー制RPG"
+    "パーティー制RPG",
+    "見下ろし型"
   ],
   "tags_en": [
     "RPG",
-    "RPGMaker",
     "Game Development",
     "Anime",
     "JRPG",
     "2D",
     "Singleplayer",
-    "Party-Based RPG"
+    "Party-Based RPG",
+    "Top-Down"
   ],
-  "fetched_at": "2026-05-18T04:42:48.566566+09:00"
+  "fetched_at": "2026-05-19T05:09:17.141075+09:00"
 }
