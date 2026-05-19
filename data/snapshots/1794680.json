@@ -90,15 +90,15 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 248439,
-  "total_reviews": 262246,
-  "total_positive": 257914,
+  "recommendations_total": 248463,
+  "total_reviews": 262272,
+  "total_positive": 257940,
   "total_negative": 4332,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
   "tags_ja": [
-    "Bullet Heaven",
+    "弾幕天国",
     "ローグライクアクション",
     "弾幕",
     "吸血鬼",
@@ -117,5 +117,5 @@
     "2D",
     "Indie"
   ],
-  "fetched_at": "2026-05-19T05:09:17.141075+09:00"
+  "fetched_at": "2026-05-20T05:09:46.881925+09:00"
 }
