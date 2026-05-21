@@ -7,8 +7,8 @@
   "short_description_ja": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
   "short_description_en": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
   "short_description": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header_japanese.jpg?t=1765445802",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg?t=1765445802",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header_japanese.jpg?t=1779381591",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg?t=1779381591",
   "developers": [
     "Monster Couch"
   ],
@@ -66,11 +66,11 @@
   "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語<strong>*</strong>, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）<strong>*</strong>, ウクライナ語<br><strong>*</strong>フル音声対応言語",
   "website": "https://www.monstercouch.com/wingspan/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_429a47fc72580783b66277617cbc38ca8cce0264.1920x1080.jpg?t=1765445802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_966a797c75c4d91814a8f784b80092d8e8da958b.1920x1080.jpg?t=1765445802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_4447e3d314ed12ee2768ba5cabf060abb75d71e2.1920x1080.jpg?t=1765445802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_5c0346c526ee4d26e594e44068eba36b17d18e9d.1920x1080.jpg?t=1765445802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a33eee7e8738ae5727a5824669f6cc47de58d3db.1920x1080.jpg?t=1765445802"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_429a47fc72580783b66277617cbc38ca8cce0264.1920x1080.jpg?t=1779381591",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_966a797c75c4d91814a8f784b80092d8e8da958b.1920x1080.jpg?t=1779381591",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_4447e3d314ed12ee2768ba5cabf060abb75d71e2.1920x1080.jpg?t=1779381591",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_5c0346c526ee4d26e594e44068eba36b17d18e9d.1920x1080.jpg?t=1779381591",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a33eee7e8738ae5727a5824669f6cc47de58d3db.1920x1080.jpg?t=1779381591"
   ],
   "movies": [
     {
@@ -93,9 +93,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9488,
-  "total_reviews": 11616,
-  "total_positive": 10951,
+  "recommendations_total": 9491,
+  "total_reviews": 11620,
+  "total_positive": 10955,
   "total_negative": 665,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
@@ -120,5 +120,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-05-21T05:32:27.026982+09:00"
+  "fetched_at": "2026-05-22T05:16:50.229661+09:00"
 }
