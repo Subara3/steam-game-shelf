@@ -42,9 +42,9 @@
   "release_date": "2023年1月12日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 99000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 990",
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -97,5 +97,5 @@
     "Life Sim",
     "Sandbox"
   ],
-  "fetched_at": "2026-05-24T04:41:48.346994+09:00"
+  "fetched_at": "2026-05-25T04:45:08.001282+09:00"
 }
