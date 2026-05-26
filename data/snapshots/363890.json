@@ -48,9 +48,9 @@
   "release_date": "2017年1月19日",
   "is_free": false,
   "price_initial": 870000,
-  "price_final": 130500,
-  "discount_percent": 85,
-  "price_formatted": "¥ 1,305",
+  "price_final": 870000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,700",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 7328,
-  "total_reviews": 8810,
-  "total_positive": 8005,
-  "total_negative": 805,
+  "recommendations_total": 7331,
+  "total_reviews": 8812,
+  "total_positive": 8006,
+  "total_negative": 806,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mv",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "2D",
     "Singleplayer"
   ],
-  "fetched_at": "2026-05-26T05:06:55.920531+09:00"
+  "fetched_at": "2026-05-27T05:28:18.784164+09:00"
 }
