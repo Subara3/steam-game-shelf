@@ -77,9 +77,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23420,
-  "total_reviews": 25320,
-  "total_positive": 24739,
+  "recommendations_total": 23444,
+  "total_reviews": 25346,
+  "total_positive": 24765,
   "total_negative": 581,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "there-is-no-game",
@@ -104,5 +104,5 @@
     "Comedy",
     "Casual"
   ],
-  "fetched_at": "2026-05-30T05:40:22.616283+09:00"
+  "fetched_at": "2026-05-31T04:46:42.336138+09:00"
 }
