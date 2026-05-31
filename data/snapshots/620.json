@@ -185,10 +185,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 384257,
-  "total_reviews": 460002,
-  "total_positive": 454050,
-  "total_negative": 5952,
+  "recommendations_total": 384316,
+  "total_reviews": 460063,
+  "total_positive": 454112,
+  "total_negative": 5951,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
   "recommend": "all",
@@ -213,5 +213,5 @@
     "Puzzle Platformer",
     "Funny"
   ],
-  "fetched_at": "2026-05-31T04:46:42.336138+09:00"
+  "fetched_at": "2026-06-01T04:47:06.763412+09:00"
 }
