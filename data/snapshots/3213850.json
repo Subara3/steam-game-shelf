@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4420,
-  "total_reviews": 4967,
-  "total_positive": 4506,
-  "total_negative": 461,
+  "recommendations_total": 4425,
+  "total_reviews": 4972,
+  "total_positive": 4510,
+  "total_negative": 462,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -95,8 +95,8 @@
     "サンドボックス",
     "ユーティリティ",
     "マルチプレイヤー",
-    "心地よい",
     "リラックス",
+    "心地よい",
     "3D"
   ],
   "tags_en": [
@@ -105,9 +105,9 @@
     "Sandbox",
     "Utilities",
     "Multiplayer",
-    "Cozy",
     "Relaxing",
+    "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-06-01T04:47:06.763412+09:00"
+  "fetched_at": "2026-06-02T06:46:22.386418+09:00"
 }

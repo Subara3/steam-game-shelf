@@ -92,10 +92,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 45151,
-  "total_reviews": 48454,
-  "total_positive": 44248,
-  "total_negative": 4206,
+  "recommendations_total": 45220,
+  "total_reviews": 48535,
+  "total_positive": 44303,
+  "total_negative": 4232,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -103,8 +103,8 @@
     "ターン制戦略",
     "ローグライト",
     "毒のあるユーモア",
-    "ターン制ストラテジー",
     "猫",
+    "ターン制ストラテジー",
     "ターン制コンバット",
     "RPG",
     "笑える"
@@ -113,11 +113,11 @@
     "Turn-Based Tactics",
     "Roguelite",
     "Dark Humor",
-    "Turn-Based Strategy",
     "Cats",
+    "Turn-Based Strategy",
     "Turn-Based Combat",
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-06-01T04:47:06.763412+09:00"
+  "fetched_at": "2026-06-02T06:46:22.386418+09:00"
 }
