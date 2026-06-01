@@ -44,9 +44,9 @@
   "release_date": "2016年1月19日",
   "is_free": false,
   "price_initial": 290000,
-  "price_final": 43500,
-  "discount_percent": 85,
-  "price_formatted": "¥ 435",
+  "price_final": 290000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,900",
   "currency": "JPY",
   "metacritic_score": 84,
   "platforms": {
@@ -84,10 +84,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 138376,
-  "total_reviews": 159640,
-  "total_positive": 146362,
-  "total_negative": 13278,
+  "recommendations_total": 138410,
+  "total_reviews": 159676,
+  "total_positive": 146394,
+  "total_negative": 13282,
   "review_score_desc": "Very Positive",
   "slug": "darkest-dungeon",
   "recommend": "niche",
@@ -111,5 +111,5 @@
     "Difficult",
     "Turn-Based"
   ],
-  "fetched_at": "2026-06-01T04:47:06.763412+09:00"
+  "fetched_at": "2026-06-02T06:46:22.386418+09:00"
 }
