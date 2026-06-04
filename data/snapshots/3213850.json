@@ -84,8 +84,8 @@
   "demo_appid": null,
   "recommendations_total": 4427,
   "total_reviews": 4974,
-  "total_positive": 4513,
-  "total_negative": 461,
+  "total_positive": 4514,
+  "total_negative": 460,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -109,5 +109,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-06-04T06:33:02.151987+09:00"
+  "fetched_at": "2026-06-05T05:29:24.281116+09:00"
 }
