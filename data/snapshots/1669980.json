@@ -48,9 +48,9 @@
   "release_date": "2023年4月20日",
   "is_free": false,
   "price_initial": 130000,
-  "price_final": 130000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,300",
+  "price_final": 84500,
+  "discount_percent": 35,
+  "price_formatted": "¥ 845",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -82,9 +82,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 44100,
-  "total_reviews": 47951,
-  "total_positive": 46906,
+  "recommendations_total": 44102,
+  "total_reviews": 47956,
+  "total_positive": 46911,
   "total_negative": 1045,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "volcano-princess",
@@ -109,5 +109,5 @@
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-06-04T06:33:02.151987+09:00"
+  "fetched_at": "2026-06-05T05:29:24.281116+09:00"
 }
