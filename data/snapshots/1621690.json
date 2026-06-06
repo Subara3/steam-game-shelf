@@ -1,0 +1,117 @@
+{
+  "appid": 1621690,
+  "required_age": 0,
+  "name_ja": "Core Keeper",
+  "name_en": "Core Keeper",
+  "name": "Core Keeper",
+  "short_description_ja": "1から8人のプレイヤー対応の採掘サンドボックスアドベンチャーで、クリーチャーやレリック、資源が潜む無限の洞窟を探索しよう。採掘、建設、バトル、クラフト、そして農業し、古代のコアの謎を解き明かせ。",
+  "short_description_en": "Explore a vast cavern of creatures, relics and resources in a mining sandbox adventure for 1-8 players. Mine, build, fight, craft and farm to unravel the mystery of the ancient Core.",
+  "short_description": "1から8人のプレイヤー対応の採掘サンドボックスアドベンチャーで、クリーチャーやレリック、資源が潜む無限の洞窟を探索しよう。採掘、建設、バトル、クラフト、そして農業し、古代のコアの謎を解き明かせ。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg?t=1780488019",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_231x87.jpg?t=1780488019",
+  "developers": [
+    "Pugstorm"
+  ],
+  "publishers": [
+    "Fireshine Games",
+    "bilibili"
+  ],
+  "genres_ja": [
+    "アクション",
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "genres_en": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "インディー",
+    "RPG",
+    "シミュレーション"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "マルチプレイヤー",
+    "協力プレイ",
+    "オンライン協力プレイ",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2024年8月27日",
+  "release_date_en": "27 Aug, 2024",
+  "release_date": "2024年8月27日",
+  "is_free": false,
+  "price_initial": 230000,
+  "price_final": 138000,
+  "discount_percent": 40,
+  "price_formatted": "¥ 1,380",
+  "currency": "JPY",
+  "metacritic_score": 86,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "supported_languages": "英語, 中国語（簡体字）, タイ語, ドイツ語, 日本語, 韓国語, スペイン語 - スペイン, フランス語, イタリア語, ポルトガル語－ブラジル, 中国語（繁体字）, ロシア語, ウクライナ語",
+  "website": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/632a42b91e005b2d2daf99fee946732c95a9737c/ss_632a42b91e005b2d2daf99fee946732c95a9737c.1920x1080.jpg?t=1780488019",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/bca1feb5ec1bf64543f80c74effdcaed4216033c/ss_bca1feb5ec1bf64543f80c74effdcaed4216033c.1920x1080.jpg?t=1780488019",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/804585b7772d3ae5c7d56fc80401469d5bf6fd27/ss_804585b7772d3ae5c7d56fc80401469d5bf6fd27.1920x1080.jpg?t=1780488019",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_1e162c49418038f8042c92810fe3c753449e204b.1920x1080.jpg?t=1780488019",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_2a6cdb26200932593b4edd5ab3d1cc2da5bc15ee.1920x1080.jpg?t=1780488019"
+  ],
+  "movies": [
+    {
+      "name": "Void and Voltage - Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294260/d9e2a3dc8a4a3636806cef1702f4944e7cc890c9/movie_600x337.jpg?t=1772014474",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Bags and Blasts ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257192050/578598a18bd3567b26d4a89fbbe9ab37138af972/movie_600x337.jpg?t=1756801461",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 48748,
+  "total_reviews": 64702,
+  "total_positive": 60132,
+  "total_negative": 4570,
+  "review_score_desc": "Very Positive",
+  "slug": "core-keeper",
+  "recommend": "all",
+  "multi": true,
+  "tags_ja": [
+    "オープンワールド",
+    "サバイバル",
+    "探検",
+    "マルチプレイヤー",
+    "ドット絵",
+    "サンドボックス",
+    "クラフト",
+    "建設"
+  ],
+  "tags_en": [
+    "Open World",
+    "Survival",
+    "Exploration",
+    "Multiplayer",
+    "Pixel Graphics",
+    "Sandbox",
+    "Crafting",
+    "Building"
+  ],
+  "fetched_at": "2026-06-07T03:22:14.369572+09:00"
+}
