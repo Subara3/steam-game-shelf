@@ -51,9 +51,9 @@
   "release_date": "2024年8月27日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 138000,
-  "discount_percent": 40,
-  "price_formatted": "¥ 1,380",
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
   "currency": "JPY",
   "metacritic_score": 86,
   "platforms": {
@@ -85,10 +85,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 48751,
-  "total_reviews": 64705,
-  "total_positive": 60134,
-  "total_negative": 4571,
+  "recommendations_total": 48769,
+  "total_reviews": 64734,
+  "total_positive": 60162,
+  "total_negative": 4572,
   "review_score_desc": "Very Positive",
   "slug": "core-keeper",
   "recommend": "all",
@@ -97,8 +97,8 @@
     "オープンワールド",
     "サバイバル",
     "探検",
-    "マルチプレイヤー",
     "ドット絵",
+    "マルチプレイヤー",
     "サンドボックス",
     "クラフト",
     "建設"
@@ -107,11 +107,11 @@
     "Open World",
     "Survival",
     "Exploration",
-    "Multiplayer",
     "Pixel Graphics",
+    "Multiplayer",
     "Sandbox",
     "Crafting",
     "Building"
   ],
-  "fetched_at": "2026-06-07T04:51:16.815589+09:00"
+  "fetched_at": "2026-06-08T04:52:25.866358+09:00"
 }
