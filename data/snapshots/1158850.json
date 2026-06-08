@@ -37,9 +37,9 @@
   "release_date": "2021年7月28日",
   "is_free": false,
   "price_initial": 499000,
-  "price_final": 199600,
-  "discount_percent": 60,
-  "price_formatted": "¥ 1,996",
+  "price_final": 499000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,990",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -110,5 +110,5 @@
     "3D",
     "Story Rich"
   ],
-  "fetched_at": "2026-06-08T04:52:25.866358+09:00"
+  "fetched_at": "2026-06-09T05:37:12.290908+09:00"
 }
