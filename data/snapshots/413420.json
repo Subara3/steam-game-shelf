@@ -7,8 +7,8 @@
   "short_description_ja": "ジャバウォック島でモノクマの陰謀によって絶望的なコロシアイを強いられる！ 生き残る手段は島の謎を解き明かすことだけだ。",
   "short_description_en": "Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.",
   "short_description": "ジャバウォック島でモノクマの陰謀によって絶望的なコロシアイを強いられる！ 生き残る手段は島の謎を解き明かすことだけだ。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header_japanese.jpg?t=1750134103",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/capsule_231x87_japanese.jpg?t=1750134103",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header_japanese.jpg?t=1781085654",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/capsule_231x87_japanese.jpg?t=1781085654",
   "developers": [
     "Spike Chunsoft Co., Ltd.",
     "Abstraction Games"
@@ -53,11 +53,11 @@
   "supported_languages": "英語<strong>*</strong>, 日本語<strong>*</strong>, 中国語（繁体字）<br><strong>*</strong>フル音声対応言語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_ae539881f039547bd54a406cb077cf2d4f62fdee.1920x1080.jpg?t=1750134103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_46a1f84049a33f21967ed33f66c971f399e2d744.1920x1080.jpg?t=1750134103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_a2ea3324d77860ef71e92d388281dfaf77197796.1920x1080.jpg?t=1750134103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_f1869e4e5f21bfccd43f1c496c3a2a1928dcfe8b.1920x1080.jpg?t=1750134103",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_07f8b56ca168eba9a06f4d77b0f97a2ebe1378aa.1920x1080.jpg?t=1750134103"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_ae539881f039547bd54a406cb077cf2d4f62fdee.1920x1080.jpg?t=1781085654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_46a1f84049a33f21967ed33f66c971f399e2d744.1920x1080.jpg?t=1781085654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_a2ea3324d77860ef71e92d388281dfaf77197796.1920x1080.jpg?t=1781085654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_f1869e4e5f21bfccd43f1c496c3a2a1928dcfe8b.1920x1080.jpg?t=1781085654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_07f8b56ca168eba9a06f4d77b0f97a2ebe1378aa.1920x1080.jpg?t=1781085654"
   ],
   "movies": [
     {
@@ -74,10 +74,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 29771,
-  "total_reviews": 31539,
-  "total_positive": 30217,
-  "total_negative": 1322,
+  "recommendations_total": 29782,
+  "total_reviews": 31554,
+  "total_positive": 30233,
+  "total_negative": 1321,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-2",
   "recommend": "niche",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-06-10T05:23:25.789425+09:00"
+  "fetched_at": "2026-06-11T06:04:40.587515+09:00"
 }
