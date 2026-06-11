@@ -64,9 +64,9 @@
   "release_date": "2015年4月23日",
   "is_free": false,
   "price_initial": 170000,
-  "price_final": 170000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,700",
+  "price_final": 34000,
+  "discount_percent": 80,
+  "price_formatted": "¥ 340",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -104,9 +104,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23431,
-  "total_reviews": 26324,
-  "total_positive": 25141,
+  "recommendations_total": 23433,
+  "total_reviews": 26326,
+  "total_positive": 25143,
   "total_negative": 1183,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "crypt-of-the-necrodancer",
@@ -133,5 +133,5 @@
     "Difficult",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-06-11T06:04:40.587515+09:00"
+  "fetched_at": "2026-06-12T05:40:11.721168+09:00"
 }

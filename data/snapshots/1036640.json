@@ -33,9 +33,9 @@
   "release_date": "2025年8月28日",
   "is_free": false,
   "price_initial": 920000,
-  "price_final": 920000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 9,200",
+  "price_final": 644000,
+  "discount_percent": 30,
+  "price_formatted": "¥ 6,440",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -98,5 +98,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-06-11T06:04:40.587515+09:00"
+  "fetched_at": "2026-06-12T05:40:11.721168+09:00"
 }
