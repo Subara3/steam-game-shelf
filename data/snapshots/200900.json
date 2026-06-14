@@ -7,8 +7,8 @@
   "short_description_ja": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description_en": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/23d8972e068689b1d688f20972fa343813e0431f/header.jpg?t=1780990188",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/b33f9c291f8b710eb7f61ca0241a88541ff56438/capsule_231x87.jpg?t=1780990188",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/23d8972e068689b1d688f20972fa343813e0431f/header.jpg?t=1781395150",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/b33f9c291f8b710eb7f61ca0241a88541ff56438/capsule_231x87.jpg?t=1781395150",
   "developers": [
     "Nicalis, Inc.",
     "Studio Pixel"
@@ -33,8 +33,11 @@
   ],
   "categories": [
     "シングルプレイヤー",
+    "マルチプレイヤー",
     "Steam実績",
-    "部分的コントローラサポート",
+    "フルコントローラサポート",
+    "Steamクラウド",
+    "Remote Play Together",
     "ファミリーシェアリング"
   ],
   "release_date_ja": "2011年11月22日",
@@ -52,14 +55,14 @@
     "mac": false,
     "linux": false
   },
-  "supported_languages": "英語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
+  "supported_languages": "英語, 日本語",
   "website": "http://www.nicalis.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/7994e97f90eda625856793b52147ae5dba6f8221/ss_7994e97f90eda625856793b52147ae5dba6f8221.1920x1080.jpg?t=1780990188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/96b070abddf72b12eeceacf96c73be772b1715ee/ss_96b070abddf72b12eeceacf96c73be772b1715ee.1920x1080.jpg?t=1780990188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/e9d4c0f0b0a44b3025d74b4f43471078fb9936e2/ss_e9d4c0f0b0a44b3025d74b4f43471078fb9936e2.1920x1080.jpg?t=1780990188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/9976cbb8c8857520cc9ea0a175777a760701c1f5/ss_9976cbb8c8857520cc9ea0a175777a760701c1f5.1920x1080.jpg?t=1780990188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/c8aa12807e840307e2ba1f1643ad257fc71c5717/ss_c8aa12807e840307e2ba1f1643ad257fc71c5717.1920x1080.jpg?t=1780990188"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/7994e97f90eda625856793b52147ae5dba6f8221/ss_7994e97f90eda625856793b52147ae5dba6f8221.1920x1080.jpg?t=1781395150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/96b070abddf72b12eeceacf96c73be772b1715ee/ss_96b070abddf72b12eeceacf96c73be772b1715ee.1920x1080.jpg?t=1781395150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/e9d4c0f0b0a44b3025d74b4f43471078fb9936e2/ss_e9d4c0f0b0a44b3025d74b4f43471078fb9936e2.1920x1080.jpg?t=1781395150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/9976cbb8c8857520cc9ea0a175777a760701c1f5/ss_9976cbb8c8857520cc9ea0a175777a760701c1f5.1920x1080.jpg?t=1781395150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/c8aa12807e840307e2ba1f1643ad257fc71c5717/ss_c8aa12807e840307e2ba1f1643ad257fc71c5717.1920x1080.jpg?t=1781395150"
   ],
   "movies": [
     {
@@ -70,33 +73,33 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5007,
+  "recommendations_total": 5008,
   "total_reviews": 8082,
-  "total_positive": 7509,
-  "total_negative": 573,
+  "total_positive": 7511,
+  "total_negative": 571,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
   "recommend": "all",
   "by": "both",
   "tags_ja": [
-    "プラットフォーム",
+    "探検",
     "メトロイドヴァニア",
-    "インディー",
-    "良質サントラ",
-    "ドット絵",
-    "アクション",
-    "アドベンチャー",
-    "2D"
+    "高難易度",
+    "プラットフォーム",
+    "シューティング",
+    "2D",
+    "かわいい",
+    "物語性"
   ],
   "tags_en": [
-    "Platformer",
+    "Exploration",
     "Metroidvania",
-    "Indie",
-    "Great Soundtrack",
-    "Pixel Graphics",
-    "Action",
-    "Adventure",
-    "2D"
+    "Difficult",
+    "Platformer",
+    "Shooter",
+    "2D",
+    "Cute",
+    "Story Rich"
   ],
-  "fetched_at": "2026-06-14T04:59:17.374273+09:00"
+  "fetched_at": "2026-06-15T05:03:38.511190+09:00"
 }
