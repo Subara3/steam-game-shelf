@@ -42,9 +42,9 @@
   "release_date": "2025年3月30日",
   "is_free": false,
   "price_initial": 49000,
-  "price_final": 49000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 490",
+  "price_final": 24500,
+  "discount_percent": 50,
+  "price_formatted": "¥ 245",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": 3550820,
-  "recommendations_total": 2864,
-  "total_reviews": 3088,
-  "total_positive": 2997,
+  "recommendations_total": 2872,
+  "total_reviews": 3099,
+  "total_positive": 3008,
   "total_negative": 91,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "mini-cozy-room",
@@ -97,5 +97,5 @@
     "Relaxing",
     "Indie"
   ],
-  "fetched_at": "2026-06-15T05:03:38.511190+09:00"
+  "fetched_at": "2026-06-16T06:28:54.198720+09:00"
 }
