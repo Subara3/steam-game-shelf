@@ -101,10 +101,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5412,
-  "total_reviews": 7794,
-  "total_positive": 5669,
-  "total_negative": 2125,
+  "recommendations_total": 5417,
+  "total_reviews": 7803,
+  "total_positive": 5675,
+  "total_negative": 2128,
   "review_score_desc": "Mostly Positive",
   "slug": "overcooked-ayce",
   "recommend": "all",
@@ -129,5 +129,5 @@
     "Family Friendly",
     "Local Multiplayer"
   ],
-  "fetched_at": "2026-06-16T06:28:54.198720+09:00"
+  "fetched_at": "2026-06-17T06:23:28.663515+09:00"
 }

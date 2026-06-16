@@ -90,10 +90,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 249236,
-  "total_reviews": 263113,
-  "total_positive": 258743,
-  "total_negative": 4370,
+  "recommendations_total": 249270,
+  "total_reviews": 263150,
+  "total_positive": 258778,
+  "total_negative": 4372,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
@@ -117,5 +117,5 @@
     "2D",
     "Indie"
   ],
-  "fetched_at": "2026-06-16T06:28:54.198720+09:00"
+  "fetched_at": "2026-06-17T06:23:28.663515+09:00"
 }
