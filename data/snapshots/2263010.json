@@ -33,7 +33,8 @@
   "categories": [
     "シングルプレイヤー",
     "Steam実績",
-    "フルコントローラサポート"
+    "フルコントローラサポート",
+    "ファミリーシェアリング"
   ],
   "release_date_ja": "2023年3月28日",
   "release_date_en": "28 Mar, 2023",
@@ -69,8 +70,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 25837,
-  "total_positive": 25232,
+  "total_reviews": 25840,
+  "total_positive": 25235,
   "total_negative": 605,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "pineapple-on-pizza",
@@ -96,5 +97,5 @@
     "Walking Simulator",
     "Dark Humor"
   ],
-  "fetched_at": "2026-06-17T06:23:28.663515+09:00"
+  "fetched_at": "2026-06-18T05:33:37.136722+09:00"
 }

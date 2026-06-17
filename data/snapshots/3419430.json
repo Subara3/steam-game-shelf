@@ -44,7 +44,8 @@
     "オンライン協力プレイ",
     "Steam実績",
     "部分的コントローラサポート",
-    "データ"
+    "データ",
+    "ファミリーシェアリング"
   ],
   "release_date_ja": "2025年3月5日",
   "release_date_en": "5 Mar, 2025",
@@ -86,9 +87,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 103618,
-  "total_positive": 100089,
-  "total_negative": 3529,
+  "total_reviews": 103708,
+  "total_positive": 100177,
+  "total_negative": 3531,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
@@ -113,5 +114,5 @@
     "Casual",
     "Character Customization"
   ],
-  "fetched_at": "2026-06-17T06:23:28.663515+09:00"
+  "fetched_at": "2026-06-18T05:33:37.136722+09:00"
 }
