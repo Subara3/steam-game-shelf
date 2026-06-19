@@ -7,8 +7,8 @@
   "short_description_ja": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
   "short_description_en": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
   "short_description": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/8df3b6e1fd331b960f30f9e3947311ce116ea3e2/header_alt_assets_11_japanese.jpg?t=1781684964",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/96866be348e85d4543bd8c6b59e3b98d14f2e635/capsule_231x87_alt_assets_11_japanese.jpg?t=1781684964",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/8df3b6e1fd331b960f30f9e3947311ce116ea3e2/header_alt_assets_11_japanese.jpg?t=1781858945",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/96866be348e85d4543bd8c6b59e3b98d14f2e635/capsule_231x87_alt_assets_11_japanese.jpg?t=1781858945",
   "developers": [
     "Monster Couch"
   ],
@@ -66,22 +66,28 @@
   "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語<strong>*</strong>, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）<strong>*</strong>, ウクライナ語<br><strong>*</strong>フル音声対応言語",
   "website": "https://www.monstercouch.com/wingspan/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_429a47fc72580783b66277617cbc38ca8cce0264.1920x1080.jpg?t=1781684964",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_966a797c75c4d91814a8f784b80092d8e8da958b.1920x1080.jpg?t=1781684964",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_4447e3d314ed12ee2768ba5cabf060abb75d71e2.1920x1080.jpg?t=1781684964",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_5c0346c526ee4d26e594e44068eba36b17d18e9d.1920x1080.jpg?t=1781684964",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a33eee7e8738ae5727a5824669f6cc47de58d3db.1920x1080.jpg?t=1781684964"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_429a47fc72580783b66277617cbc38ca8cce0264.1920x1080.jpg?t=1781858945",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_966a797c75c4d91814a8f784b80092d8e8da958b.1920x1080.jpg?t=1781858945",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_4447e3d314ed12ee2768ba5cabf060abb75d71e2.1920x1080.jpg?t=1781858945",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_5c0346c526ee4d26e594e44068eba36b17d18e9d.1920x1080.jpg?t=1781858945",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a33eee7e8738ae5727a5824669f6cc47de58d3db.1920x1080.jpg?t=1781858945"
   ],
   "movies": [
     {
-      "name": "Wingspan: Asia Expansion Launch Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157360/8252ac17c646df692bde43c38da122c8581785d6/movie_600x337.jpg?t=1750075214",
+      "name": "British Birds & Season Pass Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257362257/5b0d57c5b49d925d8680a0d9bfde53adac1a6285/movie_600x337.jpg?t=1781858915",
       "url_480": "",
       "url_max": ""
     },
     {
       "name": "ReworkedTrailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903769/movie.293x165.jpg?t=1662037615",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Wingspan: Asia Expansion Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157360/8252ac17c646df692bde43c38da122c8581785d6/movie_600x337.jpg?t=1750075214",
       "url_480": "",
       "url_max": ""
     },
@@ -93,9 +99,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9548,
-  "total_reviews": 11693,
-  "total_positive": 11021,
+  "recommendations_total": 9559,
+  "total_reviews": 11707,
+  "total_positive": 11035,
   "total_negative": 672,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
@@ -120,5 +126,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-06-19T05:42:15.851205+09:00"
+  "fetched_at": "2026-06-20T05:11:04.826040+09:00"
 }
