@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 33400,
-  "total_reviews": 38253,
-  "total_positive": 37220,
-  "total_negative": 1033,
+  "recommendations_total": 33404,
+  "total_reviews": 38260,
+  "total_positive": 37226,
+  "total_negative": 1034,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "va11halla",
   "recommend": "niche",
@@ -100,5 +100,5 @@
     "LGBTQ+",
     "Choices Matter"
   ],
-  "fetched_at": "2026-06-19T05:42:15.851205+09:00"
+  "fetched_at": "2026-06-20T05:11:04.826040+09:00"
 }
