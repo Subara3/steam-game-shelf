@@ -65,10 +65,10 @@
     }
   ],
   "demo_appid": 3921080,
-  "recommendations_total": 253,
-  "total_reviews": 256,
-  "total_positive": 248,
-  "total_negative": 8,
+  "recommendations_total": 256,
+  "total_reviews": 259,
+  "total_positive": 250,
+  "total_negative": 9,
   "review_score_desc": "Very Positive",
   "slug": "lethal-dungeon",
   "recommend": "niche",
@@ -92,5 +92,5 @@
     "Retro",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-06-20T05:11:04.826040+09:00"
+  "fetched_at": "2026-06-21T05:01:30.939350+09:00"
 }
