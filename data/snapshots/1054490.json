@@ -7,8 +7,8 @@
   "short_description_ja": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
   "short_description_en": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
   "short_description": "受賞歴もあるWingspanは、1〜5人のプレイヤー向けの、 鳥が主人公の戦略カードゲームです。それぞれの鳥は、3つの異なる生息地の内の1つで 強力なチェーンを拡張していきます。プレイヤーの目標は、 最高の鳥を発見して野生動物保護区に誘致することです。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/8df3b6e1fd331b960f30f9e3947311ce116ea3e2/header_alt_assets_11_japanese.jpg?t=1781858945",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/96866be348e85d4543bd8c6b59e3b98d14f2e635/capsule_231x87_alt_assets_11_japanese.jpg?t=1781858945",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header_japanese.jpg?t=1781858945",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/049966df4409b18b26953a98c8eabbed0ec07c80/capsule_231x87_japanese.jpg?t=1781858945",
   "developers": [
     "Monster Couch"
   ],
@@ -99,9 +99,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9574,
-  "total_reviews": 11725,
-  "total_positive": 11053,
+  "recommendations_total": 9577,
+  "total_reviews": 11729,
+  "total_positive": 11057,
   "total_negative": 672,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
@@ -126,5 +126,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-06-22T05:09:19.949608+09:00"
+  "fetched_at": "2026-06-23T06:17:27.628310+09:00"
 }
