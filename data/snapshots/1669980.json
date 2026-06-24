@@ -69,12 +69,6 @@
   ],
   "movies": [
     {
-      "name": "FINAL_EN",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942173/fd7734a1391a87013aeb5c37123bd892f708ed64/movie_600x337.jpg?t=1741928189",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Trailer 02_EN",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917946/movie.293x165.jpg?t=1741928196",
       "url_480": "",
@@ -82,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 44227,
-  "total_reviews": 48144,
-  "total_positive": 47093,
-  "total_negative": 1051,
+  "recommendations_total": 44233,
+  "total_reviews": 48152,
+  "total_positive": 47100,
+  "total_negative": 1052,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "volcano-princess",
   "recommend": "niche",
@@ -109,5 +103,5 @@
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-06-24T05:29:17.993350+09:00"
+  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
 }

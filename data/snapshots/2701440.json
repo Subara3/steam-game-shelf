@@ -78,9 +78,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1843,
-  "total_reviews": 2254,
-  "total_positive": 2146,
+  "recommendations_total": 1842,
+  "total_reviews": 2253,
+  "total_positive": 2145,
   "total_negative": 108,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "paranormasight-file38",
@@ -88,8 +88,8 @@
   "tags_ja": [
     "アドベンチャー",
     "RPG",
-    "シミュレーション",
     "ビジュアルノベル",
+    "シミュレーション",
     "ミステリー",
     "暴力",
     "ホラー",
@@ -98,12 +98,12 @@
   "tags_en": [
     "Adventure",
     "RPG",
-    "Simulation",
     "Visual Novel",
+    "Simulation",
     "Mystery",
     "Violent",
     "Horror",
     "Gore"
   ],
-  "fetched_at": "2026-06-24T05:29:17.993350+09:00"
+  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
 }
