@@ -34,6 +34,7 @@
     "シングルプレイヤー",
     "Steam実績",
     "Steamトレーディングカード",
+    "DUALSHOCKコントローラーサポート",
     "部分的コントローラサポート",
     "Steamクラウド",
     "タブレットでRemote Play",
@@ -44,9 +45,9 @@
   "release_date": "2016年1月19日",
   "is_free": false,
   "price_initial": 290000,
-  "price_final": 290000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,900",
+  "price_final": 43500,
+  "discount_percent": 85,
+  "price_formatted": "¥ 435",
   "currency": "JPY",
   "metacritic_score": 84,
   "platforms": {
@@ -84,9 +85,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 138730,
-  "total_reviews": 160068,
-  "total_positive": 146740,
+  "recommendations_total": 138748,
+  "total_reviews": 160089,
+  "total_positive": 146761,
   "total_negative": 13328,
   "review_score_desc": "Very Positive",
   "slug": "darkest-dungeon",
@@ -111,5 +112,5 @@
     "Difficult",
     "Turn-Based"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

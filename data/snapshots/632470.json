@@ -29,6 +29,10 @@
     "Steam実績",
     "フルコントローラサポート",
     "Steamトレーディングカード",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "Steamクラウド",
     "タブレットでRemote Play",
     "ファミリーシェアリング"
@@ -38,9 +42,9 @@
   "release_date": "2019年10月15日",
   "is_free": false,
   "price_initial": 460000,
-  "price_final": 460000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,600",
+  "price_final": 46000,
+  "discount_percent": 90,
+  "price_formatted": "¥ 460",
   "currency": "JPY",
   "metacritic_score": 97,
   "platforms": {
@@ -78,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 115380,
-  "total_reviews": 127869,
-  "total_positive": 118451,
-  "total_negative": 9418,
+  "recommendations_total": 115411,
+  "total_reviews": 127904,
+  "total_positive": 118480,
+  "total_negative": 9424,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
@@ -105,5 +109,5 @@
     "Singleplayer",
     "Point & Click"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

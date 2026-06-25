@@ -7,8 +7,8 @@
   "short_description_ja": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業空間・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
   "short_description_en": "A cozy multiplayer co-working sandbox with character customization, room building, and productivity tools. Focus, study, work, and relax together with friends and players around the world.",
   "short_description": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業空間・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/b48d1b94b9638d0b481e27227b2cf3f43eb70658/header.jpg?t=1781172718",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1781172718",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/4bd04516c2fc4a922ea9223376e288abd2bfcc3c/header_alt_assets_3.jpg?t=1782376859",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1782376859",
   "developers": [
     "ambr"
   ],
@@ -48,9 +48,9 @@
   "release_date": "2025年4月30日",
   "is_free": false,
   "price_initial": 138000,
-  "price_final": 138000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,380",
+  "price_final": 82800,
+  "discount_percent": 40,
+  "price_formatted": "¥ 828",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -61,13 +61,19 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, インドネシア語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）",
   "website": "https://gogh.gg/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1781172718",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/73004e3749c33da3ee196d34f5e4fbebd21eba80/ss_73004e3749c33da3ee196d34f5e4fbebd21eba80.1920x1080.jpg?t=1781172718",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0979b45c06ab0a39397c5a1d0c4780c61ca51105/ss_0979b45c06ab0a39397c5a1d0c4780c61ca51105.1920x1080.jpg?t=1781172718",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/303174c965bb32ec775a5b23e46c834d087220ac/ss_303174c965bb32ec775a5b23e46c834d087220ac.1920x1080.jpg?t=1781172718",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/5b7b16079efd1a65e05cdd9dad9615cc43769f28/ss_5b7b16079efd1a65e05cdd9dad9615cc43769f28.1920x1080.jpg?t=1781172718"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1782376859",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/73004e3749c33da3ee196d34f5e4fbebd21eba80/ss_73004e3749c33da3ee196d34f5e4fbebd21eba80.1920x1080.jpg?t=1782376859",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0979b45c06ab0a39397c5a1d0c4780c61ca51105/ss_0979b45c06ab0a39397c5a1d0c4780c61ca51105.1920x1080.jpg?t=1782376859",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/303174c965bb32ec775a5b23e46c834d087220ac/ss_303174c965bb32ec775a5b23e46c834d087220ac.1920x1080.jpg?t=1782376859",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/5b7b16079efd1a65e05cdd9dad9615cc43769f28/ss_5b7b16079efd1a65e05cdd9dad9615cc43769f28.1920x1080.jpg?t=1782376859"
   ],
   "movies": [
+    {
+      "name": "gogh: Focus with Your Avatar - Summer Update 2026 - JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365316/a74a14348d17620bcd95124a0e08e1294b3ef02c/movie_600x337.jpg?t=1782376857",
+      "url_480": "",
+      "url_max": ""
+    },
     {
       "name": "gogh: Focus with Your Avatar - Official Trailer - JP",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328912/e4249a8006928b560a965d386d6e96f7659a1de1/movie_600x337.jpg?t=1777480204",
@@ -82,10 +88,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4474,
-  "total_reviews": 5029,
-  "total_positive": 4571,
-  "total_negative": 458,
+  "recommendations_total": 4482,
+  "total_reviews": 5037,
+  "total_positive": 4578,
+  "total_negative": 459,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
   "recommend": "all",
@@ -109,5 +115,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

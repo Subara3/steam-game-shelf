@@ -39,6 +39,8 @@
     "カスタム音量調整",
     "マウスのみのオプション",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "タッチのみのオプション",
     "Steamクラウド",
     "ファミリーシェアリング"
@@ -48,9 +50,9 @@
   "release_date": "2024年2月20日",
   "is_free": false,
   "price_initial": 170000,
-  "price_final": 170000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,700",
+  "price_final": 136000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 1,360",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -76,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 156366,
-  "total_reviews": 193401,
-  "total_positive": 189267,
-  "total_negative": 4134,
+  "recommendations_total": 156405,
+  "total_reviews": 193451,
+  "total_positive": 189314,
+  "total_negative": 4137,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
@@ -103,5 +105,5 @@
     "Pixel Graphics",
     "Replay Value"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

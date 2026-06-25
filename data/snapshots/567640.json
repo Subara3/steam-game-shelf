@@ -29,6 +29,7 @@
     "Steam実績",
     "フルコントローラサポート",
     "Steamトレーディングカード",
+    "DUALSHOCKコントローラーサポート",
     "Steamクラウド",
     "スマホでRemote Play",
     "タブレットでRemote Play",
@@ -40,9 +41,9 @@
   "release_date": "2017年9月25日",
   "is_free": false,
   "price_initial": 419000,
-  "price_final": 419000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,190",
+  "price_final": 83800,
+  "discount_percent": 80,
+  "price_formatted": "¥ 838",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -68,10 +69,10 @@
     }
   ],
   "demo_appid": 589120,
-  "recommendations_total": 21332,
-  "total_reviews": 22630,
-  "total_positive": 18771,
-  "total_negative": 3859,
+  "recommendations_total": 21337,
+  "total_reviews": 22635,
+  "total_positive": 18775,
+  "total_negative": 3860,
   "review_score_desc": "Very Positive",
   "slug": "danganronpa-v3",
   "recommend": "niche",
@@ -95,5 +96,5 @@
     "Great Soundtrack",
     "Singleplayer"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

@@ -37,6 +37,10 @@
     "難易度の調整",
     "マウスのみのオプション",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "いつでもセーブ可能",
     "タッチのみのオプション",
     "部分的コントローラサポート",
@@ -48,9 +52,9 @@
   "release_date": "2022年12月13日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 230000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,300",
+  "price_final": 92000,
+  "discount_percent": 60,
+  "price_formatted": "¥ 920",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -100,9 +104,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 37163,
-  "total_reviews": 43868,
-  "total_positive": 40757,
+  "recommendations_total": 37167,
+  "total_reviews": 43874,
+  "total_positive": 40763,
   "total_negative": 3111,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
@@ -127,5 +131,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

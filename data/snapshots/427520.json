@@ -46,6 +46,10 @@
     "カスタム音量調整",
     "難易度の調整",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "いつでもセーブ可能",
     "字幕オプション",
     "部分的コントローラサポート",
@@ -99,10 +103,10 @@
     }
   ],
   "demo_appid": 452280,
-  "recommendations_total": 192501,
-  "total_reviews": 231062,
-  "total_positive": 225305,
-  "total_negative": 5757,
+  "recommendations_total": 192557,
+  "total_reviews": 231125,
+  "total_positive": 225363,
+  "total_negative": 5762,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "factorio",
   "recommend": "all",
@@ -127,5 +131,5 @@
     "Multiplayer",
     "Survival"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

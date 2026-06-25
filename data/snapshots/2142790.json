@@ -36,6 +36,9 @@
   "categories": [
     "シングルプレイヤー",
     "フルコントローラサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "ファミリーシェアリング"
   ],
   "release_date_ja": "2024年8月5日",
@@ -43,9 +46,9 @@
   "release_date": "2024年8月5日",
   "is_free": false,
   "price_initial": 160000,
-  "price_final": 160000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,600",
+  "price_final": 128000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 1,280",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -77,9 +80,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 25727,
-  "total_reviews": 28201,
-  "total_positive": 27571,
+  "recommendations_total": 25741,
+  "total_reviews": 28218,
+  "total_positive": 27588,
   "total_negative": 630,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
@@ -104,5 +107,5 @@
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

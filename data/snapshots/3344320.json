@@ -37,9 +37,9 @@
   "release_date": "2026年2月19日",
   "is_free": false,
   "price_initial": 58000,
-  "price_final": 58000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 580",
+  "price_final": 52200,
+  "discount_percent": 10,
+  "price_formatted": "¥ 522",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -65,9 +65,9 @@
     }
   ],
   "demo_appid": 3921080,
-  "recommendations_total": 259,
-  "total_reviews": 262,
-  "total_positive": 253,
+  "recommendations_total": 260,
+  "total_reviews": 263,
+  "total_positive": 254,
   "total_negative": 9,
   "review_score_desc": "Very Positive",
   "slug": "lethal-dungeon",
@@ -92,5 +92,5 @@
     "Retro",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

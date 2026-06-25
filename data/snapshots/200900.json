@@ -36,6 +36,8 @@
     "マルチプレイヤー",
     "Steam実績",
     "フルコントローラサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "Steamクラウド",
     "Remote Play Together",
     "ファミリーシェアリング"
@@ -45,9 +47,9 @@
   "release_date": "2011年11月22日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 148000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,480",
+  "price_final": 14800,
+  "discount_percent": 90,
+  "price_formatted": "¥ 148",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -74,8 +76,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 5014,
-  "total_reviews": 8094,
-  "total_positive": 7523,
+  "total_reviews": 8095,
+  "total_positive": 7524,
   "total_negative": 571,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
@@ -101,5 +103,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

@@ -43,6 +43,10 @@
     "協力プレイ",
     "オンライン協力プレイ",
     "Steam実績",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "部分的コントローラサポート",
     "データ",
     "ファミリーシェアリング"
@@ -87,9 +91,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 104316,
-  "total_positive": 100762,
-  "total_negative": 3554,
+  "total_reviews": 104388,
+  "total_positive": 100835,
+  "total_negative": 3553,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
@@ -114,5 +118,5 @@
     "Casual",
     "Character Customization"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

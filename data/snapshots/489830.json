@@ -42,9 +42,9 @@
   "release_date": "2016年10月27日",
   "is_free": false,
   "price_initial": 439900,
-  "price_final": 439900,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,399",
+  "price_final": 109900,
+  "discount_percent": 75,
+  "price_formatted": "¥ 1,099",
   "currency": "JPY",
   "metacritic_score": 74,
   "platforms": {
@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 212886,
-  "total_reviews": 368860,
-  "total_positive": 340792,
+  "recommendations_total": 212921,
+  "total_reviews": 368908,
+  "total_positive": 340840,
   "total_negative": 28068,
   "review_score_desc": "Very Positive",
   "slug": "skyrim",
@@ -97,5 +97,5 @@
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }
