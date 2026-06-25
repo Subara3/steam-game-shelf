@@ -44,6 +44,11 @@
     "Steam実績",
     "フルコントローラサポート",
     "Steamトレーディングカード",
+    "ゲームパッド推奨",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "Steamランキング",
     "スマホでRemote Play",
     "タブレットでRemote Play",
@@ -56,9 +61,9 @@
   "release_date": "2020年9月23日",
   "is_free": false,
   "price_initial": 280000,
-  "price_final": 280000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,800",
+  "price_final": 42000,
+  "discount_percent": 85,
+  "price_formatted": "¥ 420",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -90,9 +95,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13660,
-  "total_reviews": 19607,
-  "total_positive": 18276,
+  "recommendations_total": 13661,
+  "total_reviews": 19608,
+  "total_positive": 18277,
   "total_negative": 1331,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
@@ -119,5 +124,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

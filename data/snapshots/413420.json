@@ -30,6 +30,7 @@
     "Steam実績",
     "フルコントローラサポート",
     "Steamトレーディングカード",
+    "DUALSHOCKコントローラーサポート",
     "Steamクラウド",
     "スマホでRemote Play",
     "タブレットでRemote Play",
@@ -40,9 +41,9 @@
   "release_date": "2016年4月18日",
   "is_free": false,
   "price_initial": 213800,
-  "price_final": 213800,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,138",
+  "price_final": 96200,
+  "discount_percent": 55,
+  "price_formatted": "¥ 962",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -74,10 +75,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 29973,
-  "total_reviews": 31770,
-  "total_positive": 30443,
-  "total_negative": 1327,
+  "recommendations_total": 29981,
+  "total_reviews": 31781,
+  "total_positive": 30455,
+  "total_negative": 1326,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-2",
   "recommend": "niche",
@@ -101,5 +102,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

@@ -37,9 +37,9 @@
   "release_date": "2023年10月19日",
   "is_free": false,
   "price_initial": 242000,
-  "price_final": 242000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,420",
+  "price_final": 193600,
+  "discount_percent": 20,
+  "price_formatted": "¥ 1,936",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 8922,
-  "total_reviews": 9778,
-  "total_positive": 8778,
+  "recommendations_total": 8923,
+  "total_reviews": 9779,
+  "total_positive": 8779,
   "total_negative": 1000,
   "review_score_desc": "Very Positive",
   "slug": "world-of-horror",
@@ -82,8 +82,8 @@
     "ホラー",
     "ラヴクラフト",
     "ドット絵",
-    "サバイバルホラー",
     "精神的恐怖",
+    "サバイバルホラー",
     "ポイント＆クリック",
     "ローグライト",
     "高難易度"
@@ -92,11 +92,11 @@
     "Horror",
     "Lovecraftian",
     "Pixel Graphics",
-    "Survival Horror",
     "Psychological Horror",
+    "Survival Horror",
     "Point & Click",
     "Roguelite",
     "Difficult"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

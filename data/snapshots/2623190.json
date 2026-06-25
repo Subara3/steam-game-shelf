@@ -31,6 +31,9 @@
     "Steamトレーディングカード",
     "カスタム音量調整",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "ステレオサウンド",
     "サラウンドサウンド",
     "部分的コントローラサポート",
@@ -42,9 +45,9 @@
   "release_date": "2025年4月22日",
   "is_free": false,
   "price_initial": 693000,
-  "price_final": 693000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 6,930",
+  "price_final": 485100,
+  "discount_percent": 30,
+  "price_formatted": "¥ 4,851",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -70,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 58487,
-  "total_reviews": 68762,
-  "total_positive": 52329,
-  "total_negative": 16433,
+  "recommendations_total": 58497,
+  "total_reviews": 68775,
+  "total_positive": 52337,
+  "total_negative": 16438,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -97,5 +100,5 @@
     "Character Customization",
     "First-Person"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

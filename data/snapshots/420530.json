@@ -43,9 +43,9 @@
   "release_date": "2016年12月8日",
   "is_free": false,
   "price_initial": 99800,
-  "price_final": 99800,
-  "discount_percent": 0,
-  "price_formatted": "¥ 998",
+  "price_final": 59800,
+  "discount_percent": 40,
+  "price_formatted": "¥ 598",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 57424,
-  "total_reviews": 63169,
-  "total_positive": 62080,
-  "total_negative": 1089,
+  "recommendations_total": 57434,
+  "total_reviews": 63180,
+  "total_positive": 62090,
+  "total_negative": 1090,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "oneshot",
   "recommend": "niche",
@@ -98,5 +98,5 @@
     "Puzzle",
     "Singleplayer"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

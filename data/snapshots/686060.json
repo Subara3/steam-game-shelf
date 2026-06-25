@@ -48,6 +48,10 @@
     "カスタム音量調整",
     "マウスのみのオプション",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "いつでもセーブ可能",
     "ステレオサウンド",
     "Steamクラウド",
@@ -58,9 +62,9 @@
   "release_date": "2026年2月10日",
   "is_free": false,
   "price_initial": 340000,
-  "price_final": 340000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,400",
+  "price_final": 255000,
+  "discount_percent": 25,
+  "price_formatted": "¥ 2,550",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -92,10 +96,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 46497,
-  "total_reviews": 49982,
-  "total_positive": 45306,
-  "total_negative": 4676,
+  "recommendations_total": 46528,
+  "total_reviews": 50020,
+  "total_positive": 45338,
+  "total_negative": 4682,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -119,5 +123,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

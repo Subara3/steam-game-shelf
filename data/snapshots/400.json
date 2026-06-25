@@ -31,7 +31,12 @@
     "キャプション使用可能",
     "カメラの快適性",
     "カスタム音量調整",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "いつでもセーブ可能",
+    "Steam入力APIサポート",
     "ステレオサウンド",
     "字幕オプション",
     "サラウンドサウンド",
@@ -47,9 +52,9 @@
   "release_date": "2007年10月10日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 120000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,200",
+  "price_final": 24000,
+  "discount_percent": 80,
+  "price_formatted": "¥ 240",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -75,10 +80,10 @@
     }
   ],
   "demo_appid": 410,
-  "recommendations_total": 169846,
-  "total_reviews": 195170,
-  "total_positive": 192290,
-  "total_negative": 2880,
+  "recommendations_total": 169865,
+  "total_reviews": 195190,
+  "total_positive": 192307,
+  "total_negative": 2883,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal",
   "recommend": "all",
@@ -103,5 +108,5 @@
     "Comedy",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

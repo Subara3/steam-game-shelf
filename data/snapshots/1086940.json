@@ -46,6 +46,10 @@
     "カスタム音量調整",
     "難易度の調整",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "いつでもセーブ可能",
     "ステレオサウンド",
     "字幕オプション",
@@ -60,9 +64,9 @@
   "release_date": "2023年8月3日",
   "is_free": false,
   "price_initial": 849900,
-  "price_final": 849900,
-  "discount_percent": 0,
-  "price_formatted": "¥ 8,499",
+  "price_final": 637400,
+  "discount_percent": 25,
+  "price_formatted": "¥ 6,374",
   "currency": "JPY",
   "metacritic_score": 96,
   "platforms": {
@@ -118,10 +122,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 742997,
-  "total_reviews": 844045,
-  "total_positive": 817004,
-  "total_negative": 27041,
+  "recommendations_total": 743078,
+  "total_reviews": 844145,
+  "total_positive": 817103,
+  "total_negative": 27042,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -145,5 +149,5 @@
     "CRPG",
     "Fantasy"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

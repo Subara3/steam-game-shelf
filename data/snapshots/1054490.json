@@ -41,6 +41,10 @@
     "クロスプラットフォームマルチプレイヤー",
     "Steam実績",
     "Steamトレーディングカード",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "部分的コントローラサポート",
     "Steamクラウド",
     "Steamランキング",
@@ -99,10 +103,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9582,
-  "total_reviews": 11734,
-  "total_positive": 11060,
-  "total_negative": 674,
+  "recommendations_total": 9586,
+  "total_reviews": 11738,
+  "total_positive": 11065,
+  "total_negative": 673,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
   "recommend": "all",
@@ -126,5 +130,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

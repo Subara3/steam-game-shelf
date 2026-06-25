@@ -43,9 +43,9 @@
   "release_date": "2020年12月25日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 198000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,980",
+  "price_final": 138600,
+  "discount_percent": 30,
+  "price_formatted": "¥ 1,386",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 78359,
-  "total_reviews": 87014,
-  "total_positive": 84486,
-  "total_negative": 2528,
+  "recommendations_total": 78363,
+  "total_reviews": 87018,
+  "total_positive": 84491,
+  "total_negative": 2527,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "omori",
   "recommend": "niche",
@@ -110,5 +110,5 @@
     "Multiple Endings",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

@@ -41,6 +41,11 @@
     "カスタム音量調整",
     "難易度の調整",
     "時間制限付き入力なしでプレイ可能",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
+    "Steam入力APIサポート",
     "ステレオサウンド",
     "サラウンドサウンド",
     "Steamクラウド",
@@ -60,9 +65,9 @@
   "release_date": "2009年11月16日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 120000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,200",
+  "price_final": 24000,
+  "discount_percent": 80,
+  "price_formatted": "¥ 240",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -100,10 +105,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 799669,
-  "total_reviews": 1039417,
-  "total_positive": 1013715,
-  "total_negative": 25702,
+  "recommendations_total": 799812,
+  "total_reviews": 1039568,
+  "total_positive": 1013861,
+  "total_negative": 25707,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "left-4-dead-2",
   "recommend": "all",
@@ -129,5 +134,5 @@
     "Action",
     "Survival"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }

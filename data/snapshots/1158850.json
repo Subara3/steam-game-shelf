@@ -37,9 +37,9 @@
   "release_date": "2021年7月28日",
   "is_free": false,
   "price_initial": 499000,
-  "price_final": 499000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,990",
+  "price_final": 199600,
+  "discount_percent": 60,
+  "price_formatted": "¥ 1,996",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5009,
-  "total_reviews": 9271,
-  "total_positive": 8745,
-  "total_negative": 526,
+  "recommendations_total": 5011,
+  "total_reviews": 9276,
+  "total_positive": 8749,
+  "total_negative": 527,
   "review_score_desc": "Very Positive",
   "slug": "great-ace-attorney-chronicles",
   "recommend": "all",
@@ -110,5 +110,5 @@
     "3D",
     "Story Rich"
   ],
-  "fetched_at": "2026-06-25T05:15:09.887747+09:00"
+  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
 }
