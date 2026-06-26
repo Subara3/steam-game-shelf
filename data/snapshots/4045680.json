@@ -69,8 +69,8 @@
   "demo_appid": null,
   "recommendations_total": 0,
   "total_reviews": 106,
-  "total_positive": 57,
-  "total_negative": 49,
+  "total_positive": 56,
+  "total_negative": 50,
   "review_score_desc": "Mixed",
   "slug": "kanmuri",
   "recommend": "niche",
@@ -95,5 +95,5 @@
     "2D",
     "Choices Matter"
   ],
-  "fetched_at": "2026-06-26T05:27:46.337320+09:00"
+  "fetched_at": "2026-06-27T05:15:05.056008+09:00"
 }
