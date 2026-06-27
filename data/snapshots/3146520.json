@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 57118,
-  "total_reviews": 70112,
-  "total_positive": 68292,
-  "total_negative": 1820,
+  "recommendations_total": 57123,
+  "total_reviews": 70119,
+  "total_positive": 68298,
+  "total_negative": 1821,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "webfishing",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Indie",
     "Online Co-Op"
   ],
-  "fetched_at": "2026-06-27T05:15:05.056008+09:00"
+  "fetched_at": "2026-06-28T04:49:50.965885+09:00"
 }
