@@ -85,9 +85,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 49038,
-  "total_reviews": 65124,
-  "total_positive": 60525,
+  "recommendations_total": 49060,
+  "total_reviews": 65150,
+  "total_positive": 60551,
   "total_negative": 4599,
   "review_score_desc": "Very Positive",
   "slug": "core-keeper",
@@ -97,8 +97,8 @@
     "オープンワールド",
     "サバイバル",
     "探検",
-    "マルチプレイヤー",
     "ドット絵",
+    "マルチプレイヤー",
     "サンドボックス",
     "クラフト",
     "建設"
@@ -107,11 +107,11 @@
     "Open World",
     "Survival",
     "Exploration",
-    "Multiplayer",
     "Pixel Graphics",
+    "Multiplayer",
     "Sandbox",
     "Crafting",
     "Building"
   ],
-  "fetched_at": "2026-06-29T04:50:44.719855+09:00"
+  "fetched_at": "2026-06-30T05:19:52.959648+09:00"
 }

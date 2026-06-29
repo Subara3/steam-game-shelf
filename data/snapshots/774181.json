@@ -99,10 +99,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24550,
-  "total_reviews": 26518,
-  "total_positive": 26032,
-  "total_negative": 486,
+  "recommendations_total": 24558,
+  "total_reviews": 26527,
+  "total_positive": 26040,
+  "total_negative": 487,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -115,7 +115,7 @@
     "レベルエディター",
     "インディー",
     "シングルプレイヤー",
-    "アクション"
+    "ローカル協力プレイ"
   ],
   "tags_en": [
     "Rhythm",
@@ -125,7 +125,7 @@
     "Level Editor",
     "Indie",
     "Singleplayer",
-    "Action"
+    "Local Co-Op"
   ],
-  "fetched_at": "2026-06-29T04:50:44.719855+09:00"
+  "fetched_at": "2026-06-30T05:19:52.959648+09:00"
 }

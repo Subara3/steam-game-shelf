@@ -44,9 +44,9 @@
   "release_date": "2021年8月10日",
   "is_free": false,
   "price_initial": 309000,
-  "price_final": 309000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,090",
+  "price_final": 105000,
+  "discount_percent": 66,
+  "price_formatted": "¥ 1,050",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 38581,
-  "total_reviews": 42883,
-  "total_positive": 40506,
-  "total_negative": 2377,
+  "recommendations_total": 38619,
+  "total_reviews": 42929,
+  "total_positive": 40549,
+  "total_negative": 2380,
   "review_score_desc": "Very Positive",
   "slug": "library-of-ruina",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Great Soundtrack",
     "Singleplayer"
   ],
-  "fetched_at": "2026-06-29T04:50:44.719855+09:00"
+  "fetched_at": "2026-06-30T05:19:52.959648+09:00"
 }
