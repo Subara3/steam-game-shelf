@@ -119,10 +119,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24394,
-  "total_reviews": 34302,
-  "total_positive": 32196,
-  "total_negative": 2106,
+  "recommendations_total": 24404,
+  "total_reviews": 34315,
+  "total_positive": 32207,
+  "total_negative": 2108,
   "review_score_desc": "Very Positive",
   "slug": "sultans-game",
   "recommend": "niche",
@@ -130,8 +130,8 @@
     "シングルプレイヤー",
     "物語性",
     "RPG",
-    "カードゲーム",
     "ストラテジー",
+    "カードゲーム",
     "シミュレーション",
     "アドベンチャー",
     "精神的恐怖"
@@ -140,11 +140,11 @@
     "Singleplayer",
     "Story Rich",
     "RPG",
-    "Card Game",
     "Strategy",
+    "Card Game",
     "Simulation",
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-06-30T05:19:52.959648+09:00"
+  "fetched_at": "2026-07-01T05:25:39.298346+09:00"
 }
