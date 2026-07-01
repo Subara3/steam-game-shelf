@@ -63,6 +63,12 @@
   ],
   "movies": [
     {
+      "name": "Skyrim Special Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672927/movie.293x165.jpg?t=1476991615",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Skyrim SE Live Action Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672841/movie.293x165.jpg?t=1476909226",
       "url_480": "",
@@ -70,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 213323,
-  "total_reviews": 369420,
-  "total_positive": 341327,
-  "total_negative": 28093,
+  "recommendations_total": 213398,
+  "total_reviews": 369527,
+  "total_positive": 341428,
+  "total_negative": 28099,
   "review_score_desc": "Very Positive",
   "slug": "skyrim",
   "recommend": "all",
@@ -97,5 +103,5 @@
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-07-01T05:25:39.298346+09:00"
+  "fetched_at": "2026-07-02T05:20:44.664734+09:00"
 }
