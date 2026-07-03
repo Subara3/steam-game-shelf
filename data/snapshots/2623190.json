@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 58612,
-  "total_reviews": 68904,
-  "total_positive": 52379,
-  "total_negative": 16525,
+  "recommendations_total": 58623,
+  "total_reviews": 68921,
+  "total_positive": 52384,
+  "total_negative": 16537,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Character Customization",
     "First-Person"
   ],
-  "fetched_at": "2026-07-03T04:57:56.967465+09:00"
+  "fetched_at": "2026-07-04T04:55:31.983040+09:00"
 }
