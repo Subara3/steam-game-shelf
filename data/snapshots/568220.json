@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 50412,
-  "total_reviews": 54823,
-  "total_positive": 51655,
-  "total_negative": 3168,
+  "recommendations_total": 50458,
+  "total_reviews": 54876,
+  "total_positive": 51704,
+  "total_negative": 3172,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
@@ -91,5 +91,5 @@
     "Gore",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-07-03T04:57:56.967465+09:00"
+  "fetched_at": "2026-07-04T04:55:31.983040+09:00"
 }

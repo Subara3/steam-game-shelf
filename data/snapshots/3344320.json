@@ -66,31 +66,13 @@
   ],
   "demo_appid": 3921080,
   "recommendations_total": 267,
-  "total_reviews": 270,
-  "total_positive": 261,
-  "total_negative": 9,
-  "review_score_desc": "Very Positive",
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "lethal-dungeon",
   "recommend": "niche",
-  "tags_ja": [
-    "ストラテジー",
-    "ローグライク",
-    "カードバトル",
-    "ローグライト",
-    "2D",
-    "ドット絵",
-    "レトロ",
-    "女性主人公"
-  ],
-  "tags_en": [
-    "Strategy",
-    "Roguelike",
-    "Card Battler",
-    "Roguelite",
-    "2D",
-    "Pixel Graphics",
-    "Retro",
-    "Female Protagonist"
-  ],
-  "fetched_at": "2026-07-03T04:57:56.967465+09:00"
+  "tags_ja": [],
+  "tags_en": [],
+  "fetched_at": "2026-07-04T04:55:31.983040+09:00"
 }
