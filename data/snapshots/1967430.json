@@ -74,10 +74,10 @@
     }
   ],
   "demo_appid": 1971230,
-  "recommendations_total": 6217,
-  "total_reviews": 8287,
-  "total_positive": 8086,
-  "total_negative": 201,
+  "recommendations_total": 6223,
+  "total_reviews": 8296,
+  "total_positive": 8094,
+  "total_negative": 202,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "ghost-trick",
   "recommend": "all",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Visual Novel"
   ],
-  "fetched_at": "2026-07-07T05:19:31.519454+09:00"
+  "fetched_at": "2026-07-08T05:20:37.441959+09:00"
 }

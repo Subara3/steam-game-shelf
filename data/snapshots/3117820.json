@@ -119,9 +119,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24471,
-  "total_reviews": 34401,
-  "total_positive": 32282,
+  "recommendations_total": 24483,
+  "total_reviews": 34412,
+  "total_positive": 32293,
   "total_negative": 2119,
   "review_score_desc": "Very Positive",
   "slug": "sultans-game",
@@ -146,5 +146,5 @@
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-07-07T05:19:31.519454+09:00"
+  "fetched_at": "2026-07-08T05:20:37.441959+09:00"
 }
