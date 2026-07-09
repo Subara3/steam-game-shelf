@@ -47,9 +47,9 @@
   "release_date": "2024年8月5日",
   "is_free": false,
   "price_initial": 160000,
-  "price_final": 128000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,280",
+  "price_final": 160000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,600",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 26056,
-  "total_reviews": 28561,
-  "total_positive": 27911,
-  "total_negative": 650,
+  "recommendations_total": 26078,
+  "total_reviews": 28585,
+  "total_positive": 27930,
+  "total_negative": 655,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

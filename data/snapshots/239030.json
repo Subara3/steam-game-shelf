@@ -43,9 +43,9 @@
   "release_date": "2013年8月8日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 60000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 600",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": 85,
   "platforms": {
@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 72469,
-  "total_reviews": 79526,
-  "total_positive": 77375,
-  "total_negative": 2151,
+  "recommendations_total": 72497,
+  "total_reviews": 79561,
+  "total_positive": 77408,
+  "total_negative": 2153,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "papers-please",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Dystopian ",
     "Multiple Endings"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

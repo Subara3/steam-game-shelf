@@ -37,9 +37,9 @@
   "release_date": "2023年7月31日",
   "is_free": false,
   "price_initial": 150000,
-  "price_final": 105000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 1,050",
+  "price_final": 150000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,500",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1075,
-  "total_reviews": 1120,
-  "total_positive": 1089,
+  "recommendations_total": 1076,
+  "total_reviews": 1121,
+  "total_positive": 1090,
   "total_negative": 31,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
@@ -98,5 +98,5 @@
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

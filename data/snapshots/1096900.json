@@ -47,9 +47,9 @@
   "release_date": "2020年8月27日",
   "is_free": false,
   "price_initial": 877800,
-  "price_final": 395000,
-  "discount_percent": 55,
-  "price_formatted": "¥ 3,950",
+  "price_final": 877800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,778",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -87,9 +87,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1911,
-  "total_reviews": 2297,
-  "total_positive": 1961,
+  "recommendations_total": 1912,
+  "total_reviews": 2298,
+  "total_positive": 1962,
   "total_negative": 336,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mz",
@@ -114,5 +114,5 @@
     "Party-Based RPG",
     "Top-Down"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }
