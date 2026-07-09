@@ -39,9 +39,9 @@
   "release_date": "2026年2月5日",
   "is_free": false,
   "price_initial": 47000,
-  "price_final": 37600,
-  "discount_percent": 20,
-  "price_formatted": "¥ 376",
+  "price_final": 47000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 470",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -67,9 +67,9 @@
     }
   ],
   "demo_appid": 4334900,
-  "recommendations_total": 1079,
-  "total_reviews": 1096,
-  "total_positive": 1074,
+  "recommendations_total": 1085,
+  "total_reviews": 1102,
+  "total_positive": 1080,
   "total_negative": 22,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "guild-tankyudan",
@@ -94,5 +94,5 @@
     "2D",
     "Singleplayer"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

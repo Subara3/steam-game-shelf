@@ -42,9 +42,9 @@
   "release_date": "2019年10月15日",
   "is_free": false,
   "price_initial": 460000,
-  "price_final": 46000,
-  "discount_percent": 90,
-  "price_formatted": "¥ 460",
+  "price_final": 460000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,600",
   "currency": "JPY",
   "metacritic_score": 97,
   "platforms": {
@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 115904,
-  "total_reviews": 128473,
-  "total_positive": 118986,
-  "total_negative": 9487,
+  "recommendations_total": 115946,
+  "total_reviews": 128520,
+  "total_positive": 119027,
+  "total_negative": 9493,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
@@ -109,5 +109,5 @@
     "Singleplayer",
     "Point & Click"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

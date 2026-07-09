@@ -5,7 +5,7 @@
   "name_en": "RPG Developer Bakin",
   "name": "RPG Developer Bakin",
   "short_description_ja": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
-  "short_description_en": "Zero programming required! A tool for anyone to create RPGs! &quot;RPG Developer Bakin&quot; is a tool that makes it easy to create various types of RPGs, adventure games and action games without any programming knowledge.",
+  "short_description_en": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
   "short_description": "プログラミング不要！誰でもRPGが作れるツール！ 『RPG Developer Bakin』は、プログラミングの知識がなくても、さまざまなタイプのRPGをはじめ、アドベンチャーゲームやアクションゲームなどを気軽に作れるツールです。",
   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/header.jpg?t=1782347931",
   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/capsule_231x87_japanese.jpg?t=1782347931",
@@ -19,7 +19,7 @@
     "ゲーム開発"
   ],
   "genres_en": [
-    "Game Development"
+    "ゲーム開発"
   ],
   "genres": [
     "ゲーム開発"
@@ -29,13 +29,13 @@
     "部分的コントローラサポート"
   ],
   "release_date_ja": "2025年8月28日",
-  "release_date_en": "28 Aug, 2025",
+  "release_date_en": "2025年8月28日",
   "release_date": "2025年8月28日",
   "is_free": false,
   "price_initial": 920000,
-  "price_final": 644000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 6,440",
+  "price_final": 920000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 9,200",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -98,5 +98,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

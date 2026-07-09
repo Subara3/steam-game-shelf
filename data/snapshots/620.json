@@ -66,9 +66,9 @@
   "release_date": "2011年4月18日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 24000,
-  "discount_percent": 80,
-  "price_formatted": "¥ 240",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": 95,
   "platforms": {
@@ -190,9 +190,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 386759,
-  "total_reviews": 462755,
-  "total_positive": 456763,
+  "recommendations_total": 386871,
+  "total_reviews": 462871,
+  "total_positive": 456879,
   "total_negative": 5992,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
@@ -218,5 +218,5 @@
     "Puzzle Platformer",
     "Funny"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }

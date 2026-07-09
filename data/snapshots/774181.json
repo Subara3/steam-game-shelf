@@ -59,9 +59,9 @@
   "release_date": "2025年12月6日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 184000,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,840",
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -99,10 +99,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24648,
-  "total_reviews": 26623,
-  "total_positive": 26130,
-  "total_negative": 493,
+  "recommendations_total": 24651,
+  "total_reviews": 26628,
+  "total_positive": 26136,
+  "total_negative": 492,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -127,5 +127,5 @@
     "Singleplayer",
     "Local Co-Op"
   ],
-  "fetched_at": "2026-07-09T04:59:27.040896+09:00"
+  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
 }
