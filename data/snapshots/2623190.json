@@ -32,8 +32,8 @@
     "カスタム音量調整",
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "ステレオサウンド",
     "サラウンドサウンド",
     "部分的コントローラサポート",
@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 58728,
-  "total_reviews": 69044,
-  "total_positive": 52427,
-  "total_negative": 16617,
+  "recommendations_total": 58737,
+  "total_reviews": 69056,
+  "total_positive": 52430,
+  "total_negative": 16626,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Character Customization",
     "First-Person"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

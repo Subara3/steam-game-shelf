@@ -46,8 +46,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "タッチのみのオプション",
     "Steamクラウド",
     "テレビでRemote Play",
@@ -86,10 +86,10 @@
     }
   ],
   "demo_appid": 1439770,
-  "recommendations_total": 10168,
-  "total_reviews": 11485,
+  "recommendations_total": 10169,
+  "total_reviews": 11486,
   "total_positive": 10710,
-  "total_negative": 775,
+  "total_negative": 776,
   "review_score_desc": "Very Positive",
   "slug": "luck-be-a-landlord",
   "recommend": "all",
@@ -113,5 +113,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

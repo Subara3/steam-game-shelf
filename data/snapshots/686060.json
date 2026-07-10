@@ -50,8 +50,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "いつでもセーブ可能",
     "ステレオサウンド",
     "Steamクラウド",
@@ -96,10 +96,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 47471,
-  "total_reviews": 51085,
-  "total_positive": 46025,
-  "total_negative": 5060,
+  "recommendations_total": 47535,
+  "total_reviews": 51157,
+  "total_positive": 46082,
+  "total_negative": 5075,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -123,5 +123,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

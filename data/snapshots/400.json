@@ -33,8 +33,8 @@
     "カスタム音量調整",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "いつでもセーブ可能",
     "Steam入力APIサポート",
     "ステレオサウンド",
@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 410,
-  "recommendations_total": 171143,
-  "total_reviews": 196541,
-  "total_positive": 193634,
-  "total_negative": 2907,
+  "recommendations_total": 171231,
+  "total_reviews": 196632,
+  "total_positive": 193724,
+  "total_negative": 2908,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Comedy",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

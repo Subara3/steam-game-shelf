@@ -39,8 +39,8 @@
     "カスタム音量調整",
     "マウスのみのオプション",
     "時間制限付き入力なしでプレイ可能",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "タッチのみのオプション",
     "Steamクラウド",
     "ファミリーシェアリング"
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 157317,
-  "total_reviews": 194529,
-  "total_positive": 190351,
-  "total_negative": 4178,
+  "recommendations_total": 157380,
+  "total_reviews": 194607,
+  "total_positive": 190428,
+  "total_negative": 4179,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
@@ -105,5 +105,5 @@
     "Pixel Graphics",
     "Replay Value"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

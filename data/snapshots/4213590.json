@@ -56,18 +56,11 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213590/1f271726ed5c63de89e515affb364dd6b2223b85/ss_1f271726ed5c63de89e515affb364dd6b2223b85.1920x1080.jpg?t=1772074210",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213590/88bf71a47354018468ecf7afa48e64eeaad2509e/ss_88bf71a47354018468ecf7afa48e64eeaad2509e.1920x1080.jpg?t=1772074210"
   ],
-  "movies": [
-    {
-      "name": "トレーラー",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257271799/ddea0d35609c932de10c2b44f51ad94fa6c20434/movie_600x337.jpg?t=1769736381",
-      "url_480": "",
-      "url_max": ""
-    }
-  ],
+  "movies": [],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 718,
-  "total_positive": 700,
+  "total_reviews": 719,
+  "total_positive": 701,
   "total_negative": 18,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "tiling-forest-tiling-town-demo",
@@ -93,5 +86,5 @@
     "2D",
     "Cute"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

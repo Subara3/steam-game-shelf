@@ -49,8 +49,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "いつでもセーブ可能",
     "Steam入力APIサポート",
     "ステレオサウンド",
@@ -109,9 +109,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23480,
-  "total_reviews": 26383,
-  "total_positive": 25200,
+  "recommendations_total": 23482,
+  "total_reviews": 26385,
+  "total_positive": 25202,
   "total_negative": 1183,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "crypt-of-the-necrodancer",
@@ -138,5 +138,5 @@
     "Difficult",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }
