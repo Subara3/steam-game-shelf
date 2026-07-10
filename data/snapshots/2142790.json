@@ -37,8 +37,8 @@
     "シングルプレイヤー",
     "フルコントローラサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steamクラウド",
     "ファミリーシェアリング"
   ],
@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 26078,
-  "total_reviews": 28585,
-  "total_positive": 27930,
-  "total_negative": 655,
+  "recommendations_total": 26101,
+  "total_reviews": 28610,
+  "total_positive": 27951,
+  "total_negative": 659,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

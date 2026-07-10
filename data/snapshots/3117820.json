@@ -44,8 +44,8 @@
     "Steamワークショップ",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steam入力APIサポート",
     "Steamクラウド",
     "ファミリーシェアリング"
@@ -119,10 +119,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24503,
-  "total_reviews": 34439,
-  "total_positive": 32318,
-  "total_negative": 2121,
+  "recommendations_total": 24518,
+  "total_reviews": 34457,
+  "total_positive": 32333,
+  "total_negative": 2124,
   "review_score_desc": "Very Positive",
   "slug": "sultans-game",
   "recommend": "niche",
@@ -146,5 +146,5 @@
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

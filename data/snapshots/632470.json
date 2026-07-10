@@ -31,8 +31,8 @@
     "Steamトレーディングカード",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steamクラウド",
     "タブレットでRemote Play",
     "ファミリーシェアリング"
@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 115946,
-  "total_reviews": 128520,
-  "total_positive": 119027,
-  "total_negative": 9493,
+  "recommendations_total": 115995,
+  "total_reviews": 128571,
+  "total_positive": 119072,
+  "total_negative": 9499,
   "review_score_desc": "Very Positive",
   "slug": "disco-elysium",
   "recommend": "niche",
@@ -109,5 +109,5 @@
     "Singleplayer",
     "Point & Click"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

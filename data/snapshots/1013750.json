@@ -61,14 +61,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_4d8ac06db18ff50d69b3e1ec718a5f2bb76bb78d.1920x1080.jpg?t=1728623971",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013750/ss_85cd47c784d9ebeb2fa80019ea23baf344263dc9.1920x1080.jpg?t=1728623971"
   ],
-  "movies": [
-    {
-      "name": "Legal Dungeon Official Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741508/movie.293x165.jpg?t=1549287296",
-      "url_480": "",
-      "url_max": ""
-    }
-  ],
+  "movies": [],
   "demo_appid": null,
   "recommendations_total": 558,
   "total_reviews": 589,
@@ -97,5 +90,5 @@
     "Political",
     "Story Rich"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

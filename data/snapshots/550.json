@@ -43,8 +43,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steam入力APIサポート",
     "ステレオサウンド",
     "サラウンドサウンド",
@@ -105,10 +105,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 804323,
-  "total_reviews": 1044682,
-  "total_positive": 1018848,
-  "total_negative": 25834,
+  "recommendations_total": 804630,
+  "total_reviews": 1044999,
+  "total_positive": 1019155,
+  "total_negative": 25844,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "left-4-dead-2",
   "recommend": "all",
@@ -134,5 +134,5 @@
     "Action",
     "Survival"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

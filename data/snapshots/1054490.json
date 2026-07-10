@@ -43,8 +43,8 @@
     "Steamトレーディングカード",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "部分的コントローラサポート",
     "Steamクラウド",
     "Steamランキング",
@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9641,
-  "total_reviews": 11801,
-  "total_positive": 11123,
-  "total_negative": 678,
+  "recommendations_total": 9642,
+  "total_reviews": 11804,
+  "total_positive": 11125,
+  "total_negative": 679,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
   "recommend": "all",
@@ -130,5 +130,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

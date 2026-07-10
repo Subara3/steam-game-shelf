@@ -48,8 +48,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "いつでもセーブ可能",
     "ステレオサウンド",
     "字幕オプション",
@@ -122,10 +122,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 745287,
-  "total_reviews": 846623,
-  "total_positive": 819485,
-  "total_negative": 27138,
+  "recommendations_total": 745426,
+  "total_reviews": 846786,
+  "total_positive": 819635,
+  "total_negative": 27151,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -149,5 +149,5 @@
     "CRPG",
     "Fantasy"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

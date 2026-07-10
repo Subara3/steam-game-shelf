@@ -47,8 +47,8 @@
     "ゲームパッド推奨",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steamランキング",
     "スマホでRemote Play",
     "タブレットでRemote Play",
@@ -95,9 +95,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13673,
-  "total_reviews": 19628,
-  "total_positive": 18293,
+  "recommendations_total": 13676,
+  "total_reviews": 19631,
+  "total_positive": 18296,
   "total_negative": 1335,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
@@ -124,5 +124,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

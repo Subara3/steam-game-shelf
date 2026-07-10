@@ -48,8 +48,8 @@
     "時間制限付き入力なしでプレイ可能",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "いつでもセーブ可能",
     "字幕オプション",
     "部分的コントローラサポート",
@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": 452280,
-  "recommendations_total": 193096,
-  "total_reviews": 231763,
-  "total_positive": 225994,
-  "total_negative": 5769,
+  "recommendations_total": 193126,
+  "total_reviews": 231793,
+  "total_positive": 226023,
+  "total_negative": 5770,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "factorio",
   "recommend": "all",
@@ -131,5 +131,5 @@
     "Multiplayer",
     "Survival"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }

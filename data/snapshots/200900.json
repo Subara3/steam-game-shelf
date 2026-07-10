@@ -36,8 +36,8 @@
     "マルチプレイヤー",
     "Steam実績",
     "フルコントローラサポート",
-    "DUALSHOCKコントローラーサポート",
-    "DUALSHOCKコントローラーサポート",
+    "DualSenseコントローラーサポート",
+    "DualSenseコントローラーサポート",
     "Steamクラウド",
     "Remote Play Together",
     "ファミリーシェアリング"
@@ -75,9 +75,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5108,
-  "total_reviews": 8200,
-  "total_positive": 7619,
+  "recommendations_total": 5115,
+  "total_reviews": 8205,
+  "total_positive": 7624,
   "total_negative": 581,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
@@ -103,5 +103,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-07-10T05:14:22.205112+09:00"
+  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
 }
