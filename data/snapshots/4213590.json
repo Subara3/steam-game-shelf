@@ -59,8 +59,8 @@
   "movies": [],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 719,
-  "total_positive": 701,
+  "total_reviews": 720,
+  "total_positive": 702,
   "total_negative": 18,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "tiling-forest-tiling-town-demo",
@@ -86,5 +86,5 @@
     "2D",
     "Cute"
   ],
-  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
+  "fetched_at": "2026-07-12T04:38:13.568074+09:00"
 }
