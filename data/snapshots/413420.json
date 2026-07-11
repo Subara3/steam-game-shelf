@@ -75,10 +75,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 30190,
-  "total_reviews": 32003,
-  "total_positive": 30665,
-  "total_negative": 1338,
+  "recommendations_total": 30212,
+  "total_reviews": 32027,
+  "total_positive": 30688,
+  "total_negative": 1339,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "danganronpa-2",
   "recommend": "niche",
@@ -102,5 +102,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-07-11T04:56:45.242284+09:00"
+  "fetched_at": "2026-07-12T04:38:13.568074+09:00"
 }
