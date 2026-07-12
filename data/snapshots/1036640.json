@@ -54,10 +54,10 @@
   ],
   "movies": [],
   "demo_appid": 3906850,
-  "recommendations_total": 321,
-  "total_reviews": 341,
-  "total_positive": 288,
-  "total_negative": 53,
+  "recommendations_total": 322,
+  "total_reviews": 343,
+  "total_positive": 289,
+  "total_negative": 54,
   "review_score_desc": "Very Positive",
   "slug": "rpg-developer-bakin",
   "recommend": "niche",
@@ -79,5 +79,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-07-12T04:38:13.568074+09:00"
+  "fetched_at": "2026-07-13T04:36:08.151779+09:00"
 }
