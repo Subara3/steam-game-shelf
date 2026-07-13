@@ -58,9 +58,9 @@
   "release_date": "2023年1月6日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 120000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,200",
+  "price_final": 96000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 960",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -113,5 +113,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-07-13T04:36:08.151779+09:00"
+  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
 }

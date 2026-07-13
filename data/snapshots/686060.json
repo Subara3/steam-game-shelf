@@ -62,9 +62,9 @@
   "release_date": "2026年2月10日",
   "is_free": false,
   "price_initial": 340000,
-  "price_final": 255000,
-  "discount_percent": 25,
-  "price_formatted": "¥ 2,550",
+  "price_final": 340000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 3,400",
   "currency": "JPY",
   "metacritic_score": 88,
   "platforms": {
@@ -83,12 +83,6 @@
   ],
   "movies": [
     {
-      "name": "Mewgenics launch trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283662/a75ed3de9d42026cf27d7c4a8b30005e85b8baee/movie_600x337.jpg?t=1770734758",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Mewgenics Release Date Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153663/1eb6f0baf29570284e4b3d90b87fe81af9b4fdff/movie_600x337.jpg?t=1749419242",
       "url_480": "",
@@ -96,10 +90,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 47666,
-  "total_reviews": 51288,
-  "total_positive": 46194,
-  "total_negative": 5094,
+  "recommendations_total": 47719,
+  "total_reviews": 51347,
+  "total_positive": 46245,
+  "total_negative": 5102,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -123,5 +117,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-07-13T04:36:08.151779+09:00"
+  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
 }
