@@ -78,9 +78,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1966,
-  "total_reviews": 2399,
-  "total_positive": 2278,
+  "recommendations_total": 1975,
+  "total_reviews": 2407,
+  "total_positive": 2286,
   "total_negative": 121,
   "review_score_desc": "Very Positive",
   "slug": "paranormasight-file38",
@@ -93,7 +93,7 @@
     "ミステリー",
     "暴力",
     "ホラー",
-    "ゴア"
+    "血"
   ],
   "tags_en": [
     "Adventure",
@@ -105,5 +105,5 @@
     "Horror",
     "Gore"
   ],
-  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
+  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
 }

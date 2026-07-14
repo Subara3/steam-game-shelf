@@ -52,11 +52,30 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_10d8db0bd626583f66c14edba8d8b7a5eed56498.1920x1080.jpg?t=1782347931",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1036640/ss_b21c7d4f4aa210d4bcb3b5eed9ec4c6ee2670a7b.1920x1080.jpg?t=1782347931"
   ],
-  "movies": [],
+  "movies": [
+    {
+      "name": "RPGDeveloperBakin_PV_JP_20250828",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190098/7a355ff2d8bd623f602e16c0c7329a6b7947d666/movie_600x337.jpg?t=1756370169",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "RPGDeveloperBakin_Ver.1.3_JP_2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956157/movie.293x165.jpg?t=1709780566",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "RPGDeveloperBakin_V1.10_PV_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039170/movie.293x165.jpg?t=1721441555",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
   "demo_appid": 3906850,
-  "recommendations_total": 323,
-  "total_reviews": 344,
-  "total_positive": 289,
+  "recommendations_total": 324,
+  "total_reviews": 345,
+  "total_positive": 290,
   "total_negative": 55,
   "review_score_desc": "Very Positive",
   "slug": "rpg-developer-bakin",
@@ -79,5 +98,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
+  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
 }

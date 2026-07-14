@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 297,
-  "total_reviews": 328,
-  "total_positive": 274,
-  "total_negative": 54,
+  "recommendations_total": 299,
+  "total_reviews": 330,
+  "total_positive": 275,
+  "total_negative": 55,
   "review_score_desc": "Very Positive",
   "slug": "burger-bistro-story",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "City Builder",
     "2D"
   ],
-  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
+  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
 }
