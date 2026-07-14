@@ -83,6 +83,12 @@
   ],
   "movies": [
     {
+      "name": "Mewgenics launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283662/a75ed3de9d42026cf27d7c4a8b30005e85b8baee/movie_600x337.jpg?t=1770734758",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Mewgenics Release Date Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153663/1eb6f0baf29570284e4b3d90b87fe81af9b4fdff/movie_600x337.jpg?t=1749419242",
       "url_480": "",
@@ -90,10 +96,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 47719,
-  "total_reviews": 51347,
-  "total_positive": 46245,
-  "total_negative": 5102,
+  "recommendations_total": 47759,
+  "total_reviews": 51393,
+  "total_positive": 46288,
+  "total_negative": 5105,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -117,5 +123,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-07-14T04:55:32.701988+09:00"
+  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
 }
