@@ -73,6 +73,12 @@
   ],
   "movies": [
     {
+      "name": "Early Access Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852510/80c40305bd5e0d7eaade61ac884bbd5251e471ae/movie_600x337.jpg?t=1733855035",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Garden 2.0 update trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079614/965f3123685ccd2402f33c964510348a86e5109e/movie_600x337.jpg?t=1733507740",
       "url_480": "",
@@ -98,10 +104,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 37384,
-  "total_reviews": 44120,
-  "total_positive": 40992,
-  "total_negative": 3128,
+  "recommendations_total": 37392,
+  "total_reviews": 44130,
+  "total_positive": 41000,
+  "total_negative": 3130,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
   "recommend": "all",
@@ -125,5 +131,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
+  "fetched_at": "2026-07-16T04:43:18.898199+09:00"
 }

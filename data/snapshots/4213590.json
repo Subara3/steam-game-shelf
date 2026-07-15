@@ -56,7 +56,14 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213590/1f271726ed5c63de89e515affb364dd6b2223b85/ss_1f271726ed5c63de89e515affb364dd6b2223b85.1920x1080.jpg?t=1772074210",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213590/88bf71a47354018468ecf7afa48e64eeaad2509e/ss_88bf71a47354018468ecf7afa48e64eeaad2509e.1920x1080.jpg?t=1772074210"
   ],
-  "movies": [],
+  "movies": [
+    {
+      "name": "トレーラー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257271799/ddea0d35609c932de10c2b44f51ad94fa6c20434/movie_600x337.jpg?t=1769736381",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
   "demo_appid": null,
   "recommendations_total": 0,
   "total_reviews": 721,
@@ -69,9 +76,9 @@
   "tags_ja": [
     "パズル",
     "論理",
+    "高難易度",
     "オープンワールド",
     "インディー",
-    "高難易度",
     "ドット絵",
     "2D",
     "かわいい"
@@ -79,12 +86,12 @@
   "tags_en": [
     "Puzzle",
     "Logic",
+    "Difficult",
     "Open World",
     "Indie",
-    "Difficult",
     "Pixel Graphics",
     "2D",
     "Cute"
   ],
-  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
+  "fetched_at": "2026-07-16T04:43:18.898199+09:00"
 }

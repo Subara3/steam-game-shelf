@@ -87,9 +87,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 34968,
-  "total_reviews": 44161,
-  "total_positive": 43080,
+  "recommendations_total": 34976,
+  "total_reviews": 44172,
+  "total_positive": 43091,
   "total_negative": 1081,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "ace-attorney-trilogy",
@@ -114,5 +114,5 @@
     "Singleplayer",
     "Crime"
   ],
-  "fetched_at": "2026-07-15T04:49:53.091148+09:00"
+  "fetched_at": "2026-07-16T04:43:18.898199+09:00"
 }
