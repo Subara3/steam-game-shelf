@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 214527,
-  "total_reviews": 370918,
-  "total_positive": 342768,
-  "total_negative": 28150,
+  "recommendations_total": 214570,
+  "total_reviews": 370977,
+  "total_positive": 342826,
+  "total_negative": 28151,
   "review_score_desc": "Very Positive",
   "slug": "skyrim",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-07-16T04:43:18.898199+09:00"
+  "fetched_at": "2026-07-17T04:37:29.814664+09:00"
 }
