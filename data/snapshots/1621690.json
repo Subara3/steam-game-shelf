@@ -85,10 +85,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 49292,
-  "total_reviews": 65462,
-  "total_positive": 60844,
-  "total_negative": 4618,
+  "recommendations_total": 49306,
+  "total_reviews": 65481,
+  "total_positive": 60860,
+  "total_negative": 4621,
   "review_score_desc": "Very Positive",
   "slug": "core-keeper",
   "recommend": "all",
@@ -113,5 +113,5 @@
     "Crafting",
     "Building"
   ],
-  "fetched_at": "2026-07-17T04:37:29.814664+09:00"
+  "fetched_at": "2026-07-18T04:37:47.092262+09:00"
 }
