@@ -104,10 +104,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 37399,
-  "total_reviews": 44139,
-  "total_positive": 41009,
-  "total_negative": 3130,
+  "recommendations_total": 37401,
+  "total_reviews": 44145,
+  "total_positive": 41013,
+  "total_negative": 3132,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
   "recommend": "all",
@@ -131,5 +131,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-07-18T04:37:47.092262+09:00"
+  "fetched_at": "2026-07-19T04:38:39.514282+09:00"
 }
