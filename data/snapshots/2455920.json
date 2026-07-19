@@ -62,10 +62,10 @@
     }
   ],
   "demo_appid": 2567270,
-  "recommendations_total": 542,
-  "total_reviews": 557,
+  "recommendations_total": 543,
+  "total_reviews": 558,
   "total_positive": 546,
-  "total_negative": 11,
+  "total_negative": 12,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "mimic-logic",
   "recommend": "all",
@@ -90,5 +90,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-07-19T04:38:39.514282+09:00"
+  "fetched_at": "2026-07-20T04:37:30.261878+09:00"
 }
