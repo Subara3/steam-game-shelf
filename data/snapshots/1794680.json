@@ -90,10 +90,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 250120,
-  "total_reviews": 264084,
-  "total_positive": 259673,
-  "total_negative": 4411,
+  "recommendations_total": 250140,
+  "total_reviews": 264108,
+  "total_positive": 259695,
+  "total_negative": 4413,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "vampire-survivors",
   "recommend": "all",
@@ -103,8 +103,8 @@
     "吸血鬼",
     "ローグライト",
     "ドット絵",
-    "2D",
     "インディー",
+    "2D",
     "シングルプレイヤー"
   ],
   "tags_en": [
@@ -113,9 +113,9 @@
     "Vampires",
     "Roguelite",
     "Pixel Graphics",
-    "2D",
     "Indie",
+    "2D",
     "Singleplayer"
   ],
-  "fetched_at": "2026-07-20T04:37:30.261878+09:00"
+  "fetched_at": "2026-07-21T05:02:23.737686+09:00"
 }
