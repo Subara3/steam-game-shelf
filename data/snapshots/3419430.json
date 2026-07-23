@@ -7,11 +7,10 @@
   "short_description_ja": "Bongo catはいーっぱい帽子がほしいんだ！ あなたがクリックやキー入力をするたびにBongo catがタスクバーをばしばし叩きます。 ゲームや仕事をしながらポイントを貯めて、Bongo catを手伝ってあげよう。 どんな帽子が見つかるかな？",
   "short_description_en": "Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?",
   "short_description": "Bongo catはいーっぱい帽子がほしいんだ！ あなたがクリックやキー入力をするたびにBongo catがタスクバーをばしばし叩きます。 ゲームや仕事をしながらポイントを貯めて、Bongo catを手伝ってあげよう。 どんな帽子が見つかるかな？",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1782563587",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg?t=1782563587",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1784816690",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg?t=1784816690",
   "developers": [
-    "Marcel Zurawka",
-    "Julius Krüger"
+    "Irox Games"
   ],
   "publishers": [
     "Irox Games"
@@ -69,11 +68,11 @@
   "supported_languages": "英語, ドイツ語, オランダ語, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ポルトガル語－ポルトガル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, ウクライナ語, フランス語, イタリア語, スペイン語 - スペイン, アラビア語, チェコ語, デンマーク語, フィンランド語, ノルウェー語, ルーマニア語, スペイン語－ラテンアメリカ, スウェーデン語, トルコ語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.1920x1080.jpg?t=1782563587",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.1920x1080.jpg?t=1782563587",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.1920x1080.jpg?t=1782563587",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.1920x1080.jpg?t=1782563587",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.1920x1080.jpg?t=1782563587"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.1920x1080.jpg?t=1784816690",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.1920x1080.jpg?t=1784816690",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.1920x1080.jpg?t=1784816690",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.1920x1080.jpg?t=1784816690",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.1920x1080.jpg?t=1784816690"
   ],
   "movies": [
     {
@@ -91,9 +90,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 106590,
-  "total_positive": 102962,
-  "total_negative": 3628,
+  "total_reviews": 106658,
+  "total_positive": 103029,
+  "total_negative": 3629,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
@@ -118,5 +117,5 @@
     "Character Customization",
     "Casual"
   ],
-  "fetched_at": "2026-07-23T04:50:35.522092+09:00"
+  "fetched_at": "2026-07-24T04:52:54.540555+09:00"
 }

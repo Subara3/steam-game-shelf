@@ -7,7 +7,7 @@
   "short_description_ja": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業空間・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
   "short_description_en": "A cozy multiplayer co-working sandbox with character customization, room building, and productivity tools. Focus, study, work, and relax together with friends and players around the world.",
   "short_description": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業空間・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/4bd04516c2fc4a922ea9223376e288abd2bfcc3c/header_alt_assets_3.jpg?t=1783697023",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/b48d1b94b9638d0b481e27227b2cf3f43eb70658/header.jpg?t=1783697023",
   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1783697023",
   "developers": [
     "ambr"
@@ -48,9 +48,9 @@
   "release_date": "2025年4月30日",
   "is_free": false,
   "price_initial": 138000,
-  "price_final": 82800,
-  "discount_percent": 40,
-  "price_formatted": "¥ 828",
+  "price_final": 138000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,380",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -88,9 +88,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4654,
-  "total_reviews": 5264,
-  "total_positive": 4787,
+  "recommendations_total": 4657,
+  "total_reviews": 5268,
+  "total_positive": 4791,
   "total_negative": 477,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
@@ -115,5 +115,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-07-23T04:50:35.522092+09:00"
+  "fetched_at": "2026-07-24T04:52:54.540555+09:00"
 }
