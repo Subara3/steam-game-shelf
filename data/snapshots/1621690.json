@@ -51,9 +51,9 @@
   "release_date": "2024年8月27日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 161000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 1,610",
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
   "currency": "JPY",
   "metacritic_score": 86,
   "platforms": {
@@ -85,10 +85,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 49441,
-  "total_reviews": 65641,
-  "total_positive": 61010,
-  "total_negative": 4631,
+  "recommendations_total": 49463,
+  "total_reviews": 65669,
+  "total_positive": 61037,
+  "total_negative": 4632,
   "review_score_desc": "Very Positive",
   "slug": "core-keeper",
   "recommend": "all",
@@ -113,5 +113,5 @@
     "Crafting",
     "Building"
   ],
-  "fetched_at": "2026-07-26T04:39:59.648168+09:00"
+  "fetched_at": "2026-07-27T04:41:21.244421+09:00"
 }
