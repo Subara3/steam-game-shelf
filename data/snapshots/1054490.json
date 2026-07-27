@@ -57,9 +57,9 @@
   "release_date": "2020年9月17日",
   "is_free": false,
   "price_initial": 220000,
-  "price_final": 220000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,200",
+  "price_final": 110000,
+  "discount_percent": 50,
+  "price_formatted": "¥ 1,100",
   "currency": "JPY",
   "metacritic_score": 84,
   "platforms": {
@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9681,
-  "total_reviews": 11856,
-  "total_positive": 11176,
-  "total_negative": 680,
+  "recommendations_total": 9683,
+  "total_reviews": 11860,
+  "total_positive": 11181,
+  "total_negative": 679,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
   "recommend": "all",
@@ -130,5 +130,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-07-27T04:41:21.244421+09:00"
+  "fetched_at": "2026-07-28T05:01:00.065541+09:00"
 }
