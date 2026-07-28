@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 51400,
-  "total_reviews": 55874,
-  "total_positive": 52650,
-  "total_negative": 3224,
+  "recommendations_total": 51434,
+  "total_reviews": 55911,
+  "total_positive": 52685,
+  "total_negative": 3226,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
@@ -79,7 +79,7 @@
     "シミュレーション",
     "血",
     "ホラー",
-    "良質サントラ"
+    "シングルプレイヤー"
   ],
   "tags_en": [
     "Management",
@@ -89,7 +89,7 @@
     "Simulation",
     "Gore",
     "Horror",
-    "Great Soundtrack"
+    "Singleplayer"
   ],
-  "fetched_at": "2026-07-28T05:01:00.065541+09:00"
+  "fetched_at": "2026-07-29T04:57:46.756617+09:00"
 }
