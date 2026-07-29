@@ -3682,6 +3682,11 @@
       "date": "2026-07-29",
       "price_final": 257000,
       "discount_percent": 0
+    },
+    {
+      "date": "2026-07-30",
+      "price_final": 257000,
+      "discount_percent": 0
     }
   ],
   "266210": [
@@ -4417,6 +4422,11 @@
     },
     {
       "date": "2026-07-29",
+      "price_final": 10800,
+      "discount_percent": 69
+    },
+    {
+      "date": "2026-07-30",
       "price_final": 10800,
       "discount_percent": 69
     }
