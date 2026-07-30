@@ -71,32 +71,32 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 72786,
-  "total_reviews": 79869,
-  "total_positive": 77707,
+  "recommendations_total": 72808,
+  "total_reviews": 79892,
+  "total_positive": 77730,
   "total_negative": 2162,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "papers-please",
   "recommend": "all",
   "tags_ja": [
     "インディー",
-    "政治的",
     "シミュレーション",
     "ポイント＆クリック",
     "シングルプレイヤー",
     "ドット絵",
     "ディストピア",
-    "マルチエンディング"
+    "マルチエンディング",
+    "パズル"
   ],
   "tags_en": [
     "Indie",
-    "Political",
     "Simulation",
     "Point & Click",
     "Singleplayer",
     "Pixel Graphics",
     "Dystopian ",
-    "Multiple Endings"
+    "Multiple Endings",
+    "Puzzle"
   ],
-  "fetched_at": "2026-07-29T04:57:46.756617+09:00"
+  "fetched_at": "2026-07-31T04:58:53.021225+09:00"
 }
