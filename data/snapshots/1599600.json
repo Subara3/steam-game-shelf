@@ -54,9 +54,9 @@
   "release_date": "2022年8月4日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 230000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,300",
+  "price_final": 57500,
+  "discount_percent": 75,
+  "price_formatted": "¥ 575",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -82,9 +82,9 @@
     }
   ],
   "demo_appid": 1755940,
-  "recommendations_total": 18230,
-  "total_reviews": 26763,
-  "total_positive": 25350,
+  "recommendations_total": 18229,
+  "total_reviews": 26766,
+  "total_positive": 25353,
   "total_negative": 1413,
   "review_score_desc": "Very Positive",
   "slug": "plateup",
@@ -110,5 +110,5 @@
     "Roguelike",
     "Cute"
   ],
-  "fetched_at": "2026-07-29T04:57:46.756617+09:00"
+  "fetched_at": "2026-07-31T04:58:53.021225+09:00"
 }

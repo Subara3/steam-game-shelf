@@ -49,6 +49,7 @@
     "カスタム音量調整",
     "難易度の調整",
     "ナレーション付きゲームメニュー",
+    "#category_playable_without_vision",
     "Steamクラウド",
     "レベル編集可能",
     "Remote Play Together",
@@ -99,10 +100,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24772,
-  "total_reviews": 26759,
-  "total_positive": 26261,
-  "total_negative": 498,
+  "recommendations_total": 24783,
+  "total_reviews": 26770,
+  "total_positive": 26273,
+  "total_negative": 497,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -127,5 +128,5 @@
     "Singleplayer",
     "Local Co-Op"
   ],
-  "fetched_at": "2026-07-29T04:57:46.756617+09:00"
+  "fetched_at": "2026-07-31T04:58:53.021225+09:00"
 }

@@ -38,12 +38,15 @@
     "Steamワークショップ",
     "テキストサイズの調整",
     "色のオプション",
+    "#category_contrast_controls",
     "カスタム音量調整",
     "難易度の調整",
     "キーボードのみのオプション",
     "マウスのみのオプション",
     "ナレーション付きゲームメニュー",
+    "#category_playable_at_your_own_pace",
     "時間制限付き入力なしでプレイ可能",
+    "#category_playable_without_vision",
     "DUALSHOCKコントローラーサポート",
     "DUALSHOCKコントローラーサポート",
     "DualSenseコントローラーサポート",
@@ -86,10 +89,10 @@
     }
   ],
   "demo_appid": 1439770,
-  "recommendations_total": 10182,
-  "total_reviews": 11500,
-  "total_positive": 10722,
-  "total_negative": 778,
+  "recommendations_total": 10183,
+  "total_reviews": 11502,
+  "total_positive": 10723,
+  "total_negative": 779,
   "review_score_desc": "Very Positive",
   "slug": "luck-be-a-landlord",
   "recommend": "all",
@@ -113,5 +116,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-07-29T04:57:46.756617+09:00"
+  "fetched_at": "2026-07-31T04:58:53.021225+09:00"
 }
