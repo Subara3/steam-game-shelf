@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": 452280,
-  "recommendations_total": 193836,
-  "total_reviews": 232603,
-  "total_positive": 226815,
-  "total_negative": 5788,
+  "recommendations_total": 193878,
+  "total_reviews": 232649,
+  "total_positive": 226860,
+  "total_negative": 5789,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "factorio",
   "recommend": "all",
@@ -131,5 +131,5 @@
     "Multiplayer",
     "Survival"
   ],
-  "fetched_at": "2026-07-31T04:58:53.021225+09:00"
+  "fetched_at": "2026-08-01T04:59:23.953795+09:00"
 }
