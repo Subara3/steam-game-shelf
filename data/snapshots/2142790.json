@@ -81,10 +81,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 26553,
-  "total_reviews": 29098,
-  "total_positive": 28429,
-  "total_negative": 669,
+  "recommendations_total": 26586,
+  "total_reviews": 29131,
+  "total_positive": 28459,
+  "total_negative": 672,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Romance",
     "Simulation"
   ],
-  "fetched_at": "2026-08-02T04:40:00.047229+09:00"
+  "fetched_at": "2026-08-03T04:40:49.381226+09:00"
 }
