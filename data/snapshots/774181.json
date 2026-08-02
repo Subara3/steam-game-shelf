@@ -100,10 +100,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24789,
-  "total_reviews": 26778,
-  "total_positive": 26282,
-  "total_negative": 496,
+  "recommendations_total": 24796,
+  "total_reviews": 26786,
+  "total_positive": 26291,
+  "total_negative": 495,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -128,5 +128,5 @@
     "Singleplayer",
     "Local Co-Op"
   ],
-  "fetched_at": "2026-08-02T04:40:00.047229+09:00"
+  "fetched_at": "2026-08-03T04:40:49.381226+09:00"
 }
