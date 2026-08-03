@@ -47,9 +47,9 @@
   "release_date": "2019年4月9日",
   "is_free": false,
   "price_initial": 299000,
-  "price_final": 98600,
-  "discount_percent": 67,
-  "price_formatted": "¥ 986",
+  "price_final": 299000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,990",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -87,9 +87,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 35202,
-  "total_reviews": 44466,
-  "total_positive": 43380,
+  "recommendations_total": 35221,
+  "total_reviews": 44489,
+  "total_positive": 43403,
   "total_negative": 1086,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "ace-attorney-trilogy",
@@ -114,5 +114,5 @@
     "Singleplayer",
     "Crime"
   ],
-  "fetched_at": "2026-08-03T04:40:49.381226+09:00"
+  "fetched_at": "2026-08-04T05:07:04.832953+09:00"
 }
