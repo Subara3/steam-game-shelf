@@ -50,9 +50,9 @@
   "release_date": "2026年2月19日",
   "is_free": false,
   "price_initial": 248000,
-  "price_final": 248000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,480",
+  "price_final": 173600,
+  "discount_percent": 30,
+  "price_formatted": "¥ 1,736",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -78,9 +78,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 2060,
-  "total_reviews": 2506,
-  "total_positive": 2380,
+  "recommendations_total": 2062,
+  "total_reviews": 2508,
+  "total_positive": 2382,
   "total_negative": 126,
   "review_score_desc": "Very Positive",
   "slug": "paranormasight-file38",
@@ -105,5 +105,5 @@
     "Horror",
     "Gore"
   ],
-  "fetched_at": "2026-08-04T05:07:04.832953+09:00"
+  "fetched_at": "2026-08-05T05:05:51.390428+09:00"
 }
