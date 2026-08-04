@@ -49,9 +49,9 @@
   "release_date": "2023年3月8日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 198000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,980",
+  "price_final": 99000,
+  "discount_percent": 50,
+  "price_formatted": "¥ 990",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -83,9 +83,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 6022,
-  "total_reviews": 7084,
-  "total_positive": 6766,
+  "recommendations_total": 6023,
+  "total_reviews": 7086,
+  "total_positive": 6768,
   "total_negative": 318,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "paranormasight",
@@ -110,5 +110,5 @@
     "Supernatural",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-08-04T05:07:04.832953+09:00"
+  "fetched_at": "2026-08-05T05:05:51.390428+09:00"
 }
