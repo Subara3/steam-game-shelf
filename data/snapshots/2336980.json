@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1086,
-  "total_reviews": 1132,
-  "total_positive": 1100,
-  "total_negative": 32,
+  "recommendations_total": 1088,
+  "total_reviews": 1134,
+  "total_positive": 1101,
+  "total_negative": 33,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-08-05T05:05:51.390428+09:00"
+  "fetched_at": "2026-08-06T05:01:34.394674+09:00"
 }
