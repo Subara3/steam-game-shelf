@@ -50,9 +50,9 @@
   "release_date": "2018年10月17日",
   "is_free": false,
   "price_initial": 390000,
-  "price_final": 390000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,900",
+  "price_final": 312000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 3,120",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 206833,
-  "total_reviews": 244139,
-  "total_positive": 238902,
-  "total_negative": 5237,
+  "recommendations_total": 206875,
+  "total_reviews": 244181,
+  "total_positive": 238938,
+  "total_negative": 5243,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "niche",
@@ -92,8 +92,8 @@
     "ストラテジー",
     "管理",
     "サンドボックス",
-    "シングルプレイヤー",
-    "MOD導入可能"
+    "MOD導入可能",
+    "シングルプレイヤー"
   ],
   "tags_en": [
     "Colony Sim",
@@ -102,8 +102,8 @@
     "Strategy",
     "Management",
     "Sandbox",
-    "Singleplayer",
-    "Moddable"
+    "Moddable",
+    "Singleplayer"
   ],
-  "fetched_at": "2026-08-06T05:01:34.394674+09:00"
+  "fetched_at": "2026-08-07T09:20:32.036832+09:00"
 }
