@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 79219,
-  "total_reviews": 87979,
-  "total_positive": 85415,
-  "total_negative": 2564,
+  "recommendations_total": 79236,
+  "total_reviews": 87996,
+  "total_positive": 85431,
+  "total_negative": 2565,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "omori",
   "recommend": "niche",
@@ -110,5 +110,5 @@
     "Multiple Endings",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-08-08T04:25:47.642545+09:00"
+  "fetched_at": "2026-08-09T04:05:37.564613+09:00"
 }
