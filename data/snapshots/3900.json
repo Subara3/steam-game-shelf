@@ -56,9 +56,9 @@
   ],
   "movies": [],
   "demo_appid": null,
-  "recommendations_total": 2763,
-  "total_reviews": 3642,
-  "total_positive": 3365,
+  "recommendations_total": 2764,
+  "total_reviews": 3644,
+  "total_positive": 3367,
   "total_negative": 277,
   "review_score_desc": "Very Positive",
   "slug": "civilization-iv",
@@ -83,5 +83,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-08-08T04:25:47.642545+09:00"
+  "fetched_at": "2026-08-09T04:05:37.564613+09:00"
 }
