@@ -122,10 +122,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 750034,
-  "total_reviews": 852085,
-  "total_positive": 824711,
-  "total_negative": 27374,
+  "recommendations_total": 750205,
+  "total_reviews": 852270,
+  "total_positive": 824881,
+  "total_negative": 27389,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -149,5 +149,5 @@
     "CRPG",
     "Fantasy"
   ],
-  "fetched_at": "2026-08-11T04:27:18.733324+09:00"
+  "fetched_at": "2026-08-12T04:31:15.383662+09:00"
 }

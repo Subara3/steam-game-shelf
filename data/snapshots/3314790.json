@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 24200,
-  "total_reviews": 25450,
-  "total_positive": 22954,
-  "total_negative": 2496,
+  "recommendations_total": 24215,
+  "total_reviews": 25468,
+  "total_positive": 22970,
+  "total_negative": 2498,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -95,7 +95,7 @@
     "ストラテジー",
     "ファーストパーソン",
     "ホラー",
-    "毒のあるユーモア"
+    "3D"
   ],
   "tags_en": [
     "Gambling",
@@ -105,7 +105,7 @@
     "Strategy",
     "First-Person",
     "Horror",
-    "Dark Humor"
+    "3D"
   ],
-  "fetched_at": "2026-08-11T04:27:18.733324+09:00"
+  "fetched_at": "2026-08-12T04:31:15.383662+09:00"
 }
