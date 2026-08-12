@@ -105,10 +105,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 811052,
-  "total_reviews": 1052306,
-  "total_positive": 1026252,
-  "total_negative": 26054,
+  "recommendations_total": 811241,
+  "total_reviews": 1052505,
+  "total_positive": 1026439,
+  "total_negative": 26066,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "left-4-dead-2",
   "recommend": "all",
@@ -134,5 +134,5 @@
     "Action",
     "Survival"
   ],
-  "fetched_at": "2026-08-12T04:31:15.383662+09:00"
+  "fetched_at": "2026-08-13T04:33:12.609562+09:00"
 }
