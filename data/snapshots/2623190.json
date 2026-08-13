@@ -7,8 +7,8 @@
   "short_description_ja": "『The Elder Scrolls IV: Oblivion™ Remastered』の驚くべき新ビジュアルとより洗練されたゲームプレイとともに、かつてないシロディールを探索しましょう。",
   "short_description_en": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion™ Remastered.",
   "short_description": "『The Elder Scrolls IV: Oblivion™ Remastered』の驚くべき新ビジュアルとより洗練されたゲームプレイとともに、かつてないシロディールを探索しましょう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/a7cee9165bb1bfc092c390c5cff215ce0e381dfc/header.jpg?t=1761681073",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/4efc3257aabd776d4624da40146fb021d1ef5b38/capsule_231x87.jpg?t=1761681073",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/a7cee9165bb1bfc092c390c5cff215ce0e381dfc/header.jpg?t=1786648304",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/4efc3257aabd776d4624da40146fb021d1ef5b38/capsule_231x87.jpg?t=1786648304",
   "developers": [
     "Bethesda Game Studios",
     "Virtuos"
@@ -45,9 +45,9 @@
   "release_date": "2025年4月22日",
   "is_free": false,
   "price_initial": 693000,
-  "price_final": 485100,
-  "discount_percent": 30,
-  "price_formatted": "¥ 4,851",
+  "price_final": 693000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 6,930",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -58,11 +58,11 @@
   "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
   "website": "http://www.elderscrolls.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/3cfe517f1464aa4d77df744c1e3d96e506da378d/ss_3cfe517f1464aa4d77df744c1e3d96e506da378d.1920x1080.jpg?t=1761681073",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/27619a5ffb8d3b41d807a0387dc0a3d3616d4b48/ss_27619a5ffb8d3b41d807a0387dc0a3d3616d4b48.1920x1080.jpg?t=1761681073",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5d342842ed33010aac7dfa9e04b350a3a8911ef3/ss_5d342842ed33010aac7dfa9e04b350a3a8911ef3.1920x1080.jpg?t=1761681073",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e/ss_c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e.1920x1080.jpg?t=1761681073",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2/ss_5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2.1920x1080.jpg?t=1761681073"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/3cfe517f1464aa4d77df744c1e3d96e506da378d/ss_3cfe517f1464aa4d77df744c1e3d96e506da378d.1920x1080.jpg?t=1786648304",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/27619a5ffb8d3b41d807a0387dc0a3d3616d4b48/ss_27619a5ffb8d3b41d807a0387dc0a3d3616d4b48.1920x1080.jpg?t=1786648304",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5d342842ed33010aac7dfa9e04b350a3a8911ef3/ss_5d342842ed33010aac7dfa9e04b350a3a8911ef3.1920x1080.jpg?t=1786648304",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e/ss_c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e.1920x1080.jpg?t=1786648304",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2/ss_5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2.1920x1080.jpg?t=1786648304"
   ],
   "movies": [
     {
@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59247,
-  "total_reviews": 69688,
-  "total_positive": 52706,
-  "total_negative": 16982,
+  "recommendations_total": 59265,
+  "total_reviews": 69708,
+  "total_positive": 52712,
+  "total_negative": 16996,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Character Customization",
     "First-Person"
   ],
-  "fetched_at": "2026-08-13T04:33:12.609562+09:00"
+  "fetched_at": "2026-08-14T04:31:39.389261+09:00"
 }

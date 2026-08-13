@@ -70,9 +70,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 26001,
-  "total_positive": 25380,
-  "total_negative": 621,
+  "total_reviews": 26004,
+  "total_positive": 25382,
+  "total_negative": 622,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "pineapple-on-pizza",
   "recommend": "all",
@@ -84,8 +84,8 @@
     "ダークコメディ",
     "シングルプレイヤー",
     "ファーストパーソン",
-    "ウォーキングシミュレーター",
-    "毒のあるユーモア"
+    "毒のあるユーモア",
+    "ウォーキングシミュレーター"
   ],
   "tags_en": [
     "Free to Play",
@@ -94,8 +94,8 @@
     "Dark Comedy",
     "Singleplayer",
     "First-Person",
-    "Walking Simulator",
-    "Dark Humor"
+    "Dark Humor",
+    "Walking Simulator"
   ],
-  "fetched_at": "2026-08-13T04:33:12.609562+09:00"
+  "fetched_at": "2026-08-14T04:31:39.389261+09:00"
 }

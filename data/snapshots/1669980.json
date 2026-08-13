@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 44803,
-  "total_reviews": 48854,
-  "total_positive": 47777,
-  "total_negative": 1077,
+  "recommendations_total": 44810,
+  "total_reviews": 48862,
+  "total_positive": 47786,
+  "total_negative": 1076,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "volcano-princess",
   "recommend": "niche",
@@ -94,8 +94,8 @@
     "マルチエンディング",
     "選択型進行",
     "RPG",
-    "恋愛シミュレーション",
     "女性主人公",
+    "恋愛シミュレーション",
     "アニメ",
     "シミュレーション"
   ],
@@ -104,10 +104,10 @@
     "Multiple Endings",
     "Choices Matter",
     "RPG",
-    "Dating Sim",
     "Female Protagonist",
+    "Dating Sim",
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-08-13T04:33:12.609562+09:00"
+  "fetched_at": "2026-08-14T04:31:39.389261+09:00"
 }

@@ -7,8 +7,8 @@
   "short_description_ja": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
   "short_description_en": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
   "short_description": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1753715778",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1786648247",
   "developers": [
     "Bethesda Game Studios"
   ],
@@ -42,9 +42,9 @@
   "release_date": "2016年10月27日",
   "is_free": false,
   "price_initial": 439900,
-  "price_final": 109900,
-  "discount_percent": 75,
-  "price_formatted": "¥ 1,099",
+  "price_final": 439900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,399",
   "currency": "JPY",
   "metacritic_score": 74,
   "platforms": {
@@ -55,11 +55,11 @@
   "supported_languages": "英語<strong>*</strong>, フランス語<strong>*</strong>, イタリア語<strong>*</strong>, ドイツ語<strong>*</strong>, スペイン語 - スペイン<strong>*</strong>, ポーランド語<strong>*</strong>, 中国語（繁体字）, ロシア語<strong>*</strong>, 日本語<strong>*</strong><br><strong>*</strong>フル音声対応言語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1753715778",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1753715778",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1753715778",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1753715778",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1753715778"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1786648247",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1786648247",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1786648247",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1786648247",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1786648247"
   ],
   "movies": [
     {
@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 216367,
-  "total_reviews": 373364,
-  "total_positive": 345165,
-  "total_negative": 28199,
+  "recommendations_total": 216458,
+  "total_reviews": 373479,
+  "total_positive": 345275,
+  "total_negative": 28204,
   "review_score_desc": "Very Positive",
   "slug": "skyrim",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-08-13T04:33:12.609562+09:00"
+  "fetched_at": "2026-08-14T04:31:39.389261+09:00"
 }
