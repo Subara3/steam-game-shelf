@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 72995,
-  "total_reviews": 80087,
-  "total_positive": 77916,
-  "total_negative": 2171,
+  "recommendations_total": 73018,
+  "total_reviews": 80112,
+  "total_positive": 77942,
+  "total_negative": 2170,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "papers-please",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Multiple Endings",
     "Puzzle"
   ],
-  "fetched_at": "2026-08-16T03:53:11.175809+09:00"
+  "fetched_at": "2026-08-17T03:52:00.102793+09:00"
 }
