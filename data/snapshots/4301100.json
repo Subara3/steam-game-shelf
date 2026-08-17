@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1017,
-  "total_reviews": 1073,
-  "total_positive": 1036,
+  "recommendations_total": 1018,
+  "total_reviews": 1074,
+  "total_positive": 1037,
   "total_negative": 37,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "emotelab",
@@ -81,9 +81,9 @@
     "アニメーション＆モデリング",
     "動画制作",
     "早期アクセス",
-    "アニメ",
-    "ユーティリティ",
     "かわいい",
+    "ユーティリティ",
+    "アニメ",
     "キャラクターカスタマイズ",
     "ソフトウェア"
   ],
@@ -91,11 +91,11 @@
     "Animation & Modeling",
     "Video Production",
     "Early Access",
-    "Anime",
-    "Utilities",
     "Cute",
+    "Utilities",
+    "Anime",
     "Character Customization",
     "Software"
   ],
-  "fetched_at": "2026-08-17T03:52:00.102793+09:00"
+  "fetched_at": "2026-08-18T04:05:37.969526+09:00"
 }

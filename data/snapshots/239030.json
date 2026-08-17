@@ -43,9 +43,9 @@
   "release_date": "2013年8月8日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 60000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 600",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": 85,
   "platforms": {
@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 73018,
-  "total_reviews": 80112,
-  "total_positive": 77942,
-  "total_negative": 2170,
+  "recommendations_total": 73045,
+  "total_reviews": 80142,
+  "total_positive": 77973,
+  "total_negative": 2169,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "papers-please",
   "recommend": "all",
@@ -98,5 +98,5 @@
     "Multiple Endings",
     "Puzzle"
   ],
-  "fetched_at": "2026-08-17T03:52:00.102793+09:00"
+  "fetched_at": "2026-08-18T04:05:37.969526+09:00"
 }

@@ -38,9 +38,9 @@
   "release_date": "2024年1月17日",
   "is_free": false,
   "price_initial": 80000,
-  "price_final": 56000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 560",
+  "price_final": 80000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -66,17 +66,17 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 10174,
-  "total_reviews": 10522,
-  "total_positive": 10146,
-  "total_negative": 376,
+  "recommendations_total": 10183,
+  "total_reviews": 10531,
+  "total_positive": 10154,
+  "total_negative": 377,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
   "recommend": "all",
   "tags_ja": [
     "調査",
-    "インタラクティブフィクション",
     "パズル",
+    "インタラクティブフィクション",
     "ビジュアルノベル",
     "ポイント＆クリック",
     "物語性",
@@ -85,13 +85,13 @@
   ],
   "tags_en": [
     "Investigation",
-    "Interactive Fiction",
     "Puzzle",
+    "Interactive Fiction",
     "Visual Novel",
     "Point & Click",
     "Story Rich",
     "Adventure",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-08-17T03:52:00.102793+09:00"
+  "fetched_at": "2026-08-18T04:05:37.969526+09:00"
 }
