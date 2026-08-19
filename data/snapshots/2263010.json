@@ -71,8 +71,8 @@
   "demo_appid": null,
   "recommendations_total": 0,
   "total_reviews": 26020,
-  "total_positive": 25398,
-  "total_negative": 622,
+  "total_positive": 25399,
+  "total_negative": 621,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "pineapple-on-pizza",
   "recommend": "all",
@@ -97,5 +97,5 @@
     "Dark Humor",
     "Walking Simulator"
   ],
-  "fetched_at": "2026-08-19T04:04:39.622036+09:00"
+  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
 }

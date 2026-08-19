@@ -55,18 +55,11 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c0a3e24e33748078600f86248b1a8a394e6d6b8b/ss_c0a3e24e33748078600f86248b1a8a394e6d6b8b.1920x1080.jpg?t=1778770962",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/a4b823b6e53574857042bb94eb2769ca393a8a4c/ss_a4b823b6e53574857042bb94eb2769ca393a8a4c.1920x1080.jpg?t=1778770962"
   ],
-  "movies": [
-    {
-      "name": "demo",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152832/5c678c3bf3964883d294620497d7283f75490c6c/movie_600x337.jpg?t=1749393188",
-      "url_480": "",
-      "url_max": ""
-    }
-  ],
+  "movies": [],
   "demo_appid": null,
-  "recommendations_total": 1423,
-  "total_reviews": 1443,
-  "total_positive": 1387,
+  "recommendations_total": 1424,
+  "total_reviews": 1444,
+  "total_positive": 1388,
   "total_negative": 56,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "one-turn-kill",
@@ -91,5 +84,5 @@
     "Female Protagonist",
     "Solitaire"
   ],
-  "fetched_at": "2026-08-19T04:04:39.622036+09:00"
+  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
 }

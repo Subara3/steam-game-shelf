@@ -59,16 +59,16 @@
   ],
   "movies": [
     {
-      "name": "No Case Should Remain Unsolved Official Trailer Japanese",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989527/movie.293x165.jpg?t=1702803852",
+      "name": "No Case Should Remain Unsolved Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987920/movie.293x165.jpg?t=1702526839",
       "url_480": "",
       "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 10190,
-  "total_reviews": 10538,
-  "total_positive": 10159,
+  "recommendations_total": 10198,
+  "total_reviews": 10547,
+  "total_positive": 10168,
   "total_negative": 379,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
@@ -93,5 +93,5 @@
     "Adventure",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-08-19T04:04:39.622036+09:00"
+  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
 }

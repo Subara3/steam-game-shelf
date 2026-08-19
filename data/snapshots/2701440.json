@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 2107,
-  "total_reviews": 2569,
-  "total_positive": 2437,
-  "total_negative": 132,
+  "recommendations_total": 2111,
+  "total_reviews": 2573,
+  "total_positive": 2440,
+  "total_negative": 133,
   "review_score_desc": "Very Positive",
   "slug": "paranormasight-file38",
   "recommend": "niche",
@@ -105,5 +105,5 @@
     "Horror",
     "Gore"
   ],
-  "fetched_at": "2026-08-19T04:04:39.622036+09:00"
+  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
 }

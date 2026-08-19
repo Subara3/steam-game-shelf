@@ -171,12 +171,6 @@
       "url_max": ""
     },
     {
-      "name": "Portal 2 - Turrets (English)",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80752/movie.293x165.jpg?t=1682715720",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Portal 2 - Boots Short (English)",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80762/movie.293x165.jpg?t=1682715769",
       "url_480": "",
@@ -190,10 +184,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 389224,
-  "total_reviews": 465479,
-  "total_positive": 459441,
-  "total_negative": 6038,
+  "recommendations_total": 389269,
+  "total_reviews": 465521,
+  "total_positive": 459481,
+  "total_negative": 6040,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal-2",
   "recommend": "all",
@@ -218,5 +212,5 @@
     "Puzzle Platformer",
     "Funny"
   ],
-  "fetched_at": "2026-08-19T04:04:39.622036+09:00"
+  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
 }
