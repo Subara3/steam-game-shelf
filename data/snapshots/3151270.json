@@ -57,9 +57,9 @@
   ],
   "movies": [],
   "demo_appid": null,
-  "recommendations_total": 1424,
-  "total_reviews": 1444,
-  "total_positive": 1388,
+  "recommendations_total": 1425,
+  "total_reviews": 1445,
+  "total_positive": 1389,
   "total_negative": 56,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "one-turn-kill",
@@ -84,5 +84,5 @@
     "Female Protagonist",
     "Solitaire"
   ],
-  "fetched_at": "2026-08-20T03:59:36.083535+09:00"
+  "fetched_at": "2026-08-20T22:32:09.524374+09:00"
 }
