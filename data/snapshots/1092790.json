@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 134486,
-  "total_reviews": 147934,
-  "total_positive": 143231,
-  "total_negative": 4703,
+  "recommendations_total": 134505,
+  "total_reviews": 147959,
+  "total_positive": 143259,
+  "total_negative": 4700,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "inscryption",
   "recommend": "niche",
@@ -103,5 +103,5 @@
     "Puzzle",
     "Roguelike"
   ],
-  "fetched_at": "2026-08-21T04:08:26.106179+09:00"
+  "fetched_at": "2026-08-22T04:04:33.385370+09:00"
 }

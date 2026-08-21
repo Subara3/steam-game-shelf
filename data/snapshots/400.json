@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 410,
-  "recommendations_total": 172874,
-  "total_reviews": 198405,
-  "total_positive": 195475,
-  "total_negative": 2930,
+  "recommendations_total": 172900,
+  "total_reviews": 198438,
+  "total_positive": 195509,
+  "total_negative": 2929,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Comedy",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-08-21T04:08:26.106179+09:00"
+  "fetched_at": "2026-08-22T04:04:33.385370+09:00"
 }
