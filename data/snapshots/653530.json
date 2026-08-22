@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 32115,
-  "total_reviews": 34999,
-  "total_positive": 33841,
-  "total_negative": 1158,
+  "recommendations_total": 32123,
+  "total_reviews": 35008,
+  "total_positive": 33849,
+  "total_negative": 1159,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "return-of-the-obra-dinn",
   "recommend": "all",
@@ -95,5 +95,5 @@
     "Indie",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-08-22T04:04:33.385370+09:00"
+  "fetched_at": "2026-08-23T03:54:28.037503+09:00"
 }

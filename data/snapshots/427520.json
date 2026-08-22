@@ -7,8 +7,8 @@
   "short_description_ja": "Factorioは無限に広がる2D世界に自動化された工場を建設し、次第に複雑になる様々なアイテムを製造するゲームです――想像力を駆使して工場をデザインしましょう。単純な要素を組みあわせ、精巧なラインを作りましょう。そしてあなたを敵視する生物から工場を守りましょう。",
   "short_description_en": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
   "short_description": "Factorioは無限に広がる2D世界に自動化された工場を建設し、次第に複雑になる様々なアイテムを製造するゲームです――想像力を駆使して工場をデザインしましょう。単純な要素を組みあわせ、精巧なラインを作りましょう。そしてあなたを敵視する生物から工場を守りましょう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787303648",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/2dca545120676172d4b6db984d210a7fdc387a1e/capsule_231x87.jpg?t=1787303648",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1787348817",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/2dca545120676172d4b6db984d210a7fdc387a1e/capsule_231x87.jpg?t=1787348817",
   "developers": [
     "Wube Software LTD."
   ],
@@ -76,11 +76,11 @@
   "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ハンガリー語, オランダ語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ポルトガル語－ブラジル, ルーマニア語, フィンランド語, スウェーデン語, チェコ語, ロシア語, ウクライナ語, 日本語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, トルコ語, ギリシャ語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ベラルーシ語, カタルーニャ語, カザフ語, ジョージア語",
   "website": "https://www.factorio.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.1920x1080.jpg?t=1787303648",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.1920x1080.jpg?t=1787303648",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0bf814493f247b6baa093511b46c352cf9e98435.1920x1080.jpg?t=1787303648",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_2533e54b0bd90a29adbedb60108ed277536ad445.1920x1080.jpg?t=1787303648",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_192864c00fc38b5ef97b97ca7fa655a9aed7c0da.1920x1080.jpg?t=1787303648"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.1920x1080.jpg?t=1787348817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.1920x1080.jpg?t=1787348817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0bf814493f247b6baa093511b46c352cf9e98435.1920x1080.jpg?t=1787348817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_2533e54b0bd90a29adbedb60108ed277536ad445.1920x1080.jpg?t=1787348817",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_192864c00fc38b5ef97b97ca7fa655a9aed7c0da.1920x1080.jpg?t=1787348817"
   ],
   "movies": [
     {
@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": 452280,
-  "recommendations_total": 194684,
-  "total_reviews": 233625,
-  "total_positive": 227816,
-  "total_negative": 5809,
+  "recommendations_total": 194716,
+  "total_reviews": 233661,
+  "total_positive": 227850,
+  "total_negative": 5811,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "factorio",
   "recommend": "all",
@@ -131,5 +131,5 @@
     "Multiplayer",
     "Survival"
   ],
-  "fetched_at": "2026-08-22T04:04:33.385370+09:00"
+  "fetched_at": "2026-08-23T03:54:28.037503+09:00"
 }
