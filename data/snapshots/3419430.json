@@ -90,9 +90,9 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 108876,
-  "total_positive": 105187,
-  "total_negative": 3689,
+  "total_reviews": 108937,
+  "total_positive": 105244,
+  "total_negative": 3693,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
@@ -117,5 +117,5 @@
     "Character Customization",
     "Casual"
   ],
-  "fetched_at": "2026-08-23T03:54:28.037503+09:00"
+  "fetched_at": "2026-08-24T03:53:38.122123+09:00"
 }
