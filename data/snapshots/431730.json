@@ -72,9 +72,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 21080,
-  "total_reviews": 26670,
-  "total_positive": 26390,
+  "recommendations_total": 21094,
+  "total_reviews": 26685,
+  "total_positive": 26405,
   "total_negative": 280,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "aseprite",
@@ -99,5 +99,5 @@
     "2D",
     "Indie"
   ],
-  "fetched_at": "2026-08-25T04:08:06.202607+09:00"
+  "fetched_at": "2026-08-26T04:06:19.808173+09:00"
 }
