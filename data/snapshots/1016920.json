@@ -95,10 +95,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13747,
-  "total_reviews": 19722,
-  "total_positive": 18373,
-  "total_negative": 1349,
+  "recommendations_total": 13751,
+  "total_reviews": 19727,
+  "total_positive": 18380,
+  "total_negative": 1347,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
   "recommend": "all",
@@ -124,5 +124,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-08-26T04:06:19.808173+09:00"
+  "fetched_at": "2026-08-27T05:22:21.847532+09:00"
 }

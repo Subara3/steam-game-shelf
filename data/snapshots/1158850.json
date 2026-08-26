@@ -7,8 +7,8 @@
   "short_description_ja": "「異議あり!」でおなじみの“法廷バトル”ゲーム、『逆転裁判』シリーズの『大逆転裁判』と『大逆転裁判2』2つの作品を1本に収録。プレイ時間約50時間を超える程のボリューム性、高画質化や遊びやすさの最適化などの細かい調整により誕生した、法廷ミステリーエンターテインメントの決定版。",
   "short_description_en": "Immerse yourself in a dramatic yet charming and witty world of evidence-gathering, deduction and courtroom battles with this double-pack of the adventures of rookie lawyer Ryunosuke.",
   "short_description": "「異議あり!」でおなじみの“法廷バトル”ゲーム、『逆転裁判』シリーズの『大逆転裁判』と『大逆転裁判2』2つの作品を1本に収録。プレイ時間約50時間を超える程のボリューム性、高画質化や遊びやすさの最適化などの細かい調整により誕生した、法廷ミステリーエンターテインメントの決定版。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/header_japanese.jpg?t=1768866214",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/capsule_231x87_japanese.jpg?t=1768866214",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/header_japanese.jpg?t=1787717414",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/capsule_231x87_japanese.jpg?t=1787717414",
   "developers": [
     "CAPCOM Co., Ltd."
   ],
@@ -50,11 +50,11 @@
   "supported_languages": "英語",
   "website": "https://www.ace-attorney.com/great1-2/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_9b642f49498c306849d22f50d3fdb040c707c267.1920x1080.jpg?t=1768866214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_2f8ad14ddc424d0edb7c0da2b5fab610276327b6.1920x1080.jpg?t=1768866214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_fd3b0e5350517d94d4ed1ebb0203ea5fbcfa21a3.1920x1080.jpg?t=1768866214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_98670ef36933ca1507cfac26e494661514c3bfca.1920x1080.jpg?t=1768866214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_e2d9f9a0ebd62b11fc194181fd5927c41f586d2c.1920x1080.jpg?t=1768866214"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_9b642f49498c306849d22f50d3fdb040c707c267.1920x1080.jpg?t=1787717414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_2f8ad14ddc424d0edb7c0da2b5fab610276327b6.1920x1080.jpg?t=1787717414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_fd3b0e5350517d94d4ed1ebb0203ea5fbcfa21a3.1920x1080.jpg?t=1787717414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_98670ef36933ca1507cfac26e494661514c3bfca.1920x1080.jpg?t=1787717414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158850/ss_e2d9f9a0ebd62b11fc194181fd5927c41f586d2c.1920x1080.jpg?t=1787717414"
   ],
   "movies": [
     {
@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5085,
-  "total_reviews": 9441,
-  "total_positive": 8907,
-  "total_negative": 534,
+  "recommendations_total": 5087,
+  "total_reviews": 9447,
+  "total_positive": 8912,
+  "total_negative": 535,
   "review_score_desc": "Very Positive",
   "slug": "great-ace-attorney-chronicles",
   "recommend": "all",
@@ -110,5 +110,5 @@
     "3D",
     "Story Rich"
   ],
-  "fetched_at": "2026-08-26T04:06:19.808173+09:00"
+  "fetched_at": "2026-08-27T05:22:21.847532+09:00"
 }
