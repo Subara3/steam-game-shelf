@@ -68,9 +68,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 3499,
-  "total_reviews": 4142,
-  "total_positive": 3895,
+  "recommendations_total": 3500,
+  "total_reviews": 4143,
+  "total_positive": 3896,
   "total_negative": 247,
   "review_score_desc": "Very Positive",
   "slug": "one-way-heroics",
@@ -95,5 +95,5 @@
     "Turn-Based",
     "JRPG"
   ],
-  "fetched_at": "2026-08-30T06:01:50.844296+09:00"
+  "fetched_at": "2026-08-31T06:16:56.383041+09:00"
 }
