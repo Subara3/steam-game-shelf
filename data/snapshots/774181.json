@@ -1,7 +1,7 @@
 {
   "appid": 774181,
   "required_age": 0,
-  "name_ja": "Rhythm Doctor",
+  "name_ja": "リズムドクター (Rhythm Doctor)",
   "name_en": "Rhythm Doctor",
   "name": "Rhythm Doctor",
   "short_description_ja": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
@@ -100,10 +100,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24961,
-  "total_reviews": 26957,
-  "total_positive": 26460,
-  "total_negative": 497,
+  "recommendations_total": 24973,
+  "total_reviews": 26968,
+  "total_positive": 26470,
+  "total_negative": 498,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rhythm-doctor",
   "recommend": "all",
@@ -128,5 +128,5 @@
     "Singleplayer",
     "Local Co-Op"
   ],
-  "fetched_at": "2026-09-03T06:10:06.782563+09:00"
+  "fetched_at": "2026-09-04T06:10:29.276938+09:00"
 }

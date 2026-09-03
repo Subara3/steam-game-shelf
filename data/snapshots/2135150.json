@@ -88,10 +88,10 @@
     }
   ],
   "demo_appid": 3288620,
-  "recommendations_total": 8371,
-  "total_reviews": 9164,
-  "total_positive": 8554,
-  "total_negative": 610,
+  "recommendations_total": 8372,
+  "total_reviews": 9166,
+  "total_positive": 8555,
+  "total_negative": 611,
   "review_score_desc": "Very Positive",
   "slug": "elin",
   "recommend": "niche",
@@ -115,5 +115,5 @@
     "JRPG",
     "Traditional Roguelike"
   ],
-  "fetched_at": "2026-09-03T06:10:06.782563+09:00"
+  "fetched_at": "2026-09-04T06:10:29.276938+09:00"
 }

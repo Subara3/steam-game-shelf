@@ -35,9 +35,9 @@
   "release_date": "2006年10月25日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 198000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,980",
+  "price_final": 39600,
+  "discount_percent": 80,
+  "price_formatted": "¥ 396",
   "currency": "JPY",
   "metacritic_score": 94,
   "platforms": {
@@ -57,8 +57,8 @@
   "movies": [],
   "demo_appid": null,
   "recommendations_total": 2776,
-  "total_reviews": 3656,
-  "total_positive": 3379,
+  "total_reviews": 3657,
+  "total_positive": 3380,
   "total_negative": 277,
   "review_score_desc": "Very Positive",
   "slug": "civilization-iv",
@@ -83,5 +83,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-09-03T06:10:06.782563+09:00"
+  "fetched_at": "2026-09-04T06:10:29.276938+09:00"
 }
