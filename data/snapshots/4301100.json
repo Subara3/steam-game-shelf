@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1076,
-  "total_reviews": 1136,
-  "total_positive": 1098,
-  "total_negative": 38,
+  "recommendations_total": 1080,
+  "total_reviews": 1141,
+  "total_positive": 1102,
+  "total_negative": 39,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "emotelab",
   "recommend": "all",
@@ -97,5 +97,5 @@
     "Character Customization",
     "Software"
   ],
-  "fetched_at": "2026-09-04T06:10:29.276938+09:00"
+  "fetched_at": "2026-09-05T05:53:31.678970+09:00"
 }
