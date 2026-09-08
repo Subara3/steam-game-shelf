@@ -68,10 +68,10 @@
     }
   ],
   "demo_appid": 1224230,
-  "recommendations_total": 225752,
-  "total_reviews": 261864,
-  "total_positive": 252336,
-  "total_negative": 9528,
+  "recommendations_total": 225836,
+  "total_reviews": 261960,
+  "total_positive": 252428,
+  "total_negative": 9532,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "detroit-become-human",
   "recommend": "all",
@@ -95,5 +95,5 @@
     "Robots",
     "Futuristic"
   ],
-  "fetched_at": "2026-09-08T06:37:44.739343+09:00"
+  "fetched_at": "2026-09-09T06:16:54.906170+09:00"
 }

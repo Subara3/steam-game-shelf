@@ -90,17 +90,17 @@
   ],
   "demo_appid": null,
   "recommendations_total": 0,
-  "total_reviews": 110080,
-  "total_positive": 106306,
-  "total_negative": 3774,
+  "total_reviews": 110136,
+  "total_positive": 106357,
+  "total_negative": 3779,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "bongo-cat",
   "recommend": "all",
   "free_section": true,
   "tags_ja": [
     "デスクトップコンパニオン",
-    "猫",
     "無料プレイ",
+    "猫",
     "かわいい",
     "放置",
     "タイピング",
@@ -109,13 +109,13 @@
   ],
   "tags_en": [
     "Desktop Companion",
-    "Cats",
     "Free to Play",
+    "Cats",
     "Cute",
     "Idler",
     "Typing",
     "Character Customization",
     "Casual"
   ],
-  "fetched_at": "2026-09-08T06:37:44.739343+09:00"
+  "fetched_at": "2026-09-09T06:16:54.906170+09:00"
 }
