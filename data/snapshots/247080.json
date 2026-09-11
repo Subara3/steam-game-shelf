@@ -109,10 +109,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 23586,
-  "total_reviews": 26495,
+  "recommendations_total": 23588,
+  "total_reviews": 26496,
   "total_positive": 25298,
-  "total_negative": 1197,
+  "total_negative": 1198,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "crypt-of-the-necrodancer",
   "recommend": "all",
@@ -138,5 +138,5 @@
     "Difficult",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-09-11T06:00:43.661457+09:00"
+  "fetched_at": "2026-09-12T06:05:33.707624+09:00"
 }
