@@ -103,10 +103,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9802,
-  "total_reviews": 12001,
-  "total_positive": 11313,
-  "total_negative": 688,
+  "recommendations_total": 9803,
+  "total_reviews": 12002,
+  "total_positive": 11315,
+  "total_negative": 687,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
   "recommend": "all",
@@ -130,5 +130,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-09-12T06:05:33.707624+09:00"
+  "fetched_at": "2026-09-13T05:43:02.890013+09:00"
 }

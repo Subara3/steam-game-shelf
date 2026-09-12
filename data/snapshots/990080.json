@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 274487,
-  "total_reviews": 373085,
-  "total_positive": 334891,
-  "total_negative": 38194,
+  "recommendations_total": 274564,
+  "total_reviews": 373176,
+  "total_positive": 334967,
+  "total_negative": 38209,
   "review_score_desc": "Very Positive",
   "slug": "hogwarts-legacy",
   "recommend": "all",
@@ -110,5 +110,5 @@
     "Character Customization",
     "Exploration"
   ],
-  "fetched_at": "2026-09-12T06:05:33.707624+09:00"
+  "fetched_at": "2026-09-13T05:43:02.890013+09:00"
 }
