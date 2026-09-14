@@ -52,9 +52,9 @@
   "release_date": "2022年12月13日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 230000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,300",
+  "price_final": 92000,
+  "discount_percent": 60,
+  "price_formatted": "¥ 920",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -104,9 +104,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 37853,
-  "total_reviews": 44663,
-  "total_positive": 41507,
+  "recommendations_total": 37861,
+  "total_reviews": 44673,
+  "total_positive": 41517,
   "total_negative": 3156,
   "review_score_desc": "Very Positive",
   "slug": "potion-craft",
@@ -131,5 +131,5 @@
     "Indie",
     "2D"
   ],
-  "fetched_at": "2026-09-14T05:58:27.963531+09:00"
+  "fetched_at": "2026-09-15T06:55:33.882057+09:00"
 }

@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 31744,
-  "total_reviews": 34780,
-  "total_positive": 33754,
-  "total_negative": 1026,
+  "recommendations_total": 31795,
+  "total_reviews": 34831,
+  "total_positive": 33802,
+  "total_negative": 1029,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "fields-of-mistria",
   "recommend": "all",
@@ -83,8 +83,8 @@
     "農場シミュレーション",
     "恋愛シミュレーション",
     "RPG",
-    "人生シミュレーション",
     "ドット絵",
+    "人生シミュレーション",
     "ロマンス",
     "シミュレーション",
     "かわいい"
@@ -93,11 +93,11 @@
     "Farming Sim",
     "Dating Sim",
     "RPG",
-    "Life Sim",
     "Pixel Graphics",
+    "Life Sim",
     "Romance",
     "Simulation",
     "Cute"
   ],
-  "fetched_at": "2026-09-14T05:58:27.963531+09:00"
+  "fetched_at": "2026-09-15T06:55:33.882057+09:00"
 }
