@@ -7,8 +7,8 @@
   "short_description_ja": "なあ君、ファミレスを享受せよ。 月は満ちに満ちているし ドリンクバーだってあるんだ。",
   "short_description_en": "Why not enjoy the diner? The moon is as full as it'll ever be, and there's even a drink fountain.",
   "short_description": "なあ君、ファミレスを享受せよ。 月は満ちに満ちているし ドリンクバーだってあるんだ。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/header_japanese.jpg?t=1753428919",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/capsule_231x87_japanese.jpg?t=1753428919",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/header_japanese.jpg?t=1789439010",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/capsule_231x87_japanese.jpg?t=1789439010",
   "developers": [
     "月刊湿地帯",
     "Studio Dragonet"
@@ -50,11 +50,11 @@
   "supported_languages": "日本語, 英語, 中国語（簡体字）, 中国語（繁体字）, 韓国語",
   "website": "https://www.wakuwakugames.com/enjoythediner",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c005d443dc2fd51c22af1115b7659623d629c5b2.1920x1080.jpg?t=1753428919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0bc5c00856e801c2ce9dccaafe6b23adba12e9ce.1920x1080.jpg?t=1753428919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c02e6f38ac32a717fe9d60bc63cd3a91341b66b0.1920x1080.jpg?t=1753428919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0ba2fd304cff29d2cded63ad1530493007cea089.1920x1080.jpg?t=1753428919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_e2b84a0ea046f524d14c04ca3ecbf7c228216be8.1920x1080.jpg?t=1753428919"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c005d443dc2fd51c22af1115b7659623d629c5b2.1920x1080.jpg?t=1789439010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0bc5c00856e801c2ce9dccaafe6b23adba12e9ce.1920x1080.jpg?t=1789439010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_c02e6f38ac32a717fe9d60bc63cd3a91341b66b0.1920x1080.jpg?t=1789439010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_0ba2fd304cff29d2cded63ad1530493007cea089.1920x1080.jpg?t=1789439010",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336980/ss_e2b84a0ea046f524d14c04ca3ecbf7c228216be8.1920x1080.jpg?t=1789439010"
   ],
   "movies": [
     {
@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1117,
-  "total_reviews": 1163,
-  "total_positive": 1130,
+  "recommendations_total": 1118,
+  "total_reviews": 1164,
+  "total_positive": 1131,
   "total_negative": 33,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
@@ -98,5 +98,5 @@
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-09-15T06:55:33.882057+09:00"
+  "fetched_at": "2026-09-16T06:33:10.783169+09:00"
 }

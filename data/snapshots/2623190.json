@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59681,
-  "total_reviews": 70271,
-  "total_positive": 52930,
-  "total_negative": 17341,
+  "recommendations_total": 59688,
+  "total_reviews": 70281,
+  "total_positive": 52934,
+  "total_negative": 17347,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Exploration",
     "First-Person"
   ],
-  "fetched_at": "2026-09-15T06:55:33.882057+09:00"
+  "fetched_at": "2026-09-16T06:33:10.783169+09:00"
 }
