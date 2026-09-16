@@ -83,10 +83,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5110,
-  "total_reviews": 9505,
-  "total_positive": 8963,
-  "total_negative": 542,
+  "recommendations_total": 5112,
+  "total_reviews": 9511,
+  "total_positive": 8970,
+  "total_negative": 541,
   "review_score_desc": "Very Positive",
   "slug": "great-ace-attorney-chronicles",
   "recommend": "all",
@@ -110,5 +110,5 @@
     "3D",
     "Story Rich"
   ],
-  "fetched_at": "2026-09-16T06:33:10.783169+09:00"
+  "fetched_at": "2026-09-17T06:28:34.076463+09:00"
 }
