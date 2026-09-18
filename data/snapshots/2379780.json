@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 160749,
-  "total_reviews": 198635,
-  "total_positive": 194332,
-  "total_negative": 4303,
+  "recommendations_total": 160798,
+  "total_reviews": 198689,
+  "total_positive": 194387,
+  "total_negative": 4302,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "balatro",
   "recommend": "all",
@@ -105,5 +105,5 @@
     "Pixel Graphics",
     "Replay Value"
   ],
-  "fetched_at": "2026-09-18T06:32:42.052871+09:00"
+  "fetched_at": "2026-09-19T06:03:26.194600+09:00"
 }
