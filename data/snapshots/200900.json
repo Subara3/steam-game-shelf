@@ -7,8 +7,8 @@
   "short_description_ja": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description_en": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
   "short_description": "Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games.",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/23d8972e068689b1d688f20972fa343813e0431f/header.jpg?t=1781395150",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/b33f9c291f8b710eb7f61ca0241a88541ff56438/capsule_231x87.jpg?t=1781395150",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/23d8972e068689b1d688f20972fa343813e0431f/header.jpg?t=1790010222",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/b33f9c291f8b710eb7f61ca0241a88541ff56438/capsule_231x87.jpg?t=1790010222",
   "developers": [
     "Nicalis, Inc.",
     "Studio Pixel"
@@ -34,8 +34,13 @@
   "categories": [
     "シングルプレイヤー",
     "マルチプレイヤー",
+    "協力プレイ",
+    "共有／分割画面での協力プレイ",
+    "共有／分割画面",
     "Steam実績",
     "フルコントローラサポート",
+    "DUALSHOCKコントローラーサポート",
+    "DUALSHOCKコントローラーサポート",
     "DualSenseコントローラーサポート",
     "DualSenseコントローラーサポート",
     "Steamクラウド",
@@ -60,11 +65,11 @@
   "supported_languages": "英語, 日本語",
   "website": "http://www.nicalis.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/7994e97f90eda625856793b52147ae5dba6f8221/ss_7994e97f90eda625856793b52147ae5dba6f8221.1920x1080.jpg?t=1781395150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/96b070abddf72b12eeceacf96c73be772b1715ee/ss_96b070abddf72b12eeceacf96c73be772b1715ee.1920x1080.jpg?t=1781395150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/e9d4c0f0b0a44b3025d74b4f43471078fb9936e2/ss_e9d4c0f0b0a44b3025d74b4f43471078fb9936e2.1920x1080.jpg?t=1781395150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/9976cbb8c8857520cc9ea0a175777a760701c1f5/ss_9976cbb8c8857520cc9ea0a175777a760701c1f5.1920x1080.jpg?t=1781395150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/c8aa12807e840307e2ba1f1643ad257fc71c5717/ss_c8aa12807e840307e2ba1f1643ad257fc71c5717.1920x1080.jpg?t=1781395150"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/7994e97f90eda625856793b52147ae5dba6f8221/ss_7994e97f90eda625856793b52147ae5dba6f8221.1920x1080.jpg?t=1790010222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/96b070abddf72b12eeceacf96c73be772b1715ee/ss_96b070abddf72b12eeceacf96c73be772b1715ee.1920x1080.jpg?t=1790010222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/e9d4c0f0b0a44b3025d74b4f43471078fb9936e2/ss_e9d4c0f0b0a44b3025d74b4f43471078fb9936e2.1920x1080.jpg?t=1790010222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/9976cbb8c8857520cc9ea0a175777a760701c1f5/ss_9976cbb8c8857520cc9ea0a175777a760701c1f5.1920x1080.jpg?t=1790010222",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200900/c8aa12807e840307e2ba1f1643ad257fc71c5717/ss_c8aa12807e840307e2ba1f1643ad257fc71c5717.1920x1080.jpg?t=1790010222"
   ],
   "movies": [
     {
@@ -75,9 +80,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5236,
-  "total_reviews": 8341,
-  "total_positive": 7740,
+  "recommendations_total": 5237,
+  "total_reviews": 8342,
+  "total_positive": 7741,
   "total_negative": 601,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
@@ -103,5 +108,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-09-21T05:56:59.666073+09:00"
+  "fetched_at": "2026-09-22T07:04:51.007630+09:00"
 }
