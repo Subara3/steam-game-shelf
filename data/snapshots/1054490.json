@@ -103,9 +103,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9817,
-  "total_reviews": 12025,
-  "total_positive": 11338,
+  "recommendations_total": 9818,
+  "total_reviews": 12026,
+  "total_positive": 11339,
   "total_negative": 687,
   "review_score_desc": "Very Positive",
   "slug": "wingspan",
@@ -114,8 +114,8 @@
     "建設",
     "ボードゲーム",
     "カードゲーム",
-    "ストラテジー",
     "リラックス",
+    "ストラテジー",
     "自然",
     "健全",
     "カジュアル"
@@ -124,11 +124,11 @@
     "Building",
     "Board Game",
     "Card Game",
-    "Strategy",
     "Relaxing",
+    "Strategy",
     "Nature",
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-09-23T06:31:00.780850+09:00"
+  "fetched_at": "2026-09-23T14:11:07.200759+09:00"
 }
