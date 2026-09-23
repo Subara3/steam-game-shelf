@@ -617,8 +617,8 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
         tags_html = "".join(f'<span class="tag">{t}</span>' for t in tag_list)
         about_label = "About" if lang == "en" else "このサイトについて"
         masthead_title = (
-            'The Wonderful <em>Steam</em> Game Shelf' if lang == "en"
-            else 'すばらしき<em>Steam</em>ゲームの本棚'
+            'The Wonderful Steam Game Shelf' if lang == "en"
+            else 'すばらしきSteamゲームの本棚'
         )
         kindle_label = "Kindle Shelf" if lang == "en" else "Kindleの本棚"
         header_class = "article-header has-cover" if ogp_card else "article-header"
@@ -648,7 +648,7 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 <link rel="preconnect" href="https://cdn.akamai.steamstatic.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&family=Shippori+Mincho+B1:wght@600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Sora:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="{prefix}style.css?v={BUILD_VER}">
 {json_ld}
@@ -693,7 +693,6 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
   <p class="back-to-shelf"><a href="{prefix}">&larr; {"Back to the shelf" if lang == "en" else "本棚にもどる"}</a></p>
 </main>
 <footer class="site-footer container">
-  <div class="shelf-plank" aria-hidden="true"></div>
   <div class="footer-inner">
     <p class="footer-brand"><a href="{prefix}">{site_name}</a></p>
     <nav class="footer-links" aria-label="Site links">

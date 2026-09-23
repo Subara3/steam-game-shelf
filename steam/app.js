@@ -95,10 +95,6 @@ function dashboard() {
       return this.selectedGenres.length + (this.saleFilter !== 'off' ? 1 : 0) + (this.showOnlyWithArticle ? 1 : 0);
     },
 
-    get siteArticleCount() {
-      return this.articles.filter(a => a.lang === this.lang).length;
-    },
-
     get onSaleGames() {
       return this.games.filter(g => g.discount_percent > 0 && !g.coming_soon && !g.tool);
     },

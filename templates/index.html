@@ -30,7 +30,7 @@
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&family=Shippori+Mincho+B1:wght@600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Sora:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 <link rel="stylesheet" href="style.css">
 <script type="application/ld+json">
@@ -59,60 +59,34 @@
 
 <div class="container" x-data="dashboard()" x-init="init()" x-cloak>
 
-  <!-- マストヘッド -->
-  <header class="masthead">
-    <div class="masthead-top">
-      <p class="masthead-kicker"><span x-text="t('kicker')"></span><span class="kicker-sep" aria-hidden="true">/</span><span class="kicker-date" x-text="lastUpdate ? `${t('statUpdated')} ${lastUpdate}` : t('loading')"></span></p>
-      <div class="lang-switch">
-        <button type="button" :class="lang === 'ja' ? 'lang-active' : ''" :aria-pressed="lang === 'ja'" @click="switchLang('ja')">JP</button>
-        <button type="button" :class="lang === 'en' ? 'lang-active' : ''" :aria-pressed="lang === 'en'" @click="switchLang('en')">EN</button>
+  <!-- ヘッダー -->
+  <header class="site-header">
+    <div class="header-card">
+      <div class="header-top-row">
+        <h1 class="site-title" x-text="t('siteTitle')">すばらしきSteamゲームの本棚</h1>
+        <div class="lang-switch">
+          <button type="button" :class="lang === 'ja' ? 'lang-active' : ''" :aria-pressed="lang === 'ja'" @click="switchLang('ja')">JP</button>
+          <button type="button" :class="lang === 'en' ? 'lang-active' : ''" :aria-pressed="lang === 'en'" @click="switchLang('en')">EN</button>
+        </div>
+      </div>
+      <p class="site-description" x-text="t('siteDesc')"></p>
+      <div class="header-meta">
+        <span class="header-badge header-badge-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
+        <span class="header-badge header-badge-count" x-text="`${t('gameList')}: ${mainGames.length} ${t('titles')}　${t('tools')}: ${toolGames.length} ${t('titles')}`"></span>
       </div>
     </div>
-    <div class="masthead-main">
-      <div class="masthead-text">
-        <h1 class="site-title">
-          <template x-if="lang === 'ja'"><span>すばらしき<br><em>Steam</em>ゲームの本棚</span></template>
-          <template x-if="lang !== 'ja'"><span>The Wonderful<br><em>Steam</em> Game Shelf</span></template>
-        </h1>
-        <p class="site-description" x-text="t('siteDesc')"></p>
-      </div>
-      <a href="articles/about.html" class="masthead-curators" :href="articlePath('about')" :aria-label="t('about')">
-        <img src="img/scala-full.png" alt="Dr.スカラ" class="curator curator-scala" width="200" height="200">
-        <img src="img/kotori-full.png" alt="ことり" class="curator curator-kotori" width="200" height="200">
-      </a>
-    </div>
-    <dl class="ledger">
-      <div class="ledger-item">
-        <dt x-text="t('statShelf')"></dt>
-        <dd><span class="ledger-num" x-text="mainGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
-      </div>
-      <div class="ledger-item ledger-sale">
-        <dt x-text="t('statSale')"></dt>
-        <dd><span class="ledger-num" x-text="onSaleGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
-      </div>
-      <div class="ledger-item">
-        <dt x-text="t('statTools')"></dt>
-        <dd><span class="ledger-num" x-text="toolGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
-      </div>
-      <div class="ledger-item">
-        <dt x-text="t('articles')"></dt>
-        <dd><span class="ledger-num" x-text="siteArticleCount"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
-      </div>
-    </dl>
-    <div class="shelf-plank" aria-hidden="true"></div>
   </header>
 
   <!-- 直近のベスト！ -->
   <template x-if="featuredGame">
     <section class="featured-section">
-      <h2 class="shelf-heading"><span class="shelf-no">No.01</span><span x-text="t('featured')"></span></h2>
+      <h2 class="shelf-heading"><span x-text="t('featured')"></span></h2>
       <a :href="featuredGame.has_article ? articlePath(featuredGame.slug) : `https://store.steampowered.com/app/${featuredGame.appid}/`"
          :target="featuredGame.has_article ? '_self' : '_blank'"
          :rel="featuredGame.has_article ? '' : 'noopener'"
          class="featured-card">
         <div class="featured-img-wrap">
           <img :src="featuredGame.header_image" :alt="gameName(featuredGame)" class="featured-img" width="460" height="215">
-          <span class="featured-ribbon" aria-hidden="true"></span>
         </div>
         <div class="featured-body">
           <p class="featured-eyebrow" x-show="lang === 'ja' && featuredGame.comment && gameDesc(featuredGame) !== featuredGame.comment" x-text="featuredGame.comment"></p>
@@ -140,8 +114,7 @@
   <template x-if="onSaleGames.length > 0">
     <section class="sale-banner">
       <div class="shelf-heading-row">
-        <h2 class="shelf-heading shelf-heading-sale"><span class="shelf-no">No.02</span><span x-text="t('onSale')"></span></h2>
-        <p class="shelf-hint" x-text="t('saleHint')"></p>
+        <h2 class="shelf-heading shelf-heading-sale"><span x-text="t('onSale')"></span></h2>
       </div>
       <div class="sale-cards">
         <template x-for="g in onSaleGames" :key="g.appid">
@@ -261,7 +234,7 @@
     <main class="main-content">
 
       <section class="game-list" id="shelf">
-        <h2 class="shelf-heading"><span class="shelf-no">No.03</span><span x-text="t('gameList')"></span></h2>
+        <h2 class="shelf-heading"><span x-text="t('gameList')"></span></h2>
 
         <!-- モバイル用ツールバー -->
         <div class="mobile-toolbar">
@@ -317,7 +290,7 @@
                         <span class="card-stamp" x-show="g.discount_percent > 0" x-text="`-${g.discount_percent}%`"></span>
                       </div>
                       <div class="game-body">
-                        <p class="game-callno" x-text="gameMainGenres(g).slice(0, 3).join(' / ')"></p>
+                        <p class="game-genre-line" x-text="gameMainGenres(g).slice(0, 3).join(' / ')"></p>
                         <h3 class="game-name" x-text="gameName(g)"></h3>
                         <p class="game-desc" x-text="gameDesc(g)"></p>
                         <div class="recommend-badges">
@@ -377,11 +350,10 @@
       </div>
 
       <section class="articles-section" x-show="siteArticles.length > 0">
-        <h2 class="shelf-heading"><span class="shelf-no">No.04</span><span x-text="t('articles')"></span></h2>
+        <h2 class="shelf-heading"><span x-text="t('articles')"></span></h2>
         <div class="article-grid">
           <template x-for="(a, i) in siteArticles" :key="a.slug">
             <a :href="articlePath(a.slug)" class="article-card">
-              <span class="article-card-no" x-text="String(i + 1).padStart(2, '0')"></span>
               <h3 x-text="a.title"></h3>
               <div class="article-tags">
                 <template x-for="tag in (a.tags || [])" :key="tag">
@@ -394,7 +366,7 @@
       </section>
 
       <section class="wishlist-section" x-show="comingSoonGames.length > 0">
-        <h2 class="shelf-heading"><span class="shelf-no">No.05</span><span x-text="t('comingSoon')"></span></h2>
+        <h2 class="shelf-heading"><span x-text="t('comingSoon')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in comingSoonGames" :key="g.appid">
             <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
@@ -410,7 +382,7 @@
       </section>
 
       <section class="free-games-section" x-show="freeGames.length > 0">
-        <h2 class="shelf-heading"><span class="shelf-no">No.06</span><span x-text="t('freeGames')"></span></h2>
+        <h2 class="shelf-heading"><span x-text="t('freeGames')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in freeGames" :key="g.appid">
             <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
@@ -426,7 +398,7 @@
       </section>
 
       <section class="tools-section" x-show="toolGames.length > 0">
-        <h2 class="shelf-heading"><span class="shelf-no">No.07</span><span x-text="t('tools')"></span></h2>
+        <h2 class="shelf-heading"><span x-text="t('tools')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in toolGames" :key="g.appid">
             <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
@@ -483,7 +455,6 @@
 </noscript>
 
 <footer class="site-footer container" x-data="{ en: (localStorage.getItem('lang') || 'ja') === 'en' }">
-  <div class="shelf-plank" aria-hidden="true"></div>
   <div class="footer-inner">
     <p class="footer-brand" x-text="en ? 'The Wonderful Steam Game Shelf' : 'すばらしきSteamゲームの本棚'">すばらしきSteamゲームの本棚</p>
     <nav class="footer-links" aria-label="Site links">
