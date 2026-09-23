@@ -1475,6 +1475,8 @@ nav.breadcrumb > span:last-child {
   font-size: clamp(1.5rem, 3.4vw, 2.15rem);
   line-height: 1.4;
   color: var(--paper);
+  word-break: auto-phrase;
+  text-wrap: balance;
 }
 
 .has-cover h1 {
