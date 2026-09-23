@@ -9,7 +9,7 @@
 <link rel="canonical" href="https://steam.subara3.com/">
 <link rel="alternate" hreflang="x-default" href="https://steam.subara3.com/">
 <link rel="sitemap" type="application/xml" href="https://steam.subara3.com/sitemap.xml">
-<meta name="theme-color" content="#1b2838">
+<meta name="theme-color" content="#0b1015">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <meta property="og:type" content="website">
 <meta property="og:title" content="すばらしきSteamゲームの本棚｜Balatro・Stardew Valleyなどおすすめインディーゲーム">
@@ -30,9 +30,9 @@
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Sora:wght@400;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&family=Shippori+Mincho+B1:wght@600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-<link rel="stylesheet" href="style.css?v=202609230638">
+<link rel="stylesheet" href="style.css?v=202609231257">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -52,48 +52,85 @@
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
      crossorigin="anonymous"></script>
-<script src="i18n-data.js?v=202609230638"></script>
+<script src="i18n-data.js?v=202609231257"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3/dist/cdn.min.js"></script>
 </head>
 <body>
 
 <div class="container" x-data="dashboard()" x-init="init()" x-cloak>
 
-  <!-- ヘッダー -->
-  <header class="site-header">
-    <div class="header-card">
-      <div class="header-top-row">
-        <button class="menu-toggle" @click="sidebarOpen = !sidebarOpen" :aria-label="t('search')">
-          <span class="menu-bar"></span>
-          <span class="menu-bar"></span>
-          <span class="menu-bar"></span>
-        </button>
-        <h1 class="site-title" x-text="t('siteTitle')"></h1>
-        <div class="lang-switch">
-          <button :class="lang === 'ja' ? 'lang-active' : ''" @click="switchLang('ja')">JP</button>
-          <button :class="lang === 'en' ? 'lang-active' : ''" @click="switchLang('en')">EN</button>
-        </div>
-      </div>
-      <p class="site-description" x-text="t('siteDesc')"></p>
-      <div class="header-meta">
-        <span class="header-badge header-badge-date" x-text="lastUpdate ? `${t('lastUpdate')}: ${lastUpdate}` : t('loading')"></span>
-        <span class="header-badge header-badge-count" x-text="`${t('gameList')}: ${games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length} ${t('titles')}　${t('tools')}: ${toolGames.length} ${t('titles')}`"></span>
+  <!-- マストヘッド -->
+  <header class="masthead">
+    <div class="masthead-top">
+      <p class="masthead-kicker"><span x-text="t('kicker')"></span><span class="kicker-sep" aria-hidden="true">/</span><span class="kicker-date" x-text="lastUpdate ? `${t('statUpdated')} ${lastUpdate}` : t('loading')"></span></p>
+      <div class="lang-switch">
+        <button type="button" :class="lang === 'ja' ? 'lang-active' : ''" :aria-pressed="lang === 'ja'" @click="switchLang('ja')">JP</button>
+        <button type="button" :class="lang === 'en' ? 'lang-active' : ''" :aria-pressed="lang === 'en'" @click="switchLang('en')">EN</button>
       </div>
     </div>
+    <div class="masthead-main">
+      <div class="masthead-text">
+        <h1 class="site-title">
+          <template x-if="lang === 'ja'"><span>すばらしき<br><em>Steam</em>ゲームの本棚</span></template>
+          <template x-if="lang !== 'ja'"><span>The Wonderful<br><em>Steam</em> Game Shelf</span></template>
+        </h1>
+        <p class="site-description" x-text="t('siteDesc')"></p>
+      </div>
+      <a href="articles/about.html" class="masthead-curators" :href="articlePath('about')" :aria-label="t('about')">
+        <img src="img/scala-full.png" alt="Dr.スカラ" class="curator curator-scala" width="200" height="200">
+        <img src="img/kotori-full.png" alt="ことり" class="curator curator-kotori" width="200" height="200">
+      </a>
+    </div>
+    <dl class="ledger">
+      <div class="ledger-item">
+        <dt x-text="t('statShelf')"></dt>
+        <dd><span class="ledger-num" x-text="mainGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
+      </div>
+      <div class="ledger-item ledger-sale">
+        <dt x-text="t('statSale')"></dt>
+        <dd><span class="ledger-num" x-text="onSaleGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
+      </div>
+      <div class="ledger-item">
+        <dt x-text="t('statTools')"></dt>
+        <dd><span class="ledger-num" x-text="toolGames.length"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
+      </div>
+      <div class="ledger-item">
+        <dt x-text="t('articles')"></dt>
+        <dd><span class="ledger-num" x-text="siteArticleCount"></span><span class="ledger-unit" x-text="t('unit')"></span></dd>
+      </div>
+    </dl>
+    <div class="shelf-plank" aria-hidden="true"></div>
   </header>
 
   <!-- 直近のベスト！ -->
   <template x-if="featuredGame">
     <section class="featured-section">
-      <h2 x-text="t('featured')"></h2>
+      <h2 class="shelf-heading"><span class="shelf-no">No.01</span><span x-text="t('featured')"></span></h2>
       <a :href="featuredGame.has_article ? articlePath(featuredGame.slug) : `https://store.steampowered.com/app/${featuredGame.appid}/`"
          :target="featuredGame.has_article ? '_self' : '_blank'"
+         :rel="featuredGame.has_article ? '' : 'noopener'"
          class="featured-card">
-        <img :src="featuredGame.header_image" :alt="gameName(featuredGame)" class="featured-img" loading="lazy">
+        <div class="featured-img-wrap">
+          <img :src="featuredGame.header_image" :alt="gameName(featuredGame)" class="featured-img" width="460" height="215">
+          <span class="featured-ribbon" aria-hidden="true"></span>
+        </div>
         <div class="featured-body">
+          <p class="featured-eyebrow" x-show="lang === 'ja' && featuredGame.comment && gameDesc(featuredGame) !== featuredGame.comment" x-text="featuredGame.comment"></p>
           <h3 class="featured-name" x-text="gameName(featuredGame)"></h3>
           <p class="featured-desc" x-text="gameDesc(featuredGame)"></p>
-          <span class="featured-cta" x-show="featuredGame.has_article" x-text="t('featuredReadArticle')"></span>
+          <div class="featured-meta">
+            <span class="curator-stamp">
+              <img src="img/scala.png" alt="Dr.スカラ" class="recommend-avatar" x-show="!featuredGame.by || featuredGame.by === 'scala' || featuredGame.by === 'both'">
+              <img src="img/kotori.png" alt="ことり" class="recommend-avatar" x-show="featuredGame.by === 'kotori' || featuredGame.by === 'both'">
+            </span>
+            <span class="recommend-badge" :class="featuredGame.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="featuredGame.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
+            <span class="review-label" x-show="featuredGame.review_score_desc" x-text="reviewText(featuredGame)"></span>
+            <span class="featured-price">
+              <template x-if="featuredGame.discount_percent > 0"><span class="discount-badge" x-text="`-${featuredGame.discount_percent}%`"></span></template>
+              <span class="price-final" :class="featuredGame.discount_percent > 0 ? 'price-sale' : ''" x-text="featuredGame.is_free ? t('free') : formatYen(featuredGame.price_final)"></span>
+            </span>
+          </div>
+          <span class="featured-cta" x-text="featuredGame.has_article ? t('featuredReadArticle') : t('featuredSteam')"></span>
         </div>
       </a>
     </section>
@@ -102,15 +139,23 @@
   <!-- セール中バナー -->
   <template x-if="onSaleGames.length > 0">
     <section class="sale-banner">
-      <h2 x-text="t('onSale')"></h2>
+      <div class="shelf-heading-row">
+        <h2 class="shelf-heading shelf-heading-sale"><span class="shelf-no">No.02</span><span x-text="t('onSale')"></span></h2>
+        <p class="shelf-hint" x-text="t('saleHint')"></p>
+      </div>
       <div class="sale-cards">
         <template x-for="g in onSaleGames" :key="g.appid">
-          <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="sale-card">
-            <img :src="g.header_image" :alt="g.name" loading="lazy">
+          <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="sale-card">
+            <div class="sale-img-wrap">
+              <img :src="g.header_image" :alt="gameName(g)" loading="lazy" width="460" height="215">
+              <span class="sale-stamp" x-text="`-${g.discount_percent}%`"></span>
+            </div>
             <div class="sale-info">
-              <span class="sale-badge" x-text="`-${g.discount_percent}%`"></span>
-              <span class="sale-name" x-text="g.name"></span>
-              <span class="sale-price" x-text="g.price_formatted"></span>
+              <span class="sale-name" x-text="gameName(g)" :title="gameName(g)"></span>
+              <span class="sale-prices">
+                <span class="price-original" x-text="formatYen(g.price_initial)"></span>
+                <span class="sale-price" x-text="formatYen(g.price_final)"></span>
+              </span>
             </div>
           </a>
         </template>
@@ -125,19 +170,20 @@
     <div class="sidebar-backdrop" x-show="sidebarOpen" @click="sidebarOpen = false" x-transition.opacity></div>
 
     <!-- サイドバー -->
-    <aside class="sidebar" :class="sidebarOpen ? 'sidebar-open' : ''">
+    <aside class="sidebar" :class="sidebarOpen ? 'sidebar-open' : ''" id="filters" :aria-hidden="isMobile && !sidebarOpen ? 'true' : 'false'">
       <div class="sidebar-close-row">
-        <button class="sidebar-close" @click="sidebarOpen = false" aria-label="Close">&times;</button>
+        <span class="sidebar-drawer-title" x-text="t('filterButton')"></span>
+        <button type="button" class="sidebar-close" @click="sidebarOpen = false" aria-label="Close">&times;</button>
       </div>
 
-      <div class="sidebar-section">
+      <div class="sidebar-section sidebar-search">
         <h3 x-text="t('search')"></h3>
-        <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input">
+        <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input" :aria-label="t('search')">
       </div>
 
       <div class="sidebar-section">
         <h3 x-text="t('sort')"></h3>
-        <select x-model="sortKey" class="sort-select">
+        <select x-model="sortKey" class="sort-select" :aria-label="t('sort')">
           <option value="name" x-text="t('sortName')"></option>
           <option value="price_asc" x-text="t('sortPriceAsc')"></option>
           <option value="price_desc" x-text="t('sortPriceDesc')"></option>
@@ -147,16 +193,8 @@
       </div>
 
       <div class="sidebar-section">
-        <h3 x-text="t('display')"></h3>
-        <label class="filter-check">
-          <input type="checkbox" x-model="showOnlyWithArticle">
-          <span x-text="t('onlyArticle')"></span>
-        </label>
-      </div>
-
-      <div class="sidebar-section">
         <h3 x-text="t('sale')"></h3>
-        <select x-model="saleFilter" class="sort-select">
+        <select x-model="saleFilter" class="sort-select" :aria-label="t('sale')">
           <option value="off" x-text="t('genreAll')"></option>
           <option value="all" x-text="t('saleAll')"></option>
           <option value="sale90" x-text="t('sale90')"></option>
@@ -169,17 +207,21 @@
           <option value="sale20" x-text="t('sale20')"></option>
           <option value="sale10" x-text="t('sale10')"></option>
         </select>
+        <label class="filter-check">
+          <input type="checkbox" x-model="showOnlyWithArticle">
+          <span x-text="t('onlyArticle')"></span>
+        </label>
       </div>
 
       <div class="sidebar-section">
         <h3 x-text="t('genre')"></h3>
         <div class="genre-list">
-          <button class="genre-chip" :class="selectedGenres.length === 0 ? 'genre-active' : ''" @click="selectedGenres = []">
+          <button type="button" class="genre-chip" :class="selectedGenres.length === 0 ? 'genre-active' : ''" @click="selectedGenres = []">
             <span x-text="t('genreAll')"></span>
-            <span class="genre-count" x-text="games.filter(g => !g.coming_soon && !g.free_section && !g.tool).length"></span>
+            <span class="genre-count" x-text="mainGames.length"></span>
           </button>
           <template x-for="g in allMainGenres" :key="g.name">
-            <button class="genre-chip" :class="selectedGenres.includes(g.name) ? 'genre-active' : ''" @click="toggleGenre(g.name)">
+            <button type="button" class="genre-chip" :class="selectedGenres.includes(g.name) ? 'genre-active' : ''" @click="toggleGenre(g.name)">
               <span x-text="g.name"></span>
               <span class="genre-count" x-text="g.count"></span>
             </button>
@@ -191,12 +233,16 @@
         <h3 x-text="t('tags')"></h3>
         <div class="genre-list">
           <template x-for="tag in allTags" :key="tag.name">
-            <button class="genre-chip" :class="selectedGenres.includes(tag.name) ? 'genre-active' : ''" @click="toggleGenre(tag.name)">
+            <button type="button" class="genre-chip" :class="selectedGenres.includes(tag.name) ? 'genre-active' : ''" @click="toggleGenre(tag.name)">
               <span x-text="tag.name"></span>
               <span class="genre-count" x-text="tag.count"></span>
             </button>
           </template>
         </div>
+      </div>
+
+      <div class="sidebar-apply-row">
+        <button type="button" class="sidebar-apply" @click="sidebarOpen = false" x-text="`${filteredGames.length}${t('showing')}`"></button>
       </div>
 
       <!-- サイドバー広告 -->
@@ -214,15 +260,26 @@
     <!-- メインコンテンツ -->
     <main class="main-content">
 
-      <div class="filter-status" x-show="isFiltering">
-        <span x-text="`${filteredGames.length}${t('showing')}`"></span>
-        <button class="clear-filter" @click="clearFilters()" x-text="t('clearFilter')"></button>
-      </div>
+      <section class="game-list" id="shelf">
+        <h2 class="shelf-heading"><span class="shelf-no">No.03</span><span x-text="t('gameList')"></span></h2>
 
-      <section class="game-list">
-        <h2 x-text="t('gameList')"></h2>
+        <!-- モバイル用ツールバー -->
+        <div class="mobile-toolbar">
+          <input type="search" x-model="searchQuery" :placeholder="t('searchPlaceholder')" class="search-input" :aria-label="t('search')">
+          <button type="button" class="filter-button" @click="sidebarOpen = true" aria-controls="filters" :aria-expanded="sidebarOpen">
+            <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true"><path d="M3 5h14M6 10h8M8.5 15h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+            <span x-text="t('filterButton')"></span>
+            <span class="filter-count" x-show="activeFilterCount > 0" x-text="activeFilterCount"></span>
+          </button>
+        </div>
+
+        <div class="filter-status" x-show="isFiltering">
+          <span x-text="`${filteredGames.length}${t('showing')}`"></span>
+          <button type="button" class="clear-filter" @click="clearFilters()" x-text="t('clearFilter')"></button>
+        </div>
+
         <div class="game-grid-wrap">
-          <template x-for="(g, idx) in filteredGames" :key="g.appid">
+          <template x-for="(g, idx) in visibleGames" :key="g.appid">
             <div style="display: contents">
               <!-- 6件ごとに広告を挿入 -->
               <template x-if="idx > 0 && idx % 6 === 0">
@@ -244,45 +301,44 @@
                       <h3 class="game-name" x-text="gameName(g)"></h3>
                       <p class="age-gate-msg" x-text="t('ageConfirm')"></p>
                       <div class="age-gate-buttons">
-                        <button class="btn-age-yes" @click="confirmAge(g.appid)" x-text="t('ageYes')"></button>
-                        <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="btn-age-no" x-text="t('viewOnSteam')"></a>
+                        <button type="button" class="btn-age-yes" @click="confirmAge(g.appid)" x-text="t('ageYes')"></button>
+                        <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="btn-age-no" x-text="t('viewOnSteam')"></a>
                       </div>
                     </div>
                   </div>
                 </template>
                 <!-- 通常表示 -->
                 <template x-if="!isR18(g) || isAgeConfirmed(g)">
-                  <div>
-                    <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="game-card-link">
+                  <div class="game-card-inner">
+                    <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="game-card-link">
                       <div class="game-img-wrap">
-                        <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy">
+                        <img :src="g.header_image" :alt="gameName(g)" class="game-header-img" loading="lazy" width="460" height="215">
                         <span class="r18-badge" x-show="isR18(g)" x-text="t('ageBadge')"></span>
+                        <span class="card-stamp" x-show="g.discount_percent > 0" x-text="`-${g.discount_percent}%`"></span>
                       </div>
                       <div class="game-body">
+                        <p class="game-callno" x-text="gameMainGenres(g).slice(0, 3).join(' / ')"></p>
                         <h3 class="game-name" x-text="gameName(g)"></h3>
+                        <p class="game-desc" x-text="gameDesc(g)"></p>
                         <div class="recommend-badges">
-                          <img src="img/scala.png" alt="Scala" class="recommend-avatar" x-show="!g.by || g.by === 'scala' || g.by === 'both'">
-                          <img src="img/kotori.png" alt="Kotori" class="recommend-avatar" x-show="g.by === 'kotori' || g.by === 'both'">
+                          <span class="curator-stamp">
+                            <img src="img/scala.png" alt="Dr.スカラ" class="recommend-avatar" x-show="!g.by || g.by === 'scala' || g.by === 'both'">
+                            <img src="img/kotori.png" alt="ことり" class="recommend-avatar" x-show="g.by === 'kotori' || g.by === 'both'">
+                          </span>
                           <span class="recommend-badge" :class="g.recommend === 'niche' ? 'recommend-niche' : 'recommend-all'" x-text="g.recommend === 'niche' ? t('recommendNiche') : t('recommendAll')"></span>
                           <span class="recommend-badge recommend-multi" x-show="g.multi" x-text="t('recommendMulti')"></span>
                         </div>
-                        <p class="game-desc" x-text="gameDesc(g)"></p>
-                        <div class="game-genres-row">
-                          <span class="game-genres" x-text="gameMainGenres(g).slice(0, 3).join(' / ')"></span>
-                        </div>
-                        <div class="game-detail-row">
-                          <span class="game-release" x-text="gameRelease(g)"></span>
-                          <span class="game-detail-sep" x-show="g.review_score_desc">|</span>
-                          <span class="review-label" x-show="g.review_score_desc" x-text="reviewText(g)"></span>
-                        </div>
-                        <div class="game-price-row">
-                          <template x-if="g.discount_percent > 0">
-                            <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
-                          </template>
-                          <template x-if="g.discount_percent > 0">
-                            <span class="price-original" x-text="formatYen(g.price_initial)"></span>
-                          </template>
-                          <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                        <div class="game-foot">
+                          <span class="game-detail">
+                            <span class="game-release" x-text="gameRelease(g)"></span>
+                            <span class="review-label" x-show="g.review_score_desc" x-text="reviewText(g)"></span>
+                          </span>
+                          <span class="game-price-row">
+                            <template x-if="g.discount_percent > 0">
+                              <span class="price-original" x-text="formatYen(g.price_initial)"></span>
+                            </template>
+                            <span class="price-final" :class="g.discount_percent > 0 ? 'price-sale' : ''" x-text="g.is_free ? t('free') : formatYen(g.price_final)"></span>
+                          </span>
                         </div>
                       </div>
                     </a>
@@ -291,6 +347,7 @@
                         <img src="img/scala.png" alt="" class="article-link-avatar">
                         <img src="img/kotori.png" alt="" class="article-link-avatar">
                         <span x-text="t('readArticle')"></span>
+                        <span class="article-link-arrow" aria-hidden="true">&rarr;</span>
                       </a>
                     </template>
                   </div>
@@ -300,6 +357,12 @@
           </template>
         </div>
         <p class="no-results" x-show="filteredGames.length === 0" x-text="t('noResults')"></p>
+        <div class="show-more-row" x-show="filteredGames.length > visibleCount">
+          <button type="button" class="show-more" @click="visibleCount += pageSize">
+            <span x-text="t('showMore')"></span>
+            <span class="show-more-rest" x-text="`${t('remaining')} ${filteredGames.length - visibleCount}`"></span>
+          </button>
+        </div>
       </section>
 
       <!-- ゲーム一覧〜記事間の広告 -->
@@ -314,10 +377,11 @@
       </div>
 
       <section class="articles-section" x-show="siteArticles.length > 0">
-        <h2 x-text="t('articles')"></h2>
+        <h2 class="shelf-heading"><span class="shelf-no">No.04</span><span x-text="t('articles')"></span></h2>
         <div class="article-grid">
-          <template x-for="a in siteArticles" :key="a.slug">
+          <template x-for="(a, i) in siteArticles" :key="a.slug">
             <a :href="articlePath(a.slug)" class="article-card">
+              <span class="article-card-no" x-text="String(i + 1).padStart(2, '0')"></span>
               <h3 x-text="a.title"></h3>
               <div class="article-tags">
                 <template x-for="tag in (a.tags || [])" :key="tag">
@@ -330,11 +394,11 @@
       </section>
 
       <section class="wishlist-section" x-show="comingSoonGames.length > 0">
-        <h2 x-text="t('comingSoon')"></h2>
+        <h2 class="shelf-heading"><span class="shelf-no">No.05</span><span x-text="t('comingSoon')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in comingSoonGames" :key="g.appid">
-            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
-              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy" width="460" height="215">
               <div class="wishlist-body">
                 <span class="coming-soon-badge" x-text="t('comingSoonBadge')"></span>
                 <h3 class="wishlist-name" x-text="gameName(g)"></h3>
@@ -346,11 +410,11 @@
       </section>
 
       <section class="free-games-section" x-show="freeGames.length > 0">
-        <h2 x-text="t('freeGames')"></h2>
+        <h2 class="shelf-heading"><span class="shelf-no">No.06</span><span x-text="t('freeGames')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in freeGames" :key="g.appid">
-            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
-              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy" width="460" height="215">
               <div class="wishlist-body">
                 <span class="free-badge" x-text="t('freeGamesBadge')"></span>
                 <h3 class="wishlist-name" x-text="gameName(g)"></h3>
@@ -362,16 +426,16 @@
       </section>
 
       <section class="tools-section" x-show="toolGames.length > 0">
-        <h2 x-text="t('tools')"></h2>
+        <h2 class="shelf-heading"><span class="shelf-no">No.07</span><span x-text="t('tools')"></span></h2>
         <div class="wishlist-grid">
           <template x-for="g in toolGames" :key="g.appid">
-            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" class="wishlist-card">
-              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy">
+            <a :href="`https://store.steampowered.com/app/${g.appid}/`" target="_blank" rel="noopener" class="wishlist-card">
+              <img :src="g.header_image" :alt="gameName(g)" class="wishlist-img" loading="lazy" width="460" height="215">
               <div class="wishlist-body">
                 <span class="tool-badge" x-text="t('toolsBadge')"></span>
                 <h3 class="wishlist-name" x-text="gameName(g)"></h3>
                 <p class="wishlist-desc" x-text="gameDesc(g)"></p>
-                <div class="game-price-row" style="margin-top: 0.25rem;">
+                <div class="game-price-row">
                   <template x-if="g.discount_percent > 0">
                     <span class="discount-badge" x-text="`-${g.discount_percent}%`"></span>
                   </template>
@@ -388,7 +452,7 @@
 </div>
 
 <!-- フッター広告 -->
-<div style="text-align: center; margin: 20px auto; width: 100%; max-width: 1200px;">
+<div class="ad-slot-footer">
     <ins class="adsbygoogle"
          style="display:block; margin: 0 auto;"
          data-ad-client="ca-pub-7086371722392050"
@@ -503,16 +567,20 @@
 </div>
 </noscript>
 
-<footer class="container">
-  <p><span x-data="{ t: (localStorage.getItem('lang') || 'ja') === 'en' ? 'The Wonderful Steam Game Shelf' : 'すばらしきSteamゲームの本棚' }" x-text="t"></span> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
-  <p style="margin-top: 0.5rem;">
-    <a href="articles/about.html" style="margin: 0 0.5rem;">このサイトについて</a>
-    <a href="https://subara3.com/" style="margin: 0 0.5rem;">栖王ヴァルハラ３丁目</a>
-    <a href="https://books.subara3.com/" style="margin: 0 0.5rem;">Kindleの本棚</a>
-    <a href="https://pulse.subara3.com/" style="margin: 0 0.5rem;">Pulse</a>
-  </p>
+<footer class="site-footer container" x-data="{ en: (localStorage.getItem('lang') || 'ja') === 'en' }">
+  <div class="shelf-plank" aria-hidden="true"></div>
+  <div class="footer-inner">
+    <p class="footer-brand" x-text="en ? 'The Wonderful Steam Game Shelf' : 'すばらしきSteamゲームの本棚'">すばらしきSteamゲームの本棚</p>
+    <nav class="footer-links" aria-label="Site links">
+      <a :href="en ? 'articles/en/about.html' : 'articles/about.html'" href="articles/about.html" x-text="en ? 'About' : 'このサイトについて'">このサイトについて</a>
+      <a href="https://subara3.com/">栖王ヴァルハラ３丁目</a>
+      <a href="https://books.subara3.com/" x-text="en ? 'Kindle Shelf' : 'Kindleの本棚'">Kindleの本棚</a>
+      <a href="https://pulse.subara3.com/">PULSE</a>
+    </nav>
+    <p class="footer-credit">Steam data &copy; <a href="https://store.steampowered.com/" target="_blank" rel="noopener">Valve Corporation</a></p>
+  </div>
 </footer>
 
-<script src="app.js?v=202609230638"></script>
+<script src="app.js?v=202609231257"></script>
 </body>
 </html>

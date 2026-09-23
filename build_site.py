@@ -19,6 +19,8 @@ GAMES_PATH = BASE_DIR / "games.json"
 TEMPLATE_DIR = BASE_DIR / "templates"
 HISTORY_CACHE_PATH = BASE_DIR / "data" / "history-cache.json"
 BUILD_SCRIPT_PATH = Path(__file__).resolve()
+# CSS のキャッシュバスター（記事ページ・トップ共通）
+BUILD_VER = datetime.now().strftime("%Y%m%d%H%M")
 
 
 def load_game_list() -> list[dict]:
@@ -367,6 +369,12 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
             g["featured"] = True
         if master.get("tool"):
             g["tool"] = True
+        # 一言コメント（日本語UIで説明文が英語しかない時の代替にも使う）
+        if master.get("comment"):
+            g["comment"] = master["comment"]
+        # 日本語説明の手動上書き
+        if master.get("desc_ja"):
+            g["short_description_ja"] = master["desc_ja"]
         games.append(g)
 
     # coming_soon / free_section ゲームがスナップショットに無い場合、マスターから補完
@@ -399,6 +407,8 @@ def build_data_json(snapshot: dict, history: dict, articles: dict, articles_en: 
                 entry["tool"] = True
             if master.get("featured"):
                 entry["featured"] = True
+            if master.get("comment"):
+                entry["comment"] = master["comment"]
             games.append(entry)
 
     games_data = {
@@ -594,6 +604,25 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 }}]
 </script>'''
 
+        # 他言語版への切替リンク（存在する場合のみ）
+        if other_lang_slugs and slug in other_lang_slugs:
+            if lang == "en":
+                lang_switch = f'<a href="../{slug}.html" class="article-lang" hreflang="ja" lang="ja">日本語</a>'
+            else:
+                lang_switch = f'<a href="en/{slug}.html" class="article-lang" hreflang="en" lang="en">English</a>'
+        else:
+            lang_switch = ""
+
+        tag_list = tags if isinstance(tags, list) else ([tags] if tags else [])
+        tags_html = "".join(f'<span class="tag">{t}</span>' for t in tag_list)
+        about_label = "About" if lang == "en" else "このサイトについて"
+        masthead_title = (
+            'The Wonderful <em>Steam</em> Game Shelf' if lang == "en"
+            else 'すばらしき<em>Steam</em>ゲームの本棚'
+        )
+        kindle_label = "Kindle Shelf" if lang == "en" else "Kindleの本棚"
+        header_class = "article-header has-cover" if ogp_card else "article-header"
+
         html = f"""<!DOCTYPE html>
 <html lang="{html_lang}" data-theme="dark">
 <head>
@@ -603,7 +632,8 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 <meta name="description" content="{desc_text}">{keywords_tag}
 <link rel="canonical" href="{canonical_url}">{hreflang_tags}
 <link rel="sitemap" type="application/xml" href="https://steam.subara3.com/sitemap.xml">
-<meta name="theme-color" content="#1b2838">
+<meta name="theme-color" content="#0b1015">
+<link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc_text}">
@@ -616,39 +646,64 @@ def build_article_pages(articles: dict, lang: str = "ja", snapshot: dict | None 
 <meta name="twitter:image" content="{og_image}">
 <link rel="dns-prefetch" href="https://cdn.akamai.steamstatic.com">
 <link rel="preconnect" href="https://cdn.akamai.steamstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&family=Shippori+Mincho+B1:wght@600;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-<link rel="stylesheet" href="{prefix}style.css">
+<link rel="stylesheet" href="{prefix}style.css?v={BUILD_VER}">
 {json_ld}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7086371722392050"
      crossorigin="anonymous"></script>
 </head>
-<body>
-<main class="container">
-  <nav class="breadcrumb">
-    <a href="{prefix}">{top_label}</a> &gt; <span>{title}</span>
+<body class="article-page">
+<header class="article-masthead container">
+  <a href="{prefix}" class="mini-brand">{masthead_title}</a>
+  <nav class="mini-nav" aria-label="Site">
+    <a href="{prefix}{"articles/en/about.html" if lang == "en" else "articles/about.html"}">{about_label}</a>
+    {lang_switch}
+  </nav>
+</header>
+<main class="container article-main">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{prefix}">{top_label}</a><span class="breadcrumb-sep" aria-hidden="true">/</span><span aria-current="page">{title}</span>
   </nav>
   <article class="article-content">
-    <header>
-      <h1>{title}</h1>
+    <header class="{header_class}">
+      <div class="article-heading">
+        <div class="article-tags">{tags_html}</div>
+        <h1>{title}</h1>
+      </div>
       {ogp_card}
     </header>
+    <div class="article-body">
     {art["html"]}
+    </div>
   </article>
 
   {art.get("pet_html", "")}
 
   {emotelab_html}
 
-  <div style="text-align: center; margin: 20px auto; max-width: 800px;">
+  <div class="ad-slot-article">
     <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7086371722392050"
          data-ad-slot="4953305789" data-ad-format="auto" data-full-width-responsive="true"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
   </div>
 
+  <p class="back-to-shelf"><a href="{prefix}">&larr; {"Back to the shelf" if lang == "en" else "本棚にもどる"}</a></p>
 </main>
-<footer class="container">
-  <p><a href="{prefix}">{site_name}</a> | Steam data &copy; <a href="https://store.steampowered.com/" target="_blank">Valve Corporation</a></p>
-  <p style="margin-top: 0.5rem;"><a href="{prefix}articles/about.html">{"About" if lang == "en" else "このサイトについて"}</a></p>
+<footer class="site-footer container">
+  <div class="shelf-plank" aria-hidden="true"></div>
+  <div class="footer-inner">
+    <p class="footer-brand"><a href="{prefix}">{site_name}</a></p>
+    <nav class="footer-links" aria-label="Site links">
+      <a href="{prefix}{"articles/en/about.html" if lang == "en" else "articles/about.html"}">{about_label}</a>
+      <a href="https://subara3.com/">栖王ヴァルハラ３丁目</a>
+      <a href="https://books.subara3.com/">{kindle_label}</a>
+      <a href="https://pulse.subara3.com/">PULSE</a>
+    </nav>
+    <p class="footer-credit">Steam data &copy; <a href="https://store.steampowered.com/" target="_blank" rel="noopener">Valve Corporation</a></p>
+  </div>
 </footer>
 </body>
 </html>"""
@@ -746,7 +801,7 @@ def main():
                     shutil.copytree(f, dest)
 
     # Cache busting: add ?v=timestamp to CSS/JS references
-    ver = datetime.now().strftime("%Y%m%d%H%M")
+    ver = BUILD_VER
     index_path = SITE_DIR / "index.html"
     if index_path.exists():
         html = index_path.read_text(encoding="utf-8")

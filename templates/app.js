@@ -15,6 +15,9 @@ function dashboard() {
     sortKey: 'name',
     confirmedAgeApps: {},
     sidebarOpen: false,
+    isMobile: window.matchMedia('(max-width: 768px)').matches,
+    pageSize: window.matchMedia('(max-width: 768px)').matches ? 12 : 24,
+    visibleCount: window.matchMedia('(max-width: 768px)').matches ? 12 : 24,
 
     t(key) {
       return (this.i18nData[this.lang] || this.i18nData.ja || {})[key] || key;
@@ -31,7 +34,11 @@ function dashboard() {
     },
 
     gameDesc(g) {
-      return (this.lang === 'en' ? g.short_description_en : g.short_description_ja) || g.short_description || '';
+      if (this.lang === 'en') return g.short_description_en || g.short_description || '';
+      const ja = g.short_description_ja || g.short_description || '';
+      // Steam側に日本語説明がないゲームは、games.json の一言コメントで代用する
+      if (g.comment && !/[\u3040-\u30ff\u4e00-\u9fff]/.test(ja)) return g.comment;
+      return ja;
     },
 
     gameRelease(g) {
@@ -74,6 +81,22 @@ function dashboard() {
 
     get featuredGame() {
       return this.games.find(g => g.featured) || null;
+    },
+
+    get mainGames() {
+      return this.games.filter(g => !g.coming_soon && !g.free_section && !g.tool);
+    },
+
+    get visibleGames() {
+      return this.filteredGames.slice(0, this.visibleCount);
+    },
+
+    get activeFilterCount() {
+      return this.selectedGenres.length + (this.saleFilter !== 'off' ? 1 : 0) + (this.showOnlyWithArticle ? 1 : 0);
+    },
+
+    get siteArticleCount() {
+      return this.articles.filter(a => a.lang === this.lang).length;
     },
 
     get onSaleGames() {
@@ -144,14 +167,15 @@ function dashboard() {
     },
 
     get filteredGames() {
-      let result = this.games.filter(g => !g.coming_soon && !g.free_section && !g.tool);
+      let result = this.mainGames;
 
       if (this.searchQuery) {
         const q = this.searchQuery.toLowerCase();
         result = result.filter(g =>
           (g.name_en || g.name || '').toLowerCase().includes(q) ||
           (g.name_ja || '').toLowerCase().includes(q) ||
-          (g.short_description || '').toLowerCase().includes(q)
+          (g.short_description || '').toLowerCase().includes(q) ||
+          (g.comment || '').toLowerCase().includes(q)
         );
       }
 
@@ -219,6 +243,22 @@ function dashboard() {
     },
 
     async init() {
+      // 条件が変わったら表示件数を先頭ページに戻す
+      ['searchQuery', 'selectedGenres', 'saleFilter', 'showOnlyWithArticle', 'sortKey', 'lang'].forEach(key => {
+        this.$watch(key, () => { this.visibleCount = this.pageSize; });
+      });
+      const mq = window.matchMedia('(max-width: 768px)');
+      mq.addEventListener('change', e => {
+        this.isMobile = e.matches;
+        if (!e.matches) this.sidebarOpen = false;
+      });
+      this.$watch('sidebarOpen', open => {
+        document.documentElement.classList.toggle('drawer-open', open && this.isMobile);
+      });
+      document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && this.sidebarOpen) this.sidebarOpen = false;
+      });
+
       try {
         const cb = Math.floor(Date.now() / 60000);
         const [gamesResp, articlesResp] = await Promise.all([
