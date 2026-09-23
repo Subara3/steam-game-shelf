@@ -1,0 +1,103 @@
+{
+  "appid": 5044770,
+  "required_age": 0,
+  "name_ja": "デスゲームの報告書",
+  "name_en": "The Death Game Report",
+  "name": "The Death Game Report",
+  "short_description_ja": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
+  "short_description_en": "Identify how every participant in the death game died, and submit your report.",
+  "short_description": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/4ff95c9098db8140c41380056e29b55ab7c5f851/header_japanese.jpg?t=1789541823",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fdf7b0e64120e666b77adbbe823e29a6b4f9d078/capsule_231x87_japanese.jpg?t=1789541823",
+  "developers": [
+    "shu3"
+  ],
+  "publishers": [
+    "shu3"
+  ],
+  "genres_ja": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "genres_en": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "genres": [
+    "アドベンチャー",
+    "カジュアル",
+    "インディー"
+  ],
+  "categories": [
+    "シングルプレイヤー",
+    "Steam実績",
+    "カスタム音量調整",
+    "#category_playable_at_your_own_pace",
+    "いつでもセーブ可能",
+    "Steamクラウド",
+    "ファミリーシェアリング"
+  ],
+  "release_date_ja": "2026年9月1日",
+  "release_date_en": "1 Sep, 2026",
+  "release_date": "2026年9月1日",
+  "is_free": false,
+  "price_initial": 50000,
+  "price_final": 50000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 500",
+  "currency": "JPY",
+  "metacritic_score": null,
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "supported_languages": "日本語",
+  "website": "https://www.shu3no.site/products/drepo/",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fac04b79065279817735e86ea8e9bc1e11dec23a/ss_fac04b79065279817735e86ea8e9bc1e11dec23a.1920x1080.jpg?t=1789541823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14/ss_1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14.1920x1080.jpg?t=1789541823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/637f4f476f78076efd1517219af4911ee54bff36/ss_637f4f476f78076efd1517219af4911ee54bff36.1920x1080.jpg?t=1789541823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/f81b9ffe65fb3b6dcb708e1c8042d871126061ad/ss_f81b9ffe65fb3b6dcb708e1c8042d871126061ad.1920x1080.jpg?t=1789541823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/5323831ebb91d4d6f633bd1e80855bbfeae927e9/ss_5323831ebb91d4d6f633bd1e80855bbfeae927e9.1920x1080.jpg?t=1789541823"
+  ],
+  "movies": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257394784/18f0bf760431210c067f4da40ab744800da138f7/movie_600x337.jpg?t=1786863347",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
+  "demo_appid": null,
+  "recommendations_total": 1101,
+  "total_reviews": 1104,
+  "total_positive": 1066,
+  "total_negative": 38,
+  "review_score_desc": "Overwhelmingly Positive",
+  "slug": "death-game-report",
+  "recommend": "all",
+  "tags_ja": [
+    "ミステリー",
+    "アドベンチャー",
+    "パズル",
+    "カジュアル",
+    "物語性",
+    "インディー",
+    "2D",
+    "調査"
+  ],
+  "tags_en": [
+    "Mystery",
+    "Adventure",
+    "Puzzle",
+    "Casual",
+    "Story Rich",
+    "Indie",
+    "2D",
+    "Investigation"
+  ],
+  "fetched_at": "2026-09-23T14:42:19.204237+09:00"
+}
