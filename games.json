@@ -318,14 +318,6 @@
       "by": "kotori"
     },
     {
-      "appid": 4045680,
-      "slug": "kanmuri",
-      "comment": "育成シミュレーションADV",
-      "name_ja": "冠を持つ神の手",
-      "recommend": "niche",
-      "coming_soon": true
-    },
-    {
       "appid": 4371880,
       "slug": "cyan-project",
       "comment": "謎解きADV",
@@ -570,6 +562,21 @@
       "comment": "協力型採掘サンドボックス",
       "recommend": "all",
       "multi": true
+    },
+    {
+      "appid": 5044770,
+      "slug": "death-game-report",
+      "comment": "死因特定ミステリー",
+      "name_ja": "デスゲームの報告書",
+      "recommend": "all"
+    },
+    {
+      "appid": 3930300,
+      "slug": "deteoide-neko",
+      "comment": "猫を呼び出すアドベンチャー",
+      "name_ja": "でておいで、猫",
+      "recommend": "all",
+      "free_section": true
     }
   ]
 }
