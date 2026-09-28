@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1184,
-  "total_reviews": 1193,
-  "total_positive": 1152,
-  "total_negative": 41,
+  "recommendations_total": 1195,
+  "total_reviews": 1204,
+  "total_positive": 1162,
+  "total_negative": 42,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "death-game-report",
   "recommend": "all",
@@ -99,5 +99,5 @@
     "2D",
     "Investigation"
   ],
-  "fetched_at": "2026-09-28T06:29:10.207579+09:00"
+  "fetched_at": "2026-09-29T08:24:09.572179+09:00"
 }

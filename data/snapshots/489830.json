@@ -76,18 +76,18 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 219602,
-  "total_reviews": 378005,
-  "total_positive": 348496,
-  "total_negative": 29509,
+  "recommendations_total": 219833,
+  "total_reviews": 378343,
+  "total_positive": 348804,
+  "total_negative": 29539,
   "review_score_desc": "Very Positive",
   "slug": "skyrim",
   "recommend": "all",
   "tags_ja": [
     "オープンワールド",
     "RPG",
-    "アドベンチャー",
     "ファンタジー",
+    "アドベンチャー",
     "シングルプレイヤー",
     "キャラクターカスタマイズ",
     "MOD導入可能",
@@ -96,12 +96,12 @@
   "tags_en": [
     "Open World",
     "RPG",
-    "Adventure",
     "Fantasy",
+    "Adventure",
     "Singleplayer",
     "Character Customization",
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-09-24T06:36:54.369170+09:00"
+  "fetched_at": "2026-09-29T08:24:09.572179+09:00"
 }
