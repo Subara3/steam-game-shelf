@@ -7,8 +7,8 @@
   "short_description_ja": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
   "short_description_en": "Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
   "short_description": "「幸運の大家様」は、スロットマシンで家賃を稼ぎ、資本主義を倒すことをテーマにした、ローグライク・デッキビルダーです。本作には、現実世界の通貨を使ったギャンブルや課金の要素は一切含まれておりません。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header_japanese.jpg?t=1769555096",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/capsule_231x87_japanese.jpg?t=1769555096",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header_japanese.jpg?t=1790693959",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/capsule_231x87_japanese.jpg?t=1790693959",
   "developers": [
     "TrampolineTales"
   ],
@@ -74,11 +74,11 @@
   "supported_languages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, デンマーク語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 日本語, 韓国語, ポーランド語, スペイン語－ラテンアメリカ, 中国語（繁体字）, ポルトガル語－ポルトガル, トルコ語, ベトナム語, タイ語, ブルガリア語, アラビア語",
   "website": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_d5349e415e602b326b80f40ebec7820211ff2ada.1920x1080.jpg?t=1769555096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_c61a98b8fb52a54a2c077b748b4a590af189d4d6.1920x1080.jpg?t=1769555096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_fb6f63e7c77968309f36b6aabc049447f9558a60.1920x1080.jpg?t=1769555096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_7b7ca8304f96ce34096043cb6e542c354f9bd2e2.1920x1080.jpg?t=1769555096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_34cc478727c6dc69a1732c1e68b672addb301dba.1920x1080.jpg?t=1769555096"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_d5349e415e602b326b80f40ebec7820211ff2ada.1920x1080.jpg?t=1790693959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_c61a98b8fb52a54a2c077b748b4a590af189d4d6.1920x1080.jpg?t=1790693959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_fb6f63e7c77968309f36b6aabc049447f9558a60.1920x1080.jpg?t=1790693959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_7b7ca8304f96ce34096043cb6e542c354f9bd2e2.1920x1080.jpg?t=1790693959",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_34cc478727c6dc69a1732c1e68b672addb301dba.1920x1080.jpg?t=1790693959"
   ],
   "movies": [
     {
@@ -116,5 +116,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-09-29T08:24:09.572179+09:00"
+  "fetched_at": "2026-09-30T07:27:00.278241+09:00"
 }

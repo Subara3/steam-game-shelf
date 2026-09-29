@@ -96,10 +96,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 50465,
-  "total_reviews": 54428,
-  "total_positive": 48930,
-  "total_negative": 5498,
+  "recommendations_total": 50493,
+  "total_reviews": 54459,
+  "total_positive": 48959,
+  "total_negative": 5500,
   "review_score_desc": "Very Positive",
   "slug": "mewgenics",
   "recommend": "niche",
@@ -123,5 +123,5 @@
     "RPG",
     "Funny"
   ],
-  "fetched_at": "2026-09-29T08:24:09.572179+09:00"
+  "fetched_at": "2026-09-30T07:27:00.278241+09:00"
 }
