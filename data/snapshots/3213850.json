@@ -7,8 +7,8 @@
   "short_description_ja": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業集中・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
   "short_description_en": "A cozy multiplayer co-working sandbox with character customization, room building, and productivity tools. Focus, study, work, and relax together with friends and players around the world.",
   "short_description": "gogh はあなたのデスクワークを楽しくする『マルチプレイ・作業集中・サンドボックス』です。理想の空間とキャラクターをつくって、みんなで集まって集中したりチルな時間を過ごそう。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/b48d1b94b9638d0b481e27227b2cf3f43eb70658/header.jpg?t=1790674632",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1790674632",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/edf5837a9645e6565f81dca1523145d09f0ae4e7/header_alt_assets_4.jpg?t=1790745975",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/62e4c2156b4df1eed8da868ef5b4aa74c8ff924e/capsule_231x87.jpg?t=1790745975",
   "developers": [
     "ambr"
   ],
@@ -61,13 +61,19 @@
   "supported_languages": "英語, 中国語（簡体字）, 日本語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, インドネシア語, スペイン語－ラテンアメリカ, タイ語, ベトナム語, ポルトガル語－ブラジル, ロシア語, 中国語（繁体字）",
   "website": "https://gogh.gg/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1790674632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/73004e3749c33da3ee196d34f5e4fbebd21eba80/ss_73004e3749c33da3ee196d34f5e4fbebd21eba80.1920x1080.jpg?t=1790674632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0979b45c06ab0a39397c5a1d0c4780c61ca51105/ss_0979b45c06ab0a39397c5a1d0c4780c61ca51105.1920x1080.jpg?t=1790674632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/303174c965bb32ec775a5b23e46c834d087220ac/ss_303174c965bb32ec775a5b23e46c834d087220ac.1920x1080.jpg?t=1790674632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/5b7b16079efd1a65e05cdd9dad9615cc43769f28/ss_5b7b16079efd1a65e05cdd9dad9615cc43769f28.1920x1080.jpg?t=1790674632"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/304bc34212c9962679862d729d0025b5f44d8d5d/ss_304bc34212c9962679862d729d0025b5f44d8d5d.1920x1080.jpg?t=1790745975",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/73004e3749c33da3ee196d34f5e4fbebd21eba80/ss_73004e3749c33da3ee196d34f5e4fbebd21eba80.1920x1080.jpg?t=1790745975",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/0979b45c06ab0a39397c5a1d0c4780c61ca51105/ss_0979b45c06ab0a39397c5a1d0c4780c61ca51105.1920x1080.jpg?t=1790745975",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/303174c965bb32ec775a5b23e46c834d087220ac/ss_303174c965bb32ec775a5b23e46c834d087220ac.1920x1080.jpg?t=1790745975",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213850/5b7b16079efd1a65e05cdd9dad9615cc43769f28/ss_5b7b16079efd1a65e05cdd9dad9615cc43769f28.1920x1080.jpg?t=1790745975"
   ],
   "movies": [
+    {
+      "name": "gogh: Focus with Your Avatar - Autumn Update 2026 - JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257440596/7eb70f46997e92e58a3efdbdaa00446ac33b626b/movie_600x337.jpg?t=1790745972",
+      "url_480": "",
+      "url_max": ""
+    },
     {
       "name": "gogh: Focus with Your Avatar - Official Trailer - JP",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328912/e4249a8006928b560a965d386d6e96f7659a1de1/movie_600x337.jpg?t=1777480204",
@@ -85,12 +91,18 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252380/0176336b7893e19a9290bbc27018abcd17e73256/movie_600x337.jpg?t=1766102609",
       "url_480": "",
       "url_max": ""
+    },
+    {
+      "name": "gogh: Focus with Your Avatar - Sketch Chat Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257236870/7965c00e7b7b4f9751ba57f2087f58bd6a16bb90/movie_600x337.jpg?t=1790745974",
+      "url_480": "",
+      "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4832,
-  "total_reviews": 5472,
-  "total_positive": 4990,
+  "recommendations_total": 4835,
+  "total_reviews": 5475,
+  "total_positive": 4993,
   "total_negative": 482,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
@@ -115,5 +127,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-09-30T07:27:00.278241+09:00"
+  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
 }

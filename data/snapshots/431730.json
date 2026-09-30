@@ -59,6 +59,12 @@
   ],
   "movies": [
     {
+      "name": "Aseprite v1.3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836192/movie.293x165.jpg?t=1622056671",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Aseprite v1.1.1 Features",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659444/movie.293x165.jpg?t=1455812111",
       "url_480": "",
@@ -66,9 +72,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 21371,
-  "total_reviews": 27027,
-  "total_positive": 26741,
+  "recommendations_total": 21376,
+  "total_reviews": 27034,
+  "total_positive": 26748,
   "total_negative": 286,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "aseprite",
@@ -93,5 +99,5 @@
     "2D",
     "Indie"
   ],
-  "fetched_at": "2026-09-30T07:27:00.278241+09:00"
+  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
 }

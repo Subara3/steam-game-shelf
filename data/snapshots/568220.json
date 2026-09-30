@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 52688,
-  "total_reviews": 57272,
-  "total_positive": 53974,
-  "total_negative": 3298,
+  "recommendations_total": 52705,
+  "total_reviews": 57291,
+  "total_positive": 53992,
+  "total_negative": 3299,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
@@ -91,5 +91,5 @@
     "Gore",
     "Singleplayer"
   ],
-  "fetched_at": "2026-09-30T07:27:00.278241+09:00"
+  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
 }
