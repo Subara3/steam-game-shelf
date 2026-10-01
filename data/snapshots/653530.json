@@ -40,9 +40,9 @@
   "release_date": "2018年10月18日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 230000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,300",
+  "price_final": 154100,
+  "discount_percent": 33,
+  "price_formatted": "¥ 1,541",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -68,9 +68,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 32393,
-  "total_reviews": 35301,
-  "total_positive": 34128,
+  "recommendations_total": 32402,
+  "total_reviews": 35309,
+  "total_positive": 34136,
   "total_negative": 1173,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "return-of-the-obra-dinn",
@@ -95,5 +95,5 @@
     "Indie",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

@@ -40,9 +40,9 @@
   "release_date": "2022年10月13日",
   "is_free": false,
   "price_initial": 184000,
-  "price_final": 184000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,840",
+  "price_final": 92000,
+  "discount_percent": 50,
+  "price_formatted": "¥ 920",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -86,9 +86,9 @@
     }
   ],
   "demo_appid": 1678010,
-  "recommendations_total": 9809,
-  "total_reviews": 11015,
-  "total_positive": 10771,
+  "recommendations_total": 9811,
+  "total_reviews": 11017,
+  "total_positive": 10773,
   "total_negative": 244,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "the-case-of-the-golden-idol",
@@ -113,5 +113,5 @@
     "Story Rich",
     "2D"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

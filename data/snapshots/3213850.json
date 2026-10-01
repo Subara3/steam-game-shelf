@@ -48,9 +48,9 @@
   "release_date": "2025年4月30日",
   "is_free": false,
   "price_initial": 138000,
-  "price_final": 138000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,380",
+  "price_final": 92400,
+  "discount_percent": 33,
+  "price_formatted": "¥ 924",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -100,9 +100,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4835,
-  "total_reviews": 5475,
-  "total_positive": 4993,
+  "recommendations_total": 4837,
+  "total_reviews": 5476,
+  "total_positive": 4994,
   "total_negative": 482,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
@@ -127,5 +127,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

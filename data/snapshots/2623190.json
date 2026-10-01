@@ -45,9 +45,9 @@
   "release_date": "2025年4月22日",
   "is_free": false,
   "price_initial": 693000,
-  "price_final": 693000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 6,930",
+  "price_final": 485100,
+  "discount_percent": 30,
+  "price_formatted": "¥ 4,851",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59790,
-  "total_reviews": 70423,
-  "total_positive": 52978,
-  "total_negative": 17445,
+  "recommendations_total": 59793,
+  "total_reviews": 70431,
+  "total_positive": 52983,
+  "total_negative": 17448,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -100,5 +100,5 @@
     "Character Customization",
     "First-Person"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

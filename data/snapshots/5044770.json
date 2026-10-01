@@ -7,8 +7,8 @@
   "short_description_ja": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
   "short_description_en": "Identify how every participant in the death game died, and submit your report.",
   "short_description": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/4ff95c9098db8140c41380056e29b55ab7c5f851/header_japanese.jpg?t=1789541823",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fdf7b0e64120e666b77adbbe823e29a6b4f9d078/capsule_231x87_japanese.jpg?t=1789541823",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/4ff95c9098db8140c41380056e29b55ab7c5f851/header_japanese.jpg?t=1790875018",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fdf7b0e64120e666b77adbbe823e29a6b4f9d078/capsule_231x87_japanese.jpg?t=1790875018",
   "developers": [
     "shu3"
   ],
@@ -44,9 +44,9 @@
   "release_date": "2026年9月1日",
   "is_free": false,
   "price_initial": 50000,
-  "price_final": 50000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 500",
+  "price_final": 45000,
+  "discount_percent": 10,
+  "price_formatted": "¥ 450",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -54,14 +54,14 @@
     "mac": false,
     "linux": false
   },
-  "supported_languages": "日本語",
+  "supported_languages": "日本語, 中国語（簡体字）",
   "website": "https://www.shu3no.site/products/drepo/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fac04b79065279817735e86ea8e9bc1e11dec23a/ss_fac04b79065279817735e86ea8e9bc1e11dec23a.1920x1080.jpg?t=1789541823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14/ss_1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14.1920x1080.jpg?t=1789541823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/637f4f476f78076efd1517219af4911ee54bff36/ss_637f4f476f78076efd1517219af4911ee54bff36.1920x1080.jpg?t=1789541823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/f81b9ffe65fb3b6dcb708e1c8042d871126061ad/ss_f81b9ffe65fb3b6dcb708e1c8042d871126061ad.1920x1080.jpg?t=1789541823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/5323831ebb91d4d6f633bd1e80855bbfeae927e9/ss_5323831ebb91d4d6f633bd1e80855bbfeae927e9.1920x1080.jpg?t=1789541823"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10/ss_e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10.1920x1080.jpg?t=1790875018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14/ss_1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14.1920x1080.jpg?t=1790875018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/637f4f476f78076efd1517219af4911ee54bff36/ss_637f4f476f78076efd1517219af4911ee54bff36.1920x1080.jpg?t=1790875018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/f20565402a0249196bb9937d3447a6751a2d83d3/ss_f20565402a0249196bb9937d3447a6751a2d83d3.1920x1080.jpg?t=1790875018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/5323831ebb91d4d6f633bd1e80855bbfeae927e9/ss_5323831ebb91d4d6f633bd1e80855bbfeae927e9.1920x1080.jpg?t=1790875018"
   ],
   "movies": [
     {
@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1216,
-  "total_reviews": 1226,
-  "total_positive": 1181,
-  "total_negative": 45,
+  "recommendations_total": 1227,
+  "total_reviews": 1238,
+  "total_positive": 1191,
+  "total_negative": 47,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "death-game-report",
   "recommend": "all",
@@ -99,5 +99,5 @@
     "2D",
     "Investigation"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

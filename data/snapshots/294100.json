@@ -50,9 +50,9 @@
   "release_date": "2018年10月17日",
   "is_free": false,
   "price_initial": 390000,
-  "price_final": 390000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,900",
+  "price_final": 312000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 3,120",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -78,10 +78,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 209322,
-  "total_reviews": 247135,
-  "total_positive": 241808,
-  "total_negative": 5327,
+  "recommendations_total": 209374,
+  "total_reviews": 247193,
+  "total_positive": 241867,
+  "total_negative": 5326,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "rimworld",
   "recommend": "niche",
@@ -90,8 +90,8 @@
     "基地建設",
     "サバイバル",
     "ストラテジー",
-    "管理",
     "サンドボックス",
+    "管理",
     "シングルプレイヤー",
     "MOD導入可能"
   ],
@@ -100,10 +100,10 @@
     "Base Building",
     "Survival",
     "Strategy",
-    "Management",
     "Sandbox",
+    "Management",
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

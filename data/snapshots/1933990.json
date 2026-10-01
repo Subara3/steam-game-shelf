@@ -45,9 +45,9 @@
   "release_date": "2023年1月15日",
   "is_free": false,
   "price_initial": 128000,
-  "price_final": 128000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,280",
+  "price_final": 53700,
+  "discount_percent": 58,
+  "price_formatted": "¥ 537",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -74,10 +74,10 @@
   ],
   "demo_appid": null,
   "recommendations_total": 321,
-  "total_reviews": 356,
-  "total_positive": 295,
-  "total_negative": 61,
-  "review_score_desc": "Very Positive",
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "burger-bistro-story",
   "recommend": "all",
   "tags_ja": [
@@ -100,5 +100,5 @@
     "City Builder",
     "2D"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }

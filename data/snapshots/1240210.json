@@ -43,9 +43,9 @@
   "release_date": "2020年8月6日",
   "is_free": false,
   "price_initial": 132000,
-  "price_final": 132000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,320",
+  "price_final": 92400,
+  "discount_percent": 30,
+  "price_formatted": "¥ 924",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -77,9 +77,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 24183,
-  "total_reviews": 26131,
-  "total_positive": 25530,
+  "recommendations_total": 24189,
+  "total_reviews": 26137,
+  "total_positive": 25536,
   "total_negative": 601,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "there-is-no-game",
@@ -104,5 +104,5 @@
     "Comedy",
     "Casual"
   ],
-  "fetched_at": "2026-10-01T07:25:57.802376+09:00"
+  "fetched_at": "2026-10-02T07:48:11.129607+09:00"
 }
