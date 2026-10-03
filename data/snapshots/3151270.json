@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1498,
-  "total_reviews": 1520,
+  "recommendations_total": 1499,
+  "total_reviews": 1521,
   "total_positive": 1458,
-  "total_negative": 62,
+  "total_negative": 63,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "one-turn-kill",
   "recommend": "niche",
@@ -91,5 +91,5 @@
     "2D",
     "Solitaire"
   ],
-  "fetched_at": "2026-10-03T07:23:35.463274+09:00"
+  "fetched_at": "2026-10-04T06:34:18.970021+09:00"
 }
