@@ -85,10 +85,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 141119,
-  "total_reviews": 162885,
-  "total_positive": 149292,
-  "total_negative": 13593,
+  "recommendations_total": 141134,
+  "total_reviews": 162901,
+  "total_positive": 149303,
+  "total_negative": 13598,
   "review_score_desc": "Very Positive",
   "slug": "darkest-dungeon",
   "recommend": "niche",
@@ -112,5 +112,5 @@
     "Difficult",
     "Turn-Based"
   ],
-  "fetched_at": "2026-10-04T06:34:18.970021+09:00"
+  "fetched_at": "2026-10-05T06:42:07.029732+09:00"
 }

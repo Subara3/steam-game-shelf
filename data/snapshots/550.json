@@ -92,12 +92,6 @@
       "url_max": ""
     },
     {
-      "name": "Left 4 Dead 2 - TV Spot 2",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489/movie.jpg?t=1447352698",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Left 4 Dead 2 Teaser",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268/movie.jpg?t=1447352170",
       "url_480": "",
@@ -105,10 +99,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 818736,
-  "total_reviews": 1061141,
-  "total_positive": 1034816,
-  "total_negative": 26325,
+  "recommendations_total": 819076,
+  "total_reviews": 1061527,
+  "total_positive": 1035198,
+  "total_negative": 26329,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "left-4-dead-2",
   "recommend": "all",
@@ -134,5 +128,5 @@
     "Action",
     "Survival"
   ],
-  "fetched_at": "2026-10-04T06:34:18.970021+09:00"
+  "fetched_at": "2026-10-05T06:42:07.029732+09:00"
 }
