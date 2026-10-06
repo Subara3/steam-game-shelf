@@ -101,10 +101,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5787,
-  "total_reviews": 8322,
-  "total_positive": 6078,
-  "total_negative": 2244,
+  "recommendations_total": 5792,
+  "total_reviews": 8330,
+  "total_positive": 6083,
+  "total_negative": 2247,
   "review_score_desc": "Mostly Positive",
   "slug": "overcooked-ayce",
   "recommend": "all",
@@ -115,8 +115,8 @@
     "ローカル協力プレイ",
     "料理",
     "カジュアル",
-    "シミュレーション",
     "家族向け",
+    "シミュレーション",
     "ローカルマルチプレイヤー"
   ],
   "tags_en": [
@@ -125,9 +125,9 @@
     "Local Co-Op",
     "Cooking",
     "Casual",
-    "Simulation",
     "Family Friendly",
+    "Simulation",
     "Local Multiplayer"
   ],
-  "fetched_at": "2026-10-06T09:12:01.396349+09:00"
+  "fetched_at": "2026-10-07T07:42:46.309484+09:00"
 }
