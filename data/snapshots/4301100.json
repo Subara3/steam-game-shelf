@@ -70,9 +70,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1142,
-  "total_reviews": 1203,
-  "total_positive": 1166,
+  "recommendations_total": 1141,
+  "total_reviews": 1202,
+  "total_positive": 1165,
   "total_negative": 37,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "emotelab",
@@ -97,5 +97,5 @@
     "Utilities",
     "Software"
   ],
-  "fetched_at": "2026-10-07T07:42:46.309484+09:00"
+  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
 }

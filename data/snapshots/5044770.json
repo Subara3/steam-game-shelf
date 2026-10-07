@@ -7,8 +7,8 @@
   "short_description_ja": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
   "short_description_en": "Identify how every participant in the death game died, and submit your report.",
   "short_description": "デスゲームに参加した全員の死因を特定し、報告書を提出せよ。",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/4ff95c9098db8140c41380056e29b55ab7c5f851/header_japanese.jpg?t=1790875018",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fdf7b0e64120e666b77adbbe823e29a6b4f9d078/capsule_231x87_japanese.jpg?t=1790875018",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/4ff95c9098db8140c41380056e29b55ab7c5f851/header_japanese.jpg?t=1791412588",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/fdf7b0e64120e666b77adbbe823e29a6b4f9d078/capsule_231x87_japanese.jpg?t=1791412588",
   "developers": [
     "shu3"
   ],
@@ -54,14 +54,14 @@
     "mac": false,
     "linux": false
   },
-  "supported_languages": "日本語, 中国語（簡体字）",
+  "supported_languages": "日本語, 中国語（簡体字）, 韓国語",
   "website": "https://www.shu3no.site/products/drepo/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10/ss_e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10.1920x1080.jpg?t=1790875018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14/ss_1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14.1920x1080.jpg?t=1790875018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/637f4f476f78076efd1517219af4911ee54bff36/ss_637f4f476f78076efd1517219af4911ee54bff36.1920x1080.jpg?t=1790875018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/f20565402a0249196bb9937d3447a6751a2d83d3/ss_f20565402a0249196bb9937d3447a6751a2d83d3.1920x1080.jpg?t=1790875018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/5323831ebb91d4d6f633bd1e80855bbfeae927e9/ss_5323831ebb91d4d6f633bd1e80855bbfeae927e9.1920x1080.jpg?t=1790875018"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10/ss_e16b5a0d2660043dfc557fd1c8c6d50cb69b9c10.1920x1080.jpg?t=1791412588",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14/ss_1826a6ee82bdebf2d13bcdc72f5d8c9a9b873b14.1920x1080.jpg?t=1791412588",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/637f4f476f78076efd1517219af4911ee54bff36/ss_637f4f476f78076efd1517219af4911ee54bff36.1920x1080.jpg?t=1791412588",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/f20565402a0249196bb9937d3447a6751a2d83d3/ss_f20565402a0249196bb9937d3447a6751a2d83d3.1920x1080.jpg?t=1791412588",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044770/5323831ebb91d4d6f633bd1e80855bbfeae927e9/ss_5323831ebb91d4d6f633bd1e80855bbfeae927e9.1920x1080.jpg?t=1791412588"
   ],
   "movies": [
     {
@@ -72,9 +72,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1550,
-  "total_reviews": 1575,
-  "total_positive": 1501,
+  "recommendations_total": 1594,
+  "total_reviews": 1621,
+  "total_positive": 1547,
   "total_negative": 74,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "death-game-report",
@@ -99,5 +99,5 @@
     "2D",
     "Investigation"
   ],
-  "fetched_at": "2026-10-07T07:42:46.309484+09:00"
+  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
 }

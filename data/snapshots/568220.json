@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 52978,
-  "total_reviews": 57583,
-  "total_positive": 54274,
-  "total_negative": 3309,
+  "recommendations_total": 53027,
+  "total_reviews": 57635,
+  "total_positive": 54324,
+  "total_negative": 3311,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
@@ -77,8 +77,8 @@
     "精神的恐怖",
     "物語性",
     "シミュレーション",
-    "血",
     "ホラー",
+    "血",
     "シングルプレイヤー"
   ],
   "tags_en": [
@@ -87,9 +87,9 @@
     "Psychological Horror",
     "Story Rich",
     "Simulation",
-    "Gore",
     "Horror",
+    "Gore",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-07T07:42:46.309484+09:00"
+  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
 }
