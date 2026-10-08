@@ -41,9 +41,9 @@
   "release_date": "2022年11月2日",
   "is_free": false,
   "price_initial": 70000,
-  "price_final": 49000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 490",
+  "price_final": 70000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 700",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -87,9 +87,9 @@
     }
   ],
   "demo_appid": 1905120,
-  "recommendations_total": 14724,
-  "total_reviews": 16910,
-  "total_positive": 16000,
+  "recommendations_total": 14727,
+  "total_reviews": 16913,
+  "total_positive": 16003,
   "total_negative": 910,
   "review_score_desc": "Very Positive",
   "slug": "the-past-within",
@@ -115,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

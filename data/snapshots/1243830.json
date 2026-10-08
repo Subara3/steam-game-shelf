@@ -92,19 +92,13 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827116/movie.293x165.jpg?t=1616522996",
       "url_480": "",
       "url_max": ""
-    },
-    {
-      "name": "Peckish Rises",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827121/movie.293x165.jpg?t=1616524153",
-      "url_480": "",
-      "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5795,
+  "recommendations_total": 5796,
   "total_reviews": 8335,
-  "total_positive": 6087,
-  "total_negative": 2248,
+  "total_positive": 6086,
+  "total_negative": 2249,
   "review_score_desc": "Mostly Positive",
   "slug": "overcooked-ayce",
   "recommend": "all",
@@ -129,5 +123,5 @@
     "Simulation",
     "Local Multiplayer"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

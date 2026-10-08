@@ -52,9 +52,9 @@
   "release_date": "2016年2月26日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 103600,
-  "discount_percent": 30,
-  "price_formatted": "¥ 1,036",
+  "price_final": 148000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,480",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 898319,
-  "total_reviews": 1043244,
-  "total_positive": 1027393,
-  "total_negative": 15851,
+  "recommendations_total": 898541,
+  "total_reviews": 1043487,
+  "total_positive": 1027633,
+  "total_negative": 15854,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
   "recommend": "all",
@@ -107,5 +107,5 @@
     "Simulation",
     "Agriculture"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

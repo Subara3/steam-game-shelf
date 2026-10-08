@@ -36,9 +36,9 @@
   "release_date": "2018年4月9日",
   "is_free": false,
   "price_initial": 257000,
-  "price_final": 87300,
-  "discount_percent": 66,
-  "price_formatted": "¥ 873",
+  "price_final": 257000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,570",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -64,10 +64,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 53027,
-  "total_reviews": 57635,
-  "total_positive": 54324,
-  "total_negative": 3311,
+  "recommendations_total": 53063,
+  "total_reviews": 57673,
+  "total_positive": 54360,
+  "total_negative": 3313,
   "review_score_desc": "Very Positive",
   "slug": "lobotomy-corporation",
   "recommend": "niche",
@@ -91,5 +91,5 @@
     "Gore",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

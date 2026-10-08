@@ -37,9 +37,9 @@
   "release_date": "2023年10月19日",
   "is_free": false,
   "price_initial": 242000,
-  "price_final": 193600,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,936",
+  "price_final": 242000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,420",
   "currency": "JPY",
   "metacritic_score": 77,
   "platforms": {
@@ -72,8 +72,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 9007,
-  "total_reviews": 9870,
-  "total_positive": 8835,
+  "total_reviews": 9871,
+  "total_positive": 8836,
   "total_negative": 1035,
   "review_score_desc": "Very Positive",
   "slug": "world-of-horror",
@@ -98,5 +98,5 @@
     "Roguelite",
     "Difficult"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

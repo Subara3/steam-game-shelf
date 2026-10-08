@@ -61,9 +61,9 @@
   "release_date": "2023年1月6日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 60000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 600",
+  "price_final": 96000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 960",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -89,9 +89,9 @@
     }
   ],
   "demo_appid": 1439770,
-  "recommendations_total": 10226,
-  "total_reviews": 11556,
-  "total_positive": 10773,
+  "recommendations_total": 10227,
+  "total_reviews": 11557,
+  "total_positive": 10774,
   "total_negative": 783,
   "review_score_desc": "Very Positive",
   "slug": "luck-be-a-landlord",
@@ -116,5 +116,5 @@
     "Simulation",
     "Roguelike"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

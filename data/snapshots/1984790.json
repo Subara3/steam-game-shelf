@@ -42,9 +42,9 @@
   "release_date": "2023年1月12日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 99000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 990",
+  "price_final": 198000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,980",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -70,10 +70,10 @@
     }
   ],
   "demo_appid": 2082500,
-  "recommendations_total": 141,
-  "total_reviews": 182,
+  "recommendations_total": 142,
+  "total_reviews": 183,
   "total_positive": 148,
-  "total_negative": 34,
+  "total_negative": 35,
   "review_score_desc": "Very Positive",
   "slug": "drago-noka",
   "recommend": "niche",
@@ -97,5 +97,5 @@
     "Life Sim",
     "Sandbox"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

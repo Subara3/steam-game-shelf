@@ -51,10 +51,10 @@
   "release_date_en": "10 Oct, 2007",
   "release_date": "2007年10月10日",
   "is_free": false,
-  "price_initial": 120000,
-  "price_final": 24000,
-  "discount_percent": 80,
-  "price_formatted": "¥ 240",
+  "price_initial": 140000,
+  "price_final": 140000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,400",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 410,
-  "recommendations_total": 174377,
-  "total_reviews": 200057,
-  "total_positive": 197105,
-  "total_negative": 2952,
+  "recommendations_total": 174467,
+  "total_reviews": 200149,
+  "total_positive": 197195,
+  "total_negative": 2954,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "portal",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Comedy",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

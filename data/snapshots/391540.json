@@ -39,9 +39,9 @@
   "release_date": "2015年9月15日",
   "is_free": false,
   "price_initial": 98000,
-  "price_final": 24500,
-  "discount_percent": 75,
-  "price_formatted": "¥ 245",
+  "price_final": 98000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 980",
   "currency": "JPY",
   "metacritic_score": 92,
   "platforms": {
@@ -67,10 +67,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 310193,
-  "total_reviews": 344271,
-  "total_positive": 332258,
-  "total_negative": 12013,
+  "recommendations_total": 310292,
+  "total_reviews": 344372,
+  "total_positive": 332354,
+  "total_negative": 12018,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "undertale",
   "recommend": "niche",
@@ -94,5 +94,5 @@
     "RPG",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

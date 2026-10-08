@@ -37,9 +37,9 @@
   "release_date": "2023年7月31日",
   "is_free": false,
   "price_initial": 150000,
-  "price_final": 105000,
-  "discount_percent": 30,
-  "price_formatted": "¥ 1,050",
+  "price_final": 150000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,500",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -62,18 +62,12 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980702/movie.293x165.jpg?t=1699546475",
       "url_480": "",
       "url_max": ""
-    },
-    {
-      "name": "Trailer_JP",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947142/movie.293x165.jpg?t=1684573930",
-      "url_480": "",
-      "url_max": ""
     }
   ],
   "demo_appid": null,
   "recommendations_total": 1132,
-  "total_reviews": 1179,
-  "total_positive": 1146,
+  "total_reviews": 1180,
+  "total_positive": 1147,
   "total_negative": 33,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
@@ -98,5 +92,5 @@
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

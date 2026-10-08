@@ -64,9 +64,9 @@
   "release_date": "2023年8月3日",
   "is_free": false,
   "price_initial": 849900,
-  "price_final": 594900,
-  "discount_percent": 30,
-  "price_formatted": "¥ 5,949",
+  "price_final": 849900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 8,499",
   "currency": "JPY",
   "metacritic_score": 96,
   "platforms": {
@@ -85,6 +85,24 @@
   ],
   "movies": [
     {
+      "name": "博德之门3 - 定档预告",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327475/b6a0d944bf51193b1bcbb0924e784a6b42f743a5/movie_600x337.jpg?t=1777305333",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "博德之门3 - 城市风貌首曝",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327474/dcf7bad6d57467c6680cf0ed7994cf3c16bd0896/movie_600x337.jpg?t=1777363038",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "博德之门3 - 发售先导预告",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327473/bbc73cfcd9d6735bec933f38639ad1df3e1d5d6b/movie_600x337.jpg?t=1777305336",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Baldur's Gate 3 - Accolades Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987424/movie.293x165.jpg?t=1702007645",
       "url_480": "",
@@ -97,24 +115,6 @@
       "url_max": ""
     },
     {
-      "name": "Baldur's Gate 3 - Release Teaser",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957679/movie.293x165.jpg?t=1692294107",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
-      "name": "Baldur's Gate 3 - First Look at the City",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952190/movie.293x165.jpg?t=1692294111",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
-      "name": "Baldur's Gate 3 - Release Date Reveal Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932354/movie.293x165.jpg?t=1692294115",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Baldur's Gate 3 - The Game Awards Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920587/movie.293x165.jpg?t=1692294120",
       "url_480": "",
@@ -122,10 +122,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 757863,
-  "total_reviews": 861069,
-  "total_positive": 833375,
-  "total_negative": 27694,
+  "recommendations_total": 758003,
+  "total_reviews": 861233,
+  "total_positive": 833531,
+  "total_negative": 27702,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -149,5 +149,5 @@
     "CRPG",
     "Fantasy"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

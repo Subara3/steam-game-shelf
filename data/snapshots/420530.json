@@ -43,9 +43,9 @@
   "release_date": "2016年12月8日",
   "is_free": false,
   "price_initial": 99800,
-  "price_final": 59800,
-  "discount_percent": 40,
-  "price_formatted": "¥ 598",
+  "price_final": 99800,
+  "discount_percent": 0,
+  "price_formatted": "¥ 998",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -64,16 +64,16 @@
   ],
   "movies": [
     {
-      "name": "OneShot Trailer JA",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690306/0acd103d8c966e259d4acb8f59a7c0719abd73e8/movie_600x337.jpg?t=1785203924",
+      "name": "OneShot Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676777/160369abb2010cdfd6d8a36673620b433f5464f0/movie_600x337.jpg?t=1785203922",
       "url_480": "",
       "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59602,
-  "total_reviews": 65558,
-  "total_positive": 64399,
+  "recommendations_total": 59620,
+  "total_reviews": 65582,
+  "total_positive": 64423,
   "total_negative": 1159,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "oneshot",
@@ -98,5 +98,5 @@
     "Puzzle",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

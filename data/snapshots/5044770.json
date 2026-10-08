@@ -44,9 +44,9 @@
   "release_date": "2026年9月1日",
   "is_free": false,
   "price_initial": 50000,
-  "price_final": 45000,
-  "discount_percent": 10,
-  "price_formatted": "¥ 450",
+  "price_final": 50000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 500",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -72,10 +72,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1594,
-  "total_reviews": 1621,
-  "total_positive": 1547,
-  "total_negative": 74,
+  "recommendations_total": 1662,
+  "total_reviews": 1689,
+  "total_positive": 1613,
+  "total_negative": 76,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "death-game-report",
   "recommend": "all",
@@ -99,5 +99,5 @@
     "2D",
     "Investigation"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }

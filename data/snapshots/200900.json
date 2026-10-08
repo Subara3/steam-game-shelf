@@ -52,9 +52,9 @@
   "release_date": "2011年11月22日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 111000,
-  "discount_percent": 25,
-  "price_formatted": "¥ 1,110",
+  "price_final": 148000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,480",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -81,8 +81,8 @@
   ],
   "demo_appid": null,
   "recommendations_total": 5257,
-  "total_reviews": 8366,
-  "total_positive": 7762,
+  "total_reviews": 8367,
+  "total_positive": 7763,
   "total_negative": 604,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
@@ -108,5 +108,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-10-08T08:13:03.793913+09:00"
+  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
 }
