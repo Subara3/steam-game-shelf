@@ -69,8 +69,8 @@
   ],
   "movies": [
     {
-      "name": "gogh: Focus with Your Avatar - Autumn Update 2026",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257440525/7eb70f46997e92e58a3efdbdaa00446ac33b626b/movie_600x337.jpg?t=1790740250",
+      "name": "gogh: Focus with Your Avatar - Autumn Update 2026 - JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257440596/7eb70f46997e92e58a3efdbdaa00446ac33b626b/movie_600x337.jpg?t=1790745972",
       "url_480": "",
       "url_max": ""
     },
@@ -81,14 +81,14 @@
       "url_max": ""
     },
     {
-      "name": "gogh: Focus with Your Avatar - Summer Update 2026",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365309/5e3539d29020aa44444474d73989de3f61d44170/movie_600x337.jpg?t=1782376858",
+      "name": "gogh: Focus with Your Avatar - Summer Update 2026 - JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365316/a74a14348d17620bcd95124a0e08e1294b3ef02c/movie_600x337.jpg?t=1782376857",
       "url_480": "",
       "url_max": ""
     },
     {
-      "name": "STUDY WITH MIKU DLC - Launch Trailer - SC",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252383/0176336b7893e19a9290bbc27018abcd17e73256/movie_600x337.jpg?t=1766102608",
+      "name": "STUDY WITH MIKU DLC - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252380/0176336b7893e19a9290bbc27018abcd17e73256/movie_600x337.jpg?t=1766102609",
       "url_480": "",
       "url_max": ""
     },
@@ -100,9 +100,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4863,
-  "total_reviews": 5505,
-  "total_positive": 5022,
+  "recommendations_total": 4868,
+  "total_reviews": 5510,
+  "total_positive": 5027,
   "total_negative": 483,
   "review_score_desc": "Very Positive",
   "slug": "gogh",
@@ -127,5 +127,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-10-09T08:28:06.740634+09:00"
+  "fetched_at": "2026-10-10T07:46:21.439350+09:00"
 }
