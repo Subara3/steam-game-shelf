@@ -43,9 +43,9 @@
   "release_date": "2015年11月9日",
   "is_free": false,
   "price_initial": 224600,
-  "price_final": 224600,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,246",
+  "price_final": 56100,
+  "discount_percent": 75,
+  "price_formatted": "¥ 561",
   "currency": "JPY",
   "metacritic_score": 84,
   "platforms": {
@@ -119,10 +119,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 291119,
-  "total_reviews": 429869,
-  "total_positive": 349003,
-  "total_negative": 80866,
+  "recommendations_total": 291140,
+  "total_reviews": 429898,
+  "total_positive": 349028,
+  "total_negative": 80870,
   "review_score_desc": "Very Positive",
   "slug": "fallout-4",
   "recommend": "all",
@@ -146,5 +146,5 @@
     "Atmospheric",
     "Shooter"
   ],
-  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
+  "fetched_at": "2026-10-14T07:57:50.902525+09:00"
 }

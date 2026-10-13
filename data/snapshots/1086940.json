@@ -85,24 +85,6 @@
   ],
   "movies": [
     {
-      "name": "博德之门3 - 定档预告",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327475/b6a0d944bf51193b1bcbb0924e784a6b42f743a5/movie_600x337.jpg?t=1777305333",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
-      "name": "博德之门3 - 城市风貌首曝",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327474/dcf7bad6d57467c6680cf0ed7994cf3c16bd0896/movie_600x337.jpg?t=1777363038",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
-      "name": "博德之门3 - 发售先导预告",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327473/bbc73cfcd9d6735bec933f38639ad1df3e1d5d6b/movie_600x337.jpg?t=1777305336",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Baldur's Gate 3 - Accolades Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987424/movie.293x165.jpg?t=1702007645",
       "url_480": "",
@@ -115,6 +97,24 @@
       "url_max": ""
     },
     {
+      "name": "Baldur's Gate 3 - Release Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957679/movie.293x165.jpg?t=1692294107",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Baldur's Gate 3 - First Look at the City",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952190/movie.293x165.jpg?t=1692294111",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Baldur's Gate 3 - Release Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932354/movie.293x165.jpg?t=1692294115",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Baldur's Gate 3 - The Game Awards Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920587/movie.293x165.jpg?t=1692294120",
       "url_480": "",
@@ -122,10 +122,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 758526,
-  "total_reviews": 861831,
-  "total_positive": 834115,
-  "total_negative": 27716,
+  "recommendations_total": 758613,
+  "total_reviews": 861937,
+  "total_positive": 834220,
+  "total_negative": 27717,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "baldurs-gate-3",
   "recommend": "all",
@@ -149,5 +149,5 @@
     "CRPG",
     "Fantasy"
   ],
-  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
+  "fetched_at": "2026-10-14T07:57:50.902525+09:00"
 }

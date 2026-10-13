@@ -62,6 +62,12 @@
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980702/movie.293x165.jpg?t=1699546475",
       "url_480": "",
       "url_max": ""
+    },
+    {
+      "name": "Trailer_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947142/movie.293x165.jpg?t=1684573930",
+      "url_480": "",
+      "url_max": ""
     }
   ],
   "demo_appid": null,
@@ -92,5 +98,5 @@
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
+  "fetched_at": "2026-10-14T07:57:50.902525+09:00"
 }

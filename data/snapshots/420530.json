@@ -64,16 +64,16 @@
   ],
   "movies": [
     {
-      "name": "OneShot Trailer EN",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676777/160369abb2010cdfd6d8a36673620b433f5464f0/movie_600x337.jpg?t=1785203922",
+      "name": "OneShot Trailer JA",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690306/0acd103d8c966e259d4acb8f59a7c0719abd73e8/movie_600x337.jpg?t=1785203924",
       "url_480": "",
       "url_max": ""
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59709,
-  "total_reviews": 65672,
-  "total_positive": 64514,
+  "recommendations_total": 59716,
+  "total_reviews": 65679,
+  "total_positive": 64521,
   "total_negative": 1158,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "oneshot",
@@ -98,5 +98,5 @@
     "Puzzle",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
+  "fetched_at": "2026-10-14T07:57:50.902525+09:00"
 }

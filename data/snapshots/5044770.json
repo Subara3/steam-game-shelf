@@ -72,17 +72,17 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1910,
-  "total_reviews": 1942,
-  "total_positive": 1861,
+  "recommendations_total": 1936,
+  "total_reviews": 1973,
+  "total_positive": 1892,
   "total_negative": 81,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "death-game-report",
   "recommend": "all",
   "tags_ja": [
     "ミステリー",
-    "アドベンチャー",
     "パズル",
+    "アドベンチャー",
     "カジュアル",
     "物語性",
     "インディー",
@@ -91,13 +91,13 @@
   ],
   "tags_en": [
     "Mystery",
-    "Adventure",
     "Puzzle",
+    "Adventure",
     "Casual",
     "Story Rich",
     "Indie",
     "Investigation",
     "2D"
   ],
-  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
+  "fetched_at": "2026-10-14T07:57:50.902525+09:00"
 }
