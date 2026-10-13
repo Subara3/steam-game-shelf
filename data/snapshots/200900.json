@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5258,
-  "total_reviews": 8368,
-  "total_positive": 7765,
-  "total_negative": 603,
+  "recommendations_total": 5261,
+  "total_reviews": 8371,
+  "total_positive": 7767,
+  "total_negative": 604,
   "review_score_desc": "Very Positive",
   "slug": "cave-story",
   "recommend": "all",
@@ -108,5 +108,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-10-12T07:10:22.575849+09:00"
+  "fetched_at": "2026-10-13T09:52:27.271304+09:00"
 }
