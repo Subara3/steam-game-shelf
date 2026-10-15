@@ -52,9 +52,9 @@
   "release_date": "2025年9月26日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 72000,
-  "discount_percent": 40,
-  "price_formatted": "¥ 720",
+  "price_final": 120000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,200",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 25090,
-  "total_reviews": 26439,
-  "total_positive": 23842,
-  "total_negative": 2597,
+  "recommendations_total": 25106,
+  "total_reviews": 26452,
+  "total_positive": 23852,
+  "total_negative": 2600,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -107,5 +107,5 @@
     "Horror",
     "3D"
   ],
-  "fetched_at": "2026-10-15T06:49:40.430955+09:00"
+  "fetched_at": "2026-10-16T06:33:52.362114+09:00"
 }

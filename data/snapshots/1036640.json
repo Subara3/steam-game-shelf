@@ -33,9 +33,9 @@
   "release_date": "2025年8月28日",
   "is_free": false,
   "price_initial": 920000,
-  "price_final": 920000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 9,200",
+  "price_final": 644000,
+  "discount_percent": 30,
+  "price_formatted": "¥ 6,440",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -73,9 +73,9 @@
     }
   ],
   "demo_appid": 3906850,
-  "recommendations_total": 329,
-  "total_reviews": 350,
-  "total_positive": 295,
+  "recommendations_total": 330,
+  "total_reviews": 351,
+  "total_positive": 296,
   "total_negative": 55,
   "review_score_desc": "Very Positive",
   "slug": "rpg-developer-bakin",
@@ -98,5 +98,5 @@
     "Anime",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-15T06:49:40.430955+09:00"
+  "fetched_at": "2026-10-16T06:33:52.362114+09:00"
 }
