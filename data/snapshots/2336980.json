@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 1136,
-  "total_reviews": 1184,
-  "total_positive": 1151,
+  "recommendations_total": 1138,
+  "total_reviews": 1186,
+  "total_positive": 1153,
   "total_negative": 33,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "famires",
@@ -81,8 +81,8 @@
   "tags_ja": [
     "アドベンチャー",
     "ビジュアルノベル",
-    "ポイント＆クリック",
     "ドット絵",
+    "ポイント＆クリック",
     "選択方式アドベンチャー",
     "雰囲気",
     "リラックス",
@@ -91,12 +91,12 @@
   "tags_en": [
     "Adventure",
     "Visual Novel",
-    "Point & Click",
     "Pixel Graphics",
+    "Point & Click",
     "Choose Your Own Adventure",
     "Atmospheric",
     "Relaxing",
     "Futuristic"
   ],
-  "fetched_at": "2026-10-16T06:33:52.362114+09:00"
+  "fetched_at": "2026-10-17T06:26:38.420451+09:00"
 }
