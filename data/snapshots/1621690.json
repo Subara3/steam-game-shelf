@@ -91,10 +91,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 50756,
-  "total_reviews": 67851,
-  "total_positive": 63038,
-  "total_negative": 4813,
+  "recommendations_total": 50794,
+  "total_reviews": 67904,
+  "total_positive": 63090,
+  "total_negative": 4814,
   "review_score_desc": "Very Positive",
   "slug": "core-keeper",
   "recommend": "all",
@@ -107,7 +107,7 @@
     "マルチプレイヤー",
     "サンドボックス",
     "クラフト",
-    "建設"
+    "協力プレイ"
   ],
   "tags_en": [
     "Open World",
@@ -117,7 +117,7 @@
     "Multiplayer",
     "Sandbox",
     "Crafting",
-    "Building"
+    "Co-op"
   ],
-  "fetched_at": "2026-10-17T06:26:38.420451+09:00"
+  "fetched_at": "2026-10-18T05:46:11.649265+09:00"
 }
