@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": 3347820,
-  "recommendations_total": 25134,
-  "total_reviews": 26480,
-  "total_positive": 23872,
-  "total_negative": 2608,
+  "recommendations_total": 25140,
+  "total_reviews": 26489,
+  "total_positive": 23878,
+  "total_negative": 2611,
   "review_score_desc": "Very Positive",
   "slug": "cloverpit",
   "recommend": "niche",
@@ -107,5 +107,5 @@
     "Horror",
     "3D"
   ],
-  "fetched_at": "2026-10-18T05:46:11.649265+09:00"
+  "fetched_at": "2026-10-19T05:55:24.271372+09:00"
 }
