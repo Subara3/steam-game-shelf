@@ -76,10 +76,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 7472,
-  "total_reviews": 8979,
+  "recommendations_total": 7473,
+  "total_reviews": 8980,
   "total_positive": 8143,
-  "total_negative": 836,
+  "total_negative": 837,
   "review_score_desc": "Very Positive",
   "slug": "rpg-maker-mv",
   "recommend": "all",
@@ -103,5 +103,5 @@
     "2D",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-19T05:55:24.271372+09:00"
+  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
 }

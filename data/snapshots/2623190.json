@@ -73,10 +73,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59943,
-  "total_reviews": 70625,
+  "recommendations_total": 59946,
+  "total_reviews": 70629,
   "total_positive": 53070,
-  "total_negative": 17555,
+  "total_negative": 17559,
   "review_score_desc": "Mostly Positive",
   "slug": "oblivion-remastered",
   "recommend": "all",
@@ -86,8 +86,8 @@
     "ファンタジー",
     "シングルプレイヤー",
     "アドベンチャー",
-    "探検",
     "キャラクターカスタマイズ",
+    "探検",
     "ファーストパーソン"
   ],
   "tags_en": [
@@ -96,9 +96,9 @@
     "Fantasy",
     "Singleplayer",
     "Adventure",
-    "Exploration",
     "Character Customization",
+    "Exploration",
     "First-Person"
   ],
-  "fetched_at": "2026-10-19T05:55:24.271372+09:00"
+  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
 }

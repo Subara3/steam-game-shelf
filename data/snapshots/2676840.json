@@ -66,9 +66,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 10519,
-  "total_reviews": 10874,
-  "total_positive": 10479,
+  "recommendations_total": 10528,
+  "total_reviews": 10882,
+  "total_positive": 10487,
   "total_negative": 395,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "no-case-should-remain-unsolved",
@@ -93,5 +93,5 @@
     "Adventure",
     "Pixel Graphics"
   ],
-  "fetched_at": "2026-10-19T05:55:24.271372+09:00"
+  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
 }

@@ -82,8 +82,8 @@
   ],
   "movies": [
     {
-      "name": "Full Release Gameplay Trailer_Daedalic",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801370/movie.293x165.jpg?t=1600436813",
+      "name": "Full Release Gameplay Trailer_Daedalic_CN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801371/movie.293x165.jpg?t=1600879262",
       "url_480": "",
       "url_max": ""
     },
@@ -95,9 +95,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 13832,
-  "total_reviews": 19843,
-  "total_positive": 18478,
+  "recommendations_total": 13833,
+  "total_reviews": 19844,
+  "total_positive": 18479,
   "total_negative": 1365,
   "review_score_desc": "Very Positive",
   "slug": "unrailed",
@@ -124,5 +124,5 @@
     "Local Multiplayer",
     "Action"
   ],
-  "fetched_at": "2026-10-19T05:55:24.271372+09:00"
+  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
 }
