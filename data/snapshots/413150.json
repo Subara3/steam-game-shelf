@@ -80,10 +80,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 900850,
-  "total_reviews": 1045982,
-  "total_positive": 1030097,
-  "total_negative": 15885,
+  "recommendations_total": 901008,
+  "total_reviews": 1046153,
+  "total_positive": 1030263,
+  "total_negative": 15890,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "stardew-valley",
   "recommend": "all",
@@ -107,5 +107,5 @@
     "Simulation",
     "Agriculture"
   ],
-  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
+  "fetched_at": "2026-10-21T06:45:31.312494+09:00"
 }

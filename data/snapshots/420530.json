@@ -71,10 +71,10 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 59787,
-  "total_reviews": 65757,
-  "total_positive": 64596,
-  "total_negative": 1161,
+  "recommendations_total": 59799,
+  "total_reviews": 65769,
+  "total_positive": 64609,
+  "total_negative": 1160,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "oneshot",
   "recommend": "niche",
@@ -98,5 +98,5 @@
     "Puzzle",
     "Singleplayer"
   ],
-  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
+  "fetched_at": "2026-10-21T06:45:31.312494+09:00"
 }

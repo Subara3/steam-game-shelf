@@ -71,9 +71,9 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9019,
-  "total_reviews": 9883,
-  "total_positive": 8846,
+  "recommendations_total": 9023,
+  "total_reviews": 9887,
+  "total_positive": 8850,
   "total_negative": 1037,
   "review_score_desc": "Very Positive",
   "slug": "world-of-horror",
@@ -98,5 +98,5 @@
     "Roguelite",
     "Difficult"
   ],
-  "fetched_at": "2026-10-20T07:30:51.457973+09:00"
+  "fetched_at": "2026-10-21T06:45:31.312494+09:00"
 }
