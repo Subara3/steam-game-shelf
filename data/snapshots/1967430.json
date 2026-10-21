@@ -40,9 +40,9 @@
   "release_date": "2023年6月29日",
   "is_free": false,
   "price_initial": 299000,
-  "price_final": 299000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,990",
+  "price_final": 98600,
+  "discount_percent": 67,
+  "price_formatted": "¥ 986",
   "currency": "JPY",
   "metacritic_score": 90,
   "platforms": {
@@ -74,9 +74,9 @@
     }
   ],
   "demo_appid": 1971230,
-  "recommendations_total": 6541,
-  "total_reviews": 8788,
-  "total_positive": 8560,
+  "recommendations_total": 6542,
+  "total_reviews": 8790,
+  "total_positive": 8562,
   "total_negative": 228,
   "review_score_desc": "Overwhelmingly Positive",
   "slug": "ghost-trick",
@@ -101,5 +101,5 @@
     "Singleplayer",
     "Visual Novel"
   ],
-  "fetched_at": "2026-10-21T06:45:31.312494+09:00"
+  "fetched_at": "2026-10-22T06:51:33.162581+09:00"
 }
