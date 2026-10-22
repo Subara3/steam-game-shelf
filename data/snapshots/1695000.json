@@ -47,9 +47,9 @@
   "release_date": "2024年9月19日",
   "is_free": false,
   "price_initial": 180000,
-  "price_final": 90000,
-  "discount_percent": 50,
-  "price_formatted": "¥ 900",
+  "price_final": 180000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -108,5 +108,5 @@
     "Cute",
     "Isometric"
   ],
-  "fetched_at": "2026-10-22T06:51:33.162581+09:00"
+  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
 }

@@ -7,8 +7,8 @@
   "short_description_ja": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
   "short_description_en": "Cook and serve your dishes, design and decorate your restaurants, and expand your culinary kingdom with new unlocks, abilities and dishes in procedurally-generated locations. Classic cooking action with permanent roguelite progression. Hire your friends - or do it all yourself!",
   "short_description": "料理を作って運び、レストランをデザインして装飾し、自動生成ロケーションで新たなアイテム、能力、メニューを獲得しながら食の王国を拡大していこう。従来のクッキングアクションに永続型のローグライト進行要素が融合。フレンドを雇うもよし、すべてを自分でこなすもよし！",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ca2449fda2ccb4e2bb81a3f027f76b6fba04b7fb/header_alt_assets_19.jpg?t=1792571774",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/1b14776e882dfa38f0dbf6ac4368a48a3fe82265/capsule_231x87_alt_assets_19.jpg?t=1792571774",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ca2449fda2ccb4e2bb81a3f027f76b6fba04b7fb/header_alt_assets_19.jpg?t=1792666954",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/1b14776e882dfa38f0dbf6ac4368a48a3fe82265/capsule_231x87_alt_assets_19.jpg?t=1792666954",
   "developers": [
     "It's happening"
   ],
@@ -54,9 +54,9 @@
   "release_date": "2022年8月4日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 23000,
-  "discount_percent": 90,
-  "price_formatted": "¥ 230",
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -67,11 +67,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 韓国語, トルコ語",
   "website": "https://www.plateupgame.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_8c944c593113598b6446b6b5d07962a10fe79ec6.1920x1080.jpg?t=1792571774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_2fb45e66d1b4e8c3d8fe6743fad278bcc082c2d5.1920x1080.jpg?t=1792571774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_833de2e09f19972bb9e7db021c793da6afdab8a0.1920x1080.jpg?t=1792571774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_5cdb7d8147767fece03a9a69a10af64a2e0c5e47.1920x1080.jpg?t=1792571774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_ac60173eb6d72af743d65c118b3e9df7453dcb61.1920x1080.jpg?t=1792571774"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_8c944c593113598b6446b6b5d07962a10fe79ec6.1920x1080.jpg?t=1792666954",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_2fb45e66d1b4e8c3d8fe6743fad278bcc082c2d5.1920x1080.jpg?t=1792666954",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_833de2e09f19972bb9e7db021c793da6afdab8a0.1920x1080.jpg?t=1792666954",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_5cdb7d8147767fece03a9a69a10af64a2e0c5e47.1920x1080.jpg?t=1792666954",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599600/ss_ac60173eb6d72af743d65c118b3e9df7453dcb61.1920x1080.jpg?t=1792666954"
   ],
   "movies": [
     {
@@ -82,10 +82,10 @@
     }
   ],
   "demo_appid": 1755940,
-  "recommendations_total": 19074,
-  "total_reviews": 27902,
-  "total_positive": 26383,
-  "total_negative": 1519,
+  "recommendations_total": 19089,
+  "total_reviews": 27923,
+  "total_positive": 26401,
+  "total_negative": 1522,
   "review_score_desc": "Very Positive",
   "slug": "plateup",
   "recommend": "all",
@@ -110,5 +110,5 @@
     "Roguelike",
     "Cute"
   ],
-  "fetched_at": "2026-10-22T06:51:33.162581+09:00"
+  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
 }

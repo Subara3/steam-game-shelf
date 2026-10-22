@@ -36,9 +36,9 @@
   "release_date": "2026年1月15日",
   "is_free": false,
   "price_initial": 120000,
-  "price_final": 120000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,200",
+  "price_final": 96000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 960",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -91,5 +91,5 @@
     "2D",
     "Solitaire"
   ],
-  "fetched_at": "2026-10-22T06:51:33.162581+09:00"
+  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
 }
