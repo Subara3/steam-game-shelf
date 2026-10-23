@@ -87,11 +87,11 @@
     }
   ],
   "demo_appid": 1905120,
-  "recommendations_total": 14749,
-  "total_reviews": 16939,
-  "total_positive": 16027,
-  "total_negative": 912,
-  "review_score_desc": "Very Positive",
+  "recommendations_total": 14753,
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "the-past-within",
   "recommend": "all",
   "multi": true,
@@ -115,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }

@@ -72,10 +72,10 @@
   ],
   "demo_appid": null,
   "recommendations_total": 414,
-  "total_reviews": 427,
-  "total_positive": 396,
-  "total_negative": 31,
-  "review_score_desc": "Very Positive",
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "world-end-diner",
   "recommend": "niche",
   "tags_ja": [
@@ -98,5 +98,5 @@
     "Post-apocalyptic",
     "Agriculture"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }

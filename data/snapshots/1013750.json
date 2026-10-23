@@ -71,10 +71,10 @@
   ],
   "demo_appid": null,
   "recommendations_total": 563,
-  "total_reviews": 594,
-  "total_positive": 463,
-  "total_negative": 131,
-  "review_score_desc": "Mostly Positive",
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "legal-dungeon",
   "recommend": "niche",
   "tags_ja": [
@@ -95,5 +95,5 @@
     "Text-Based",
     "Story Rich"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }

@@ -80,11 +80,11 @@
     }
   ],
   "demo_appid": 410,
-  "recommendations_total": 175057,
-  "total_reviews": 200780,
-  "total_positive": 197827,
-  "total_negative": 2953,
-  "review_score_desc": "Overwhelmingly Positive",
+  "recommendations_total": 175093,
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "portal",
   "recommend": "all",
   "by": "kotori",
@@ -108,5 +108,5 @@
     "Comedy",
     "Female Protagonist"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }

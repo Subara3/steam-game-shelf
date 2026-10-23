@@ -86,11 +86,11 @@
     }
   ],
   "demo_appid": 1678010,
-  "recommendations_total": 9909,
-  "total_reviews": 11126,
-  "total_positive": 10873,
-  "total_negative": 253,
-  "review_score_desc": "Overwhelmingly Positive",
+  "recommendations_total": 9911,
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "the-case-of-the-golden-idol",
   "recommend": "all",
   "tags_ja": [
@@ -113,5 +113,5 @@
     "Story Rich",
     "2D"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }

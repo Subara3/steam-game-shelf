@@ -91,11 +91,11 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 50916,
-  "total_reviews": 68070,
-  "total_positive": 63244,
-  "total_negative": 4826,
-  "review_score_desc": "Very Positive",
+  "recommendations_total": 50930,
+  "total_reviews": 0,
+  "total_positive": 0,
+  "total_negative": 0,
+  "review_score_desc": "",
   "slug": "core-keeper",
   "recommend": "all",
   "multi": true,
@@ -119,5 +119,5 @@
     "Crafting",
     "Co-op"
   ],
-  "fetched_at": "2026-10-23T06:47:03.915729+09:00"
+  "fetched_at": "2026-10-24T06:32:46.082983+09:00"
 }
