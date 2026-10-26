@@ -41,9 +41,9 @@
   "release_date": "2022年11月2日",
   "is_free": false,
   "price_initial": 70000,
-  "price_final": 70000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 700",
+  "price_final": 39200,
+  "discount_percent": 44,
+  "price_formatted": "¥ 392",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -87,7 +87,7 @@
     }
   ],
   "demo_appid": 1905120,
-  "recommendations_total": 14758,
+  "recommendations_total": 14760,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -115,5 +115,5 @@
     "Mystery",
     "Point & Click"
   ],
-  "fetched_at": "2026-10-26T06:00:30.602742+09:00"
+  "fetched_at": "2026-10-27T07:47:29.135173+09:00"
 }

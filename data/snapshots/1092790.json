@@ -42,9 +42,9 @@
   "release_date": "2021年10月19日",
   "is_free": false,
   "price_initial": 205000,
-  "price_final": 205000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,050",
+  "price_final": 82000,
+  "discount_percent": 60,
+  "price_formatted": "¥ 820",
   "currency": "JPY",
   "metacritic_score": 85,
   "platforms": {
@@ -76,7 +76,7 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 135841,
+  "recommendations_total": 135860,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -89,8 +89,8 @@
     "物語性",
     "デッキ構築",
     "ホラー",
-    "パズル",
     "ダーク",
+    "パズル",
     "ローグライク"
   ],
   "tags_en": [
@@ -99,9 +99,9 @@
     "Story Rich",
     "Deckbuilding",
     "Horror",
-    "Puzzle",
     "Dark",
+    "Puzzle",
     "Roguelike"
   ],
-  "fetched_at": "2026-10-26T06:00:30.602742+09:00"
+  "fetched_at": "2026-10-27T07:47:29.135173+09:00"
 }
