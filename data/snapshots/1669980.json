@@ -48,9 +48,9 @@
   "release_date": "2023年4月20日",
   "is_free": false,
   "price_initial": 130000,
-  "price_final": 130000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,300",
+  "price_final": 84500,
+  "discount_percent": 35,
+  "price_formatted": "¥ 845",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -109,5 +109,5 @@
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-10-29T07:43:50.596140+09:00"
+  "fetched_at": "2026-10-30T07:52:51.942520+09:00"
 }
