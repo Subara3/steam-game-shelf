@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "timestamp": "2026-10-30T07:52:51.942520+09:00",
+  "date": "2026-10-31",
+  "timestamp": "2026-10-31T07:31:03.978446+09:00",
   "games": [
     {
       "appid": 2379780,
@@ -82,7 +82,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 162459,
+      "recommendations_total": 162507,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -109,7 +109,7 @@
         "Pixel Graphics",
         "Replay Value"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "Balatro - くらえっ、ファイブカード！",
       "comment": "ローグライクデッキビルダー"
@@ -196,7 +196,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 902484,
+      "recommendations_total": 902674,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -223,7 +223,7 @@
         "Simulation",
         "Agriculture"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "Stardew Valley - 定番ぼくもの系列のゲーム",
       "comment": "牧場シミュレーション"
@@ -318,7 +318,7 @@
         }
       ],
       "demo_appid": 3288620,
-      "recommendations_total": 8543,
+      "recommendations_total": 8546,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -345,7 +345,7 @@
         "JRPG",
         "Traditional Roguelike"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "Elin - 果てなきローグライクの深淵",
       "comment": "Elona後継オープンワールドRPG"
@@ -419,7 +419,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 312454,
+      "recommendations_total": 312577,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -446,7 +446,7 @@
         "RPG",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "Undertale - こっちを見てくるRPG",
       "comment": "弾幕RPG"
@@ -517,7 +517,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 53597,
+      "recommendations_total": 53627,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -544,7 +544,7 @@
         "Gore",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "アブノーマリティ管理シミュレーション"
     },
@@ -645,7 +645,7 @@
         "Turn-Based",
         "JRPG"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "片道勇者 - ひたすらに、右へ",
       "comment": "強制横スクロールRPG"
@@ -730,7 +730,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 41496,
+      "recommendations_total": 41513,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -757,7 +757,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "カードバトルRPG"
     },
@@ -852,7 +852,7 @@
         }
       ],
       "demo_appid": 1439770,
-      "recommendations_total": 10255,
+      "recommendations_total": 10257,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -879,7 +879,7 @@
         "Simulation",
         "Roguelike"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ローグライクスロット"
     },
@@ -892,8 +892,8 @@
       "short_description_ja": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
       "short_description_en": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
       "short_description": "ローグライト系スロットマシンの悪夢。終わりのない借金シミュレーターで人生を賭ける！",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg?t=1787580462",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/708aa35adb8f17727284204955531d3ca237b6a4/capsule_231x87.jpg?t=1787580462",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg?t=1793378536",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/708aa35adb8f17727284204955531d3ca237b6a4/capsule_231x87.jpg?t=1793378536",
       "developers": [
         "Panik Arcade"
       ],
@@ -950,11 +950,11 @@
       "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）<br><strong>*</strong>フル音声対応言語",
       "website": "https://www.panikarcade.games/",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1787580462",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1787580462",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1787580462",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1787580462",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1787580462"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1793378536",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1793378536",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1793378536",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1793378536",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1793378536"
       ],
       "movies": [
         {
@@ -965,7 +965,7 @@
         }
       ],
       "demo_appid": 3347820,
-      "recommendations_total": 25250,
+      "recommendations_total": 25265,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -992,7 +992,7 @@
         "Horror",
         "3D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ローグライトスロットホラー"
     },
@@ -1076,7 +1076,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 210966,
+      "recommendations_total": 211010,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1103,7 +1103,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "コロニーシミュレーション"
     },
@@ -1191,7 +1191,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 119180,
+      "recommendations_total": 119198,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1218,7 +1218,7 @@
         "Singleplayer",
         "Point & Click"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "テキストアドベンチャーRPG"
     },
@@ -1307,7 +1307,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 6260,
+      "recommendations_total": 6264,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1334,7 +1334,7 @@
         "Supernatural",
         "Hand-drawn"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "本格謎解きホラーADV"
     },
@@ -1445,7 +1445,7 @@
         "Gore",
         "Violent"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "伊勢志摩舞台の続編ホラーADV"
     },
@@ -1519,7 +1519,7 @@
         }
       ],
       "demo_appid": 1224230,
-      "recommendations_total": 231702,
+      "recommendations_total": 231807,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1546,7 +1546,7 @@
         "Robots",
         "Futuristic"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "選択型アドベンチャー"
     },
@@ -1685,7 +1685,7 @@
         "Wholesome",
         "Casual"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "鳥類テーマのボードゲーム"
     },
@@ -1773,7 +1773,7 @@
         }
       ],
       "demo_appid": 1755940,
-      "recommendations_total": 19167,
+      "recommendations_total": 19180,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1801,7 +1801,7 @@
         "Roguelike",
         "Cute"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "レストラン経営ローグライク"
     },
@@ -1878,7 +1878,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 9030,
+      "recommendations_total": 9038,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -1905,7 +1905,7 @@
         "Roguelite",
         "Difficult"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "恐怖の世界 - こわいゲームですか？",
       "comment": "伊藤潤二風ホラーRPG"
@@ -1988,7 +1988,7 @@
         }
       ],
       "demo_appid": 1753260,
-      "recommendations_total": 135936,
+      "recommendations_total": 135972,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2015,7 +2015,7 @@
         "Puzzle",
         "Roguelike"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "カードゲーム×脱出ホラー"
     },
@@ -2092,7 +2092,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 73728,
+      "recommendations_total": 73733,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2119,7 +2119,7 @@
         "Multiple Endings",
         "Puzzle"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "入国審査シミュレーション"
     },
@@ -2132,8 +2132,8 @@
       "short_description_ja": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
       "short_description_en": "Prepare the next monarch by finding her hobbies, training her for battle, and befriending the citizens she'll one day protect. Dive into an all-new parenting-simulator-RPG adventure, where every decision you make will not only affect the future of your daughter but that of an entire empire!",
       "short_description": "『火山の娘』は、マルチエンディング育成シミュレーションゲームです。妻が亡くなった後、あなたは彼女の唯一の守護者となります。彼女と共に生活し、成長を見守ることが必要です。家庭の外では、人間と魔族間のトラブルが激化しています。魔族の首領「鸮姬」が再び現れる時、火山国はさらに多くの光の力を必要とします。あなたの娘はどのような女性になるのでしょうか？火山国の未来はどこへ向かうのでしょうか？あなたの選択で結末が変わります。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/header_japanese.jpg?t=1746063344",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87_japanese.jpg?t=1746063344",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/header_japanese.jpg?t=1793357371",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/capsule_231x87_japanese.jpg?t=1793357371",
       "developers": [
         "养蛋人 Egg Hatcher"
       ],
@@ -2183,14 +2183,14 @@
         "mac": false,
         "linux": false
       },
-      "supported_languages": "中国語（簡体字）, 英語, 日本語, 韓国語",
+      "supported_languages": "中国語（簡体字）, 英語, 日本語, 韓国語, 中国語（繁体字）",
       "website": null,
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_fb40756b2dd6278bf7ec0614b011d6b59c4ceead.1920x1080.jpg?t=1746063344",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_d1af1123d6d8ce6f816e3f03fb27ad9887f7bba0.1920x1080.jpg?t=1746063344",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_1c259124af42a61aeb2a598cfa404101a31c6500.1920x1080.jpg?t=1746063344",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_60abc3b7e0a95773cadb8ac7c27a8c72312d8959.1920x1080.jpg?t=1746063344",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_7e673efebb8f03020b770c39017064b3d6c6bc87.1920x1080.jpg?t=1746063344"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_fb40756b2dd6278bf7ec0614b011d6b59c4ceead.1920x1080.jpg?t=1793357371",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_d1af1123d6d8ce6f816e3f03fb27ad9887f7bba0.1920x1080.jpg?t=1793357371",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_1c259124af42a61aeb2a598cfa404101a31c6500.1920x1080.jpg?t=1793357371",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_60abc3b7e0a95773cadb8ac7c27a8c72312d8959.1920x1080.jpg?t=1793357371",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_7e673efebb8f03020b770c39017064b3d6c6bc87.1920x1080.jpg?t=1793357371"
       ],
       "movies": [
         {
@@ -2207,7 +2207,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 45274,
+      "recommendations_total": 45287,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2234,7 +2234,7 @@
         "Anime",
         "Simulation"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "育成シミュレーション"
     },
@@ -2306,7 +2306,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 10563,
+      "recommendations_total": 10564,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2333,7 +2333,7 @@
         "Adventure",
         "Pixel Graphics"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "推理アドベンチャー"
     },
@@ -2458,7 +2458,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 25304,
+      "recommendations_total": 25309,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2485,7 +2485,7 @@
         "Adventure",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "資源管理サバイバルRPG"
     },
@@ -2581,7 +2581,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 252680,
+      "recommendations_total": 252694,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2608,7 +2608,7 @@
         "Indie",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ローグライクサバイバル"
     },
@@ -2687,7 +2687,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 33952,
+      "recommendations_total": 33955,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2714,7 +2714,7 @@
         "LGBTQ+",
         "Choices Matter"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "サイバーパンクバーテンダーADV"
     },
@@ -2791,7 +2791,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 1144,
+      "recommendations_total": 1145,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2818,7 +2818,7 @@
         "Relaxing",
         "Futuristic"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ファミレスADV"
     },
@@ -2911,7 +2911,7 @@
         }
       ],
       "demo_appid": 1905120,
-      "recommendations_total": 14770,
+      "recommendations_total": 14772,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -2939,7 +2939,7 @@
         "Mystery",
         "Point & Click"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "協力型パズルADV"
     },
@@ -3012,7 +3012,7 @@
         }
       ],
       "demo_appid": 4334900,
-      "recommendations_total": 1802,
+      "recommendations_total": 1805,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -3039,7 +3039,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "ギルド探求団へようこそ！ - やるのだ、いますぐ",
       "comment": "推理パズル"
@@ -3123,7 +3123,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 24293,
+      "recommendations_total": 24297,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -3150,7 +3150,7 @@
         "Comedy",
         "Casual"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "メタパズルADV"
     },
@@ -3246,7 +3246,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "論理パズルローグライク"
     },
@@ -3352,7 +3352,7 @@
         "Exploration",
         "Comedy"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "メタRPGバグアドベンチャー"
     },
@@ -3439,7 +3439,7 @@
         }
       ],
       "demo_appid": 3369090,
-      "recommendations_total": 30775,
+      "recommendations_total": 30794,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -3467,7 +3467,7 @@
         "LGBTQ+",
         "Sexual Content"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "魔法少女×裁判ADV"
     },
@@ -3549,7 +3549,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 222967,
+      "recommendations_total": 223023,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -3576,7 +3576,7 @@
         "Moddable",
         "Dragons"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "オープンワールドRPG"
     },
@@ -3665,7 +3665,7 @@
         "Singleplayer",
         "Moddable"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ターン制文明シミュレーション"
     },
@@ -3743,7 +3743,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 33492,
+      "recommendations_total": 33506,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -3770,7 +3770,7 @@
         "Simulation",
         "Cute"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "農場シミュレーションRPG"
     },
@@ -3903,7 +3903,7 @@
         "Cozy",
         "3D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "アバター集中タイマー"
@@ -3995,7 +3995,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 141720,
+      "recommendations_total": 141742,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4022,7 +4022,7 @@
         "Difficult",
         "Turn-Based"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ゴシックダンジョンRPG"
     },
@@ -4147,7 +4147,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 291839,
+      "recommendations_total": 291860,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4174,7 +4174,7 @@
         "Atmospheric",
         "Shooter"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ポストアポカリプスRPG"
     },
@@ -4285,7 +4285,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 824172,
+      "recommendations_total": 824295,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4314,7 +4314,7 @@
         "Action",
         "Survival"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "Co-opゾンビFPS"
     },
@@ -4403,7 +4403,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 80338,
+      "recommendations_total": 80359,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4430,7 +4430,7 @@
         "Multiple Endings",
         "Hand-drawn"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "心理ホラーRPG"
     },
@@ -4479,9 +4479,9 @@
       "release_date": "2016年12月8日",
       "is_free": false,
       "price_initial": 99800,
-      "price_final": 99800,
-      "discount_percent": 0,
-      "price_formatted": "¥ 998",
+      "price_final": 59800,
+      "discount_percent": 40,
+      "price_formatted": "¥ 598",
       "currency": "JPY",
       "metacritic_score": 80,
       "platforms": {
@@ -4507,7 +4507,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 59880,
+      "recommendations_total": 59886,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4534,7 +4534,7 @@
         "Puzzle",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "メタナラティブADV"
     },
@@ -4641,7 +4641,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 5881,
+      "recommendations_total": 5883,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4669,7 +4669,7 @@
         "Simulation",
         "Local Multiplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "協力クッキングアクション"
     },
@@ -4755,7 +4755,7 @@
         }
       ],
       "demo_appid": 410,
-      "recommendations_total": 175294,
+      "recommendations_total": 175318,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -4783,7 +4783,7 @@
         "Comedy",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ポータルパズルFPS"
     },
@@ -4979,7 +4979,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 392526,
+      "recommendations_total": 392558,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -5007,7 +5007,7 @@
         "Puzzle Platformer",
         "Funny"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ポータルパズルFPS"
     },
@@ -5132,7 +5132,7 @@
         "Relaxing",
         "Building"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ボクセル農場シミュレーション"
     },
@@ -5233,7 +5233,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 13848,
+      "recommendations_total": 13849,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -5262,7 +5262,7 @@
         "Local Multiplayer",
         "Action"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "協力線路敷設アクション"
     },
@@ -5366,7 +5366,7 @@
         "Post-apocalyptic",
         "Agriculture"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "終末レストランADV"
     },
@@ -5472,7 +5472,7 @@
         "City Builder",
         "2D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ハンバーガー経営シミュレーション"
     },
@@ -5600,7 +5600,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 760159,
+      "recommendations_total": 760230,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -5627,7 +5627,7 @@
         "CRPG",
         "Fantasy"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "大型RPG"
     },
@@ -5730,7 +5730,7 @@
         "Life Sim",
         "Sandbox"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "竜の背中で村運営シミュレーション"
     },
@@ -5839,7 +5839,7 @@
         }
       ],
       "demo_appid": 452280,
-      "recommendations_total": 197050,
+      "recommendations_total": 197078,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -5867,7 +5867,7 @@
         "Multiplayer",
         "Survival"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "工場自動化シミュレーション"
     },
@@ -5959,7 +5959,7 @@
         "Lore-Rich",
         "Story Rich"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "謎解きADV"
     },
@@ -6062,7 +6062,7 @@
         "Dark Humor",
         "Walking Simulator"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "フリーゲーム"
     },
@@ -6160,7 +6160,7 @@
         "Dark Comedy",
         "Dystopian "
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "わんわんフリーゲーム"
     },
@@ -6283,7 +6283,7 @@
         "Character Customization",
         "Casual"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "デスクトップ猫"
     },
@@ -6361,7 +6361,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 21562,
+      "recommendations_total": 21568,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -6388,7 +6388,7 @@
         "2D",
         "Indie"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "ドット絵エディタ"
@@ -6482,7 +6482,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 2004,
+      "recommendations_total": 2005,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -6509,7 +6509,7 @@
         "Party-Based RPG",
         "Top-Down"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "RPG制作ツール"
@@ -6619,7 +6619,7 @@
         "2D",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "RPG制作ツール"
@@ -6697,7 +6697,7 @@
         }
       ],
       "demo_appid": 3550820,
-      "recommendations_total": 3645,
+      "recommendations_total": 3647,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -6724,7 +6724,7 @@
         "Relaxing",
         "Indie"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "Lo-Fiデスクトップカスタマイズ"
@@ -6801,7 +6801,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 1176,
+      "recommendations_total": 1178,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -6828,7 +6828,7 @@
         "Utilities",
         "Software"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "表情アニメーション作成"
@@ -6933,7 +6933,7 @@
         "Anime",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "tool": true,
       "comment": "3D RPG制作ツール"
@@ -7027,7 +7027,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 36039,
+      "recommendations_total": 36048,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7054,7 +7054,7 @@
         "Singleplayer",
         "Crime"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "法廷バトルADV"
     },
@@ -7143,7 +7143,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 5152,
+      "recommendations_total": 5155,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7170,7 +7170,7 @@
         "3D",
         "Story Rich"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "明治時代の法廷バトルADV"
     },
@@ -7251,7 +7251,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 37180,
+      "recommendations_total": 37190,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7278,7 +7278,7 @@
         "Singleplayer",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "学級裁判デスゲームADV"
     },
@@ -7359,7 +7359,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 31463,
+      "recommendations_total": 31464,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7386,7 +7386,7 @@
         "Singleplayer",
         "Psychological Horror"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "学級裁判デスゲームADV続編"
     },
@@ -7461,7 +7461,7 @@
         }
       ],
       "demo_appid": 589120,
-      "recommendations_total": 22300,
+      "recommendations_total": 22307,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7488,7 +7488,7 @@
         "Great Soundtrack",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "学級裁判デスゲームADV完結編"
     },
@@ -7595,7 +7595,7 @@
         "Singleplayer",
         "Visual Novel"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "死者の魂で運命を変えるADV"
     },
@@ -7669,7 +7669,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 32800,
+      "recommendations_total": 32820,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -7696,7 +7696,7 @@
         "Indie",
         "Great Soundtrack"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "死因推理ADV"
     },
@@ -7810,7 +7810,7 @@
         "Cute",
         "Isometric"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "七福神マルチエンディングADV"
     },
@@ -7909,7 +7909,7 @@
         "2D",
         "Cute"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "街づくりパズル体験版"
     },
@@ -7998,7 +7998,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 277880,
+      "recommendations_total": 277938,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8025,7 +8025,7 @@
         "Character Customization",
         "Exploration"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "魔法学校オープンワールドRPG"
     },
@@ -8135,7 +8135,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 38262,
+      "recommendations_total": 38266,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8162,7 +8162,7 @@
         "Indie",
         "2D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "錬金術シミュレーション"
     },
@@ -8238,7 +8238,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 57423,
+      "recommendations_total": 57419,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8266,7 +8266,7 @@
         "Indie",
         "Online Co-Op"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ゆる釣りマルチプレイ"
     },
@@ -8345,7 +8345,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 60023,
+      "recommendations_total": 60036,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8372,7 +8372,7 @@
         "Exploration",
         "First-Person"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "名作オープンワールドRPGリマスター"
     },
@@ -8442,7 +8442,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 1523,
+      "recommendations_total": 1527,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8469,7 +8469,7 @@
         "2D",
         "Solitaire"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "ワンターン制デッキ構築ローグライト"
     },
@@ -8567,7 +8567,7 @@
         "Retro",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "高難度ダンジョンアクション"
     },
@@ -8659,7 +8659,7 @@
         }
       ],
       "demo_appid": 1678010,
-      "recommendations_total": 9927,
+      "recommendations_total": 9930,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8686,7 +8686,7 @@
         "Story Rich",
         "2D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "featured": true,
       "comment": "推理ワード穴埋めミステリー"
@@ -8789,7 +8789,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 51283,
+      "recommendations_total": 51303,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -8816,7 +8816,7 @@
         "RPG",
         "Funny"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "猫ローグライク育成RPG"
     },
@@ -8917,7 +8917,7 @@
         "Text-Based",
         "Story Rich"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "捜査資料を読む法廷ミステリー"
     },
@@ -9032,7 +9032,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 23641,
+      "recommendations_total": 23642,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -9061,7 +9061,7 @@
         "Difficult",
         "Female Protagonist"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "リズムで潜るローグライク"
     },
@@ -9074,8 +9074,8 @@
       "short_description_ja": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
       "short_description_en": "Save patients with your rhythm mastery! Rhythm Doctor is a rhythm game where you heal patients by defibrillating in time to their heartbeats. Learn each patient's unique heartbeat and defeat boss viruses trying to sabotage your rhythm, all set to heart-pumping, soul-soothing music.",
       "short_description": "リズム感で患者を救え！ Rhythm Doctorは、研修医であるあなたが、様々な患者の心拍に合わせて治療を行うリズムゲームです。 音楽に乗りながら、患者の心臓のユニークなリズムを聞き分け、ボスステージで、治療を妨害してくるウイルスを退治しましょう。",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1786548815",
-      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1786548815",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg?t=1793376386",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg?t=1793376386",
       "developers": [
         "7th Beat Games"
       ],
@@ -9140,11 +9140,11 @@
       "supported_languages": "英語<strong>*</strong>, 中国語（簡体字）<strong>*</strong>, 中国語（繁体字）<strong>*</strong>, 韓国語, スペイン語－ラテンアメリカ, ポルトガル語－ブラジル, 日本語, ドイツ語, ポーランド語, フランス語<br><strong>*</strong>フル音声対応言語",
       "website": "https://rhythmdr.com/",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1786548815",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1786548815",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1786548815",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1786548815",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1786548815"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1793376386",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1793376386",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1793376386",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1793376386",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1793376386"
       ],
       "movies": [
         {
@@ -9167,7 +9167,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 25198,
+      "recommendations_total": 25201,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -9195,7 +9195,7 @@
         "Singleplayer",
         "Local Co-Op"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "1ボタン心拍リズムアクション"
     },
@@ -9291,7 +9291,7 @@
         "Collectathon",
         "Story Rich"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": true,
       "article_title": "［DE:］Fanastasis - 隠し通路の数は、君が思っている２０倍はある",
       "comment": "隠し通路だらけの探索RPG"
@@ -9378,7 +9378,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 5268,
+      "recommendations_total": 5269,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -9406,7 +9406,7 @@
         "Cute",
         "Story Rich"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "探索2Dアクションの名作"
     },
@@ -9503,7 +9503,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 51052,
+      "recommendations_total": 51063,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -9531,7 +9531,7 @@
         "Crafting",
         "Co-op"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "協力型採掘サンドボックス"
     },
@@ -9609,7 +9609,7 @@
         }
       ],
       "demo_appid": null,
-      "recommendations_total": 2300,
+      "recommendations_total": 2315,
       "total_reviews": 0,
       "total_positive": 0,
       "total_negative": 0,
@@ -9636,7 +9636,7 @@
         "Investigation",
         "2D"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "死因特定ミステリー"
     },
@@ -9737,7 +9737,7 @@
         "Cats",
         "Singleplayer"
       ],
-      "fetched_at": "2026-10-30T07:52:51.942520+09:00",
+      "fetched_at": "2026-10-31T07:31:03.978446+09:00",
       "has_article": false,
       "comment": "猫を呼び出すアドベンチャー"
     }
