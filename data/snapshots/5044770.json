@@ -72,7 +72,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 2315,
+  "recommendations_total": 2331,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -83,8 +83,8 @@
     "ミステリー",
     "パズル",
     "アドベンチャー",
-    "カジュアル",
     "物語性",
+    "カジュアル",
     "インディー",
     "調査",
     "2D"
@@ -93,11 +93,11 @@
     "Mystery",
     "Puzzle",
     "Adventure",
-    "Casual",
     "Story Rich",
+    "Casual",
     "Indie",
     "Investigation",
     "2D"
   ],
-  "fetched_at": "2026-10-31T07:31:03.978446+09:00"
+  "fetched_at": "2026-11-01T06:45:47.205738+09:00"
 }
