@@ -40,9 +40,9 @@
   "release_date": "2018年10月18日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 154100,
-  "discount_percent": 33,
-  "price_formatted": "¥ 1,541",
+  "price_final": 230000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,300",
   "currency": "JPY",
   "metacritic_score": 89,
   "platforms": {
@@ -68,7 +68,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 32854,
+  "recommendations_total": 32872,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -95,5 +95,5 @@
     "Indie",
     "Great Soundtrack"
   ],
-  "fetched_at": "2026-11-02T07:13:45.765765+09:00"
+  "fetched_at": "2026-11-03T10:05:51.361356+09:00"
 }

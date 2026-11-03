@@ -7,8 +7,8 @@
   "short_description_ja": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
   "short_description_en": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
   "short_description": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/71f6989b1a20b121d7ad64e1191fb65a9520c498/header.jpg?t=1786374001",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/2dcd55f8da5c86769acbf39a25ddc50423046df9/capsule_231x87.jpg?t=1786374001",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/71f6989b1a20b121d7ad64e1191fb65a9520c498/header.jpg?t=1793622874",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/2dcd55f8da5c86769acbf39a25ddc50423046df9/capsule_231x87.jpg?t=1793622874",
   "developers": [
     "Color Gray Games"
   ],
@@ -53,11 +53,11 @@
   "supported_languages": "英語<strong>*</strong>, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, スペイン語－ラテンアメリカ, 中国語（繁体字）, トルコ語<br><strong>*</strong>フル音声対応言語",
   "website": "https://www.thegoldenidol.com/",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_d817a8158f79e7881241f0d4470cd010f2fbe44f.1920x1080.jpg?t=1786374001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_e9593cf60f8e7fd96d205f5be6b45a487365fa29.1920x1080.jpg?t=1786374001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_ca307de7f24032327368d7d1718833331e481cc8.1920x1080.jpg?t=1786374001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_14f8ca6a582b71760770efdfac6cb38f7fcf4a98.1920x1080.jpg?t=1786374001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_003c853ecd98156ac5cc7378c16385fe5a677efd.1920x1080.jpg?t=1786374001"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_d817a8158f79e7881241f0d4470cd010f2fbe44f.1920x1080.jpg?t=1793622874",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_e9593cf60f8e7fd96d205f5be6b45a487365fa29.1920x1080.jpg?t=1793622874",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_ca307de7f24032327368d7d1718833331e481cc8.1920x1080.jpg?t=1793622874",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_14f8ca6a582b71760770efdfac6cb38f7fcf4a98.1920x1080.jpg?t=1793622874",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_003c853ecd98156ac5cc7378c16385fe5a677efd.1920x1080.jpg?t=1793622874"
   ],
   "movies": [
     {
@@ -86,7 +86,7 @@
     }
   ],
   "demo_appid": 1678010,
-  "recommendations_total": 9936,
+  "recommendations_total": 9937,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -113,5 +113,5 @@
     "Story Rich",
     "2D"
   ],
-  "fetched_at": "2026-11-02T07:13:45.765765+09:00"
+  "fetched_at": "2026-11-03T10:05:51.361356+09:00"
 }
