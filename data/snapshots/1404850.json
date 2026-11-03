@@ -89,32 +89,14 @@
     }
   ],
   "demo_appid": 1439770,
-  "recommendations_total": 10263,
+  "recommendations_total": 10264,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
   "review_score_desc": "",
   "slug": "luck-be-a-landlord",
   "recommend": "all",
-  "tags_ja": [
-    "ローグライクデッキ構築",
-    "デッキ構築",
-    "ローグライト",
-    "ストラテジー",
-    "自動生成",
-    "ドット絵",
-    "シミュレーション",
-    "ローグライク"
-  ],
-  "tags_en": [
-    "Roguelike Deckbuilder",
-    "Deckbuilding",
-    "Roguelite",
-    "Strategy",
-    "Procedural Generation",
-    "Pixel Graphics",
-    "Simulation",
-    "Roguelike"
-  ],
-  "fetched_at": "2026-11-03T10:05:51.361356+09:00"
+  "tags_ja": [],
+  "tags_en": [],
+  "fetched_at": "2026-11-04T08:31:12.396213+09:00"
 }

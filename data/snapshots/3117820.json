@@ -55,9 +55,9 @@
   "release_date": "2025年3月30日",
   "is_free": false,
   "price_initial": 280000,
-  "price_final": 280000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,800",
+  "price_final": 224000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 2,240",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -119,7 +119,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 25326,
+  "recommendations_total": 25330,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -146,5 +146,5 @@
     "Adventure",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-11-03T10:05:51.361356+09:00"
+  "fetched_at": "2026-11-04T08:31:12.396213+09:00"
 }
