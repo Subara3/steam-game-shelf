@@ -96,7 +96,25 @@
   "review_score_desc": "",
   "slug": "luck-be-a-landlord",
   "recommend": "all",
-  "tags_ja": [],
-  "tags_en": [],
-  "fetched_at": "2026-11-04T08:31:12.396213+09:00"
+  "tags_ja": [
+    "ローグライクデッキ構築",
+    "デッキ構築",
+    "ローグライト",
+    "ストラテジー",
+    "自動生成",
+    "ドット絵",
+    "シミュレーション",
+    "ローグライク"
+  ],
+  "tags_en": [
+    "Roguelike Deckbuilder",
+    "Deckbuilding",
+    "Roguelite",
+    "Strategy",
+    "Procedural Generation",
+    "Pixel Graphics",
+    "Simulation",
+    "Roguelike"
+  ],
+  "fetched_at": "2026-11-05T08:48:36.724044+09:00"
 }
