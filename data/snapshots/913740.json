@@ -7,8 +7,8 @@
   "short_description_ja": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
   "short_description_en": "Experience the quiet terror of this 1-bit love letter to Junji Ito and H.P. Lovecraft. Navigate a hellish roguelite reality with turn-based combat and unforgiving choices. Experiment with your deck of event cards to discover new forms of cosmic horror in every playthrough. The inevitable awaits...",
   "short_description": "怪異とのバトル、そして容赦のない選択肢が紡ぎ出す、地獄のようなローグライトRPG。本作は、伊藤潤二氏とH.P. Lovecraft氏へ捧げる1ビットのラブレターである。プレイするたび変化する悪夢のような出会いが、不可解な事件を解き明かすカギとなる。謎の先に待つものは…",
-  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/header.jpg?t=1793877956",
-  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/capsule_231x87.jpg?t=1793877956",
+  "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/header.jpg?t=1793976560",
+  "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/capsule_231x87.jpg?t=1793976560",
   "developers": [
     "panstasz"
   ],
@@ -30,6 +30,8 @@
   ],
   "categories": [
     "シングルプレイヤー",
+    "Steam実績",
+    "Steamクラウド",
     "ファミリーシェアリング"
   ],
   "release_date_ja": "2023年10月19日",
@@ -50,11 +52,11 @@
   "supported_languages": "英語, フランス語, ドイツ語, 日本語, 韓国語, 中国語（簡体字）, 中国語（繁体字）",
   "website": "http://www.wohgame.com",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_50eac0c3847c1271b26ef7ea0eff5058f7039e92.1920x1080.jpg?t=1793877956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_6fa2df4be267b3745a5c7c28982f915990005761.1920x1080.jpg?t=1793877956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_ac817793b1dcd26fd00c7c480c64ca367bef9748.1920x1080.jpg?t=1793877956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_31e90f36d34e70bf624afa71f5e4b9097a97db56.1920x1080.jpg?t=1793877956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_b9c83048db4c11667849f28ba940d43c9b5a100c.1920x1080.jpg?t=1793877956"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_50eac0c3847c1271b26ef7ea0eff5058f7039e92.1920x1080.jpg?t=1793976560",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_6fa2df4be267b3745a5c7c28982f915990005761.1920x1080.jpg?t=1793976560",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_ac817793b1dcd26fd00c7c480c64ca367bef9748.1920x1080.jpg?t=1793976560",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_31e90f36d34e70bf624afa71f5e4b9097a97db56.1920x1080.jpg?t=1793976560",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913740/ss_b9c83048db4c11667849f28ba940d43c9b5a100c.1920x1080.jpg?t=1793976560"
   ],
   "movies": [
     {
@@ -71,7 +73,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9077,
+  "recommendations_total": 9085,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -98,5 +100,5 @@
     "Roguelite",
     "Difficult"
   ],
-  "fetched_at": "2026-11-06T08:44:35.756048+09:00"
+  "fetched_at": "2026-11-07T08:19:58.465575+09:00"
 }
