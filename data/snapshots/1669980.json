@@ -67,9 +67,22 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_60abc3b7e0a95773cadb8ac7c27a8c72312d8959.1920x1080.jpg?t=1793357371",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669980/ss_7e673efebb8f03020b770c39017064b3d6c6bc87.1920x1080.jpg?t=1793357371"
   ],
-  "movies": [],
+  "movies": [
+    {
+      "name": "FINAL_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942173/fd7734a1391a87013aeb5c37123bd892f708ed64/movie_600x337.jpg?t=1741928189",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
+      "name": "Trailer 02_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917946/movie.293x165.jpg?t=1741928196",
+      "url_480": "",
+      "url_max": ""
+    }
+  ],
   "demo_appid": null,
-  "recommendations_total": 45425,
+  "recommendations_total": 45429,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -96,5 +109,5 @@
     "Anime",
     "Simulation"
   ],
-  "fetched_at": "2026-11-10T10:39:57.665472+09:00"
+  "fetched_at": "2026-11-11T08:36:05.211355+09:00"
 }

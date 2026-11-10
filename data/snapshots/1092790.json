@@ -63,6 +63,12 @@
   ],
   "movies": [
     {
+      "name": "Inscryption - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795106/movie.293x165.jpg?t=1597161792",
+      "url_480": "",
+      "url_max": ""
+    },
+    {
       "name": "Release Date Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852985/movie.293x165.jpg?t=1711536013",
       "url_480": "",
@@ -70,7 +76,7 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 136354,
+  "recommendations_total": 136380,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -97,5 +103,5 @@
     "Roguelike",
     "Puzzle"
   ],
-  "fetched_at": "2026-11-10T10:39:57.665472+09:00"
+  "fetched_at": "2026-11-11T08:36:05.211355+09:00"
 }

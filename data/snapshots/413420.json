@@ -41,9 +41,9 @@
   "release_date": "2016年4月18日",
   "is_free": false,
   "price_initial": 213800,
-  "price_final": 213800,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,138",
+  "price_final": 85500,
+  "discount_percent": 60,
+  "price_formatted": "¥ 855",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -75,7 +75,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 31542,
+  "recommendations_total": 31548,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -102,5 +102,5 @@
     "Singleplayer",
     "Psychological Horror"
   ],
-  "fetched_at": "2026-11-10T10:39:57.665472+09:00"
+  "fetched_at": "2026-11-11T08:36:05.211355+09:00"
 }
