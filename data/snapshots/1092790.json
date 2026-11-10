@@ -42,9 +42,9 @@
   "release_date": "2021年10月19日",
   "is_free": false,
   "price_initial": 205000,
-  "price_final": 82000,
-  "discount_percent": 60,
-  "price_formatted": "¥ 820",
+  "price_final": 205000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,050",
   "currency": "JPY",
   "metacritic_score": 85,
   "platforms": {
@@ -63,12 +63,6 @@
   ],
   "movies": [
     {
-      "name": "Inscryption - Trailer",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795106/movie.293x165.jpg?t=1597161792",
-      "url_480": "",
-      "url_max": ""
-    },
-    {
       "name": "Release Date Trailer",
       "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852985/movie.293x165.jpg?t=1711536013",
       "url_480": "",
@@ -76,7 +70,7 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 136324,
+  "recommendations_total": 136354,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -103,5 +97,5 @@
     "Roguelike",
     "Puzzle"
   ],
-  "fetched_at": "2026-11-09T07:17:50.964841+09:00"
+  "fetched_at": "2026-11-10T10:39:57.665472+09:00"
 }
