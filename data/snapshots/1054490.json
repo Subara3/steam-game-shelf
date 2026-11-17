@@ -60,9 +60,9 @@
   "release_date": "2020年9月17日",
   "is_free": false,
   "price_initial": 220000,
-  "price_final": 77000,
-  "discount_percent": 65,
-  "price_formatted": "¥ 770",
+  "price_final": 220000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 2,200",
   "currency": "JPY",
   "metacritic_score": 84,
   "platforms": {
@@ -106,7 +106,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 9930,
+  "recommendations_total": 9934,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -133,5 +133,5 @@
     "Wholesome",
     "Casual"
   ],
-  "fetched_at": "2026-11-16T08:00:57.257087+09:00"
+  "fetched_at": "2026-11-17T10:54:54.194278+09:00"
 }
