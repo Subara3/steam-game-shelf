@@ -52,9 +52,9 @@
   "release_date": "2011年11月22日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 148000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,480",
+  "price_final": 118400,
+  "discount_percent": 20,
+  "price_formatted": "¥ 1,184",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -108,5 +108,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-11-17T10:54:54.194278+09:00"
+  "fetched_at": "2026-11-18T10:03:33.930135+09:00"
 }
