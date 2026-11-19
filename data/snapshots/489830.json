@@ -42,9 +42,9 @@
   "release_date": "2016年10月27日",
   "is_free": false,
   "price_initial": 439900,
-  "price_final": 87900,
-  "discount_percent": 80,
-  "price_formatted": "¥ 879",
+  "price_final": 439900,
+  "discount_percent": 0,
+  "price_formatted": "¥ 4,399",
   "currency": "JPY",
   "metacritic_score": 74,
   "platforms": {
@@ -76,7 +76,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 224435,
+  "recommendations_total": 224533,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -103,5 +103,5 @@
     "Moddable",
     "Dragons"
   ],
-  "fetched_at": "2026-11-18T10:03:33.930135+09:00"
+  "fetched_at": "2026-11-19T09:35:51.127806+09:00"
 }

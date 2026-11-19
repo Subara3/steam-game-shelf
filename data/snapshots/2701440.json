@@ -50,9 +50,9 @@
   "release_date": "2026年2月19日",
   "is_free": false,
   "price_initial": 248000,
-  "price_final": 248000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,480",
+  "price_final": 161200,
+  "discount_percent": 35,
+  "price_formatted": "¥ 1,612",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -105,5 +105,5 @@
     "Gore",
     "Violent"
   ],
-  "fetched_at": "2026-11-18T10:03:33.930135+09:00"
+  "fetched_at": "2026-11-19T09:35:51.127806+09:00"
 }

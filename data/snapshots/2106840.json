@@ -49,9 +49,9 @@
   "release_date": "2023年3月8日",
   "is_free": false,
   "price_initial": 198000,
-  "price_final": 198000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,980",
+  "price_final": 99000,
+  "discount_percent": 50,
+  "price_formatted": "¥ 990",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -110,5 +110,5 @@
     "Supernatural",
     "Hand-drawn"
   ],
-  "fetched_at": "2026-11-18T10:03:33.930135+09:00"
+  "fetched_at": "2026-11-19T09:35:51.127806+09:00"
 }

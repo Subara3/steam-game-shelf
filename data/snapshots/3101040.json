@@ -68,8 +68,8 @@
   ],
   "movies": [
     {
-      "name": "オープニングムービー",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121928/9e44aa6d4eb780772d3749d6e0e59e118a7c31b9/movie_600x337.jpg?t=1743953134",
+      "name": "Opening Movie SC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121924/6b681231153294a7621010f646b12395e95ddf42/movie_600x337.jpg?t=1743953132",
       "url_480": "",
       "url_max": ""
     },
@@ -81,7 +81,7 @@
     }
   ],
   "demo_appid": 3369090,
-  "recommendations_total": 30988,
+  "recommendations_total": 30995,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -109,5 +109,5 @@
     "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-11-18T10:03:33.930135+09:00"
+  "fetched_at": "2026-11-19T09:35:51.127806+09:00"
 }
