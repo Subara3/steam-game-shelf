@@ -48,9 +48,9 @@
   "release_date": "2025年4月30日",
   "is_free": false,
   "price_initial": 138000,
-  "price_final": 138000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 1,380",
+  "price_final": 82800,
+  "discount_percent": 40,
+  "price_formatted": "¥ 828",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -100,7 +100,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 4978,
+  "recommendations_total": 4982,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -127,5 +127,5 @@
     "Cozy",
     "3D"
   ],
-  "fetched_at": "2026-11-19T09:35:51.127806+09:00"
+  "fetched_at": "2026-11-20T09:43:55.903777+09:00"
 }
