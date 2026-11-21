@@ -54,9 +54,9 @@
   "release_date": "2022年8月4日",
   "is_free": false,
   "price_initial": 230000,
-  "price_final": 230000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 2,300",
+  "price_final": 57500,
+  "discount_percent": 75,
+  "price_formatted": "¥ 575",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -82,7 +82,7 @@
     }
   ],
   "demo_appid": 1755940,
-  "recommendations_total": 19305,
+  "recommendations_total": 19311,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -110,5 +110,5 @@
     "Roguelike",
     "Cute"
   ],
-  "fetched_at": "2026-11-21T09:03:32.713536+09:00"
+  "fetched_at": "2026-11-22T08:29:59.099236+09:00"
 }
