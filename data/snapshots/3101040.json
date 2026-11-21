@@ -47,9 +47,9 @@
   "release_date": "2025年7月18日",
   "is_free": false,
   "price_initial": 350000,
-  "price_final": 350000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,500",
+  "price_final": 280000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 2,800",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -81,7 +81,7 @@
     }
   ],
   "demo_appid": 3369090,
-  "recommendations_total": 31008,
+  "recommendations_total": 31012,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -109,5 +109,5 @@
     "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-11-20T09:43:55.903777+09:00"
+  "fetched_at": "2026-11-21T09:03:32.713536+09:00"
 }
