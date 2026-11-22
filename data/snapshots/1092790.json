@@ -76,7 +76,7 @@
     }
   ],
   "demo_appid": 1753260,
-  "recommendations_total": 136640,
+  "recommendations_total": 136670,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -89,8 +89,8 @@
     "物語性",
     "デッキ構築",
     "ホラー",
-    "ダーク",
     "ローグライク",
+    "ダーク",
     "パズル"
   ],
   "tags_en": [
@@ -99,9 +99,9 @@
     "Story Rich",
     "Deckbuilding",
     "Horror",
-    "Dark",
     "Roguelike",
+    "Dark",
     "Puzzle"
   ],
-  "fetched_at": "2026-11-22T08:29:59.099236+09:00"
+  "fetched_at": "2026-11-23T08:41:08.360942+09:00"
 }
