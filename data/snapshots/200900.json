@@ -52,9 +52,9 @@
   "release_date": "2011年11月22日",
   "is_free": false,
   "price_initial": 148000,
-  "price_final": 118400,
-  "discount_percent": 20,
-  "price_formatted": "¥ 1,184",
+  "price_final": 148000,
+  "discount_percent": 0,
+  "price_formatted": "¥ 1,480",
   "currency": "JPY",
   "metacritic_score": 83,
   "platforms": {
@@ -80,7 +80,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5287,
+  "recommendations_total": 5289,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -108,5 +108,5 @@
     "Cute",
     "Story Rich"
   ],
-  "fetched_at": "2026-11-23T08:41:08.360942+09:00"
+  "fetched_at": "2026-11-24T12:59:38.588137+09:00"
 }

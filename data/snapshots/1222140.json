@@ -40,9 +40,9 @@
   "release_date": "2020年6月18日",
   "is_free": false,
   "price_initial": 450000,
-  "price_final": 450000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,500",
+  "price_final": 45000,
+  "discount_percent": 90,
+  "price_formatted": "¥ 450",
   "currency": "JPY",
   "metacritic_score": 80,
   "platforms": {
@@ -68,7 +68,7 @@
     }
   ],
   "demo_appid": 1224230,
-  "recommendations_total": 233403,
+  "recommendations_total": 233512,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -95,5 +95,5 @@
     "Robots",
     "Futuristic"
   ],
-  "fetched_at": "2026-11-23T08:41:08.360942+09:00"
+  "fetched_at": "2026-11-24T12:59:38.588137+09:00"
 }

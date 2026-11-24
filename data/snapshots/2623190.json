@@ -45,9 +45,9 @@
   "release_date": "2025年4月22日",
   "is_free": false,
   "price_initial": 693000,
-  "price_final": 693000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 6,930",
+  "price_final": 415800,
+  "discount_percent": 40,
+  "price_formatted": "¥ 4,158",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -73,7 +73,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 60233,
+  "recommendations_total": 60244,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -100,5 +100,5 @@
     "Exploration",
     "First-Person"
   ],
-  "fetched_at": "2026-11-23T08:41:08.360942+09:00"
+  "fetched_at": "2026-11-24T12:59:38.588137+09:00"
 }
