@@ -68,8 +68,8 @@
   ],
   "movies": [
     {
-      "name": "Opening Movie SC",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121924/6b681231153294a7621010f646b12395e95ddf42/movie_600x337.jpg?t=1743953132",
+      "name": "オープニングムービー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121928/9e44aa6d4eb780772d3749d6e0e59e118a7c31b9/movie_600x337.jpg?t=1743953134",
       "url_480": "",
       "url_max": ""
     },
@@ -81,7 +81,7 @@
     }
   ],
   "demo_appid": 3369090,
-  "recommendations_total": 31069,
+  "recommendations_total": 31080,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -95,8 +95,8 @@
     "かわいい",
     "探偵",
     "ミステリー",
-    "物語性",
     "LGBTQ+",
+    "物語性",
     "性的表現"
   ],
   "tags_en": [
@@ -105,9 +105,9 @@
     "Cute",
     "Detective",
     "Mystery",
-    "Story Rich",
     "LGBTQ+",
+    "Story Rich",
     "Sexual Content"
   ],
-  "fetched_at": "2026-11-24T12:59:38.588137+09:00"
+  "fetched_at": "2026-11-25T11:39:30.404277+09:00"
 }
