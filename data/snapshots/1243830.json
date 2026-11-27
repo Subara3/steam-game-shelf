@@ -55,9 +55,9 @@
   "release_date": "2021年3月23日",
   "is_free": false,
   "price_initial": 410000,
-  "price_final": 410000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 4,100",
+  "price_final": 102500,
+  "discount_percent": 75,
+  "price_formatted": "¥ 1,025",
   "currency": "JPY",
   "metacritic_score": null,
   "platforms": {
@@ -101,7 +101,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 5922,
+  "recommendations_total": 5923,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -129,5 +129,5 @@
     "Simulation",
     "Local Multiplayer"
   ],
-  "fetched_at": "2026-11-26T10:52:30.087623+09:00"
+  "fetched_at": "2026-11-27T10:49:59.008331+09:00"
 }

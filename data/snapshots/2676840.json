@@ -66,7 +66,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 10660,
+  "recommendations_total": 10661,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -78,8 +78,8 @@
     "パズル",
     "インタラクティブフィクション",
     "ビジュアルノベル",
-    "物語性",
     "ポイント＆クリック",
+    "物語性",
     "アドベンチャー",
     "ドット絵"
   ],
@@ -88,10 +88,10 @@
     "Puzzle",
     "Interactive Fiction",
     "Visual Novel",
-    "Story Rich",
     "Point & Click",
+    "Story Rich",
     "Adventure",
     "Pixel Graphics"
   ],
-  "fetched_at": "2026-11-26T10:52:30.087623+09:00"
+  "fetched_at": "2026-11-27T10:49:59.008331+09:00"
 }
