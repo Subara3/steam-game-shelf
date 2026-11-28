@@ -50,9 +50,9 @@
   "release_date": "2018年10月17日",
   "is_free": false,
   "price_initial": 390000,
-  "price_final": 390000,
-  "discount_percent": 0,
-  "price_formatted": "¥ 3,900",
+  "price_final": 312000,
+  "discount_percent": 20,
+  "price_formatted": "¥ 3,120",
   "currency": "JPY",
   "metacritic_score": 87,
   "platforms": {
@@ -78,7 +78,7 @@
     }
   ],
   "demo_appid": null,
-  "recommendations_total": 212450,
+  "recommendations_total": 212532,
   "total_reviews": 0,
   "total_positive": 0,
   "total_negative": 0,
@@ -105,5 +105,5 @@
     "Singleplayer",
     "Moddable"
   ],
-  "fetched_at": "2026-11-27T10:49:59.008331+09:00"
+  "fetched_at": "2026-11-28T10:31:47.041598+09:00"
 }
